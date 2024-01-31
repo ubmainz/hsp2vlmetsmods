@@ -20,28 +20,30 @@
                 <xsl:text>Processing </xsl:text>
                 <xsl:value-of select="base-uri()"/>
             </xsl:message>
-            <xsl:for-each select="//TEI:sourceDesc">
-                <mets:dmdSec ID="{TEI:msDesc/@xml:id}">
-                    <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
-                        <mets:xmlData>
-                            <mods:mods>
-                                <mods:recordInfo>
-                                    <mods:recordIdentifier>
-                                        <xsl:value-of select="TEI:msDesc/@xml:id"/>
-                                    </mods:recordIdentifier>
-                                </mods:recordInfo>
-                                <xsl:apply-templates mode="mods"/>
-                            </mods:mods>
-                        </mets:xmlData>
-                    </mets:mdWrap>
-                </mets:dmdSec>
-            </xsl:for-each>
+            <xsl:apply-templates mode="mods"/>
             <mets:structMap TYPE="logical">
                 <xsl:apply-templates mode="map"/>
             </mets:structMap>
         </mets:mets>
     </xsl:template>
-    
+ 
+    <xsl:template match="TEI:sourceDesc" mode="mods">
+        <mets:dmdSec ID="{TEI:msDesc/@xml:id}">
+            <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+                <mets:xmlData>
+                    <mods:mods>
+                        <mods:recordInfo>
+                            <mods:recordIdentifier>
+                                <xsl:value-of select="TEI:msDesc/@xml:id"/>
+                            </mods:recordIdentifier>
+                        </mods:recordInfo>
+                        <xsl:apply-templates mode="mods"/>
+                    </mods:mods>
+                </mets:xmlData>
+            </mets:mdWrap>
+        </mets:dmdSec> 
+    </xsl:template>
+ 
     <xsl:template match="TEI:index[@indexName='norm_title']" mode="mods">
         <mods:titleInfo>
             <mods:title>
@@ -50,7 +52,7 @@
         </mods:titleInfo> 
     </xsl:template>
     
-    <xsl:template match="//TEI:sourceDesc" mode="map">
+    <xsl:template match="TEI:sourceDesc" mode="map">
         <xsl:message>
             <xsl:text>Found file: </xsl:text>
             <xsl:value-of select="TEI:msDesc/@xml:id"/>
