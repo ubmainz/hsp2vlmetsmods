@@ -24,5 +24,9 @@
          </mets:xmlData>
       </mets:mdWrap>
    </mets:dmdSec>
-   <mets:structMap TYPE="logical"/>
+   <mets:structMap TYPE="logical">
+      <mets:div TYPE="document"
+                DMDID="md-HSP-72e6d96a-187c-3bb5-b899-7c9108fc4e67"
+                LABEL="Handschrift"/>
+   </mets:structMap>
 </mets:mets>

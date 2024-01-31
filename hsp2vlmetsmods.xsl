@@ -50,6 +50,14 @@
         </mods:titleInfo> 
     </xsl:template>
     
+    <xsl:template match="//TEI:fileDesc" mode="map">
+        <xsl:message>
+            <xsl:text>Found file: </xsl:text>
+            <xsl:value-of select="TEI:sourceDesc/TEI:msDesc/@xml:id"/>
+        </xsl:message>
+        <mets:div TYPE="document" DMDID="{concat('md-',TEI:sourceDesc/TEI:msDesc/@xml:id)}" LABEL="Handschrift"/>
+    </xsl:template>
+    
     <xsl:template match="text()" mode="#all"/>
     
 </xsl:stylesheet>
