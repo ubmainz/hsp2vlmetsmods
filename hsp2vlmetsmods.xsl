@@ -54,7 +54,7 @@
     
     <xsl:template match="TEI:sourceDesc" mode="map">
         <xsl:message>
-            <xsl:text>Found file: </xsl:text>
+            <xsl:text>Found: </xsl:text>
             <xsl:value-of select="TEI:msDesc/@xml:id"/>
         </xsl:message>
         <mets:div TYPE="document" DMDID="{concat('md-',TEI:msDesc/@xml:id)}" LABEL="Handschrift"/>
