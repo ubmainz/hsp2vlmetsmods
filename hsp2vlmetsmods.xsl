@@ -20,14 +20,14 @@
                 <xsl:text>Processing </xsl:text>
                 <xsl:value-of select="base-uri()"/>
             </xsl:message>
-            <xsl:for-each select="//TEI:fileDesc">
-                <mets:dmdSec ID="{TEI:sourceDesc/TEI:msDesc/@xml:id}">
+            <xsl:for-each select="//TEI:sourceDesc">
+                <mets:dmdSec ID="{TEI:msDesc/@xml:id}">
                     <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
                         <mets:xmlData>
                             <mods:mods>
                                 <mods:recordInfo>
                                     <mods:recordIdentifier>
-                                        <xsl:value-of select="TEI:sourceDesc/TEI:msDesc/@xml:id"/>
+                                        <xsl:value-of select="TEI:msDesc/@xml:id"/>
                                     </mods:recordIdentifier>
                                 </mods:recordInfo>
                                 <xsl:apply-templates mode="mods"/>
@@ -50,12 +50,12 @@
         </mods:titleInfo> 
     </xsl:template>
     
-    <xsl:template match="//TEI:fileDesc" mode="map">
+    <xsl:template match="//TEI:sourceDesc" mode="map">
         <xsl:message>
             <xsl:text>Found file: </xsl:text>
-            <xsl:value-of select="TEI:sourceDesc/TEI:msDesc/@xml:id"/>
+            <xsl:value-of select="TEI:msDesc/@xml:id"/>
         </xsl:message>
-        <mets:div TYPE="document" DMDID="{concat('md-',TEI:sourceDesc/TEI:msDesc/@xml:id)}" LABEL="Handschrift"/>
+        <mets:div TYPE="document" DMDID="{concat('md-',TEI:msDesc/@xml:id)}" LABEL="Handschrift"/>
     </xsl:template>
     
     <xsl:template match="text()" mode="#all"/>
