@@ -37,6 +37,9 @@
                                 <xsl:value-of select="TEI:msDesc/@xml:id"/>
                             </mods:recordIdentifier>
                         </mods:recordInfo>
+                        <mods:originInfo>
+                            <xsl:apply-templates mode="mods-origininfo"/>
+                        </mods:originInfo>
                         <xsl:apply-templates mode="mods"/>
                     </mods:mods>
                 </mets:xmlData>
@@ -50,6 +53,27 @@
                 <xsl:value-of select="TEI:term[@type='title']"/>
             </mods:title>
         </mods:titleInfo> 
+    </xsl:template>
+    
+    <xsl:template match="TEI:index[@indexName='norm_origDate']" mode="mods-origininfo">
+        <mods:dateIssued>
+            <xsl:value-of select="TEI:term[@type='origDate']"/>
+        </mods:dateIssued>
+        <dateIssued encoding="w3cdtf" point="start" keyDate="yes">
+            <xsl:value-of select="TEI:term[@type='origDate_notBefore']"/>
+        </dateIssued>
+        <dateIssued encoding="w3cdtf" point="end">
+            <xsl:value-of select="TEI:term[@type='origDate_notAfter']"/>
+        </dateIssued>
+    </xsl:template>
+    
+    <xsl:template match="TEI:index[@indexName='norm_origPlace']" mode="mods-origininfo">
+        <mods:place>
+            <mods:placeTerm type="text">
+                <xsl:value-of select="TEI:term[@type='origPlace']"/>
+            </mods:placeTerm>
+        </mods:place>
+
     </xsl:template>
     
     <xsl:template match="TEI:sourceDesc" mode="map">

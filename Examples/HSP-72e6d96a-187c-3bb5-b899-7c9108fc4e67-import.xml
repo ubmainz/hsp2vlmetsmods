@@ -17,6 +17,14 @@
                <mods:recordInfo>
                   <mods:recordIdentifier>HSP-72e6d96a-187c-3bb5-b899-7c9108fc4e67</mods:recordIdentifier>
                </mods:recordInfo>
+               <mods:originInfo>
+                  <mods:place>
+                     <mods:placeTerm type="text">Reichenau</mods:placeTerm>
+                  </mods:place>
+                  <mods:dateIssued>10. Jh., 4. Viertel</mods:dateIssued>
+                  <dateIssued encoding="w3cdtf" point="start" keyDate="yes">0975</dateIssued>
+                  <dateIssued encoding="w3cdtf" point="end">1000</dateIssued>
+               </mods:originInfo>
                <mods:titleInfo>
                   <mods:title>Reichenauer Epistolar des Mainzer Domschatzes</mods:title>
                </mods:titleInfo>

@@ -17,6 +17,14 @@
                <mods:recordInfo>
                   <mods:recordIdentifier>HSP-9cc16af4-51c0-3059-a49d-21582832516a</mods:recordIdentifier>
                </mods:recordInfo>
+               <mods:originInfo>
+                  <mods:place>
+                     <mods:placeTerm type="text">Reichenau (?)</mods:placeTerm>
+                  </mods:place>
+                  <mods:dateIssued>9. Jh., Ende</mods:dateIssued>
+                  <dateIssued encoding="w3cdtf" point="start" keyDate="yes">0886</dateIssued>
+                  <dateIssued encoding="w3cdtf" point="end">0900</dateIssued>
+               </mods:originInfo>
                <mods:titleInfo>
                   <mods:title>Sakramentar von St. Alban</mods:title>
                </mods:titleInfo>

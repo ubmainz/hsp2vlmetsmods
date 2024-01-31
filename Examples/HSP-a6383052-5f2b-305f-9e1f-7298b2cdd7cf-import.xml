@@ -17,6 +17,14 @@
                <mods:recordInfo>
                   <mods:recordIdentifier>HSP-a6383052-5f2b-305f-9e1f-7298b2cdd7cf</mods:recordIdentifier>
                </mods:recordInfo>
+               <mods:originInfo>
+                  <mods:place>
+                     <mods:placeTerm type="text">Mainz</mods:placeTerm>
+                  </mods:place>
+                  <mods:dateIssued>1451</mods:dateIssued>
+                  <dateIssued encoding="w3cdtf" point="start" keyDate="yes">1451</dateIssued>
+                  <dateIssued encoding="w3cdtf" point="end">1451</dateIssued>
+               </mods:originInfo>
                <mods:titleInfo>
                   <mods:title>Liber fundationis vicariarum et altarium von
                                 Liebfrauen in Mainz</mods:title>

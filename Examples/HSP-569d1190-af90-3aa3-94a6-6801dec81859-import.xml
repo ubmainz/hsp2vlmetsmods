@@ -17,6 +17,14 @@
                <mods:recordInfo>
                   <mods:recordIdentifier>HSP-569d1190-af90-3aa3-94a6-6801dec81859</mods:recordIdentifier>
                </mods:recordInfo>
+               <mods:originInfo>
+                  <mods:place>
+                     <mods:placeTerm type="text">Mainz (?) / Lorsch (?) / Worms (?)</mods:placeTerm>
+                  </mods:place>
+                  <mods:dateIssued>um 1000</mods:dateIssued>
+                  <dateIssued encoding="w3cdtf" point="start" keyDate="yes">0980</dateIssued>
+                  <dateIssued encoding="w3cdtf" point="end">1020</dateIssued>
+               </mods:originInfo>
                <mods:titleInfo>
                   <mods:title>Festtagsevangelistar aus St. Stephan in Mainz</mods:title>
                </mods:titleInfo>

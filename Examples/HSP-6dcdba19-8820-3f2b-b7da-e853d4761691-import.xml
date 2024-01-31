@@ -17,6 +17,14 @@
                <mods:recordInfo>
                   <mods:recordIdentifier>HSP-6dcdba19-8820-3f2b-b7da-e853d4761691</mods:recordIdentifier>
                </mods:recordInfo>
+               <mods:originInfo>
+                  <mods:place>
+                     <mods:placeTerm type="text"/>
+                  </mods:place>
+                  <mods:dateIssued>14. Jh.</mods:dateIssued>
+                  <dateIssued encoding="w3cdtf" point="start" keyDate="yes">1301</dateIssued>
+                  <dateIssued encoding="w3cdtf" point="end">1400</dateIssued>
+               </mods:originInfo>
                <mods:titleInfo>
                   <mods:title>Theologische Sammelhandschrift</mods:title>
                </mods:titleInfo>
