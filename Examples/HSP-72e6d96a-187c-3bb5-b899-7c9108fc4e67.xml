@@ -1,0 +1,154 @@
+<?xml version="1.0" standalone="yes"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude"
+    xmlns:dcr="http://www.isocat.org/ns/dcr" xmlns:egXML="http://www.tei-c.org/ns/Examples"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <teiHeader xml:lang="de">
+        <fileDesc>
+            <titleStmt>
+                <title>Kulturobjektdokument von Mainz, Bischöfliches Dom- und Diözesanmuseum Mainz,
+                    Inv. Nr. B 00259</title>
+                <respStmt>
+                    <resp>Herausgegeben vom</resp>
+                    <orgName>Handschriftenportal</orgName>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>Elektronische Ausgabe nach TEI P5</edition>
+                <respStmt>
+                    <resp>Automatisch generierte Ausgabe</resp>
+                    <orgName>Handschriftenportal</orgName>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Handschriftenportal</orgName>
+                    <ptr target="http://www.handschriftenportal.de"/>
+                </publisher>
+                <date when="2023-06-06" type="issued">2023-06-06</date>
+                <distributor>Handschriftenportal</distributor>
+                <availability status="free">
+                    <licence target="https://creativecommons.org/publicdomain/zero/1.0/deed.de">
+                        <p>Lizenziert nach
+                            https://creativecommons.org/publicdomain/zero/1.0/deed.de</p>
+                    </licence>
+                </availability>
+                <pubPlace>
+                    <ptr xml:id="HSP-ddf14569-179b-3ea3-af1a-abf16996bbcb"
+                        target="https://resolver.staatsbibliothek-berlin.de/HSP00064BF600000000"
+                        subtype="hsp" type="purl"/>
+                </pubPlace>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc xml:id="HSP-72e6d96a-187c-3bb5-b899-7c9108fc4e67" xml:lang="de"
+                    type="hsp:object">
+                    <msIdentifier>
+                        <settlement key="NORM-3496da6c-1db0-3522-bedb-1fb4c415a154" ref="4037124-4"
+                            >Mainz</settlement>
+                        <repository key="NORM-4fbca9c5-c7bf-39e4-8336-f120086daca1" ref="2039019-1"
+                            >Bischöfliches Dom- und Diözesanmuseum Mainz</repository>
+                        <idno>Inv. Nr. B 00259</idno>
+                        <altIdentifier type="alternative">
+                            <idno>Cod. Kautzsch 3</idno>
+                        </altIdentifier>
+                        <altIdentifier type="alternative">
+                            <idno>Hs. 972</idno>
+                        </altIdentifier>
+                    </msIdentifier>
+                    <head>
+                        <index indexName="norm_title"
+                            copyOf="#HSP-5c9babb5-081e-310b-a28c-2d95bfebd840"
+                            source="https://resolver.staatsbibliothek-berlin.de/HSP0006742A00000000">
+                            <term type="title">Reichenauer Epistolar des Mainzer Domschatzes</term>
+                        </index>
+                        <index indexName="norm_material"
+                            copyOf="#HSP-5c9babb5-081e-310b-a28c-2d95bfebd840"
+                            source="https://resolver.staatsbibliothek-berlin.de/HSP0006742A00000000">
+                            <term type="material">Pergament</term>
+                            <term type="material_type">parchment</term>
+                        </index>
+                        <index indexName="norm_measure"
+                            copyOf="#HSP-5c9babb5-081e-310b-a28c-2d95bfebd840"
+                            source="https://resolver.staatsbibliothek-berlin.de/HSP0006742A00000000">
+                            <term type="measure">II + 161 + 1 Bl.</term>
+                            <term type="measure_noOfLeaves">162</term>
+                        </index>
+                        <index indexName="norm_dimensions"
+                            copyOf="#HSP-5c9babb5-081e-310b-a28c-2d95bfebd840"
+                            source="https://resolver.staatsbibliothek-berlin.de/HSP0006742A00000000">
+                            <term type="dimensions">23,9 × 17,7</term>
+                            <term type="height">24</term>
+                            <term type="width">17,5</term>
+                            <term type="depth"/>
+                            <term type="dimensions_typeOfInformation">factual</term>
+                        </index>
+                        <index indexName="norm_format"
+                            copyOf="#HSP-5c9babb5-081e-310b-a28c-2d95bfebd840"
+                            source="https://resolver.staatsbibliothek-berlin.de/HSP0006742A00000000">
+                            <term type="format">quarto</term>
+                            <term type="format_typeOfInformation">computed</term>
+                        </index>
+                        <index indexName="norm_origPlace"
+                            copyOf="#HSP-5c9babb5-081e-310b-a28c-2d95bfebd840"
+                            source="https://resolver.staatsbibliothek-berlin.de/HSP0006742A00000000">
+                            <term type="origPlace">Reichenau</term>
+                            <term key="NORM-91a4757d-71c1-38e5-befc-eda01f207cef"
+                                ref="http://d-nb.info/gnd/4460983-8" type="origPlace_norm">Reichenau
+                                (Landkreis Konstanz)</term>
+                        </index>
+                        <index indexName="norm_origDate"
+                            copyOf="#HSP-5c9babb5-081e-310b-a28c-2d95bfebd840"
+                            source="https://resolver.staatsbibliothek-berlin.de/HSP0006742A00000000">
+                            <term type="origDate">10. Jh., 4. Viertel</term>
+                            <term type="origDate_notBefore">0975</term>
+                            <term type="origDate_notAfter">1000</term>
+                            <term type="origDate_type">datable</term>
+                        </index>
+                        <index indexName="norm_textLang">
+                            <term type="textLang"/>
+                            <term type="textLang-ID"/>
+                        </index>
+                        <index indexName="norm_form"
+                            copyOf="#HSP-5c9babb5-081e-310b-a28c-2d95bfebd840"
+                            source="https://resolver.staatsbibliothek-berlin.de/HSP0006742A00000000">
+                            <term type="form">codex</term>
+                        </index>
+                        <index indexName="norm_status">
+                            <term type="status"/>
+                        </index>
+                        <index indexName="norm_decoration"
+                            copyOf="#HSP-5c9babb5-081e-310b-a28c-2d95bfebd840"
+                            source="https://resolver.staatsbibliothek-berlin.de/HSP0006742A00000000">
+                            <term type="decoration">yes</term>
+                        </index>
+                        <index indexName="norm_musicNotation"
+                            copyOf="#HSP-5c9babb5-081e-310b-a28c-2d95bfebd840"
+                            source="https://resolver.staatsbibliothek-berlin.de/HSP0006742A00000000">
+                            <term type="musicNotation">yes</term>
+                        </index>
+                    </head>
+                    <additional>
+                        <adminInfo>
+                            <availability status="free">
+                                <licence
+                                    target="https://creativecommons.org/publicdomain/zero/1.0/deed.de">
+                                    <p>Lizenziert nach
+                                        https://creativecommons.org/publicdomain/zero/1.0/deed.de</p>
+                                </licence>
+                            </availability>
+                        </adminInfo>
+                        <listBibl>
+                            <bibl>
+                                <ref target="HSP-5c9babb5-081e-310b-a28c-2d95bfebd840"/>
+                            </bibl>
+                        </listBibl>
+                    </additional>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p/>
+        </body>
+    </text>
+</TEI>

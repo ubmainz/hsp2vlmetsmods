@@ -1,0 +1,137 @@
+<?xml version="1.0" standalone="yes"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude"
+    xmlns:dcr="http://www.isocat.org/ns/dcr" xmlns:egXML="http://www.tei-c.org/ns/Examples"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <teiHeader xml:lang="de">
+        <fileDesc>
+            <titleStmt>
+                <title>Kulturobjektdokument von Mainz, Bischöfliches Dom- und Diözesanmuseum Mainz,
+                    Inv. Nr. B 00330 Band C</title>
+                <respStmt>
+                    <resp>Herausgegeben vom</resp>
+                    <orgName>Handschriftenportal</orgName>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>Elektronische Ausgabe nach TEI P5</edition>
+                <respStmt>
+                    <resp>Automatisch generierte Ausgabe</resp>
+                    <orgName>Handschriftenportal</orgName>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Handschriftenportal</orgName>
+                    <ptr target="http://www.handschriftenportal.de"/>
+                </publisher>
+                <date when="2023-06-06" type="issued">2023-06-06</date>
+                <distributor>Handschriftenportal</distributor>
+                <availability status="free">
+                    <licence target="https://creativecommons.org/publicdomain/zero/1.0/deed.de">
+                        <p>Lizenziert nach
+                            https://creativecommons.org/publicdomain/zero/1.0/deed.de</p>
+                    </licence>
+                </availability>
+                <pubPlace>
+                    <ptr xml:id="HSP-9d98f49e-2b2b-3e04-8e69-acc796ee5961"
+                        target="https://resolver.staatsbibliothek-berlin.de/HSP00064BFF00000000"
+                        subtype="hsp" type="purl"/>
+                </pubPlace>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc xml:id="HSP-10ceba67-51aa-3834-8507-52ff2e65f9ed" xml:lang="de"
+                    type="hsp:object">
+                    <msIdentifier>
+                        <settlement key="NORM-3496da6c-1db0-3522-bedb-1fb4c415a154" ref="4037124-4"
+                            >Mainz</settlement>
+                        <repository key="NORM-4fbca9c5-c7bf-39e4-8336-f120086daca1" ref="2039019-1"
+                            >Bischöfliches Dom- und Diözesanmuseum Mainz</repository>
+                        <idno>Inv. Nr. B 00330 Band C</idno>
+                        <altIdentifier type="alternative">
+                            <idno>Ms. 977d</idno>
+                        </altIdentifier>
+                    </msIdentifier>
+                    <head>
+                        <index indexName="norm_title"
+                            copyOf="#HSP-af363149-dc34-32ed-978d-5140ce813cbe"
+                            source="https://resolver.staatsbibliothek-berlin.de/HSP0006743400000000">
+                            <term type="title">Antiphonarium Carmelitanum, Bd. 4 von 5 Bänden</term>
+                        </index><index indexName="norm_material"
+                            copyOf="#HSP-af363149-dc34-32ed-978d-5140ce813cbe"
+                            source="https://resolver.staatsbibliothek-berlin.de/HSP0006743400000000">
+                            <term type="material">Pergament</term>
+                            <term type="material_type">parchment</term>
+                        </index><index indexName="norm_measure"
+                            copyOf="#HSP-af363149-dc34-32ed-978d-5140ce813cbe"
+                            source="https://resolver.staatsbibliothek-berlin.de/HSP0006743400000000">
+                            <term type="measure">331 Bl. + I</term>
+                            <term type="measure_noOfLeaves">331</term>
+                        </index><index indexName="norm_dimensions"
+                            copyOf="#HSP-af363149-dc34-32ed-978d-5140ce813cbe"
+                            source="https://resolver.staatsbibliothek-berlin.de/HSP0006743400000000">
+                            <term type="dimensions">61,3 × 41,7</term>
+                            <term type="height">61</term>
+                            <term type="width">41,5</term>
+                            <term type="depth"/>
+                            <term type="dimensions_typeOfInformation">factual</term>
+                        </index><index indexName="norm_format"
+                            copyOf="#HSP-af363149-dc34-32ed-978d-5140ce813cbe"
+                            source="https://resolver.staatsbibliothek-berlin.de/HSP0006743400000000">
+                            <term type="format">larger than folio</term>
+                            <term type="format_typeOfInformation">computed</term>
+                        </index><index indexName="norm_origPlace"
+                            copyOf="#HSP-af363149-dc34-32ed-978d-5140ce813cbe"
+                            source="https://resolver.staatsbibliothek-berlin.de/HSP0006743400000000">
+                            <term type="origPlace">Mainz</term>
+                            <term key="NORM-3496da6c-1db0-3522-bedb-1fb4c415a154"
+                                ref="http://d-nb.info/gnd/4037124-4" type="origPlace_norm"
+                                >Mainz</term>
+                        </index><index indexName="norm_origDate"
+                            copyOf="#HSP-af363149-dc34-32ed-978d-5140ce813cbe"
+                            source="https://resolver.staatsbibliothek-berlin.de/HSP0006743400000000">
+                            <term type="origDate">circa 1433</term>
+                            <term type="origDate_notBefore">1423</term>
+                            <term type="origDate_notAfter">1443</term>
+                            <term type="origDate_type">datable</term>
+                        </index><index indexName="norm_textLang">
+                            <term type="textLang"/>
+                            <term type="textLang-ID"/>
+                        </index><index indexName="norm_form"
+                            copyOf="#HSP-af363149-dc34-32ed-978d-5140ce813cbe"
+                            source="https://resolver.staatsbibliothek-berlin.de/HSP0006743400000000">
+                            <term type="form">codex</term>
+                        </index><index indexName="norm_status">
+                            <term type="status"/>
+                        </index><index indexName="norm_decoration"
+                            copyOf="#HSP-af363149-dc34-32ed-978d-5140ce813cbe"
+                            source="https://resolver.staatsbibliothek-berlin.de/HSP0006743400000000">
+                            <term type="decoration">yes</term>
+                        </index><index indexName="norm_musicNotation"
+                            copyOf="#HSP-af363149-dc34-32ed-978d-5140ce813cbe"
+                            source="https://resolver.staatsbibliothek-berlin.de/HSP0006743400000000">
+                            <term type="musicNotation">yes</term>
+                        </index></head>
+                    <additional>
+                        <adminInfo>
+                            <availability status="free">
+                                <licence
+                                    target="https://creativecommons.org/publicdomain/zero/1.0/deed.de">
+                                    <p>Lizenziert nach
+                                        https://creativecommons.org/publicdomain/zero/1.0/deed.de</p>
+                                </licence>
+                            </availability>
+                        </adminInfo>
+                        <listBibl>
+                            <bibl><ref target="HSP-af363149-dc34-32ed-978d-5140ce813cbe"/></bibl>
+                        </listBibl>
+                    </additional>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p/>
+        </body>
+    </text>
+</TEI>

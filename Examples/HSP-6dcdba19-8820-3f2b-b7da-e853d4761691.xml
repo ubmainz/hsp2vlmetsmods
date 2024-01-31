@@ -1,0 +1,255 @@
+<?xml version="1.0" standalone="yes"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude"
+    xmlns:dcr="http://www.isocat.org/ns/dcr" xmlns:egXML="http://www.tei-c.org/ns/Examples"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <teiHeader xml:lang="de">
+        <fileDesc>
+            <titleStmt>
+                <title>Kulturobjektdokument von Leipzig, Universitätsbibliothek Leipzig, Ms
+                    123</title>
+                <respStmt>
+                    <resp>Herausgegeben vom</resp>
+                    <name type="org">Handschriftenportal</name>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>Elektronische Ausgabe nach TEI P5</edition>
+                <respStmt>
+                    <resp>Automatisch generierte Ausgabe</resp>
+                    <orgName>Handschriftenportal</orgName>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <name type="org">Handschriftenportal</name>
+                    <ptr target="http://www.handschriftenportal.de"/>
+                </publisher>
+                <date when="2022-11-30" type="issued">2022-11-30</date>
+                <distributor>Handschriftenportal</distributor>
+                <availability status="free">
+                    <licence target="https://creativecommons.org/publicdomain/zero/1.0/deed.de">
+                        <p>Für das Kulturobjektdokument verzichtet das Handschriftenportal auf alle
+                            Nutzungsrechte. </p>
+                        <p>Für die Nutzung weiterer Daten wie Digitalisaten gelten gegebenenfalls
+                            andere Lizenzen. Vgl. die <ref
+                                target="http://www.handschriftenportal.de">Copyright Information
+                            </ref> des Handschriftenportals. </p>
+                    </licence>
+                </availability>
+                <pubPlace>
+                    <ptr xml:id="HSP-e9c19224-9573-3fb7-8f7a-e5a9f1fe68d2"
+                        target="https://resolver.staatsbibliothek-berlin.de/HSP000517EC00000000"
+                        subtype="hsp" type="purl"/>
+                </pubPlace>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc xml:id="HSP-6dcdba19-8820-3f2b-b7da-e853d4761691" xml:lang="de"
+                    type="hsp:object">
+                    <msIdentifier>
+                        <settlement key="NORM-4a887b8a-68ac-39b0-8d9d-027bddedb06b" ref="4035206-7"
+                            >Leipzig</settlement>
+                        <repository key="NORM-444a6f1b-4bcb-3fa7-a96d-b6cafe49f0d0" ref="30026-3"
+                            >Universitätsbibliothek Leipzig</repository>
+                        <idno>Ms 123</idno>
+                        <altIdentifier type="alternative">
+                            <idno>Ms.123</idno>
+                        </altIdentifier>
+                        <altIdentifier type="alternative">
+                            <idno>Ms. 123</idno>
+                        </altIdentifier>
+                        <altIdentifier type="alternative">
+                            <idno>Cod. 123</idno>
+                        </altIdentifier>
+                        <altIdentifier type="alternative">
+                            <idno>Hs. 123</idno>
+                        </altIdentifier>
+                        <altIdentifier type="alternative">
+                            <idno>Hs 123</idno>
+                        </altIdentifier>
+                        <altIdentifier type="alternative">
+                            <idno>Cod. Lips. 123</idno>
+                        </altIdentifier>
+                        <altIdentifier type="alternative">
+                            <idno>Ms. lat. 123</idno>
+                        </altIdentifier>
+                        <altIdentifier type="alternative">
+                            <idno>MS 123</idno>
+                        </altIdentifier>
+                        <altIdentifier type="alternative">
+                            <idno>MS. 123</idno>
+                        </altIdentifier>
+                        <altIdentifier type="alternative">
+                            <idno>Lips. 123</idno>
+                        </altIdentifier>
+                        <altIdentifier type="alternative">
+                            <idno>Lipsiensis 123</idno>
+                        </altIdentifier>
+                        <altIdentifier type="alternative">
+                            <idno>Cod. lat. 123</idno>
+                        </altIdentifier>
+                        <altIdentifier type="alternative">
+                            <idno>Ms123</idno>
+                        </altIdentifier>
+                        <altIdentifier type="alternative">
+                            <idno>Cod.123</idno>
+                        </altIdentifier>
+                        <altIdentifier type="alternative">
+                            <idno>Hs123</idno>
+                        </altIdentifier>
+                        <altIdentifier type="alternative">
+                            <idno>Hs.123</idno>
+                        </altIdentifier>
+                        <altIdentifier type="alternative">
+                            <idno>MS123</idno>
+                        </altIdentifier>
+                        <altIdentifier type="alternative">
+                            <idno>MS.123</idno>
+                        </altIdentifier>
+                        <altIdentifier type="alternative">
+                            <idno>Cod.Lips.123</idno>
+                        </altIdentifier>
+                        <altIdentifier type="alternative">
+                            <idno>Ms.lat.123</idno>
+                        </altIdentifier>
+                        <altIdentifier type="alternative">
+                            <idno>Lips.123</idno>
+                        </altIdentifier>
+                        <altIdentifier type="alternative">
+                            <idno>Cod.lat.123</idno>
+                        </altIdentifier>
+                        <altIdentifier type="alternative">
+                            <idno>Lipsiensis123</idno>
+                        </altIdentifier>
+                    </msIdentifier>
+                    <head>
+                        <index indexName="norm_title"
+                            copyOf="#HSP-51027ecb-41dd-33fd-90c2-59991761ee04"
+                            source="https://resolver.staatsbibliothek-berlin.de/HSP0006258D00000000">
+                            <term type="title">Theologische Sammelhandschrift</term>
+                        </index>
+                        <index indexName="norm_material"
+                            copyOf="#HSP-51027ecb-41dd-33fd-90c2-59991761ee04"
+                            source="https://resolver.staatsbibliothek-berlin.de/HSP0006258D00000000">
+                            <term type="material">Pergament</term>
+                            <term type="material_type">parchment</term>
+                        </index>
+                        <index indexName="norm_measure"
+                            copyOf="#HSP-51027ecb-41dd-33fd-90c2-59991761ee04"
+                            source="https://resolver.staatsbibliothek-berlin.de/HSP0006258D00000000">
+                            <term type="measure">299 Bl.</term>
+                            <term type="measure_noOfLeaves">299</term>
+                        </index>
+                        <index indexName="norm_dimensions"
+                            copyOf="#HSP-51027ecb-41dd-33fd-90c2-59991761ee04"
+                            source="https://resolver.staatsbibliothek-berlin.de/HSP0006258D00000000">
+                            <term type="dimensions">18,8 × 13</term>
+                            <term type="height">19</term>
+                            <term type="width">13</term>
+                            <term type="depth"/>
+                            <term type="dimensions_typeOfInformation">factual</term>
+                        </index>
+                        <index indexName="norm_format"
+                            copyOf="#HSP-51027ecb-41dd-33fd-90c2-59991761ee04"
+                            source="https://resolver.staatsbibliothek-berlin.de/HSP0006258D00000000">
+                            <term type="format">octavo</term>
+                            <term type="format_typeOfInformation">computed</term>
+                        </index>
+                        <index indexName="norm_origPlace">
+                            <term type="origPlace"/>
+                            <term type="origPlace_norm"/>
+                        </index>
+                        <index indexName="norm_origDate"
+                            copyOf="#HSP-51027ecb-41dd-33fd-90c2-59991761ee04"
+                            source="https://resolver.staatsbibliothek-berlin.de/HSP0006258D00000000">
+                            <term type="origDate">14. Jh.</term>
+                            <term type="origDate_notBefore">1301</term>
+                            <term type="origDate_notAfter">1400</term>
+                            <term type="origDate_type">datable</term>
+                        </index>
+                        <index indexName="norm_textLang"
+                            copyOf="#HSP-51027ecb-41dd-33fd-90c2-59991761ee04"
+                            source="https://resolver.staatsbibliothek-berlin.de/HSP0006258D00000000">
+                            <term type="textLang">lateinisch</term>
+                            <term type="textLang-ID">la</term>
+                        </index>
+                        <index indexName="norm_form"
+                            copyOf="#HSP-51027ecb-41dd-33fd-90c2-59991761ee04"
+                            source="https://resolver.staatsbibliothek-berlin.de/HSP0006258D00000000">
+                            <term type="form">codex</term>
+                        </index>
+                        <index indexName="norm_status"
+                            copyOf="#HSP-51027ecb-41dd-33fd-90c2-59991761ee04"
+                            source="https://resolver.staatsbibliothek-berlin.de/HSP0006258D00000000">
+                            <term type="status">existent</term>
+                        </index>
+                        <index indexName="norm_decoration">
+                            <term type="decoration"/>
+                        </index>
+                        <index indexName="norm_musicNotation">
+                            <term type="musicNotation"/>
+                        </index>
+                    </head>
+                    <additional>
+                        <adminInfo>
+                            <availability status="free">
+                                <licence
+                                    target="https://creativecommons.org/publicdomain/zero/1.0/deed.de">
+                                    <p>Für das Kulturobjektdokument verzichtet das
+                                        Handschriftenportal auf alle Nutzungsrechte. </p>
+                                    <p>Für die Nutzung weiterer Daten wie Digitalisaten gelten
+                                        gegebenenfalls andere Lizenzen. Vgl. die <ref
+                                            target="http://www.handschriftenportal.de">Copyright
+                                            Information </ref> des Handschriftenportals. </p>
+                                </licence>
+                            </availability>
+                        </adminInfo>
+                        <surrogates>
+                            <bibl>
+                                <idno>HSP-5a88ca19-6353-340a-9ec7-5d05090e65c2</idno>
+                                <ref
+                                    target="https://iiif.ub.uni-leipzig.de/0000035891/manifest.json"
+                                    type="manifest"/>
+                                <ref
+                                    target="https://digital.ub.uni-leipzig.de/object/viewid/0000035891"
+                                    type="other"/>
+                                <ref
+                                    target="https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0358/0000035891/00000007.jpx/full/200,/0/default.jpg"
+                                    type="thumbnail"/>
+                                <ref
+                                    target="https://normdaten.staatsbibliothek-berlin.de/vocabulary/sourceType/original"
+                                    type="sourceType"/>
+                                <ref
+                                    target="https://normdaten.staatsbibliothek-berlin.de/vocabulary/digitizationType/color"
+                                    type="digitizationType"/>
+                                <ref
+                                    target="https://normdaten.staatsbibliothek-berlin.de/vocabulary/captureType/singlePage"
+                                    type="captureType"/>
+                                <ref
+                                    target="https://normdaten.staatsbibliothek-berlin.de/vocabulary/completeness/complete"
+                                    type="completeness"/>
+                                <date when="2017-08-28" type="digitized">28.08.2017</date>
+                                <date when="2023-12-08" type="issued">08.12.2023</date>
+                                <date when="2018-10-09" type="published">09.10.2018</date>
+                                <placeName ref="NORM-4a887b8a-68ac-39b0-8d9d-027bddedb06b"
+                                    type="digitizing">Leipzig</placeName>
+                                <orgName type="digitizing"
+                                    ref="NORM-444a6f1b-4bcb-3fa7-a96d-b6cafe49f0d0"
+                                    >Universitätsbibliothek Leipzig</orgName>
+                            </bibl>
+                        </surrogates>
+                        <listBibl>
+                            <bibl>
+                                <ref target="HSP-51027ecb-41dd-33fd-90c2-59991761ee04"/>
+                            </bibl>
+                        </listBibl>
+                    </additional>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p/>
+        </body>
+    </text>
+</TEI>

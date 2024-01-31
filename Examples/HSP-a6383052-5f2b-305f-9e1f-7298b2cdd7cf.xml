@@ -1,0 +1,146 @@
+<?xml version="1.0" standalone="yes"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude"
+    xmlns:dcr="http://www.isocat.org/ns/dcr" xmlns:egXML="http://www.tei-c.org/ns/Examples"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <teiHeader xml:lang="de">
+        <fileDesc>
+            <titleStmt>
+                <title>Kulturobjektdokument von Mainz, Stadtarchiv Mainz, Best. 13/287</title>
+                <respStmt>
+                    <resp>Herausgegeben vom</resp>
+                    <orgName>Handschriftenportal</orgName>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>Elektronische Ausgabe nach TEI P5</edition>
+                <respStmt>
+                    <resp>Automatisch generierte Ausgabe</resp>
+                    <orgName>Handschriftenportal</orgName>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Handschriftenportal</orgName>
+                    <ptr target="http://www.handschriftenportal.de"/>
+                </publisher>
+                <date when="2023-06-06" type="issued">2023-06-06</date>
+                <distributor>Handschriftenportal</distributor>
+                <availability status="free">
+                    <licence target="https://creativecommons.org/publicdomain/zero/1.0/deed.de">
+                        <p>Lizenziert nach
+                            https://creativecommons.org/publicdomain/zero/1.0/deed.de</p>
+                    </licence>
+                </availability>
+                <pubPlace>
+                    <ptr xml:id="HSP-c833e03e-84cb-3c01-a02b-2d119710b802"
+                        target="https://resolver.staatsbibliothek-berlin.de/HSP00063F9E00000000"
+                        subtype="hsp" type="purl"/>
+                </pubPlace>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc xml:id="HSP-a6383052-5f2b-305f-9e1f-7298b2cdd7cf" xml:lang="de"
+                    type="hsp:object">
+                    <msIdentifier>
+                        <settlement key="NORM-3496da6c-1db0-3522-bedb-1fb4c415a154" ref="4037124-4"
+                            >Mainz</settlement>
+                        <repository key="NORM-f70bd794-e4be-396d-b33c-a7de067c79fb" ref="40324-6"
+                            >Stadtarchiv Mainz</repository>
+                        <idno>Best. 13/287</idno>
+                        <altIdentifier type="alternative">
+                            <idno>Best. 13-0287</idno>
+                        </altIdentifier>
+                        <altIdentifier type="alternative">
+                            <idno>Best. 13-287</idno>
+                        </altIdentifier>
+                    </msIdentifier>
+                    <head>
+                        <index indexName="norm_title"
+                            copyOf="#HSP-feef2b02-9ea4-37c1-9403-999f0b6b50d7"
+                            source="https://resolver.staatsbibliothek-berlin.de/HSP0006712800000000">
+                            <term type="title">Liber fundationis vicariarum et altarium von
+                                Liebfrauen in Mainz</term>
+                        </index><index indexName="norm_material"
+                            copyOf="#HSP-feef2b02-9ea4-37c1-9403-999f0b6b50d7"
+                            source="https://resolver.staatsbibliothek-berlin.de/HSP0006712800000000">
+                            <term type="material">Pergament</term>
+                            <term type="material_type">parchment</term>
+                        </index><index indexName="norm_measure"
+                            copyOf="#HSP-feef2b02-9ea4-37c1-9403-999f0b6b50d7"
+                            source="https://resolver.staatsbibliothek-berlin.de/HSP0006712800000000">
+                            <term type="measure">100 Bl.</term>
+                            <term type="measure_noOfLeaves">100</term>
+                        </index><index indexName="norm_dimensions"
+                            copyOf="#HSP-feef2b02-9ea4-37c1-9403-999f0b6b50d7"
+                            source="https://resolver.staatsbibliothek-berlin.de/HSP0006712800000000">
+                            <term type="dimensions">29,1 × 20,8</term>
+                            <term type="height">29</term>
+                            <term type="width">21</term>
+                            <term type="depth"/>
+                            <term type="dimensions_typeOfInformation">factual</term>
+                        </index><index indexName="norm_format"
+                            copyOf="#HSP-feef2b02-9ea4-37c1-9403-999f0b6b50d7"
+                            source="https://resolver.staatsbibliothek-berlin.de/HSP0006712800000000">
+                            <term type="format">folio</term>
+                            <term type="format_typeOfInformation">computed</term>
+                        </index><index indexName="norm_format"
+                            copyOf="#HSP-feef2b02-9ea4-37c1-9403-999f0b6b50d7"
+                            source="https://resolver.staatsbibliothek-berlin.de/HSP0006712800000000">
+                            <term type="format">quarto</term>
+                            <term type="format_typeOfInformation">computed</term>
+                        </index><index indexName="norm_origPlace"
+                            copyOf="#HSP-feef2b02-9ea4-37c1-9403-999f0b6b50d7"
+                            source="https://resolver.staatsbibliothek-berlin.de/HSP0006712800000000">
+                            <term type="origPlace">Mainz</term>
+                            <term key="NORM-3496da6c-1db0-3522-bedb-1fb4c415a154"
+                                ref="http://d-nb.info/gnd/4037124-4" type="origPlace_norm"
+                                >Mainz</term>
+                        </index><index indexName="norm_origDate"
+                            copyOf="#HSP-feef2b02-9ea4-37c1-9403-999f0b6b50d7"
+                            source="https://resolver.staatsbibliothek-berlin.de/HSP0006712800000000">
+                            <term type="origDate">1451</term>
+                            <term type="origDate_notBefore">1451</term>
+                            <term type="origDate_notAfter">1451</term>
+                            <term type="origDate_type">dated</term>
+                        </index><index indexName="norm_textLang"
+                            copyOf="#HSP-feef2b02-9ea4-37c1-9403-999f0b6b50d7"
+                            source="https://resolver.staatsbibliothek-berlin.de/HSP0006712800000000">
+                            <term type="textLang">lateinisch / deutsch</term>
+                            <term type="textLang-ID">la</term>
+                            <term type="textLang-ID">de</term>
+                        </index><index indexName="norm_form"
+                            copyOf="#HSP-feef2b02-9ea4-37c1-9403-999f0b6b50d7"
+                            source="https://resolver.staatsbibliothek-berlin.de/HSP0006712800000000">
+                            <term type="form">codex</term>
+                        </index><index indexName="norm_status">
+                            <term type="status"/>
+                        </index><index indexName="norm_decoration"
+                            copyOf="#HSP-feef2b02-9ea4-37c1-9403-999f0b6b50d7"
+                            source="https://resolver.staatsbibliothek-berlin.de/HSP0006712800000000">
+                            <term type="decoration">yes</term>
+                        </index><index indexName="norm_musicNotation">
+                            <term type="musicNotation"/>
+                        </index></head>
+                    <additional>
+                        <adminInfo>
+                            <availability status="free">
+                                <licence
+                                    target="https://creativecommons.org/publicdomain/zero/1.0/deed.de">
+                                    <p>Lizenziert nach
+                                        https://creativecommons.org/publicdomain/zero/1.0/deed.de</p>
+                                </licence>
+                            </availability>
+                        </adminInfo>
+                        <listBibl>
+                            <bibl><ref target="HSP-feef2b02-9ea4-37c1-9403-999f0b6b50d7"/></bibl>
+                        </listBibl>
+                    </additional>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p/>
+        </body>
+    </text>
+</TEI>

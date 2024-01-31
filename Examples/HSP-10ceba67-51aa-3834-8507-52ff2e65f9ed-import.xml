@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mets:mets xmlns:TEI="http://www.tei-c.org/ns/1.0"
+           xmlns:mods="http://www.loc.gov/mods/v3"
+           xmlns:dc="http://purl.org/dc/elements/1.1/"
+           xmlns:dcterms="http://purl.org/dc/terms/"
+           xmlns:mets="http://www.loc.gov/METS/"
+           xmlns:xlink="http://www.w3.org/1999/xlink">
+   <mets:metsHdr>
+      <mets:agent ROLE="CREATOR">
+         <mets:name>hsp2vlmetsmods-Skript Knepper 02/2024</mets:name>
+      </mets:agent>
+   </mets:metsHdr>
+   <mets:dmdSec ID="HSP-10ceba67-51aa-3834-8507-52ff2e65f9ed">
+      <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+         <mets:xmlData>
+            <mods:mods>
+               <mods:recordInfo>
+                  <mods:recordIdentifier>HSP-10ceba67-51aa-3834-8507-52ff2e65f9ed</mods:recordIdentifier>
+               </mods:recordInfo>
+               <mods:titleInfo>
+                  <mods:title/>
+               </mods:titleInfo>
+            </mods:mods>
+         </mets:xmlData>
+      </mets:mdWrap>
+   </mets:dmdSec>
+   <mets:structMap TYPE="logical"/>
+</mets:mets>

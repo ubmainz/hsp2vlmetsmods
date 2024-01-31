@@ -1,0 +1,151 @@
+<?xml version="1.0" standalone="yes"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude"
+    xmlns:dcr="http://www.isocat.org/ns/dcr" xmlns:egXML="http://www.tei-c.org/ns/Examples"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <teiHeader xml:lang="de">
+        <fileDesc>
+            <titleStmt>
+                <title>Kulturobjektdokument von Mainz, Bischöfliches Dom- und Diözesanmuseum Mainz,
+                    Inv. Nr. B 00258</title>
+                <respStmt>
+                    <resp>Herausgegeben vom</resp>
+                    <orgName>Handschriftenportal</orgName>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>Elektronische Ausgabe nach TEI P5</edition>
+                <respStmt>
+                    <resp>Automatisch generierte Ausgabe</resp>
+                    <orgName>Handschriftenportal</orgName>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Handschriftenportal</orgName>
+                    <ptr target="http://www.handschriftenportal.de"/>
+                </publisher>
+                <date when="2023-06-06" type="issued">2023-06-06</date>
+                <distributor>Handschriftenportal</distributor>
+                <availability status="free">
+                    <licence target="https://creativecommons.org/publicdomain/zero/1.0/deed.de">
+                        <p>Lizenziert nach
+                            https://creativecommons.org/publicdomain/zero/1.0/deed.de</p>
+                    </licence>
+                </availability>
+                <pubPlace>
+                    <ptr xml:id="HSP-ffc0bb85-c1dd-3697-9a5b-99d74740ff65"
+                        target="https://resolver.staatsbibliothek-berlin.de/HSP00064BF500000000"
+                        subtype="hsp" type="purl"/>
+                </pubPlace>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc xml:id="HSP-569d1190-af90-3aa3-94a6-6801dec81859" xml:lang="de"
+                    type="hsp:object">
+                    <msIdentifier>
+                        <settlement key="NORM-3496da6c-1db0-3522-bedb-1fb4c415a154" ref="4037124-4"
+                            >Mainz</settlement>
+                        <repository key="NORM-4fbca9c5-c7bf-39e4-8336-f120086daca1" ref="2039019-1"
+                            >Bischöfliches Dom- und Diözesanmuseum Mainz</repository>
+                        <idno>Inv. Nr. B 00258</idno>
+                        <altIdentifier type="alternative">
+                            <idno>Cod. Kautzsch 2</idno>
+                        </altIdentifier>
+                        <altIdentifier type="alternative">
+                            <idno>Ms. 973</idno>
+                        </altIdentifier>
+                    </msIdentifier>
+                    <head>
+                        <index indexName="norm_title"
+                            copyOf="#HSP-233cf1b5-4a13-3ac1-aa1b-a330865a771b"
+                            source="https://resolver.staatsbibliothek-berlin.de/HSP0006742F00000000">
+                            <term type="title">Festtagsevangelistar aus St. Stephan in Mainz</term>
+                        </index><index indexName="norm_material"
+                            copyOf="#HSP-233cf1b5-4a13-3ac1-aa1b-a330865a771b"
+                            source="https://resolver.staatsbibliothek-berlin.de/HSP0006742F00000000">
+                            <term type="material">Pergament</term>
+                            <term type="material_type">parchment</term>
+                        </index><index indexName="norm_measure"
+                            copyOf="#HSP-233cf1b5-4a13-3ac1-aa1b-a330865a771b"
+                            source="https://resolver.staatsbibliothek-berlin.de/HSP0006742F00000000">
+                            <term type="measure">II + 32 Bl. + I</term>
+                            <term type="measure_noOfLeaves">32</term>
+                        </index><index indexName="norm_dimensions"
+                            copyOf="#HSP-233cf1b5-4a13-3ac1-aa1b-a330865a771b"
+                            source="https://resolver.staatsbibliothek-berlin.de/HSP0006742F00000000">
+                            <term type="dimensions">28,3 × 20,9</term>
+                            <term type="height">28</term>
+                            <term type="width">21</term>
+                            <term type="depth"/>
+                            <term type="dimensions_typeOfInformation">factual</term>
+                        </index><index indexName="norm_format"
+                            copyOf="#HSP-233cf1b5-4a13-3ac1-aa1b-a330865a771b"
+                            source="https://resolver.staatsbibliothek-berlin.de/HSP0006742F00000000">
+                            <term type="format">folio</term>
+                            <term type="format_typeOfInformation">computed</term>
+                        </index><index indexName="norm_format"
+                            copyOf="#HSP-233cf1b5-4a13-3ac1-aa1b-a330865a771b"
+                            source="https://resolver.staatsbibliothek-berlin.de/HSP0006742F00000000">
+                            <term type="format">quarto</term>
+                            <term type="format_typeOfInformation">computed</term>
+                        </index><index indexName="norm_origPlace"
+                            copyOf="#HSP-233cf1b5-4a13-3ac1-aa1b-a330865a771b"
+                            source="https://resolver.staatsbibliothek-berlin.de/HSP0006742F00000000">
+                            <term type="origPlace">Mainz (?) / Lorsch (?) / Worms (?)</term>
+                            <term key="NORM-3496da6c-1db0-3522-bedb-1fb4c415a154"
+                                ref="http://d-nb.info/gnd/4037124-4" type="origPlace_norm"
+                                >Mainz</term>
+                            <term key="9b021b1c-b30e-3f85-b1d5-5c8c0162cb00"
+                                ref="http://d-nb.info/gnd/4036359-4" type="origPlace_norm"
+                                >Lorsch</term>
+                            <term key="c817fc70-ae0b-3e8d-97b9-2a7dc4c79325"
+                                ref="http://d-nb.info/gnd/4066942-7" type="origPlace_norm"
+                                >Worms</term>
+                        </index><index indexName="norm_origDate"
+                            copyOf="#HSP-233cf1b5-4a13-3ac1-aa1b-a330865a771b"
+                            source="https://resolver.staatsbibliothek-berlin.de/HSP0006742F00000000">
+                            <term type="origDate">um 1000</term>
+                            <term type="origDate_notBefore">0980</term>
+                            <term type="origDate_notAfter">1020</term>
+                            <term type="origDate_type">datable</term>
+                        </index><index indexName="norm_textLang"
+                            copyOf="#HSP-233cf1b5-4a13-3ac1-aa1b-a330865a771b"
+                            source="https://resolver.staatsbibliothek-berlin.de/HSP0006742F00000000">
+                            <term type="textLang">lateinisch</term>
+                            <term type="textLang-ID">la</term>
+                        </index><index indexName="norm_form"
+                            copyOf="#HSP-233cf1b5-4a13-3ac1-aa1b-a330865a771b"
+                            source="https://resolver.staatsbibliothek-berlin.de/HSP0006742F00000000">
+                            <term type="form">codex</term>
+                        </index><index indexName="norm_status">
+                            <term type="status"/>
+                        </index><index indexName="norm_decoration"
+                            copyOf="#HSP-233cf1b5-4a13-3ac1-aa1b-a330865a771b"
+                            source="https://resolver.staatsbibliothek-berlin.de/HSP0006742F00000000">
+                            <term type="decoration">yes</term>
+                        </index><index indexName="norm_musicNotation">
+                            <term type="musicNotation"/>
+                        </index></head>
+                    <additional>
+                        <adminInfo>
+                            <availability status="free">
+                                <licence
+                                    target="https://creativecommons.org/publicdomain/zero/1.0/deed.de">
+                                    <p>Lizenziert nach
+                                        https://creativecommons.org/publicdomain/zero/1.0/deed.de</p>
+                                </licence>
+                            </availability>
+                        </adminInfo>
+                        <listBibl>
+                            <bibl><ref target="HSP-233cf1b5-4a13-3ac1-aa1b-a330865a771b"/></bibl>
+                        </listBibl>
+                    </additional>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p/>
+        </body>
+    </text>
+</TEI>
