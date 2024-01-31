@@ -20,6 +20,9 @@
                <mods:originInfo>
                   <mods:place>
                      <mods:placeTerm type="text">Reichenau</mods:placeTerm>
+                     <mods:placeTerm authority="gnd"
+                                     authorityURI="http://d-nb.info/gnd/"
+                                     valueURI="http://d-nb.info/gnd/4460983-8"/>
                   </mods:place>
                   <mods:dateIssued>10. Jh., 4. Viertel</mods:dateIssued>
                   <dateIssued encoding="w3cdtf" point="start" keyDate="yes">0975</dateIssued>

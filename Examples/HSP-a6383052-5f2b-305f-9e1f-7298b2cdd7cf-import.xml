@@ -20,6 +20,9 @@
                <mods:originInfo>
                   <mods:place>
                      <mods:placeTerm type="text">Mainz</mods:placeTerm>
+                     <mods:placeTerm authority="gnd"
+                                     authorityURI="http://d-nb.info/gnd/"
+                                     valueURI="http://d-nb.info/gnd/4037124-4"/>
                   </mods:place>
                   <mods:dateIssued>1451</mods:dateIssued>
                   <dateIssued encoding="w3cdtf" point="start" keyDate="yes">1451</dateIssued>

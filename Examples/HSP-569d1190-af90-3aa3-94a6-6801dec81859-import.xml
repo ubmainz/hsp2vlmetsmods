@@ -20,6 +20,15 @@
                <mods:originInfo>
                   <mods:place>
                      <mods:placeTerm type="text">Mainz (?) / Lorsch (?) / Worms (?)</mods:placeTerm>
+                     <mods:placeTerm authority="gnd"
+                                     authorityURI="http://d-nb.info/gnd/"
+                                     valueURI="http://d-nb.info/gnd/4037124-4"/>
+                     <mods:placeTerm authority="gnd"
+                                     authorityURI="http://d-nb.info/gnd/"
+                                     valueURI="http://d-nb.info/gnd/4036359-4"/>
+                     <mods:placeTerm authority="gnd"
+                                     authorityURI="http://d-nb.info/gnd/"
+                                     valueURI="http://d-nb.info/gnd/4066942-7"/>
                   </mods:place>
                   <mods:dateIssued>um 1000</mods:dateIssued>
                   <dateIssued encoding="w3cdtf" point="start" keyDate="yes">0980</dateIssued>

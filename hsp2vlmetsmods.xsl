@@ -69,9 +69,16 @@
     
     <xsl:template match="TEI:index[@indexName='norm_origPlace']" mode="mods-origininfo">
         <mods:place>
-            <mods:placeTerm type="text">
-                <xsl:value-of select="TEI:term[@type='origPlace']"/>
-            </mods:placeTerm>
+            <xsl:for-each select="TEI:term[@type='origPlace']">
+                <mods:placeTerm type="text">
+                    <xsl:value-of select="."/>
+                </mods:placeTerm>
+            </xsl:for-each>
+            <xsl:for-each select="TEI:term[@type='origPlace_norm'][starts-with(@ref,'http://d-nb.info/gnd/')]">
+                <mods:placeTerm authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="{@ref}">
+                    <xsl:value-of select="TEI:term[@type='origPlace_norm']"/>
+                </mods:placeTerm>
+            </xsl:for-each>
         </mods:place>
 
     </xsl:template>
