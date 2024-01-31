@@ -30,23 +30,26 @@
                                         <xsl:value-of select="TEI:sourceDesc/TEI:msDesc/@xml:id"/>
                                     </mods:recordIdentifier>
                                 </mods:recordInfo>
-                                <mods:titleInfo>
-                                    <mods:title>
-
-                                    </mods:title>
-                                </mods:titleInfo>
-                                
+                                <xsl:apply-templates mode="mods"/>
                             </mods:mods>
                         </mets:xmlData>
                     </mets:mdWrap>
                 </mets:dmdSec>
             </xsl:for-each>
             <mets:structMap TYPE="logical">
-                <xsl:apply-templates/>
+                <xsl:apply-templates mode="map"/>
             </mets:structMap>
         </mets:mets>
     </xsl:template>
     
-    <xsl:template match="text()"/>
+    <xsl:template match="TEI:index[@indexName='norm_title']" mode="mods">
+        <mods:titleInfo>
+            <mods:title>
+                <xsl:value-of select="TEI:term[@type='title']"/>
+            </mods:title>
+        </mods:titleInfo> 
+    </xsl:template>
+    
+    <xsl:template match="text()" mode="#all"/>
     
 </xsl:stylesheet>
