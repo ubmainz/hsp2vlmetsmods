@@ -61,8 +61,20 @@
             <xsl:value-of select="."/>
         </identifier>
     </xsl:template>
+
+    <xsl:template match="TEI:altIdentifier[not(@type='hsp-ID')]" mode="mods"/>
+  
+    <xsl:template match="TEI:idno" mode="mods">
+        <mods:location>
+            <mods:shelfLocator>
+                <xsl:value-of select="."/>
+            </mods:shelfLocator>
+        </mods:location>
+    </xsl:template>
     
-      <xsl:template match="TEI:index[@indexName='norm_title']" mode="mods">
+    <xsl:template match="TEI:msPart" mode="mods"/>
+    
+    <xsl:template match="TEI:index[@indexName='norm_title']" mode="mods">
         <mods:titleInfo>
             <mods:title>
                 <xsl:value-of select="TEI:term[@type='title']"/>
