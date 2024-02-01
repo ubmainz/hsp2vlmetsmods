@@ -34,6 +34,7 @@
                   <dateIssued encoding="w3cdtf" point="start" keyDate="yes"/>
                   <dateIssued encoding="w3cdtf" point="end"/>
                </mods:originInfo>
+               <identifier type="HSP">HSP-10ceba67-51aa-3834-8507-52ff2e65f9ed</identifier>
                <mods:titleInfo>
                   <mods:title>Antiphonarium Carmelitanum, Bd. 4 von 5 Bänden</mods:title>
                </mods:titleInfo>

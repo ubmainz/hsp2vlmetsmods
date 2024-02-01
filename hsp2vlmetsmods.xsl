@@ -41,6 +41,11 @@
                                 <xsl:value-of select="@xml:id"/>
                             </mods:recordIdentifier>
                         </mods:recordInfo>
+                        <xsl:if test="@type='hsp:object'">
+                            <identifier type="HSP">
+                                <xsl:value-of select="@xml:id"/>
+                            </identifier>
+                        </xsl:if>
                         <mods:originInfo>
                             <xsl:apply-templates mode="mods-origininfo"/>
                         </mods:originInfo>
@@ -51,6 +56,18 @@
         </mets:dmdSec> 
     </xsl:template>
  
+    <xsl:template match="TEI:msIdentifier/TEI:altIdentifier[@type='hsp-ID']/TEI:idno" mode="mods">
+        <identifier type="HSP">
+            <xsl:value-of select="."/>
+        </identifier>
+    </xsl:template>
+    
+    <xsl:template match="TEI:msIdentifier/TEI:altIdentifier[@type='hsp-ID']/TEI:idno" mode="mods">
+        <identifier type="HSP">
+            <xsl:value-of select="."/>
+        </identifier>
+    </xsl:template>
+    
     <xsl:template match="TEI:index[@indexName='norm_title']" mode="mods">
         <mods:titleInfo>
             <mods:title>

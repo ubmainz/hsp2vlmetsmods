@@ -17,6 +17,7 @@
                <mods:recordInfo>
                   <mods:recordIdentifier>HSP-10ceba67-51aa-3834-8507-52ff2e65f9ed</mods:recordIdentifier>
                </mods:recordInfo>
+               <identifier type="HSP">HSP-10ceba67-51aa-3834-8507-52ff2e65f9ed</identifier>
                <mods:originInfo>
                   <mods:place>
                      <mods:placeTerm type="text">Mainz</mods:placeTerm>
