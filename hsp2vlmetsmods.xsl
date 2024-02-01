@@ -60,6 +60,9 @@
                         <mods:originInfo>
                             <xsl:apply-templates mode="mods-origininfo"/>
                         </mods:originInfo>
+                        <mods:physicalDescription>
+                            <xsl:apply-templates mode="mods-physical"/>
+                        </mods:physicalDescription>
                         <xsl:apply-templates mode="mods"/>
                     </mods:mods>
                 </mets:xmlData>
@@ -83,7 +86,7 @@
         </mods:location>
     </xsl:template>
     
-    <xsl:template match="TEI:msPart" mode="mods"/>
+    <xsl:template match="TEI:msPart" mode="#all"/>
     
     <xsl:template match="TEI:index[@indexName='norm_title']" mode="mods">
         <mods:titleInfo>
@@ -93,12 +96,18 @@
         </mods:titleInfo> 
     </xsl:template>
     
-    <xsl:template match="TEI:index[@indexName='norm_measure']" mode="mods">
-        <mods:physicalDescription>
-            <mods:extent>
-                <xsl:value-of select="TEI:term[@type='measure']"/>
-            </mods:extent>
-        </mods:physicalDescription>
+    <xsl:template match="TEI:listBibl/TEI:bibl/TEI:ref" mode="mods">
+        <mods:location>
+            <mods:url displayLabel="Ausführliche Beschreibung">
+                <xsl:value-of select="concat('https://handschriftenportal.de/search?hspobjectid=',@target)"/>
+            </mods:url>
+        </mods:location>
+    </xsl:template>
+    
+    <xsl:template match="TEI:index[@indexName='norm_measure']" mode="mods-physical">
+        <mods:extent>
+            <xsl:value-of select="TEI:term[@type='measure']"/>
+        </mods:extent>
     </xsl:template>
     
     <xsl:template match="TEI:index[@indexName='norm_origDate']" mode="mods-origininfo">
@@ -127,15 +136,7 @@
             </xsl:for-each>
         </mods:place>
     </xsl:template>
-    
-    <xsl:template match="TEI:listBibl/TEI:bibl/TEI:ref" mode="mods">
-        <mods:location>
-            <mods:url displayLabel="Ausführliche Beschreibung">
-                <xsl:value-of select="concat('https://handschriftenportal.de/search?hspobjectid=',@target)"/>
-            </mods:url>
-        </mods:location>
-    </xsl:template>
-    
+   
     <xsl:template match="TEI:msDesc" mode="map">
         <xsl:message>
             <xsl:text>Map: </xsl:text>

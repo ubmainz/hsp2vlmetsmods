@@ -31,15 +31,15 @@
                   <dateIssued encoding="w3cdtf" point="start" keyDate="yes">1423</dateIssued>
                   <dateIssued encoding="w3cdtf" point="end">1443</dateIssued>
                </mods:originInfo>
+               <mods:physicalDescription>
+                  <mods:extent>331 Bl. + I</mods:extent>
+               </mods:physicalDescription>
                <mods:location>
                   <mods:shelfLocator>Inv. Nr. B 00330 Band C</mods:shelfLocator>
                </mods:location>
                <mods:titleInfo>
                   <mods:title>Antiphonarium Carmelitanum, Bd. 4 von 5 Bänden</mods:title>
                </mods:titleInfo>
-               <mods:physicalDescription>
-                  <mods:extent>331 Bl. + I</mods:extent>
-               </mods:physicalDescription>
                <mods:location>
                   <mods:url displayLabel="Ausführliche Beschreibung">https://handschriftenportal.de/search?hspobjectid=HSP-af363149-dc34-32ed-978d-5140ce813cbe</mods:url>
                </mods:location>

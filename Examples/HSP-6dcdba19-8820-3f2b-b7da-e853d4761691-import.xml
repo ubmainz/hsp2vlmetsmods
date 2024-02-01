@@ -28,15 +28,15 @@
                   <dateIssued encoding="w3cdtf" point="start" keyDate="yes">1301</dateIssued>
                   <dateIssued encoding="w3cdtf" point="end">1400</dateIssued>
                </mods:originInfo>
+               <mods:physicalDescription>
+                  <mods:extent>299 Bl.</mods:extent>
+               </mods:physicalDescription>
                <mods:location>
                   <mods:shelfLocator>Ms 123</mods:shelfLocator>
                </mods:location>
                <mods:titleInfo>
                   <mods:title>Theologische Sammelhandschrift</mods:title>
                </mods:titleInfo>
-               <mods:physicalDescription>
-                  <mods:extent>299 Bl.</mods:extent>
-               </mods:physicalDescription>
                <mods:location>
                   <mods:shelfLocator>HSP-5a88ca19-6353-340a-9ec7-5d05090e65c2</mods:shelfLocator>
                </mods:location>
