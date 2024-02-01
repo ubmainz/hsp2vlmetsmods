@@ -56,19 +56,13 @@
         </mets:dmdSec> 
     </xsl:template>
  
-    <xsl:template match="TEI:msIdentifier/TEI:altIdentifier[@type='hsp-ID']/TEI:idno" mode="mods">
+    <xsl:template match="TEI:altIdentifier[@type='hsp-ID']/TEI:idno" mode="mods">
         <identifier type="HSP">
             <xsl:value-of select="."/>
         </identifier>
     </xsl:template>
     
-    <xsl:template match="TEI:msIdentifier/TEI:altIdentifier[@type='hsp-ID']/TEI:idno" mode="mods">
-        <identifier type="HSP">
-            <xsl:value-of select="."/>
-        </identifier>
-    </xsl:template>
-    
-    <xsl:template match="TEI:index[@indexName='norm_title']" mode="mods">
+      <xsl:template match="TEI:index[@indexName='norm_title']" mode="mods">
         <mods:titleInfo>
             <mods:title>
                 <xsl:value-of select="TEI:term[@type='title']"/>
