@@ -34,6 +34,7 @@
                   <dateIssued encoding="w3cdtf" point="end">1443</dateIssued>
                </mods:originInfo>
                <mods:physicalDescription>
+                  <mods:form type="material">Pergament</mods:form>
                   <mods:extent>331 Bl. + I</mods:extent>
                </mods:physicalDescription>
                <mods:location>

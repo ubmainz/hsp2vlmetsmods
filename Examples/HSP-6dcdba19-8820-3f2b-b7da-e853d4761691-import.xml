@@ -29,6 +29,7 @@
                   <dateIssued encoding="w3cdtf" point="end">1400</dateIssued>
                </mods:originInfo>
                <mods:physicalDescription>
+                  <mods:form type="material">Pergament</mods:form>
                   <mods:extent>299 Bl.</mods:extent>
                </mods:physicalDescription>
                <mods:location>

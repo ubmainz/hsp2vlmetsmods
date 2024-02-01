@@ -110,6 +110,12 @@
         </mods:extent>
     </xsl:template>
     
+    <xsl:template match="TEI:index[@indexName='norm_material']" mode="mods-physical">
+        <mods:form type="material">
+            <xsl:value-of select="TEI:term[@type='material']"/>
+        </mods:form>
+    </xsl:template>
+    
     <xsl:template match="TEI:index[@indexName='norm_origDate']" mode="mods-origininfo">
         <mods:dateIssued>
             <xsl:value-of select="TEI:term[@type='origDate']"/>
