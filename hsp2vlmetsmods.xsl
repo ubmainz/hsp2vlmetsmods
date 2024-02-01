@@ -57,6 +57,7 @@
                         </xsl:choose>
                         <mods:genre authority="marcgt">script</mods:genre>
                         <mods:typeOfResource>text</mods:typeOfResource>
+                        <mods:accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/publicdomain/mark/1.0/" displayLabel="Public Domain Mark 1.0">pdm</mods:accessCondition>
                         <mods:originInfo>
                             <xsl:apply-templates mode="mods-origininfo"/>
                         </mods:originInfo>

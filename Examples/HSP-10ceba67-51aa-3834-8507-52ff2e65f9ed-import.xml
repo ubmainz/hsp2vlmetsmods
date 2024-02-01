@@ -20,6 +20,9 @@
                <identifier type="HSP">HSP-10ceba67-51aa-3834-8507-52ff2e65f9ed</identifier>
                <mods:genre authority="marcgt">script</mods:genre>
                <mods:typeOfResource>text</mods:typeOfResource>
+               <mods:accessCondition type="use and reproduction"
+                                     xlink:href="https://creativecommons.org/publicdomain/mark/1.0/"
+                                     displayLabel="Public Domain Mark 1.0">pdm</mods:accessCondition>
                <mods:originInfo>
                   <mods:place>
                      <mods:placeTerm type="text">Mainz</mods:placeTerm>
