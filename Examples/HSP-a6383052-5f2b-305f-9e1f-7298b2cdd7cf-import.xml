@@ -17,7 +17,14 @@
                <mods:recordInfo>
                   <mods:recordIdentifier>HSP-a6383052-5f2b-305f-9e1f-7298b2cdd7cf</mods:recordIdentifier>
                </mods:recordInfo>
+               <mods:identifier type="HSP">HSP-a6383052-5f2b-305f-9e1f-7298b2cdd7cf</mods:identifier>
+               <mods:genre authority="marcgt">script</mods:genre>
+               <mods:typeOfResource>text</mods:typeOfResource>
+               <mods:accessCondition type="use and reproduction"
+                                     xlink:href="https://creativecommons.org/publicdomain/mark/1.0/"
+                                     displayLabel="Public Domain Mark 1.0">pdm</mods:accessCondition>
                <mods:originInfo>
+                  <mods:issuance>monographic</mods:issuance>
                   <mods:place>
                      <mods:placeTerm type="text">Mainz</mods:placeTerm>
                      <mods:placeTerm authority="gnd"
@@ -25,13 +32,23 @@
                                      valueURI="http://d-nb.info/gnd/4037124-4"/>
                   </mods:place>
                   <mods:dateIssued>1451</mods:dateIssued>
-                  <dateIssued encoding="w3cdtf" point="start" keyDate="yes">1451</dateIssued>
-                  <dateIssued encoding="w3cdtf" point="end">1451</dateIssued>
+                  <mods:dateIssued encoding="w3cdtf" point="start" keyDate="yes">1451</mods:dateIssued>
+                  <mods:dateIssued encoding="w3cdtf" point="end">1451</mods:dateIssued>
                </mods:originInfo>
+               <mods:physicalDescription>
+                  <mods:form type="material">Pergament</mods:form>
+                  <mods:extent>100 Bl.</mods:extent>
+               </mods:physicalDescription>
+               <mods:location>
+                  <mods:shelfLocator>Best. 13/287</mods:shelfLocator>
+               </mods:location>
                <mods:titleInfo>
                   <mods:title>Liber fundationis vicariarum et altarium von
                                 Liebfrauen in Mainz</mods:title>
                </mods:titleInfo>
+               <mods:location>
+                  <mods:url displayLabel="Ausführliche Beschreibung">https://handschriftenportal.de/search?hspobjectid=HSP-feef2b02-9ea4-37c1-9403-999f0b6b50d7</mods:url>
+               </mods:location>
             </mods:mods>
          </mets:xmlData>
       </mets:mdWrap>

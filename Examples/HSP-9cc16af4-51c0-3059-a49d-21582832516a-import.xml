@@ -17,7 +17,14 @@
                <mods:recordInfo>
                   <mods:recordIdentifier>HSP-9cc16af4-51c0-3059-a49d-21582832516a</mods:recordIdentifier>
                </mods:recordInfo>
+               <mods:identifier type="HSP">HSP-9cc16af4-51c0-3059-a49d-21582832516a</mods:identifier>
+               <mods:genre authority="marcgt">script</mods:genre>
+               <mods:typeOfResource>text</mods:typeOfResource>
+               <mods:accessCondition type="use and reproduction"
+                                     xlink:href="https://creativecommons.org/publicdomain/mark/1.0/"
+                                     displayLabel="Public Domain Mark 1.0">pdm</mods:accessCondition>
                <mods:originInfo>
+                  <mods:issuance>monographic</mods:issuance>
                   <mods:place>
                      <mods:placeTerm type="text">Reichenau (?)</mods:placeTerm>
                      <mods:placeTerm authority="gnd"
@@ -25,12 +32,22 @@
                                      valueURI="http://d-nb.info/gnd/4049108-0"/>
                   </mods:place>
                   <mods:dateIssued>9. Jh., Ende</mods:dateIssued>
-                  <dateIssued encoding="w3cdtf" point="start" keyDate="yes">0886</dateIssued>
-                  <dateIssued encoding="w3cdtf" point="end">0900</dateIssued>
+                  <mods:dateIssued encoding="w3cdtf" point="start" keyDate="yes">0886</mods:dateIssued>
+                  <mods:dateIssued encoding="w3cdtf" point="end">0900</mods:dateIssued>
                </mods:originInfo>
+               <mods:physicalDescription>
+                  <mods:form type="material">Pergament</mods:form>
+                  <mods:extent>206 Bl.</mods:extent>
+               </mods:physicalDescription>
+               <mods:location>
+                  <mods:shelfLocator>Hs 1</mods:shelfLocator>
+               </mods:location>
                <mods:titleInfo>
                   <mods:title>Sakramentar von St. Alban</mods:title>
                </mods:titleInfo>
+               <mods:location>
+                  <mods:url displayLabel="Ausführliche Beschreibung">https://handschriftenportal.de/search?hspobjectid=HSP-58f0d2a0-1cb5-377e-aa5a-1f160c4b5da9</mods:url>
+               </mods:location>
             </mods:mods>
          </mets:xmlData>
       </mets:mdWrap>

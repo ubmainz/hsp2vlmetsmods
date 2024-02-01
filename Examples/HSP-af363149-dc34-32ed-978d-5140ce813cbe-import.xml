@@ -26,6 +26,7 @@
                                      xlink:href="https://creativecommons.org/publicdomain/mark/1.0/"
                                      displayLabel="Public Domain Mark 1.0">pdm</mods:accessCondition>
                <mods:originInfo>
+                  <mods:issuance>monographic</mods:issuance>
                   <mods:place>
                      <mods:placeTerm type="text">Mainz</mods:placeTerm>
                      <mods:placeTerm authority="gnd"
@@ -33,8 +34,8 @@
                                      valueURI="http://d-nb.info/gnd/4037124-4"/>
                   </mods:place>
                   <mods:dateIssued>circa 1433</mods:dateIssued>
-                  <dateIssued encoding="w3cdtf" point="start" keyDate="yes">1423</dateIssued>
-                  <dateIssued encoding="w3cdtf" point="end">1443</dateIssued>
+                  <mods:dateIssued encoding="w3cdtf" point="start" keyDate="yes">1423</mods:dateIssued>
+                  <mods:dateIssued encoding="w3cdtf" point="end">1443</mods:dateIssued>
                </mods:originInfo>
                <mods:physicalDescription>
                   <mods:form type="material">Pergament</mods:form>
@@ -43,7 +44,7 @@
                <mods:location>
                   <mods:shelfLocator>Inv. Nr. B 00330 Band C</mods:shelfLocator>
                </mods:location>
-               <identifier type="HSP">HSP-10ceba67-51aa-3834-8507-52ff2e65f9ed</identifier>
+               <mods:identifier type="HSP">HSP-10ceba67-51aa-3834-8507-52ff2e65f9ed</mods:identifier>
                <mods:titleInfo>
                   <mods:title>Antiphonarium Carmelitanum, Bd. 4 von 5 Bänden</mods:title>
                </mods:titleInfo>

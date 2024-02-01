@@ -43,9 +43,9 @@
                         </mods:recordInfo>
                         <xsl:choose>
                             <xsl:when test="@type='hsp:object'">
-                                <identifier type="HSP">
+                                <mods:identifier type="HSP">
                                     <xsl:value-of select="@xml:id"/>
-                                </identifier>
+                                </mods:identifier>
                             </xsl:when>
                             <xsl:when test="@type='hsp:description'">
                                 <mods:location>
@@ -59,6 +59,7 @@
                         <mods:typeOfResource>text</mods:typeOfResource>
                         <mods:accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/publicdomain/mark/1.0/" displayLabel="Public Domain Mark 1.0">pdm</mods:accessCondition>
                         <mods:originInfo>
+                            <mods:issuance>monographic</mods:issuance>
                             <xsl:apply-templates mode="mods-origininfo"/>
                         </mods:originInfo>
                         <mods:physicalDescription>
@@ -72,9 +73,9 @@
     </xsl:template>
  
     <xsl:template match="TEI:altIdentifier[@type='hsp-ID']/TEI:idno" mode="mods">
-        <identifier type="HSP">
+        <mods:identifier type="HSP">
             <xsl:value-of select="."/>
-        </identifier>
+        </mods:identifier>
     </xsl:template>
 
     <xsl:template match="TEI:altIdentifier[not(@type='hsp-ID')]" mode="mods"/>
@@ -121,12 +122,12 @@
         <mods:dateIssued>
             <xsl:value-of select="TEI:term[@type='origDate']"/>
         </mods:dateIssued>
-        <dateIssued encoding="w3cdtf" point="start" keyDate="yes">
+        <mods:dateIssued encoding="w3cdtf" point="start" keyDate="yes">
             <xsl:value-of select="TEI:term[@type='origDate_notBefore']"/>
-        </dateIssued>
-        <dateIssued encoding="w3cdtf" point="end">
+        </mods:dateIssued>
+        <mods:dateIssued encoding="w3cdtf" point="end">
             <xsl:value-of select="TEI:term[@type='origDate_notAfter']"/>
-        </dateIssued>
+        </mods:dateIssued>
     </xsl:template>
     
     <xsl:template match="TEI:index[@indexName='norm_origPlace']" mode="mods-origininfo">

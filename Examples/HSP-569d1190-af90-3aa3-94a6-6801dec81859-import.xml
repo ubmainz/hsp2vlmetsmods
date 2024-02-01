@@ -17,7 +17,14 @@
                <mods:recordInfo>
                   <mods:recordIdentifier>HSP-569d1190-af90-3aa3-94a6-6801dec81859</mods:recordIdentifier>
                </mods:recordInfo>
+               <mods:identifier type="HSP">HSP-569d1190-af90-3aa3-94a6-6801dec81859</mods:identifier>
+               <mods:genre authority="marcgt">script</mods:genre>
+               <mods:typeOfResource>text</mods:typeOfResource>
+               <mods:accessCondition type="use and reproduction"
+                                     xlink:href="https://creativecommons.org/publicdomain/mark/1.0/"
+                                     displayLabel="Public Domain Mark 1.0">pdm</mods:accessCondition>
                <mods:originInfo>
+                  <mods:issuance>monographic</mods:issuance>
                   <mods:place>
                      <mods:placeTerm type="text">Mainz (?) / Lorsch (?) / Worms (?)</mods:placeTerm>
                      <mods:placeTerm authority="gnd"
@@ -31,12 +38,22 @@
                                      valueURI="http://d-nb.info/gnd/4066942-7"/>
                   </mods:place>
                   <mods:dateIssued>um 1000</mods:dateIssued>
-                  <dateIssued encoding="w3cdtf" point="start" keyDate="yes">0980</dateIssued>
-                  <dateIssued encoding="w3cdtf" point="end">1020</dateIssued>
+                  <mods:dateIssued encoding="w3cdtf" point="start" keyDate="yes">0980</mods:dateIssued>
+                  <mods:dateIssued encoding="w3cdtf" point="end">1020</mods:dateIssued>
                </mods:originInfo>
+               <mods:physicalDescription>
+                  <mods:form type="material">Pergament</mods:form>
+                  <mods:extent>II + 32 Bl. + I</mods:extent>
+               </mods:physicalDescription>
+               <mods:location>
+                  <mods:shelfLocator>Inv. Nr. B 00258</mods:shelfLocator>
+               </mods:location>
                <mods:titleInfo>
                   <mods:title>Festtagsevangelistar aus St. Stephan in Mainz</mods:title>
                </mods:titleInfo>
+               <mods:location>
+                  <mods:url displayLabel="Ausführliche Beschreibung">https://handschriftenportal.de/search?hspobjectid=HSP-233cf1b5-4a13-3ac1-aa1b-a330865a771b</mods:url>
+               </mods:location>
             </mods:mods>
          </mets:xmlData>
       </mets:mdWrap>

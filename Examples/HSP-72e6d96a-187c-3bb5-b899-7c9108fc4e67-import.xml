@@ -17,7 +17,14 @@
                <mods:recordInfo>
                   <mods:recordIdentifier>HSP-72e6d96a-187c-3bb5-b899-7c9108fc4e67</mods:recordIdentifier>
                </mods:recordInfo>
+               <mods:identifier type="HSP">HSP-72e6d96a-187c-3bb5-b899-7c9108fc4e67</mods:identifier>
+               <mods:genre authority="marcgt">script</mods:genre>
+               <mods:typeOfResource>text</mods:typeOfResource>
+               <mods:accessCondition type="use and reproduction"
+                                     xlink:href="https://creativecommons.org/publicdomain/mark/1.0/"
+                                     displayLabel="Public Domain Mark 1.0">pdm</mods:accessCondition>
                <mods:originInfo>
+                  <mods:issuance>monographic</mods:issuance>
                   <mods:place>
                      <mods:placeTerm type="text">Reichenau</mods:placeTerm>
                      <mods:placeTerm authority="gnd"
@@ -25,12 +32,22 @@
                                      valueURI="http://d-nb.info/gnd/4460983-8"/>
                   </mods:place>
                   <mods:dateIssued>10. Jh., 4. Viertel</mods:dateIssued>
-                  <dateIssued encoding="w3cdtf" point="start" keyDate="yes">0975</dateIssued>
-                  <dateIssued encoding="w3cdtf" point="end">1000</dateIssued>
+                  <mods:dateIssued encoding="w3cdtf" point="start" keyDate="yes">0975</mods:dateIssued>
+                  <mods:dateIssued encoding="w3cdtf" point="end">1000</mods:dateIssued>
                </mods:originInfo>
+               <mods:physicalDescription>
+                  <mods:form type="material">Pergament</mods:form>
+                  <mods:extent>II + 161 + 1 Bl.</mods:extent>
+               </mods:physicalDescription>
+               <mods:location>
+                  <mods:shelfLocator>Inv. Nr. B 00259</mods:shelfLocator>
+               </mods:location>
                <mods:titleInfo>
                   <mods:title>Reichenauer Epistolar des Mainzer Domschatzes</mods:title>
                </mods:titleInfo>
+               <mods:location>
+                  <mods:url displayLabel="Ausführliche Beschreibung">https://handschriftenportal.de/search?hspobjectid=HSP-5c9babb5-081e-310b-a28c-2d95bfebd840</mods:url>
+               </mods:location>
             </mods:mods>
          </mets:xmlData>
       </mets:mdWrap>

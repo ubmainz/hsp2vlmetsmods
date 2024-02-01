@@ -17,19 +17,20 @@
                <mods:recordInfo>
                   <mods:recordIdentifier>HSP-6dcdba19-8820-3f2b-b7da-e853d4761691</mods:recordIdentifier>
                </mods:recordInfo>
-               <identifier type="HSP">HSP-6dcdba19-8820-3f2b-b7da-e853d4761691</identifier>
+               <mods:identifier type="HSP">HSP-6dcdba19-8820-3f2b-b7da-e853d4761691</mods:identifier>
                <mods:genre authority="marcgt">script</mods:genre>
                <mods:typeOfResource>text</mods:typeOfResource>
                <mods:accessCondition type="use and reproduction"
                                      xlink:href="https://creativecommons.org/publicdomain/mark/1.0/"
                                      displayLabel="Public Domain Mark 1.0">pdm</mods:accessCondition>
                <mods:originInfo>
+                  <mods:issuance>monographic</mods:issuance>
                   <mods:place>
                      <mods:placeTerm type="text"/>
                   </mods:place>
                   <mods:dateIssued>14. Jh.</mods:dateIssued>
-                  <dateIssued encoding="w3cdtf" point="start" keyDate="yes">1301</dateIssued>
-                  <dateIssued encoding="w3cdtf" point="end">1400</dateIssued>
+                  <mods:dateIssued encoding="w3cdtf" point="start" keyDate="yes">1301</mods:dateIssued>
+                  <mods:dateIssued encoding="w3cdtf" point="end">1400</mods:dateIssued>
                </mods:originInfo>
                <mods:physicalDescription>
                   <mods:form type="material">Pergament</mods:form>
