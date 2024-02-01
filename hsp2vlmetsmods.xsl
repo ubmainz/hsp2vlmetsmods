@@ -41,11 +41,20 @@
                                 <xsl:value-of select="@xml:id"/>
                             </mods:recordIdentifier>
                         </mods:recordInfo>
-                        <xsl:if test="@type='hsp:object'">
-                            <identifier type="HSP">
-                                <xsl:value-of select="@xml:id"/>
-                            </identifier>
-                        </xsl:if>
+                        <xsl:choose>
+                            <xsl:when test="@type='hsp:object'">
+                                <identifier type="HSP">
+                                    <xsl:value-of select="@xml:id"/>
+                                </identifier>
+                            </xsl:when>
+                            <xsl:when test="@type='hsp:description'">
+                                <mods:location>
+                                    <mods:url displayLabel="Ausführliche Beschreibung">
+                                        <xsl:value-of select="concat('https://handschriftenportal.de/search?hspobjectid=',@xml:id)"/>
+                                    </mods:url>
+                                </mods:location>
+                            </xsl:when>
+                        </xsl:choose>
                         <mods:originInfo>
                             <xsl:apply-templates mode="mods-origininfo"/>
                         </mods:originInfo>
@@ -107,7 +116,14 @@
                 </mods:placeTerm>
             </xsl:for-each>
         </mods:place>
-
+    </xsl:template>
+    
+    <xsl:template match="TEI:listBibl/TEI:bibl/TEI:ref" mode="mods">
+        <mods:location>
+            <mods:url displayLabel="Ausführliche Beschreibung">
+                <xsl:value-of select="concat('https://handschriftenportal.de/search?hspobjectid=',@target)"/>
+            </mods:url>
+        </mods:location>
     </xsl:template>
     
     <xsl:template match="TEI:msDesc" mode="map">
