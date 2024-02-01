@@ -44,6 +44,9 @@
                <mods:titleInfo>
                   <mods:title>Antiphonarium Carmelitanum, Bd. 4 von 5 Bänden</mods:title>
                </mods:titleInfo>
+               <mods:physicalDescription>
+                  <mods:extent>331 Bl. + I</mods:extent>
+               </mods:physicalDescription>
             </mods:mods>
          </mets:xmlData>
       </mets:mdWrap>

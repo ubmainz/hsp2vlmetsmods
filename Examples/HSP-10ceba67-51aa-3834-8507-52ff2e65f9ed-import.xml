@@ -35,6 +35,9 @@
                <mods:titleInfo>
                   <mods:title>Antiphonarium Carmelitanum, Bd. 4 von 5 Bänden</mods:title>
                </mods:titleInfo>
+               <mods:physicalDescription>
+                  <mods:extent>331 Bl. + I</mods:extent>
+               </mods:physicalDescription>
                <mods:location>
                   <mods:url displayLabel="Ausführliche Beschreibung">https://handschriftenportal.de/search?hspobjectid=HSP-af363149-dc34-32ed-978d-5140ce813cbe</mods:url>
                </mods:location>

@@ -91,6 +91,14 @@
         </mods:titleInfo> 
     </xsl:template>
     
+    <xsl:template match="TEI:index[@indexName='norm_measure']" mode="mods">
+        <mods:physicalDescription>
+            <mods:extent>
+                <xsl:value-of select="TEI:term[@type='measure']"/>
+            </mods:extent>
+        </mods:physicalDescription>
+    </xsl:template>
+    
     <xsl:template match="TEI:index[@indexName='norm_origDate']" mode="mods-origininfo">
         <mods:dateIssued>
             <xsl:value-of select="TEI:term[@type='origDate']"/>
