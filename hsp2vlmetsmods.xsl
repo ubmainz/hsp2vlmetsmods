@@ -56,6 +56,7 @@
                             </xsl:when>
                         </xsl:choose>
                         <mods:genre authority="marcgt">script</mods:genre>
+                        <mods:typeOfResource>text</mods:typeOfResource>
                         <mods:originInfo>
                             <xsl:apply-templates mode="mods-origininfo"/>
                         </mods:originInfo>

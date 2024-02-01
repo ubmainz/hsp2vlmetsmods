@@ -21,6 +21,7 @@
                   <mods:url displayLabel="Ausführliche Beschreibung">https://handschriftenportal.de/search?hspobjectid=HSP-af363149-dc34-32ed-978d-5140ce813cbe</mods:url>
                </mods:location>
                <mods:genre authority="marcgt">script</mods:genre>
+               <mods:typeOfResource>text</mods:typeOfResource>
                <mods:originInfo>
                   <mods:place>
                      <mods:placeTerm type="text">Mainz</mods:placeTerm>
