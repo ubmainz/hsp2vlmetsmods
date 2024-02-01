@@ -27,18 +27,18 @@
         </mets:mets>
     </xsl:template>
  
-    <xsl:template match="TEI:sourceDesc" mode="mods">
+    <xsl:template match="TEI:msDesc" mode="mods">
         <xsl:message>
             <xsl:text>MODS: </xsl:text>
-            <xsl:value-of select="TEI:msDesc/@xml:id"/>
+            <xsl:value-of select="@xml:id"/>
         </xsl:message>
-        <mets:dmdSec ID="{TEI:msDesc/@xml:id}">
+        <mets:dmdSec ID="{@xml:id}">
             <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
                 <mets:xmlData>
                     <mods:mods>
                         <mods:recordInfo>
                             <mods:recordIdentifier>
-                                <xsl:value-of select="TEI:msDesc/@xml:id"/>
+                                <xsl:value-of select="@xml:id"/>
                             </mods:recordIdentifier>
                         </mods:recordInfo>
                         <mods:originInfo>
@@ -87,12 +87,12 @@
 
     </xsl:template>
     
-    <xsl:template match="TEI:sourceDesc" mode="map">
+    <xsl:template match="TEI:msDesc" mode="map">
         <xsl:message>
             <xsl:text>Map: </xsl:text>
-            <xsl:value-of select="TEI:msDesc/@xml:id"/>
+            <xsl:value-of select="@xml:id"/>
         </xsl:message>
-        <mets:div TYPE="document" DMDID="{concat('md-',TEI:msDesc/@xml:id)}" LABEL="Handschrift"/>
+        <mets:div TYPE="document" DMDID="{concat('md-',@xml:id)}" LABEL="Handschrift"/>
     </xsl:template>
     
     <xsl:template match="text()" mode="#all"/>

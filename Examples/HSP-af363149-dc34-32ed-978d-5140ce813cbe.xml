@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:dcr="http://www.isocat.org/ns/dcr" xmlns:egXML="http://www.tei-c.org/ns/Examples" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.6.3" xml:lang="de"><teiHeader><fileDesc><titleStmt><title>Beschreibung von Mainz, Bischöfliches Dom- und Diözesanmuseum Mainz, Inv. Nr. B 00330 Band C (Christoph Winterer)</title><respStmt><resp>Beschrieben von</resp><persName role="author">Christoph Winterer</persName><note>2022</note></respStmt></titleStmt><editionStmt><edition>Elektronische Ausgabe nach TEI P5</edition><respStmt><resp>Diese Datei wurde unter Anwendung des MXML-to-TEI-P5-Stylesheets, welches an der Herzog August Bibliothek Wolfenbüttel im Rahmen des Projektes "Handschriftenportal" gepflegt wird aus einem am 12.02.2023 19:32:50:339 erstellten HIDA-DOC1-XML-Dokument erstellt.</resp><name type="org">Handschriftenportal</name></respStmt></editionStmt><publicationStmt><publisher>
+    <name type="org">Handschriftenportal</name>
+</publisher><date when="2022" type="primary">2022</date><availability status="restricted"><licence target="http://rightsstatements.org/vocab/InC/1.0/">
+    <p>http://rightsstatements.org/vocab/InC/1.0/</p>
+</licence></availability><date when="2023-12-08" type="secondary">2023-12-08 00:19:21</date><pubPlace><ptr xml:id="HSP-d92a18de-9732-33a5-8c9c-c90a9efcab53" target="https://resolver.staatsbibliothek-berlin.de/HSP0006743400000000" subtype="hsp" type="purl"/></pubPlace></publicationStmt><sourceDesc><bibl>Christoph Winterer</bibl></sourceDesc></fileDesc><profileDesc><creation>
+    <date when="2011-07-04">04.07.2011</date>
+</creation></profileDesc><revisionDesc><change>
+    <date when="2023-01-16">2023-01-16 00:00:00</date>
+</change></revisionDesc></teiHeader><text><body><msDesc status="extern" xml:id="HSP-af363149-dc34-32ed-978d-5140ce813cbe" xml:lang="de" subtype="medieval" type="hsp:description"><msIdentifier><settlement key="NORM-3496da6c-1db0-3522-bedb-1fb4c415a154">Mainz</settlement><repository key="NORM-4fbca9c5-c7bf-39e4-8336-f120086daca1" ref="http://d-nb.info/gnd/2039019-1 https://sigel.staatsbibliothek-berlin.de/suche/?isil=DE-MUS-090211">Bischöfliches Dom- und Diözesanmuseum Mainz</repository><idno>Inv. Nr. B 00330 Band C</idno><altIdentifier type="mxml-ID"><idno>MXML-32372247</idno></altIdentifier><altIdentifier type="hsp-ID"><collection>Handschriftenportal Kulturobjektdokument-ID</collection><idno>HSP-10ceba67-51aa-3834-8507-52ff2e65f9ed</idno></altIdentifier></msIdentifier><head>
+    <index indexName="norm_title"><term type="title">Antiphonarium Carmelitanum, Bd. 4 von 5 Bänden</term></index>
+    <title>Antiphonarium Carmelitanum (vierter von 5 Bänden)</title>
+    <note type="headline">Alte Signatur: Ms. 977d - Pergament - 331 + I Bl. (gez. einschließlich vorderem Schmutzblatt 1-335; Blattverluste: 38, 91, 126, 149, 202 u. 293; Ziffern 197 u. 233 ausgelassen) - 61,3 x 41,7 cm - Mainz, Karmeliter - ca. 1433</note>
+    <index indexName="norm_material"><term type="material">Pergament</term><term type="material_type">parchment</term></index>
+    <index indexName="norm_measure"><term type="measure">331 Bl. + I</term><term type="measure_noOfLeaves">331</term></index>
+    <index indexName="norm_dimensions"><term type="dimensions">61,3 × 41,7</term><term type="height">61</term><term type="width">41,5</term><term type="depth"/><term type="dimensions_typeOfInformation">factual</term></index>
+    <index indexName="norm_format"><term type="format">larger than folio</term><term type="format_typeOfInformation">computed</term></index>
+    <index indexName="norm_origPlace"><term type="origPlace">Mainz</term><term key="NORM-3496da6c-1db0-3522-bedb-1fb4c415a154" ref="http://d-nb.info/gnd/4037124-4" type="origPlace_norm">Mainz</term></index>
+    <index indexName="norm_origDate"><term type="origDate">circa 1433</term><term type="origDate_notBefore">1423</term><term type="origDate_notAfter">1443</term><term type="origDate_type">datable</term></index>
+    <index indexName="norm_textLang"><term type="textLang"/><term type="textLang-ID"/></index>
+    <index indexName="norm_form"><term type="form">codex</term></index>
+    <index indexName="norm_status"><term type="status"/></index>
+    <index indexName="norm_decoration"><term type="decoration">yes</term></index>
+    <index indexName="norm_musicNotation"><term type="musicNotation">yes</term></index>
+</head><physDesc><p n="MXML-32372247"><ref target="#5704">Textura</ref>, nach König von einer Hand (Frater Nycolaus). <ref target="#5705">Quadratnotation</ref> auf rotem Vierliniensystem. Alternierend rote und blaue <ref target="#5270">Fleuronné-Initialen</ref> vor Antiphonen, Responsorien und Hymnen. Cadellen vor den Versikeln (mit geometrischem Blattbesatz). 2 Bildinitialen: 2r D-Initiale mit Johannes auf Patmos; 66r D-Initiale in der Matutin des Pfingstsonntags mit Pfingstereignis, die Apostel und Maria auf einer Wiese, die Taube ausgesandt von Gottvater in einem Himmelskreissegment. 110r zum Responsorium der Fronleichnamsprim große Fleuronné-Initiale mit Figuren. Nach Einschätzung von J. König wurden mindestens vier Bildseiten geraubt. - Cadellen von einer Hand, wohl dem Schreiber Frater Nycolaus (vgl. B 330 Band B).</p></physDesc><msPart type="binding" xml:id="MXML-32372248"><msIdentifier><idno>Einband</idno></msIdentifier><head>
+    <index indexName="norm_title"><term type="title"/></index>
+    <title/>
+    <note type="headline"/>
+    <index indexName="norm_material"><term type="material"/><term type="material_type"/></index>
+    <index indexName="norm_measure"><term type="measure"/><term type="measure_noOfLeaves"/></index>
+    <index indexName="norm_dimensions"><term type="dimensions"/><term type="height"/><term type="width"/><term type="depth"/><term type="dimensions_typeOfInformation"/></index>
+    <index indexName="norm_format"><term type="format"/><term type="format_typeOfInformation"/></index>
+    <index indexName="norm_origPlace"><term type="origPlace"/><term type="origPlace_norm"/></index>
+    <index indexName="norm_origDate"><term type="origDate"/><term type="origDate_notBefore"/><term type="origDate_notAfter"/><term type="origDate_type"/></index>
+    <index indexName="norm_textLang"><term type="textLang"/><term type="textLang-ID"/></index>
+    <index indexName="norm_form"><term type="form">binding</term></index>
+    <index indexName="norm_status"><term type="status"/></index>
+    <index indexName="norm_decoration"><term type="decoration"/></index>
+    <index indexName="norm_musicNotation"><term type="musicNotation"/></index>
+</head><physDesc><p n="MXML-32372248">Dunkelbrauner Ledereinband über Holz, im 16. Jahrhundert erneuert (Rollen aufgeführt bei König 2011, S. 259). Beschläge der 1430er Jahre jeweils bis auf die unteren durchbrochen gearbeiteten Eckbeschläge (Drachenmotive) sowie den Mittelbuckel auf der Rückseite (Rankenrad) verloren. Zwei erneuerte Langschließen, die Messingplatten an den Ansätzen jeweils mit einem Wappen: Adler u. Ochse vor Sternen.</p></physDesc></msPart><history><p n="MXML-32372247">Auf dem vorderen Spiegelblatt Signatur 977d (20. Jh.). Wie B 00330 Band A-B und D-E von <ref target="#bezper[0].4100">Johannes Fabri</ref>, dem späteren Prior des <ref target="#bezsoz[1].4600">Mainzer Karmeliterklosters</ref>, für dieses Kloster in Auftrag gegeben. Eine Datierung nach B 00330 Band B (1432) wahrscheinlich.</p></history><additional><listBibl><bibl>Zu den Karmeliterchorbüchern insgesamt vgl. Inv. Nr. B 00330 Band A.<lb/><lb/><lb/><lb/>Ausdrücklich zu diesem Band:<lb/><lb/>Boyce, James John: Cantica Carmelitana. The Chants of the Carmelite Office, 2 Bde., unpubl. Diss. New York 1984, Sigel CarMC.<lb/><lb/>Dobras, Wolfgang (Red.): Gutenberg - aventur und kunst. Vom Geheimunternehmen zur ersten Medienrevolution, hrsg. von der Stadt Mainz anlässlich des 600. Geburtstages von Johannes Gutenberg (Ausst.-Kat. Mainz 2000), Mainz 2000, Kat. Nr. LM 29 (Judith König).<lb/><lb/>König, Judith: Die Mainzer Karmeliter-Chorbücher. Studien zur mittelrheinischen Buchmalerei des 15. Jahrhunderts, Diss. Mainz 2006 [Katalog zu diesem Band: S. 26, 258-260]. [Online seit 2011: URL: http://ubm.opus.hbz-nrw.de/volltexte/2011/2828/ (URN: urn:nbn:de:hebis:77-28287).]<lb/><lb/><lb/><lb/>Abbildungen:<lb/><lb/>2r [Ausst.-Kat. Mainz 2000, S. 560; Detail; in Farbe]<lb/><lb/>Weitere Aufnahmen bei J. König 2006.<lb/><lb/><lb/><lb/>Permalink:<lb/><lb/>http://www.hss-census-rlp.ub.uni-mainz.de/mz-ddm-inv-nr-b-00330-c</bibl></listBibl></additional><msContents><msItem n="MXML-32372250"><note type="text"><ref target="#4665">2r-124r</ref> <ref target="#bezwrk[0].6930">Antiphonale</ref>, <ref target="#bezwrk[1].6930gi">Temporale</ref>, 3. Teil, vom 2. Sonntag nach Pfingsten bis Fronleichnam. Feste (ohne Wochentage):<lb/><lb/>- 2r <hi rend="italic">›Dominica secunda post pascha‹</hi>.<lb/><lb/>- 18v 3. Sonntag nach Ostern.<lb/><lb/>- 20v 4. Sonntag nach Ostern.<lb/><lb/>- 37r Christi Himmelfahrt.<lb/><lb/>- 57v Pfingstvigil.<lb/><lb/>- 64v Pfingsten (<hi rend="italic">›In die sancta‹</hi>).<lb/><lb/>- 88r Dreifaltigkeitssonntag.<lb/><lb/>- 105r Fronleichnam.</note><note type="register">
+    <p>
+        <index indexName="Abschrift" n="MXML-32372250_bezwrk[0]"><term type="6930">Antiphonale</term></index>
+        <index indexName="Abschrift" n="MXML-32372250_bezwrk[1]"><term type="6930gi">Temporale &amp; Proprium de tempore</term></index>
+    </p>
+</note></msItem><msItem n="MXML-32372251"><note type="text"><ref target="#4665">124r-335v</ref> <ref target="#bezwrk[0].6930">Antiphonale</ref>, <ref target="#bezwrk[1].6930gi">Sanktorale</ref>, 2. Teil, von der Vigil zur Geburt Johannes des Täufers bis zur Enthauptung des Johannes. Teilweise nur Angabe der Initien. Begeht u.a. Translatio s. Martini, Maria Magdalena, Anna (Ed. nach dieser Hs.: Boyce 1984, Bd. 2, S. 126-153), Inventio sancti Stephani, <hi rend="italic">›In transfiguratione domini‹</hi>, Maria Schnee, Dominikus, Zachäus, Augustinus. Kirchweihe zwischen Processus und Martinianus Heimsuchung Mariä.</note><note type="register">
+    <p>
+        <index indexName="Abschrift" n="MXML-32372251_bezwrk[0]"><term type="6930">Antiphonale</term></index>
+        <index indexName="Abschrift" n="MXML-32372251_bezwrk[1]"><term type="6930gi">Sanktorale &amp; Proprium de sanctis</term></index>
+    </p>
+</note></msItem></msContents><msPart type="other"><msIdentifier><idno>Sonstiges</idno></msIdentifier><p>
+    <index indexName="Vorbesitz" n="MXML-32372247_bezsoz[1]"><term type="4564">
+        <settlement>Mainz</settlement>
+    </term><term type="4600">
+        <orgName>Karmelitenkloster Mainz</orgName>
+    </term></index>
+    <index indexName="Auftrag" n="MXML-32372247_bezper[0]"><term type="4100">
+        <persName>Fabri, Johannes</persName>
+    </term></index>
+</p></msPart></msDesc></body></text></TEI>
