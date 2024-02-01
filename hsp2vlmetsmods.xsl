@@ -28,6 +28,10 @@
     </xsl:template>
  
     <xsl:template match="TEI:sourceDesc" mode="mods">
+        <xsl:message>
+            <xsl:text>MODS: </xsl:text>
+            <xsl:value-of select="TEI:msDesc/@xml:id"/>
+        </xsl:message>
         <mets:dmdSec ID="{TEI:msDesc/@xml:id}">
             <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
                 <mets:xmlData>
@@ -85,7 +89,7 @@
     
     <xsl:template match="TEI:sourceDesc" mode="map">
         <xsl:message>
-            <xsl:text>Found: </xsl:text>
+            <xsl:text>Map: </xsl:text>
             <xsl:value-of select="TEI:msDesc/@xml:id"/>
         </xsl:message>
         <mets:div TYPE="document" DMDID="{concat('md-',TEI:msDesc/@xml:id)}" LABEL="Handschrift"/>
