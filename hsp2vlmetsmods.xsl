@@ -32,7 +32,7 @@
             <xsl:text>MODS: </xsl:text>
             <xsl:value-of select="@xml:id"/>
         </xsl:message>
-        <mets:dmdSec ID="{@xml:id}">
+        <mets:dmdSec ID="{concat('md-',@xml:id)}">
             <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
                 <mets:xmlData>
                     <mods:mods>

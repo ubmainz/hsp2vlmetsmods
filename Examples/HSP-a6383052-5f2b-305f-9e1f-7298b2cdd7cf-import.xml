@@ -10,7 +10,7 @@
          <mets:name>hsp2vlmetsmods-Skript Knepper 02/2024</mets:name>
       </mets:agent>
    </mets:metsHdr>
-   <mets:dmdSec ID="HSP-a6383052-5f2b-305f-9e1f-7298b2cdd7cf">
+   <mets:dmdSec ID="md-HSP-a6383052-5f2b-305f-9e1f-7298b2cdd7cf">
       <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
          <mets:xmlData>
             <mods:mods>
