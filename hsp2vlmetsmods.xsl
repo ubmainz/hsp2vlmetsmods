@@ -142,7 +142,7 @@
             <xsl:text>Map: </xsl:text>
             <xsl:value-of select="@xml:id"/>
         </xsl:message>
-        <mets:div TYPE="manuscript" DMDID="{concat('md-',@xml:id)}" LABEL="Handschrift"/>
+        <mets:div TYPE="document" DMDID="{concat('md-',@xml:id)}" LABEL="Handschrift"/>
     </xsl:template>
     
     <xsl:template match="text()" mode="#all"/>

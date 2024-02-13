@@ -58,7 +58,7 @@
       </mets:mdWrap>
    </mets:dmdSec>
    <mets:structMap TYPE="logical">
-      <mets:div TYPE="manuscript"
+      <mets:div TYPE="document"
                 DMDID="md-HSP-569d1190-af90-3aa3-94a6-6801dec81859"
                 LABEL="Handschrift"/>
    </mets:structMap>
