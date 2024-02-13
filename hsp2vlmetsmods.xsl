@@ -63,7 +63,11 @@
                             <xsl:apply-templates mode="mods-origininfo"/>
                         </mods:originInfo>
                         <mods:physicalDescription>
-                            <xsl:apply-templates mode="mods-physical"/>
+                            <mods:extent>
+                                <xsl:value-of select="string-join((//TEI:index[@indexName='norm_measure']/TEI:term[@type='measure']/text(),
+                                //TEI:index[@indexName='norm_material']/TEI:term[@type='material']/text(),
+                                //TEI:index[@indexName='norm_dimensions']/TEI:term[@type='dimensions']/text()),' ; ')"/>
+                            </mods:extent>
                         </mods:physicalDescription>
                         <xsl:apply-templates mode="mods"/>
                     </mods:mods>
@@ -106,18 +110,6 @@
         </mods:location>
     </xsl:template>
     
-    <xsl:template match="TEI:index[@indexName='norm_measure']" mode="mods-physical">
-        <mods:extent>
-            <xsl:value-of select="TEI:term[@type='measure']"/>
-        </mods:extent>
-    </xsl:template>
-    
-    <xsl:template match="TEI:index[@indexName='norm_material']" mode="mods-physical">
-        <mods:form type="material">
-            <xsl:value-of select="TEI:term[@type='material']"/>
-        </mods:form>
-    </xsl:template>
-    
     <xsl:template match="TEI:index[@indexName='norm_origDate']" mode="mods-origininfo">
         <mods:dateIssued>
             <xsl:value-of select="TEI:term[@type='origDate']"/>
@@ -150,7 +142,7 @@
             <xsl:text>Map: </xsl:text>
             <xsl:value-of select="@xml:id"/>
         </xsl:message>
-        <mets:div TYPE="document" DMDID="{concat('md-',@xml:id)}" LABEL="Handschrift"/>
+        <mets:div TYPE="manuscript" DMDID="{concat('md-',@xml:id)}" LABEL="Handschrift"/>
     </xsl:template>
     
     <xsl:template match="text()" mode="#all"/>

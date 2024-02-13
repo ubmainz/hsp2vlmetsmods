@@ -33,8 +33,7 @@
                   <mods:dateIssued encoding="w3cdtf" point="end">1400</mods:dateIssued>
                </mods:originInfo>
                <mods:physicalDescription>
-                  <mods:form type="material">Pergament</mods:form>
-                  <mods:extent>299 Bl.</mods:extent>
+                  <mods:extent>299 Bl. ; Pergament ; 18,8 × 13</mods:extent>
                </mods:physicalDescription>
                <mods:location>
                   <mods:shelfLocator>Ms 123</mods:shelfLocator>
@@ -53,7 +52,7 @@
       </mets:mdWrap>
    </mets:dmdSec>
    <mets:structMap TYPE="logical">
-      <mets:div TYPE="document"
+      <mets:div TYPE="manuscript"
                 DMDID="md-HSP-6dcdba19-8820-3f2b-b7da-e853d4761691"
                 LABEL="Handschrift"/>
    </mets:structMap>

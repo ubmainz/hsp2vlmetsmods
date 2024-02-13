@@ -38,8 +38,7 @@
                   <mods:dateIssued encoding="w3cdtf" point="end">1443</mods:dateIssued>
                </mods:originInfo>
                <mods:physicalDescription>
-                  <mods:form type="material">Pergament</mods:form>
-                  <mods:extent>331 Bl. + I</mods:extent>
+                  <mods:extent>331 Bl. + I ; Pergament ; 61,3 × 41,7</mods:extent>
                </mods:physicalDescription>
                <mods:location>
                   <mods:shelfLocator>Inv. Nr. B 00330 Band C</mods:shelfLocator>
@@ -53,7 +52,7 @@
       </mets:mdWrap>
    </mets:dmdSec>
    <mets:structMap TYPE="logical">
-      <mets:div TYPE="document"
+      <mets:div TYPE="manuscript"
                 DMDID="md-HSP-af363149-dc34-32ed-978d-5140ce813cbe"
                 LABEL="Handschrift"/>
    </mets:structMap>

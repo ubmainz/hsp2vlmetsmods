@@ -42,8 +42,7 @@
                   <mods:dateIssued encoding="w3cdtf" point="end">1020</mods:dateIssued>
                </mods:originInfo>
                <mods:physicalDescription>
-                  <mods:form type="material">Pergament</mods:form>
-                  <mods:extent>II + 32 Bl. + I</mods:extent>
+                  <mods:extent>II + 32 Bl. + I ; Pergament ; 28,3 × 20,9</mods:extent>
                </mods:physicalDescription>
                <mods:location>
                   <mods:shelfLocator>Inv. Nr. B 00258</mods:shelfLocator>
@@ -59,7 +58,7 @@
       </mets:mdWrap>
    </mets:dmdSec>
    <mets:structMap TYPE="logical">
-      <mets:div TYPE="document"
+      <mets:div TYPE="manuscript"
                 DMDID="md-HSP-569d1190-af90-3aa3-94a6-6801dec81859"
                 LABEL="Handschrift"/>
    </mets:structMap>
