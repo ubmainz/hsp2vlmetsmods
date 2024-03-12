@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mets:mets xmlns:TEI="http://www.tei-c.org/ns/1.0"
+           xmlns:mods="http://www.loc.gov/mods/v3"
+           xmlns:dc="http://purl.org/dc/elements/1.1/"
+           xmlns:dcterms="http://purl.org/dc/terms/"
+           xmlns:mets="http://www.loc.gov/METS/"
+           xmlns:xlink="http://www.w3.org/1999/xlink">
+   <mets:metsHdr>
+      <mets:agent ROLE="CREATOR">
+         <mets:name>hsp2vlmetsmods-Skript Knepper 02/2024</mets:name>
+      </mets:agent>
+   </mets:metsHdr>
+   <mets:dmdSec ID="md-HSP-521ee5fe-0315-3662-aa4c-4364ec48e835">
+      <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+         <mets:xmlData>
+            <mods:mods>
+               <mods:recordInfo>
+                  <mods:recordIdentifier>HSP-521ee5fe-0315-3662-aa4c-4364ec48e835</mods:recordIdentifier>
+               </mods:recordInfo>
+               <mods:identifier type="HSP">HSP-521ee5fe-0315-3662-aa4c-4364ec48e835</mods:identifier>
+               <mods:genre authority="marcgt">script</mods:genre>
+               <mods:typeOfResource>text</mods:typeOfResource>
+               <mods:accessCondition type="use and reproduction"
+                                     xlink:href="https://creativecommons.org/publicdomain/mark/1.0/"
+                                     displayLabel="Public Domain Mark 1.0">pdm</mods:accessCondition>
+               <mods:originInfo>
+                  <mods:issuance>monographic</mods:issuance>
+                  <mods:place>
+                     <mods:placeTerm type="text">Mainz</mods:placeTerm>
+                     <mods:placeTerm authority="gnd"
+                                     authorityURI="http://d-nb.info/gnd/"
+                                     valueURI="http://d-nb.info/gnd/4037124-4"/>
+                  </mods:place>
+                  <mods:dateIssued>14. Jh., Anfang</mods:dateIssued>
+                  <mods:dateIssued encoding="w3cdtf" point="start" keyDate="yes">1301</mods:dateIssued>
+                  <mods:dateIssued encoding="w3cdtf" point="end">1315</mods:dateIssued>
+               </mods:originInfo>
+               <mods:physicalDescription>
+                  <mods:extent>I + 88 Bl. ; Pergament ; 34,5 × 28</mods:extent>
+               </mods:physicalDescription>
+               <mods:location>
+                  <mods:shelfLocator>Inv. Nr. B 00296</mods:shelfLocator>
+               </mods:location>
+               <mods:titleInfo>
+                  <mods:title>Epistolar aus St. Maria ad Gradus</mods:title>
+               </mods:titleInfo>
+               <mods:location>
+                  <mods:url displayLabel="Ausführliche Beschreibung">https://handschriftenportal.de/search?hspobjectid=HSP-1d00d83b-3d8f-3aa7-86c6-7dc0793b100b</mods:url>
+               </mods:location>
+            </mods:mods>
+         </mets:xmlData>
+      </mets:mdWrap>
+   </mets:dmdSec>
+   <mets:structMap TYPE="logical">
+      <mets:div TYPE="document"
+                DMDID="md-HSP-521ee5fe-0315-3662-aa4c-4364ec48e835"
+                LABEL="Handschrift"/>
+   </mets:structMap>
+</mets:mets>
