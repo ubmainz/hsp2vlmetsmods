@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude"
+    xmlns:dcr="http://www.isocat.org/ns/dcr" xmlns:egXML="http://www.tei-c.org/ns/Examples"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <teiHeader xml:lang="de">
+        <fileDesc>
+            <titleStmt>
+                <title>Kulturobjektdokument von Speyer, Pfälzische Landesbibliothek, Hs. 9</title>
+                <respStmt>
+                    <resp>Herausgegeben vom</resp>
+                    <orgName>Handschriftenportal</orgName>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>Elektronische Ausgabe nach TEI P5</edition>
+                <respStmt>
+                    <resp>Automatisch generierte Ausgabe</resp>
+                    <orgName>Handschriftenportal</orgName>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Handschriftenportal</orgName>
+                    <ptr target="http://www.handschriftenportal.de"/>
+                </publisher>
+                <date when="2023-06-06" type="issued">2023-06-06</date>
+                <distributor>Handschriftenportal</distributor>
+                <availability status="free">
+                    <licence target="https://creativecommons.org/publicdomain/zero/1.0/deed.de">
+                        <p>Lizenziert nach
+                            https://creativecommons.org/publicdomain/zero/1.0/deed.de</p>
+                    </licence>
+                </availability>
+                <pubPlace>
+                    <ptr xml:id="HSP-730f83c4-772e-3943-a534-a1c45b091f7e" subtype="hsp" type="purl"
+                        target="https://resolver.staatsbibliothek-berlin.de/HSP000656B100000000"/>
+                </pubPlace>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc xml:id="HSP-fcd3bf64-d7d1-3d3f-9034-87ee8d3089db" xml:lang="de"
+                    type="hsp:object">
+                    <msIdentifier>
+                        <settlement ref="4056179-3" key="NORM-cce0cb57-5872-397a-99eb-93ba6cdabe5b"
+                            >Speyer</settlement>
+                        <repository ref="37777-6" key="NORM-a3e2857c-1393-3d7e-b3af-0045e31f9aa8"
+                            >Pfälzische Landesbibliothek</repository>
+                        <idno>Hs. 9</idno>
+                        <altIdentifier type="alternative">
+                            <idno>Inv.-Nr. G 1998.756</idno>
+                        </altIdentifier>
+                    </msIdentifier>
+                    <head>
+                        <index indexName="norm_title"
+                            copyOf="#HSP-718a6ea9-9b3e-3196-8961-d95fa3b0b655"
+                            source="https://resolver.staatsbibliothek-berlin.de/HSP00066B5E00000000">
+                            <term type="title">Sermones de tempore</term>
+                        </index><index indexName="norm_material"
+                            copyOf="#HSP-718a6ea9-9b3e-3196-8961-d95fa3b0b655"
+                            source="https://resolver.staatsbibliothek-berlin.de/HSP00066B5E00000000">
+                            <term type="material">Papier</term>
+                            <term type="material_type">paper</term>
+                        </index><index indexName="norm_measure"
+                            copyOf="#HSP-718a6ea9-9b3e-3196-8961-d95fa3b0b655"
+                            source="https://resolver.staatsbibliothek-berlin.de/HSP00066B5E00000000">
+                            <term type="measure">203 Bl.</term>
+                            <term type="measure_noOfLeaves">203</term>
+                        </index><index indexName="norm_dimensions"
+                            copyOf="#HSP-718a6ea9-9b3e-3196-8961-d95fa3b0b655"
+                            source="https://resolver.staatsbibliothek-berlin.de/HSP00066B5E00000000">
+                            <term type="dimensions">21 × 16</term>
+                            <term type="height">21</term>
+                            <term type="width">16</term>
+                            <term type="depth"/>
+                            <term type="dimensions_typeOfInformation">factual</term>
+                        </index><index indexName="norm_format"
+                            copyOf="#HSP-718a6ea9-9b3e-3196-8961-d95fa3b0b655"
+                            source="https://resolver.staatsbibliothek-berlin.de/HSP00066B5E00000000">
+                            <term type="format">quarto</term>
+                            <term type="format_typeOfInformation">computed</term>
+                        </index><index indexName="norm_format"
+                            copyOf="#HSP-718a6ea9-9b3e-3196-8961-d95fa3b0b655"
+                            source="https://resolver.staatsbibliothek-berlin.de/HSP00066B5E00000000">
+                            <term type="format">octavo</term>
+                            <term type="format_typeOfInformation">computed</term>
+                        </index><index indexName="norm_origPlace"
+                            copyOf="#HSP-718a6ea9-9b3e-3196-8961-d95fa3b0b655"
+                            source="https://resolver.staatsbibliothek-berlin.de/HSP00066B5E00000000">
+                            <term type="origPlace">Mittelitalien</term>
+                            <term type="origPlace_norm" ref="http://d-nb.info/gnd/4039689-7"
+                                key="NORM-d083012d-0bbb-3179-86ac-619d9fc44c95">Mittelitalien</term>
+                        </index><index indexName="norm_origDate"
+                            copyOf="#HSP-718a6ea9-9b3e-3196-8961-d95fa3b0b655"
+                            source="https://resolver.staatsbibliothek-berlin.de/HSP00066B5E00000000">
+                            <term type="origDate">15. Jh., 9. Jahrzehnt</term>
+                            <term type="origDate_notBefore">1481</term>
+                            <term type="origDate_notAfter">1490</term>
+                            <term type="origDate_type">datable</term>
+                        </index><index indexName="norm_textLang"
+                            copyOf="#HSP-718a6ea9-9b3e-3196-8961-d95fa3b0b655"
+                            source="https://resolver.staatsbibliothek-berlin.de/HSP00066B5E00000000">
+                            <term type="textLang">lateinisch / italienisch</term>
+                            <term type="textLang-ID">la</term>
+                            <term type="textLang-ID">it</term>
+                        </index><index indexName="norm_form"
+                            copyOf="#HSP-718a6ea9-9b3e-3196-8961-d95fa3b0b655"
+                            source="https://resolver.staatsbibliothek-berlin.de/HSP00066B5E00000000">
+                            <term type="form">codex</term>
+                        </index><index indexName="norm_status">
+                            <term type="status"/>
+                        </index><index indexName="norm_decoration"
+                            copyOf="#HSP-718a6ea9-9b3e-3196-8961-d95fa3b0b655"
+                            source="https://resolver.staatsbibliothek-berlin.de/HSP00066B5E00000000">
+                            <term type="decoration">yes</term>
+                        </index><index indexName="norm_musicNotation">
+                            <term type="musicNotation"/>
+                        </index></head>
+                    <additional>
+                        <adminInfo>
+                            <availability status="free">
+                                <licence
+                                    target="https://creativecommons.org/publicdomain/zero/1.0/deed.de">
+                                    <p>Lizenziert nach
+                                        https://creativecommons.org/publicdomain/zero/1.0/deed.de</p>
+                                </licence>
+                            </availability>
+                        </adminInfo>
+                        <listBibl>
+                            <bibl><ref target="HSP-718a6ea9-9b3e-3196-8961-d95fa3b0b655"/></bibl>
+                        </listBibl>
+                    </additional>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p/>
+        </body>
+    </text>
+</TEI>

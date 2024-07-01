@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mets:mets xmlns:TEI="http://www.tei-c.org/ns/1.0"
+           xmlns:mods="http://www.loc.gov/mods/v3"
+           xmlns:dc="http://purl.org/dc/elements/1.1/"
+           xmlns:dcterms="http://purl.org/dc/terms/"
+           xmlns:mets="http://www.loc.gov/METS/"
+           xmlns:xlink="http://www.w3.org/1999/xlink">
+   <mets:metsHdr>
+      <mets:agent ROLE="CREATOR">
+         <mets:name>hsp2vlmetsmods-Skript Knepper 02/2024</mets:name>
+      </mets:agent>
+   </mets:metsHdr>
+   <mets:dmdSec ID="md-HSP-fcd3bf64-d7d1-3d3f-9034-87ee8d3089db">
+      <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+         <mets:xmlData>
+            <mods:mods>
+               <mods:recordInfo>
+                  <mods:recordIdentifier>HSP-fcd3bf64-d7d1-3d3f-9034-87ee8d3089db</mods:recordIdentifier>
+               </mods:recordInfo>
+               <mods:identifier type="HSP">HSP-fcd3bf64-d7d1-3d3f-9034-87ee8d3089db</mods:identifier>
+               <mods:genre authority="marcgt">script</mods:genre>
+               <mods:typeOfResource>text</mods:typeOfResource>
+               <mods:accessCondition type="use and reproduction"
+                                     xlink:href="https://creativecommons.org/publicdomain/mark/1.0/"
+                                     displayLabel="Public Domain Mark 1.0">pdm</mods:accessCondition>
+               <mods:originInfo>
+                  <mods:issuance>monographic</mods:issuance>
+                  <mods:place>
+                     <mods:placeTerm type="text">Mittelitalien</mods:placeTerm>
+                     <mods:placeTerm authority="gnd"
+                                     authorityURI="http://d-nb.info/gnd/"
+                                     valueURI="http://d-nb.info/gnd/4039689-7"/>
+                  </mods:place>
+                  <mods:dateIssued>15. Jh., 9. Jahrzehnt</mods:dateIssued>
+                  <mods:dateIssued encoding="w3cdtf" point="start" keyDate="yes">1481</mods:dateIssued>
+                  <mods:dateIssued encoding="w3cdtf" point="end">1490</mods:dateIssued>
+               </mods:originInfo>
+               <mods:physicalDescription>
+                  <mods:extent>203 Bl. ; Papier ; 21 × 16</mods:extent>
+               </mods:physicalDescription>
+               <mods:location>
+                  <mods:shelfLocator>Hs. 9</mods:shelfLocator>
+               </mods:location>
+               <mods:titleInfo>
+                  <mods:title>Sermones de tempore</mods:title>
+               </mods:titleInfo>
+               <mods:location>
+                  <mods:url displayLabel="Ausführliche Beschreibung">https://handschriftenportal.de/search?hspobjectid=HSP-718a6ea9-9b3e-3196-8961-d95fa3b0b655</mods:url>
+               </mods:location>
+            </mods:mods>
+         </mets:xmlData>
+      </mets:mdWrap>
+   </mets:dmdSec>
+   <mets:structMap TYPE="logical">
+      <mets:div TYPE="document"
+                DMDID="md-HSP-fcd3bf64-d7d1-3d3f-9034-87ee8d3089db"
+                LABEL="Handschrift"/>
+   </mets:structMap>
+</mets:mets>
