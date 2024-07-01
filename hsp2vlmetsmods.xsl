@@ -70,6 +70,13 @@
                             </mods:extent>
                         </mods:physicalDescription>
                         <xsl:apply-templates mode="mods"/>
+                        <xsl:if test="not(//TEI:index[@indexName='norm_textLang'])">
+                            <mods:language>
+                                <mods:languageTerm type="code" authority="iso639-2b">
+                                    <xsl:text>lat</xsl:text>
+                                </mods:languageTerm>
+                            </mods:language>    
+                        </xsl:if>
                     </mods:mods>
                 </mets:xmlData>
             </mets:mdWrap>

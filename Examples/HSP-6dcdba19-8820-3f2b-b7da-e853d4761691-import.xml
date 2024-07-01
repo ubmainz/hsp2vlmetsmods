@@ -41,6 +41,9 @@
                <mods:titleInfo>
                   <mods:title>Theologische Sammelhandschrift</mods:title>
                </mods:titleInfo>
+               <mods:language>
+                  <mods:languageTerm type="code" authority="iso639-2b">lat</mods:languageTerm>
+               </mods:language>
                <mods:location>
                   <mods:shelfLocator>HSP-5a88ca19-6353-340a-9ec7-5d05090e65c2</mods:shelfLocator>
                </mods:location>
