@@ -136,7 +136,20 @@
             </xsl:for-each>
         </mods:place>
     </xsl:template>
-   
+ 
+    <xsl:template match="TEI:index[@indexName='norm_textLang']/TEI:term[@type='textLang-ID']" mode="mods">
+        <xsl:variable name="iso639_1" select="('de','la','it','fr','ca')"/>
+        <xsl:variable name="iso639_2b" select="('ger','lat','ita','fre','cat')"/>
+        <xsl:variable name="i" select="index-of($iso639_1,.)"/>
+            <xsl:if test="$i>0">
+                <mods:language>
+                    <mods:languageTerm type="code" authority="iso639-2b">
+                        <xsl:value-of select="$iso639_2b[$i]"/>
+                     </mods:languageTerm>
+                </mods:language>
+            </xsl:if>
+    </xsl:template>
+ 
     <xsl:template match="TEI:msDesc" mode="map">
         <xsl:message>
             <xsl:text>Map: </xsl:text>

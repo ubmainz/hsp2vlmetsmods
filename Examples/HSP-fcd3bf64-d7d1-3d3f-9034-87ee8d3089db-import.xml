@@ -44,6 +44,12 @@
                <mods:titleInfo>
                   <mods:title>Sermones de tempore</mods:title>
                </mods:titleInfo>
+               <mods:language>
+                  <mods:languageTerm type="code" authority="iso639-2b">lat</mods:languageTerm>
+               </mods:language>
+               <mods:language>
+                  <mods:languageTerm type="code" authority="iso639-2b">ita</mods:languageTerm>
+               </mods:language>
                <mods:location>
                   <mods:url displayLabel="Ausführliche Beschreibung">https://handschriftenportal.de/search?hspobjectid=HSP-718a6ea9-9b3e-3196-8961-d95fa3b0b655</mods:url>
                </mods:location>
