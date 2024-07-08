@@ -1,0 +1,109 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:dcr="http://www.isocat.org/ns/dcr" xmlns:egXML="http://www.tei-c.org/ns/Examples" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <teiHeader xml:lang="de">
+        <fileDesc>
+            <titleStmt>
+                <title>Kulturobjektdokument von Mainz, Wissenschaftliche Stadtbibliothek Mainz, Hs II 263</title>
+                <respStmt>
+                    <resp>Herausgegeben vom</resp>
+                    <orgName>Handschriftenportal</orgName>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>Elektronische Ausgabe nach TEI P5</edition>
+                <respStmt>
+                    <resp>Automatisch generierte Ausgabe</resp>
+                    <orgName>Handschriftenportal</orgName>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Handschriftenportal</orgName>
+                    <ptr target="http://www.handschriftenportal.de"/>
+                </publisher>
+                <date when="2023-06-06" type="issued">2023-06-06</date>
+                <distributor>Handschriftenportal</distributor>
+                <availability status="free">
+                    <licence target="https://creativecommons.org/publicdomain/zero/1.0/deed.de">
+                        <p>Lizenziert nach https://creativecommons.org/publicdomain/zero/1.0/deed.de</p>
+                    </licence>
+                </availability>
+                <pubPlace>
+                    <ptr xml:id="HSP-f8cd5c06-9615-392c-8723-7c5a9541b867" target="https://resolver.staatsbibliothek-berlin.de/HSP0006545200000000" subtype="hsp" type="purl"/>
+                </pubPlace>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc xml:id="HSP-c0176c6d-2028-3c7e-a8ee-ab1a5a1c725a" xml:lang="de" type="hsp:object"><msIdentifier>
+                    <settlement key="NORM-3496da6c-1db0-3522-bedb-1fb4c415a154" ref="4037124-4">Mainz</settlement>
+                    <repository key="NORM-7f46d75e-f173-31c5-83b7-728a9283001e" ref="10132049-8">Wissenschaftliche Stadtbibliothek Mainz</repository>
+                    <idno>Hs II 263</idno>
+                    <altIdentifier type="alternative">
+                        <idno>VI/71</idno>
+                    </altIdentifier>
+                </msIdentifier><head>
+                    <index indexName="norm_title">
+                        <term type="title"/>
+                    </index>
+                    <index indexName="norm_material">
+                        <term type="material"/>
+                        <term type="material_type"/>
+                    </index>
+                    <index indexName="norm_measure">
+                        <term type="measure"/>
+                        <term type="measure_noOfLeaves"/>
+                    </index>
+                    <index indexName="norm_dimensions">
+                        <term type="dimensions"/>
+                        <term type="height"/>
+                        <term type="width"/>
+                        <term type="depth"/>
+                        <term type="dimensions_typeOfInformation"/>
+                    </index>
+                    <index indexName="norm_format">
+                        <term type="format"/>
+                        <term type="format_typeOfInformation"/>
+                    </index>
+                    <index indexName="norm_origPlace">
+                        <term type="origPlace"/>
+                        <term type="origPlace_norm"/>
+                    </index>
+                    <index indexName="norm_origDate">
+                        <term type="origDate"/>
+                        <term type="origDate_notBefore"/>
+                        <term type="origDate_notAfter"/>
+                        <term type="origDate_type"/>
+                    </index>
+                    <index indexName="norm_textLang">
+                        <term type="textLang"/>
+                        <term type="textLang-ID"/>
+                    </index>
+                    <index indexName="norm_form">
+                        <term type="form"/>
+                    </index>
+                    <index indexName="norm_status">
+                        <term type="status"/>
+                    </index>
+                    <index indexName="norm_decoration">
+                        <term type="decoration"/>
+                    </index>
+                    <index indexName="norm_musicNotation">
+                        <term type="musicNotation"/>
+                    </index>
+                </head><additional>
+                    <adminInfo>
+                        <availability status="free">
+                            <licence target="https://creativecommons.org/publicdomain/zero/1.0/deed.de">
+                                <p>Lizenziert nach https://creativecommons.org/publicdomain/zero/1.0/deed.de</p>
+                            </licence>
+                        </availability>
+                    </adminInfo>
+                </additional></msDesc>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p/>
+        </body>
+    </text>
+</TEI>
+
