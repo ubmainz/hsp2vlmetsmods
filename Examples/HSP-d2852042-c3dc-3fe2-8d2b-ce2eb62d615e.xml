@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?><TEI version="3.1.1" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:dcr="http://www.isocat.org/ns/dcr" xmlns:egXML="http://www.tei-c.org/ns/Examples" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><teiHeader><fileDesc><titleStmt><title>Beschreibung von Mainz, Wissenschaftliche Stadtbibliothek Mainz, Hs I 635 (598)</title><respStmt><resp>Beschrieben von</resp><persName role="author">Christoph Winterer</persName></respStmt></titleStmt><editionStmt><edition>Elektronische Ausgabe nach TEI P5</edition><respStmt><resp>Diese Datei wurde unter Anwendung des MXML-to-TEI-P5-Stylesheets, welches an der Herzog August Bibliothek Wolfenbüttel im Rahmen des Projektes "Handschriftenportal" gepflegt wird aus einem am 08.04.2024 17:16:43:757 erstellten HIDA-DOC1-XML-Dokument erstellt.</resp><name type="org">Handschriftenportal</name></respStmt></editionStmt><publicationStmt><publisher>
+                  <name type="org">Handschriftenportal</name>
+               </publisher><date when="2022" type="primary">2022</date><availability status="restricted"><licence target="http://rightsstatements.org/vocab/InC/1.0/">
+                     <p>http://rightsstatements.org/vocab/InC/1.0/</p>
+                  </licence></availability><idno type="hsk">598</idno><date when="2024-08-15" type="secondary">2024-08-15 21:10:52</date><pubPlace><ptr xml:id="HSP-33564403-b9eb-3dc1-a99e-f79e16967914" subtype="hsp" type="purl" target="https://resolver.staatsbibliothek-berlin.de/HSP00066D8800000000"/></pubPlace></publicationStmt><sourceDesc><bibl>598</bibl></sourceDesc></fileDesc><profileDesc><creation>
+               <date when="2019-01-03">03.01.2019</date>
+            </creation></profileDesc><revisionDesc><change>
+               <date when="2024-03-28">2024-03-28 00:00:00</date>
+            </change></revisionDesc></teiHeader><text><body><msDesc status="extern" xml:id="HSP-d2852042-c3dc-3fe2-8d2b-ce2eb62d615e" xml:lang="de" subtype="medieval" type="hsp:description"><msIdentifier><settlement ref="http://d-nb.info/gnd/4037124-4" key="NORM-3496da6c-1db0-3522-bedb-1fb4c415a154">Mainz</settlement><repository ref="http://d-nb.info/gnd/10132049-8 https://sigel.staatsbibliothek-berlin.de/suche/?isil=DE-36" key="NORM-7f46d75e-f173-31c5-83b7-728a9283001e">Wissenschaftliche Stadtbibliothek Mainz</repository><collection>Hs I</collection><collection type="baseShelfmarkGroup">Hs I 601-700</collection><idno>Hs I 635</idno><altIdentifier type="mxml-ID"><idno>MXML-32143412</idno></altIdentifier><altIdentifier type="hsp-ID"><collection>Handschriftenportal Kulturobjektdokument-ID</collection><idno>HSP-f1a8a260-aba7-3345-a20e-677bd52169bf</idno></altIdentifier></msIdentifier><head>
+                  <index indexName="norm_title"><term type="title">Sammelhandschrift zu Themen des Pisaner Konzils</term></index>
+                  <title>Sammelhandschrift zu Themen des Pisaner Konzils</title>
+                  <note type="headline">Papier - 21,2 x 14 cm - II + 236 + I Bl. (II nur Blattrest) - wohl Italien (oder möglicherweise Konstanz)? - 2. oder 3. Jahrzehnt 15. Jh</note>
+                  <index indexName="norm_material"><term type="material">Papier</term><term type="material_type">paper</term></index>
+                  <index indexName="norm_measure"><term type="measure">II + 236 Bl. + I</term><term type="measure_noOfLeaves">236</term></index>
+                  <index indexName="norm_dimensions"><term type="dimensions">21,2 × 14</term><term type="height">21</term><term type="width">14</term><term type="depth"/><term type="dimensions_typeOfInformation">factual</term></index>
+                  <index indexName="norm_format"><term type="format">quarto</term><term type="format_typeOfInformation">computed</term></index>
+                  <index indexName="norm_origPlace"><term type="origPlace">Italien (?) / Konstanz (?)</term><term type="origPlace_norm" ref="http://d-nb.info/gnd/4027833-5" key="NORM-389962c9-dec5-30ab-a8d0-4517e82c3996">Italien</term><term type="origPlace_norm" ref="http://d-nb.info/gnd/4032215-4" key="NORM-7492c6d9-128b-38eb-8182-30d46e257d92">Konstanz</term></index>
+                  <index indexName="norm_origDate"><term type="origDate">15. Jh., 2./3. Jahrzehnt</term><term type="origDate_notBefore">1411</term><term type="origDate_notAfter">1430</term><term type="origDate_type">datable</term></index>
+                  <index indexName="norm_textLang"><term type="textLang"/><term type="textLang-ID"/></index>
+                  <index indexName="norm_form"><term type="form">codex</term></index>
+                  <index indexName="norm_status"><term type="status"/></index>
+                  <index indexName="norm_decoration"><term type="decoration"/></index>
+                  <index indexName="norm_musicNotation"><term type="musicNotation"/></index>
+               </head><physDesc><p n="MXML-32143412-par04">Wahrscheinlich Bastarda und gotische Kursive von von mehreren unterschiedlichen, anscheinend zummindest italienisch beeinflussten Händen, wechselnde Zeilenzahl. 166r-235v Klammerglosse.</p></physDesc><msPart type="binding" xml:id="MXML-32143413"><msIdentifier><idno>Einband</idno></msIdentifier><head>
+                     <index indexName="norm_title"><term type="title"/></index>
+                     <title/>
+                     <note type="headline">1965</note>
+                     <index indexName="norm_material"><term type="material"/><term type="material_type"/></index>
+                     <index indexName="norm_measure"><term type="measure"/><term type="measure_noOfLeaves"/></index>
+                     <index indexName="norm_dimensions"><term type="dimensions"/><term type="height"/><term type="width"/><term type="depth"/><term type="dimensions_typeOfInformation"/></index>
+                     <index indexName="norm_format"><term type="format"/><term type="format_typeOfInformation"/></index>
+                     <index indexName="norm_origPlace"><term type="origPlace"/><term type="origPlace_norm"/></index>
+                     <index indexName="norm_origDate"><term type="origDate"/><term type="origDate_notBefore"/><term type="origDate_notAfter"/><term type="origDate_type"/></index>
+                     <index indexName="norm_textLang"><term type="textLang"/><term type="textLang-ID"/></index>
+                     <index indexName="norm_form"><term type="form">binding</term></index>
+                     <index indexName="norm_status"><term type="status"/></index>
+                     <index indexName="norm_decoration"><term type="decoration"/></index>
+                     <index indexName="norm_musicNotation"><term type="musicNotation"/></index>
+                  </head><physDesc><p n="MXML-32143413-par07"><ref target="#5060[1].5064">1965</ref> von S. Köhler in Hofheim geschaffener Holzband mit braunem Lederrücken und einer Schließe. Im ursprünglichen Einband befanden sich nach Einschätzung von Zedler die gedruckten Donat-Fragmente (GW 8705), die Gotthelf Fischer um 1810 in Russland an Graf Razumowski verkaufte und die sich 1954 in Leningrad befanden (s. Presser).</p></physDesc><msPart type="other"><msIdentifier><idno>Sonstiges</idno></msIdentifier><p>
+                        <index indexName="datiert" n="MXML-32143413_5060[0]"><term type="5064">1965</term></index>
+                     </p></msPart></msPart><history><p n="MXML-32143412-par05">Aus dem Mainzer Benediktinerkloser <ref target="#bezsoz[1].4600">St. Jakob</ref>, 1r frühneuzeitl. Besitzeintrag: <ref target="#5650[0].5686"><hi rend="italic">Monasterii Iacobi ordinis Sancti Benedici Moguntiae</hi></ref>. Mittelalterliche Signatur 1r; <hi rend="italic">III T</hi>. Im handschriftlichen Katalog vermeldet Külb die Signatur Bened. 4. Trotz der weitgehend identischen Rubirik 166r wohl nicht identisch mit der von Valentin Ferdinand von Gudenus: Codex diplomaticus (Moguntinus). Bd. 2, Frankfurt/Leipzig 1747, S. 609 erwähnten Handschrift des Mainzer Domes.</p></history><additional><listBibl><bibl>Helmut Presser: Neue Donatfragmente in der Type der 42zeiligen Bibel in Mainz, in: Gutenberg-Jahrbuch 29 (1954), S. 47-62, hier 59. - <ref target="#bezlit[0].8330">Krämer, Handschriftenerbe, 1989-1990, S. 526</ref>.</bibl></listBibl></additional><msContents><msItem n="MXML-32143904"><note type="text"><ref target="#4665">IIv</ref> Ikurze Inhaltsangabe: <hi rend="italic">Liber diligentissime custodiensus In quo continentur varii Tractatus Conciliorii tempore Schismatum.</hi></note></msItem><msItem n="MXML-32143414"><note type="text"><ref target="#4665">1r-29r</ref> <ref target="#bezper[0].4100">Johannes de Montesono</ref>: <ref target="#bezwrk[0].6930">Correptorium contra epistolam fundamenti</ref>, Inc.: <ref target="#5650[0].5666l"><hi rend="italic">Peccantem coram omnibus argue, ut et certi timorem … </hi></ref><ref target="#5650[0].5666l">(1 Tim 5,20)</ref><ref target="#5650[0].5666l"><hi rend="italic">. Licet enim peccantem in secreto secrete corripere, debeamus iuxta</hi></ref><hi rend="italic">…</hi> (ohne Kenntnis der Hs.: <ref target="#bezlit[0].8330">Kaeppeli, ScriptOP, 1970</ref>, Bd. 2, Nr. 2507). (29v-30v leer)</note><note type="register">
+                        <p>
+                           <index indexName="Autorschaft" n="MXML-32143414_bezper[0]"><term type="4100">
+                                 <persName key="z001_104109793 MXML-30014606">Johannes &lt;de Montesono&gt;</persName>
+                              </term></index>
+                           <index indexName="Abschrift" n="MXML-32143414_bezwrk[0]"><term type="6930">Correptorium contra epistolam fundamenti</term></index>
+                           <index indexName="Initium" n="MXML-32143414_5650[0]"><term type="5666l" xml:lang="la">Peccantem coram omnibus argue, ut et certi timorem - (1 Tim 5,20). Licet enim peccantem in secreto secrete corripere, debeamus iuxta</term><term type="5694">1r</term></index>
+                           <index indexName="Repertoriumseintrag" n="MXML-32143414_bezlit[0]"><term type="8330">Kaeppeli, ScriptOP, 1970</term><term type="8334">Bd. 2, Nr. 2507</term></index>
+                        </p>
+                     </note></msItem><msItem n="MXML-32147391"><note type="text"><ref target="#4665">31r-44r</ref> Jean le Meingre II. genannt Boucicaut sowie die in Livorno versammelten Kardinäle: <ref target="#bezwrk[0].6930gi">Schreiben mit Bezug auf Papst Gregor und das Konzil von Pisa (1408)</ref>, Inc.: <ref target="#5650[0].5666l"><hi rend="italic">In nomine domini, amen. Illustris et magnificus dominus dominus Johannes Lememgre dictus Bouciquant Mareschallus Francie loco tenens regius … In nomine sancte et individue trinitatis patris et filii et spiritus sancti, amen. Ad futurum rei memoriam per hoc presens publicum instrumentum cunctis id visuris et audituris pateat evidenter, quod, cum pro extirpatione</hi></ref><hi rend="italic"> </hi> … (nicht bei Mansi 27). (44v leer)</note><note type="register">
+                        <p>
+                           <index indexName="Autorschaft" n="MXML-32147391_bezper[0]"><term type="4100">
+                                 <persName key="GND_118869426">Jean &lt;Le Meingre de Boucicaut&gt;, II.</persName>
+                              </term></index>
+                           <index indexName="Abschrift" n="MXML-32147391_bezwrk[0]"><term type="6930gi">Schreiben mit Bezug auf Papst Gregor und das Konzil von Pisa (1408)</term></index>
+                           <index indexName="Initium" n="MXML-32147391_5650[0]"><term type="5666l" xml:lang="la">In nomine domini, amen. Illustris et magnificus dominus dominus Johannes Lememgre dictus Bouciquant Mareschallus Francie loco tenens regius... In nomine sanctae et individuae trinitatis patris et filii et spiritus sancti, amen. Ad futurum rei memoriam per hoc praesens publicum instrumentum cunctis id visuris et audituris pateat evidenter, quod, cum pro exstirpatione</term><term type="5694">31r</term></index>
+                        </p>
+                     </note></msItem><msItem n="MXML-32147395"><note type="text"><ref target="#4665">45r-54r</ref> <ref target="#bezwrk[0].6930gi">Schrift zum Schisma</ref>, Inc.:<hi rend="italic"> </hi><ref target="#5650[0].5666l"><hi rend="italic">In nomine domini nostri Iesu christi eiusque matris Marie Virginis, beatorum apostolorum Petri et Pauli …. Materia est ardua et gravissima, in qua dictum fideliter et legaliter</hi></ref><hi rend="italic">…</hi></note><note type="register">
+                        <p>
+                           <index indexName="Abschrift" n="MXML-32147395_bezwrk[0]"><term type="6920">kanonistischer Text</term><term type="6930gi">Schrift zum Schisma</term></index>
+                           <index indexName="Initium" n="MXML-32147395_5650[0]"><term type="5666l" xml:lang="la">In nomine domini nostri Iesu christi eiusque matris Mariae Virginis, beatorum apostolorum Petri et Pauli .... Materia est ardua et gravissima, in qua dictum fideliter et legaliter</term><term type="5694">45r</term></index>
+                        </p>
+                     </note></msItem><msItem n="MXML-32147400"><note type="text"><ref target="#4665">55r-60v</ref> Äußerungen zugunsten Papst Gregors XII., Überschrift: <hi rend="italic">›</hi><ref target="#bezwrk[0].6930gi"><hi rend="italic">Excusationes super non accessu ad Saonam</hi></ref><hi rend="italic">‹</hi>, Inc.:<hi rend="italic"> </hi><ref target="#5650[0].5666l">[I]</ref><ref target="#5650[0].5666l"><hi rend="italic">n nomine domini. Amen. Preposito primo ad ad</hi></ref><ref target="#5650[0].5666l">[!]</ref><ref target="#5650[0].5666l"><hi rend="italic">sedandum sciscma in ecclesia Dei Consililum</hi></ref><ref target="#5650[0].5666l">[!]</ref><ref target="#5650[0].5666l"><hi rend="italic">generale sit via rationabilis</hi></ref><hi rend="italic">…</hi> (auch Wolfenbüttel, HAB, Cod. Guelf. 32.10 Aug. 2°, 41r-44r; vgl. Hermann Heimpel: Die Vener von Gmünd und Strassburg 1162-1447, Göttingen 1982, Teil 2, S. 1076).</note><note type="register">
+                        <p>
+                           <index indexName="Abschrift" n="MXML-32147400_bezwrk[0]"><term type="6920">kanonistischer Text</term><term type="6930gi">Excusationes super non accessu ad Saonam</term></index>
+                           <index indexName="Initium" n="MXML-32147400_5650[0]"><term type="5666l" xml:lang="la">In nomine domini. Amen. Praeposito primo ad sedandum sciscma in ecclesia Dei concililum generale sit via rationabilis</term><term type="5694">55r</term></index>
+                        </p>
+                     </note></msItem><msItem n="MXML-32147401"><note type="text"><ref target="#4665">61r-76v</ref> <ref target="#bezwrk[0].6930gi">Kommentar zu den Gutachten des Petrus de Ancharano</ref>, Inc.: <ref target="#5650[0].5666l"><hi rend="italic">[B]eatus Augustinus in libro de Trinitate Dei singulariter commendat Marcum Varro dicendum, quod absque dubitatione</hi></ref><hi rend="italic"> …</hi></note><note type="register">
+                        <p>
+                           <index indexName="Kommentar" n="MXML-32147401_bezper[0]"><term type="4100">
+                                 <persName key="GND_118790633 MXML-30006548">Petrus &lt;de Ancharano&gt;</persName>
+                              </term></index>
+                           <index indexName="Abschrift" n="MXML-32147401_bezwrk[0]"><term type="6920">kanonistischer Text</term><term type="6930gi">Kommentar zu den Gutachten des Petrus de Ancharano</term></index>
+                           <index indexName="Initium" n="MXML-32147401_5650[0]"><term type="5666l" xml:lang="la">Beatus Augustinus in libro de Trinitate Dei singulariter commendat Marcum Varro dicendum, quod absque dubitatione</term><term type="5694">61r</term></index>
+                        </p>
+                     </note></msItem><msItem n="MXML-32147402"><note type="text"><ref target="#4665">77r-86v</ref> Polemsche Allegationen zugunsten Papst Gregors XII., Inc.: <ref target="#5650[0].5666l">[Q]</ref><ref target="#5650[0].5666l"><hi rend="italic">ui allegat contra ea, que scripsi super utroque quesito proposito loco</hi></ref><hi rend="italic">…</hi> (vgl. Hermann Heimpel: Die Vener von Gmünd und Strassburg 1162-1447, Göttingen 1982, Teil 2, S. 1077).</note><note type="register">
+                        <p>
+                           <index indexName="Initium" n="MXML-32147402_5650[0]"><term type="5666l" xml:lang="la">Qui allegat contra ea, que scripsi super utroque quaesito proposito loco</term><term type="5694">77r</term></index>
+                        </p>
+                     </note></msItem><msItem n="MXML-32147394"><note type="text"><ref target="#4665">87r-94r</ref> Inc.: <ref target="#5650[0].5666l"><hi rend="italic">Quamvis assertio pape de facto proprio faciat plenissimam probationem, que non recepit probationem</hi></ref><hi rend="italic">…</hi>;</note><note type="register">
+                        <p>
+                           <index indexName="Initium" n="MXML-32147394_5650[0]"><term type="5666l" xml:lang="la">Quamvis assertio pape de facto proprio faciat plenissimam probationem, que non recepit probationem</term><term type="5694">87r</term></index>
+                        </p>
+                     </note></msItem><msItem n="MXML-32147392"><note type="text"><ref target="#4665">95r-115r</ref> Inc.: <ref target="#5650[0].5666l"><hi rend="italic">In nomine domini nostri Iesu Christi eiusque matris virginis gloriose Marie utriusque Iohannis ac beatorum Stephani et Ieronimi tocius celestis curie triumphantis. Amen, Ut veritatis, que vincit et invalescit</hi></ref><hi rend="italic">… </hi></note><note type="register">
+                        <p>
+                           <index indexName="Initium" n="MXML-32147392_5650[0]"><term type="5666l" xml:lang="la">In nomine domini nostri Iesu Christi eiusque matris virginis gloriosae Mariae utriusque Iohannis ac beatorum Stephani et Hieronymi totius caelestis curiae triumphantis. Amen, Ut veritatis, quae vincit et invalescit</term><term type="5694">95r</term></index>
+                        </p>
+                     </note></msItem><msItem n="MXML-32147396"><note type="text"><ref target="#4665">109r-113r</ref> Inc.: <ref target="#5650[0].5666l"><hi rend="italic">Ut ea, quae per quendam</hi></ref><ref target="#5650[0].5666l">[!]</ref><ref target="#5650[0].5666l"><hi rend="italic">exorationibus sanctissimi in Christo patris et domini nostri domini G. pape divina providentia pape XII nuperrime per Spiritus sanctus ad inclitum dominum Venetorum</hi></ref><hi rend="italic"> …</hi></note><note type="register">
+                        <p>
+                           <index indexName="Initium" n="MXML-32147396_5650[0]"><term type="5666l" xml:lang="la">Ut ea, quae per quasdam exorationibus sanctissimi in Christo patris et domini nostri domini Gregorii papae divina providentia papae XII. nuperrime per Spiritus sanctus ad inclitum dominum Venetorum</term><term type="5694">109r</term></index>
+                        </p>
+                     </note></msItem><msItem n="MXML-32147393"><note type="text"><ref target="#4665">116r-165r</ref> <ref target="#bezwrk[0].6930gi">weiterer Kommentar zu den Gutachten des Petrus de Ancharano</ref>, Inc.: <ref target="#5650[0].5666l"><hi rend="italic">In nomine sancte et individue trinitatis. Amen. Quamvis ex refusionibus factis ad scripta domini Petri de Ancorano</hi></ref><ref target="#5650[0].5666l">[!]</ref><ref target="#5650[0].5666l"><hi rend="italic">facilis videtur refusio ad scriptis</hi></ref><hi rend="italic">…</hi></note><note type="register">
+                        <p>
+                           <index indexName="Kommentar" n="MXML-32147393_bezper[0]"><term type="4100">
+                                 <persName key="GND_118790633 MXML-30006548">Petrus &lt;de Ancharano&gt;</persName>
+                              </term></index>
+                           <index indexName="Abschrift" n="MXML-32147393_bezwrk[0]"><term type="6920">kanonistischer Text</term><term type="6930gi">Kommentar zu den Gutachten des Petrus de Anchaorano</term></index>
+                           <index indexName="Initium" n="MXML-32147393_5650[0]"><term type="5666l" xml:lang="la">In nomine sanctae et individuae trinitatis. Amen. Quamvis ex refusionibus factis ad scripta domini Petri de Ancarano facilis videtur refusio ad scriptis</term><term type="5694">116r</term></index>
+                        </p>
+                     </note></msItem><msItem n="MXML-32143415"><note type="text"><ref target="#4665">166r-235v</ref> <ref target="#bezwrk[0].6930gi">Konzilsausschreibung der zum Pisaner Konzil versammelten Kardinäle</ref> mit rahmender Postille, Überschrift: <ref target="#5650[1].5686"><hi rend="italic">›Incipiunt quedam super aliquibus verbis epistole hic inserte tendentes per modum collacionis et dubitacionis contrarium ad effectum‹</hi></ref>; Inc.: <ref target="#5650[0].5666l"><hi rend="italic">Miseratione divina episcopi, presbiteri et dyaconi, sacrosancte romane ecclesie cardinales … in loco Lyburnii Pisanae diocesis commorantes una cum collegio</hi></ref><hi rend="italic">… </hi>(Ed. ohne Kenntnis dieser Hs.: Reichstagsakten 6: Deutsche Reichstagsakten unter König Ruprecht, hg. v. Julius Weizsäcker, Teil 2, Gotha 1888, Nr. 267-268; nicht identisch mit Mansi, Sp. 101-109).</note><note type="register">
+                        <p>
+                           <index indexName="Abschrift" n="MXML-32143415_bezwrk[0]"><term type="6930gi">Konzilsausschreibung der zum Pisaner Konzil versammelten Kardinäle</term></index>
+                           <index indexName="Kommentar" n="MXML-32143415_bezwrk[1]"><term type="6930gi">Konzilsausschreibung der zum Pisaner Konzil versammelten Kardinäle</term></index>
+                           <index indexName="Initium" n="MXML-32143415_5650[0]"><term type="5666l" xml:lang="la">Miseratione divina episcopi, presbiteri et dyaconi, sacrosanctae romanae ecclesiae cardinales ... in loco Liburnii Pisanae dioecesis commorantes una cum collegio</term><term type="5694">166r</term></index>
+                           <index indexName="Überschrift" n="MXML-32143415_5650[1]"><term type="5686">Incipiunt quedam super aliquibus verbis epistole hic inserte tendentes per modum collacionis et dubitacionis contrarium ad effectum</term><term type="5694">166r</term></index>
+                        </p>
+                     </note></msItem></msContents><msPart type="other"><msIdentifier><idno>Sonstiges</idno></msIdentifier><p>
+                     <index indexName="Vorbesitz" n="MXML-32143412_bezsoz[1]"><term type="4564">
+                           <settlement>Mainz</settlement>
+                        </term><term type="4600">
+                           <orgName key="MXML-30001624">Sankt Jakob</orgName>
+                        </term><term type="4650">
+                           <idno>IIII T</idno>
+                        </term></index>
+                     <index indexName="Datierung" n="MXML-32143412_5060[0]"><term type="5064">2. oder 3. Jahrzehnt 15. Jh.</term></index>
+                     <index indexName="Besitzervermerk" n="MXML-32143412_5650[0]"><term type="5686">Monasterii Iacobi ordinis Sancti Benedici Moguntiae</term><term type="5694">1r</term></index>
+                  </p></msPart></msDesc></body></text></TEI>
