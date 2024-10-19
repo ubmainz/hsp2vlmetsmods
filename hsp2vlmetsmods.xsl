@@ -13,7 +13,7 @@
         <mets:mets>
             <mets:metsHdr>
                 <mets:agent ROLE="CREATOR">
-                    <mets:name>hsp2vlmetsmods-Skript Knepper 02/2024</mets:name>
+                    <mets:name>hsp2vlmetsmods-Skript Knepper 10/2024</mets:name>
                 </mets:agent>
             </mets:metsHdr>
             <xsl:message>
@@ -32,6 +32,11 @@
             <xsl:text>MODS: </xsl:text>
             <xsl:value-of select="@xml:id"/>
         </xsl:message>
+        <xsl:if test="not(TEI:msIdentifier/TEI:idno/text())">
+            <xsl:message>
+                <xsl:text>Warnung: keine Signatur</xsl:text>
+            </xsl:message>
+        </xsl:if>
         <mets:dmdSec ID="{concat('md-',@xml:id)}">
             <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
                 <mets:xmlData>
@@ -56,6 +61,7 @@
                             </xsl:when>
                         </xsl:choose>
                         <mods:genre authority="marcgt">script</mods:genre>
+                        <mods:genre authority="lcgft">script</mods:genre>
                         <mods:typeOfResource>text</mods:typeOfResource>
                         <mods:accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/publicdomain/mark/1.0/" displayLabel="Public Domain Mark 1.0">pdm</mods:accessCondition>
                         <mods:originInfo>
@@ -93,8 +99,11 @@
   
     <xsl:template match="TEI:idno" mode="mods">
         <mods:location>
+            <mods:physicalLocation authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/{../TEI:repository/@ref}">
+                <xsl:value-of select="../TEI:repository"/>
+            </mods:physicalLocation>
             <mods:shelfLocator>
-                <xsl:value-of select="."/>
+                <xsl:value-of select="string-join((../TEI:repository,.),' : ')"/>
             </mods:shelfLocator>
         </mods:location>
     </xsl:template>
@@ -104,7 +113,7 @@
     <xsl:template match="TEI:index[@indexName='norm_title']" mode="mods">
         <mods:titleInfo>
             <mods:title>
-                <xsl:value-of select="TEI:term[@type='title']"/>
+                <xsl:value-of select="string-join((../../TEI:msIdentifier/TEI:idno,TEI:term[@type='title']),' - ')"/>
             </mods:title>
         </mods:titleInfo> 
     </xsl:template>
@@ -130,18 +139,21 @@
     </xsl:template>
     
     <xsl:template match="TEI:index[@indexName='norm_origPlace']" mode="mods-origininfo">
-        <mods:place>
-            <xsl:for-each select="TEI:term[@type='origPlace']">
+         <xsl:for-each select="TEI:term[@type='origPlace']">
+            <mods:place>
                 <mods:placeTerm type="text">
                     <xsl:value-of select="."/>
                 </mods:placeTerm>
-            </xsl:for-each>
-            <xsl:for-each select="TEI:term[@type='origPlace_norm'][starts-with(@ref,'http://d-nb.info/gnd/')]">
-                <mods:placeTerm authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="{@ref}">
-                    <xsl:value-of select="TEI:term[@type='origPlace_norm']"/>
+            </mods:place>    
+         </xsl:for-each>
+         <xsl:for-each select="TEI:term[@type='origPlace_norm'][starts-with(@ref,'http://d-nb.info/gnd/')]">
+             <mods:place> 
+                <mods:placeTerm authorityURI="http://d-nb.info/gnd/" valueURI="{@ref}"/>
+                <mods:placeTerm type="text">
+                    <xsl:value-of select="."/>
                 </mods:placeTerm>
-            </xsl:for-each>
-        </mods:place>
+             </mods:place>
+         </xsl:for-each>
     </xsl:template>
  
     <xsl:template match="TEI:index[@indexName='norm_textLang']/TEI:term[@type='textLang-ID']" mode="mods">
@@ -156,6 +168,19 @@
                 </mods:language>
             </xsl:if>
     </xsl:template>
+ 
+ <!--
+    <xsl:template match="TEI:index[indexName='Autorschaft']/TEI:term[@type='textLang-ID']" mode="mods">
+        <name type="personal" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/118522213">
+        <displayForm>Cornelius, Peter</displayForm>
+        <namePart>Cornelius, Peter</namePart>
+        <role>
+            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+            <roleTerm>author</roleTerm>
+        </role>
+    </name>
+    </xsl:template>
+ -->   
  
     <xsl:template match="TEI:msDesc" mode="map">
         <xsl:message>
