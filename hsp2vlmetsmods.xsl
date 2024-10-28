@@ -70,13 +70,13 @@
                         </mods:originInfo>
                         <mods:physicalDescription>
                             <mods:extent>
-                                <xsl:value-of select="string-join((//TEI:index[@indexName='norm_measure']/TEI:term[@type='measure']/text(),
-                                //TEI:index[@indexName='norm_material']/TEI:term[@type='material']/text(),
-                                //TEI:index[@indexName='norm_dimensions']/TEI:term[@type='dimensions']/text()),' ; ')"/>
+                                <xsl:value-of select="string-join((.//TEI:index[@indexName='norm_measure']/TEI:term[@type='measure']/text(),
+                                .//TEI:index[@indexName='norm_material']/TEI:term[@type='material']/text(),
+                                .//TEI:index[@indexName='norm_dimensions']/TEI:term[@type='dimensions']/text()),' ; ')"/>
                             </mods:extent>
                         </mods:physicalDescription>
                         <xsl:apply-templates mode="mods"/>
-                        <xsl:if test="not(//TEI:index[@indexName='norm_textLang'])">
+                        <xsl:if test="not(.//TEI:index[@indexName='norm_textLang'])">
                             <mods:language>
                                 <mods:languageTerm type="code" authority="iso639-2b">
                                     <xsl:text>lat</xsl:text>
