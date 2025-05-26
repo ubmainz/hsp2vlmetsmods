@@ -45,10 +45,9 @@
                                 <xsl:value-of select="$id"/>
                             </mods:recordIdentifier>
                         </mods:recordInfo>
-                        <xsl:for-each select="$recorddata/*">
+                        <xsl:perform-sort select="$recorddata/*">
                             <xsl:sort select="name()"/>
-                            <xsl:copy-of select="."/>
-                        </xsl:for-each>
+                        </xsl:perform-sort>
                     </mods:mods>
                 </mets:xmlData>
             </mets:mdWrap>
