@@ -27,66 +27,74 @@
         </mets:mets>
     </xsl:template>
  
-    <xsl:template match="TEI:msDesc" mode="mods">
+    <xsl:template match="record" mode="mods">
+        <xsl:variable name="id" select="TEI:TEI/TEI:teiHeader/TEI:fileDesc/TEI:sourceDesc/TEI:msDesc/@xml:id"/>
         <xsl:message>
             <xsl:text>MODS: </xsl:text>
-            <xsl:value-of select="@xml:id"/>
+            <xsl:value-of select="$id"/>
         </xsl:message>
-        <xsl:if test="not(TEI:msIdentifier/TEI:idno/text())">
-            <xsl:message>
-                <xsl:text>Warnung: keine Signatur</xsl:text>
-            </xsl:message>
-        </xsl:if>
-        <mets:dmdSec ID="{concat('md-',@xml:id)}">
+        <xsl:variable name="recorddata">
+            <xsl:apply-templates mode="mods"/>
+        </xsl:variable>
+        <mets:dmdSec ID="{concat('md-',$id)}">
             <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
                 <mets:xmlData>
                     <mods:mods>
                         <mods:recordInfo>
                             <mods:recordIdentifier>
-                                <xsl:value-of select="@xml:id"/>
+                                <xsl:value-of select="$id"/>
                             </mods:recordIdentifier>
                         </mods:recordInfo>
-                        <xsl:choose>
-                            <xsl:when test="@type='hsp:object'">
-                                <mods:identifier type="HSP">
-                                    <xsl:value-of select="@xml:id"/>
-                                </mods:identifier>
-                            </xsl:when>
-                            <xsl:when test="@type='hsp:description'">
-                                <mods:location>
-                                    <mods:url displayLabel="Ausführliche Beschreibung">
-                                        <xsl:value-of select="concat('https://handschriftenportal.de/search?hspobjectid=',@xml:id)"/>
-                                    </mods:url>
-                                </mods:location>
-                            </xsl:when>
-                        </xsl:choose>
-                        <mods:genre authority="marcgt">script</mods:genre>
-                        <mods:genre authority="lcgft">script</mods:genre>
-                        <mods:typeOfResource>text</mods:typeOfResource>
-                        <mods:accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/publicdomain/mark/1.0/" displayLabel="Public Domain Mark 1.0">pdm</mods:accessCondition>
-                        <mods:originInfo>
-                            <mods:issuance>monographic</mods:issuance>
-                            <xsl:apply-templates mode="mods-origininfo"/>
-                        </mods:originInfo>
-                        <mods:physicalDescription>
-                            <mods:extent>
-                                <xsl:value-of select="string-join((.//TEI:index[@indexName='norm_measure']/TEI:term[@type='measure']/text(),
-                                .//TEI:index[@indexName='norm_material']/TEI:term[@type='material']/text(),
-                                .//TEI:index[@indexName='norm_dimensions']/TEI:term[@type='dimensions']/text()),' ; ')"/>
-                            </mods:extent>
-                        </mods:physicalDescription>
-                        <xsl:apply-templates mode="mods"/>
-                        <xsl:if test="not(.//TEI:index[@indexName='norm_textLang'])">
-                            <mods:language>
-                                <mods:languageTerm type="code" authority="iso639-2b">
-                                    <xsl:text>lat</xsl:text>
-                                </mods:languageTerm>
-                            </mods:language>    
-                        </xsl:if>
+                        <xsl:copy-of select="$recorddata"/>
                     </mods:mods>
                 </mets:xmlData>
             </mets:mdWrap>
         </mets:dmdSec> 
+    </xsl:template>
+ 
+    <xsl:template match="TEI:msDesc" mode="mods">
+        <xsl:if test="not(TEI:msIdentifier/TEI:idno/text())">
+            <xsl:message>
+                <xsl:text>Warnung: keine Signatur</xsl:text>
+            </xsl:message>
+        </xsl:if>
+        <xsl:choose>
+            <xsl:when test="@type='hsp:object'">
+                <mods:identifier type="HSP">
+                    <xsl:value-of select="@xml:id"/>
+                </mods:identifier>
+            </xsl:when>
+            <xsl:when test="@type='hsp:description'">
+                <mods:location>
+                    <mods:url displayLabel="Ausführliche Beschreibung">
+                        <xsl:value-of select="concat('https://handschriftenportal.de/search?hspobjectid=',@xml:id)"/>
+                    </mods:url>
+                </mods:location>
+            </xsl:when>
+        </xsl:choose>
+        <mods:genre authority="marcgt">script</mods:genre>
+        <mods:genre authority="lcgft">script</mods:genre>
+        <mods:typeOfResource>text</mods:typeOfResource>
+        <mods:accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/publicdomain/mark/1.0/" displayLabel="Public Domain Mark 1.0">pdm</mods:accessCondition>
+        <mods:originInfo>
+            <mods:issuance>monographic</mods:issuance>
+            <xsl:apply-templates mode="mods-origininfo"/>
+        </mods:originInfo>
+        <mods:physicalDescription>
+            <mods:extent>
+                <xsl:value-of select="string-join((.//TEI:index[@indexName='norm_measure']/TEI:term[@type='measure']/text(),
+                .//TEI:index[@indexName='norm_material']/TEI:term[@type='material']/text(),
+                .//TEI:index[@indexName='norm_dimensions']/TEI:term[@type='dimensions']/text()),' ; ')"/>
+            </mods:extent>
+        </mods:physicalDescription>
+        <xsl:apply-templates mode="mods"/>
+        <xsl:if test="not(.//TEI:index[@indexName='norm_textLang'])">
+            <mods:language>
+                <mods:languageTerm type="code" authority="iso639-2b">
+                    <xsl:text>lat</xsl:text>
+                </mods:languageTerm>
+            </mods:language>    
+        </xsl:if>
     </xsl:template>
  
     <xsl:template match="TEI:altIdentifier[@type='hsp-ID']/TEI:idno" mode="mods">
@@ -182,12 +190,13 @@
     </xsl:template>
  -->   
  
-    <xsl:template match="TEI:msDesc" mode="map">
+    <xsl:template match="record" mode="map">
+        <xsl:variable name="id" select="TEI:TEI/TEI:teiHeader/TEI:fileDesc/TEI:sourceDesc/TEI:msDesc/@xml:id"/>
         <xsl:message>
             <xsl:text>Map: </xsl:text>
-            <xsl:value-of select="@xml:id"/>
+            <xsl:value-of select="$id"/>
         </xsl:message>
-        <mets:div TYPE="document" DMDID="{concat('md-',@xml:id)}" LABEL="Handschrift"/>
+        <mets:div TYPE="document" DMDID="{concat('md-',$id)}" LABEL="Handschrift"/>
     </xsl:template>
     
     <xsl:template match="text()" mode="#all"/>
