@@ -200,7 +200,7 @@
     </xsl:template>
     
     <xsl:template match="TEI:index[@indexName='norm_origPlace']" mode="mods-origininfo">
-         <xsl:for-each select="TEI:term[@type='origPlace']">
+         <xsl:for-each select="TEI:term[@type='origPlace']/text()">
             <mods:place>
                 <mods:placeTerm type="text">
                     <xsl:value-of select="."/>
