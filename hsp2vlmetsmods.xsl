@@ -13,7 +13,7 @@
         <mets:mets>
             <mets:metsHdr>
                 <mets:agent ROLE="CREATOR">
-                    <mets:name>hsp2vlmetsmods-Skript Knepper 10/2024</mets:name>
+                    <mets:name>hsp2vlmetsmods-Skript Knepper 05/2025</mets:name>
                 </mets:agent>
             </mets:metsHdr>
             <xsl:message>
