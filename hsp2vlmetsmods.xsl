@@ -59,6 +59,7 @@
                                     <xsl:perform-sort select="$originInfodata/*">
                                         <xsl:sort select="name()"/>
                                         <xsl:sort select="@point"/>
+                                        <xsl:sort select="mods:placeTerm/@valueURI"/>
                                         <xsl:sort select="text()|*/text()"/>
                                     </xsl:perform-sort>
                                 </xsl:variable>
@@ -72,7 +73,7 @@
                         <xsl:variable name="recorddatasort">
                             <xsl:perform-sort select="$recorddatagroup/*">
                                 <xsl:sort select="name()"/>
-                                <xsl:sort select="text()"></xsl:sort>
+                                <xsl:sort select="text()"/>
                             </xsl:perform-sort>
                         </xsl:variable>
                         <xsl:for-each select="$recorddatasort/*">
