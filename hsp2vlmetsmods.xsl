@@ -45,6 +45,10 @@
                                 <xsl:value-of select="$id"/>
                             </mods:recordIdentifier>
                         </mods:recordInfo>
+                        <mods:genre authority="marcgt">script</mods:genre>
+                        <mods:genre authority="lcgft">script</mods:genre>
+                        <mods:typeOfResource>text</mods:typeOfResource>
+                        <mods:accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/publicdomain/mark/1.0/" displayLabel="Public Domain Mark 1.0">pdm</mods:accessCondition>
                         <xsl:variable name="recorddatagroup">
                             <xsl:sequence select="$recorddata/*[not(name()='mods:originInfo')]"/>
                             <mods:originInfo>
@@ -68,7 +72,6 @@
                         <xsl:variable name="recorddatasort">
                             <xsl:perform-sort select="$recorddatagroup/*">
                                 <xsl:sort select="name()"/>
-                                <xsl:sort select="@authority"/>
                                 <xsl:sort select="text()"></xsl:sort>
                             </xsl:perform-sort>
                         </xsl:variable>
@@ -103,10 +106,6 @@
                 </mods:location>
             </xsl:when>
         </xsl:choose>
-        <mods:genre authority="marcgt">script</mods:genre>
-        <mods:genre authority="lcgft">script</mods:genre>
-        <mods:typeOfResource>text</mods:typeOfResource>
-        <mods:accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/publicdomain/mark/1.0/" displayLabel="Public Domain Mark 1.0">pdm</mods:accessCondition>
         <mods:originInfo>
             <mods:issuance>monographic</mods:issuance>
             <xsl:apply-templates mode="mods-origininfo"/>
