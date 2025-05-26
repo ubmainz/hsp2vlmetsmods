@@ -877,13 +877,6 @@
                   <mods:place>
                      <mods:placeTerm type="text"/>
                   </mods:place>
-                  <mods:place>
-                     <mods:placeTerm authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/"/>
-                     <mods:placeTerm type="text"/>
-                  </mods:place>
-                  <mods:place>
-                     <mods:placeTerm type="text"/>
-                  </mods:place>
                </mods:originInfo>
                <mods:physicalDescription>
                   <mods:extent>315 Bl. ; Pergament ; 39,7 × 28,5</mods:extent>
@@ -2015,13 +2008,6 @@
                   <mods:place>
                      <mods:placeTerm type="text"/>
                   </mods:place>
-                  <mods:place>
-                     <mods:placeTerm authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/"/>
-                     <mods:placeTerm type="text"/>
-                  </mods:place>
-                  <mods:place>
-                     <mods:placeTerm type="text"/>
-                  </mods:place>
                </mods:originInfo>
                <mods:physicalDescription>
                   <mods:extent>I + 47 Bl. + I ; Pergament ; 9,5 × 7</mods:extent>
@@ -2270,13 +2256,6 @@
                   <mods:place>
                      <mods:placeTerm type="text"/>
                   </mods:place>
-                  <mods:place>
-                     <mods:placeTerm authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/"/>
-                     <mods:placeTerm type="text"/>
-                  </mods:place>
-                  <mods:place>
-                     <mods:placeTerm type="text"/>
-                  </mods:place>
                </mods:originInfo>
                <mods:physicalDescription>
                   <mods:extent>211 Bl. ; Pergament ; 44 × 32</mods:extent>
@@ -2330,13 +2309,6 @@
                   <mods:dateIssued encoding="w3cdtf" point="end">1300</mods:dateIssued>
                   <mods:dateIssued encoding="w3cdtf" point="start" keyDate="yes">1201</mods:dateIssued>
                   <mods:issuance>monographic</mods:issuance>
-                  <mods:place>
-                     <mods:placeTerm type="text"/>
-                  </mods:place>
-                  <mods:place>
-                     <mods:placeTerm authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/"/>
-                     <mods:placeTerm type="text"/>
-                  </mods:place>
                   <mods:place>
                      <mods:placeTerm type="text"/>
                   </mods:place>
@@ -2617,13 +2589,6 @@
                   <mods:place>
                      <mods:placeTerm type="text"/>
                   </mods:place>
-                  <mods:place>
-                     <mods:placeTerm authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/"/>
-                     <mods:placeTerm type="text"/>
-                  </mods:place>
-                  <mods:place>
-                     <mods:placeTerm type="text"/>
-                  </mods:place>
                </mods:originInfo>
                <mods:physicalDescription>
                   <mods:extent>176 Bl. ; Pergament ; 28 × 19</mods:extent>
@@ -2674,13 +2639,6 @@
                   <mods:dateIssued encoding="w3cdtf" point="end">1500</mods:dateIssued>
                   <mods:dateIssued encoding="w3cdtf" point="start" keyDate="yes">1401</mods:dateIssued>
                   <mods:issuance>monographic</mods:issuance>
-                  <mods:place>
-                     <mods:placeTerm type="text"/>
-                  </mods:place>
-                  <mods:place>
-                     <mods:placeTerm authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/"/>
-                     <mods:placeTerm type="text"/>
-                  </mods:place>
                   <mods:place>
                      <mods:placeTerm type="text"/>
                   </mods:place>
@@ -2803,13 +2761,6 @@
                   <mods:place>
                      <mods:placeTerm type="text"/>
                   </mods:place>
-                  <mods:place>
-                     <mods:placeTerm authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/"/>
-                     <mods:placeTerm type="text"/>
-                  </mods:place>
-                  <mods:place>
-                     <mods:placeTerm type="text"/>
-                  </mods:place>
                </mods:originInfo>
                <mods:physicalDescription>
                   <mods:extent>240 Bl. ; Papier ; 21 × 15</mods:extent>
@@ -2866,13 +2817,6 @@
                   <mods:place>
                      <mods:placeTerm type="text"/>
                   </mods:place>
-                  <mods:place>
-                     <mods:placeTerm authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/"/>
-                     <mods:placeTerm type="text"/>
-                  </mods:place>
-                  <mods:place>
-                     <mods:placeTerm type="text"/>
-                  </mods:place>
                </mods:originInfo>
                <mods:physicalDescription>
                   <mods:extent>168 Bl. ; Pergament ; 17 × 12</mods:extent>
@@ -2923,13 +2867,6 @@
                   <mods:dateIssued encoding="w3cdtf" point="end">1200</mods:dateIssued>
                   <mods:dateIssued encoding="w3cdtf" point="start" keyDate="yes">1101</mods:dateIssued>
                   <mods:issuance>monographic</mods:issuance>
-                  <mods:place>
-                     <mods:placeTerm type="text"/>
-                  </mods:place>
-                  <mods:place>
-                     <mods:placeTerm authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/"/>
-                     <mods:placeTerm type="text"/>
-                  </mods:place>
                   <mods:place>
                      <mods:placeTerm type="text"/>
                   </mods:place>
@@ -3002,13 +2939,6 @@
                   <mods:place>
                      <mods:placeTerm type="text"/>
                   </mods:place>
-                  <mods:place>
-                     <mods:placeTerm authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/"/>
-                     <mods:placeTerm type="text"/>
-                  </mods:place>
-                  <mods:place>
-                     <mods:placeTerm type="text"/>
-                  </mods:place>
                </mods:originInfo>
                <mods:physicalDescription>
                   <mods:extent>III + 119 Bl. ; Pergament ; 39 × 28</mods:extent>
@@ -3062,13 +2992,6 @@
                   <mods:dateIssued encoding="w3cdtf" point="start" keyDate="yes">1451</mods:dateIssued>
                   <mods:dateIssued encoding="w3cdtf" point="start" keyDate="yes">1460</mods:dateIssued>
                   <mods:issuance>monographic</mods:issuance>
-                  <mods:place>
-                     <mods:placeTerm type="text"/>
-                  </mods:place>
-                  <mods:place>
-                     <mods:placeTerm authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/"/>
-                     <mods:placeTerm type="text"/>
-                  </mods:place>
                   <mods:place>
                      <mods:placeTerm type="text"/>
                   </mods:place>
@@ -3128,13 +3051,6 @@
                   <mods:place>
                      <mods:placeTerm type="text"/>
                   </mods:place>
-                  <mods:place>
-                     <mods:placeTerm authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/"/>
-                     <mods:placeTerm type="text"/>
-                  </mods:place>
-                  <mods:place>
-                     <mods:placeTerm type="text"/>
-                  </mods:place>
                </mods:originInfo>
                <mods:physicalDescription>
                   <mods:extent>400 Bl. ; Pergament ; 21 × 15</mods:extent>
@@ -3185,13 +3101,6 @@
                   <mods:dateIssued encoding="w3cdtf" point="end">1350</mods:dateIssued>
                   <mods:dateIssued encoding="w3cdtf" point="start" keyDate="yes">1301</mods:dateIssued>
                   <mods:issuance>monographic</mods:issuance>
-                  <mods:place>
-                     <mods:placeTerm type="text"/>
-                  </mods:place>
-                  <mods:place>
-                     <mods:placeTerm authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/"/>
-                     <mods:placeTerm type="text"/>
-                  </mods:place>
                   <mods:place>
                      <mods:placeTerm type="text"/>
                   </mods:place>
@@ -3251,13 +3160,6 @@
                   <mods:place>
                      <mods:placeTerm type="text"/>
                   </mods:place>
-                  <mods:place>
-                     <mods:placeTerm authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/"/>
-                     <mods:placeTerm type="text"/>
-                  </mods:place>
-                  <mods:place>
-                     <mods:placeTerm type="text"/>
-                  </mods:place>
                </mods:originInfo>
                <mods:physicalDescription>
                   <mods:extent>328 Bl. ; Pergament ; 15,5 × 11</mods:extent>
@@ -3308,13 +3210,6 @@
                   <mods:dateIssued encoding="w3cdtf" point="end">1400</mods:dateIssued>
                   <mods:dateIssued encoding="w3cdtf" point="start" keyDate="yes">1301</mods:dateIssued>
                   <mods:issuance>monographic</mods:issuance>
-                  <mods:place>
-                     <mods:placeTerm type="text"/>
-                  </mods:place>
-                  <mods:place>
-                     <mods:placeTerm authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/"/>
-                     <mods:placeTerm type="text"/>
-                  </mods:place>
                   <mods:place>
                      <mods:placeTerm type="text"/>
                   </mods:place>
@@ -3371,13 +3266,6 @@
                   <mods:place>
                      <mods:placeTerm type="text"/>
                   </mods:place>
-                  <mods:place>
-                     <mods:placeTerm authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/"/>
-                     <mods:placeTerm type="text"/>
-                  </mods:place>
-                  <mods:place>
-                     <mods:placeTerm type="text"/>
-                  </mods:place>
                </mods:originInfo>
                <mods:physicalDescription>
                   <mods:extent>88 S. ; Papier ; 20,5 × 15</mods:extent>
@@ -3428,13 +3316,6 @@
                   <mods:dateIssued encoding="w3cdtf" point="end">1500</mods:dateIssued>
                   <mods:dateIssued encoding="w3cdtf" point="start" keyDate="yes">1401</mods:dateIssued>
                   <mods:issuance>monographic</mods:issuance>
-                  <mods:place>
-                     <mods:placeTerm type="text"/>
-                  </mods:place>
-                  <mods:place>
-                     <mods:placeTerm authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/"/>
-                     <mods:placeTerm type="text"/>
-                  </mods:place>
                   <mods:place>
                      <mods:placeTerm type="text"/>
                   </mods:place>
@@ -3494,13 +3375,6 @@
                   <mods:dateIssued encoding="w3cdtf" point="start" keyDate="yes">1201</mods:dateIssued>
                   <mods:dateIssued encoding="w3cdtf" point="start" keyDate="yes">1472</mods:dateIssued>
                   <mods:issuance>monographic</mods:issuance>
-                  <mods:place>
-                     <mods:placeTerm type="text"/>
-                  </mods:place>
-                  <mods:place>
-                     <mods:placeTerm authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/"/>
-                     <mods:placeTerm type="text"/>
-                  </mods:place>
                   <mods:place>
                      <mods:placeTerm type="text"/>
                   </mods:place>
@@ -3576,13 +3450,6 @@
                   <mods:place>
                      <mods:placeTerm type="text"/>
                   </mods:place>
-                  <mods:place>
-                     <mods:placeTerm authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/"/>
-                     <mods:placeTerm type="text"/>
-                  </mods:place>
-                  <mods:place>
-                     <mods:placeTerm type="text"/>
-                  </mods:place>
                </mods:originInfo>
                <mods:physicalDescription>
                   <mods:extent>193 Bl. ; Papier ; 21 × 14</mods:extent>
@@ -3638,13 +3505,6 @@
                   <mods:dateIssued encoding="w3cdtf" point="start" keyDate="yes">1301</mods:dateIssued>
                   <mods:dateIssued encoding="w3cdtf" point="start" keyDate="yes">1434</mods:dateIssued>
                   <mods:issuance>monographic</mods:issuance>
-                  <mods:place>
-                     <mods:placeTerm type="text"/>
-                  </mods:place>
-                  <mods:place>
-                     <mods:placeTerm authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/"/>
-                     <mods:placeTerm type="text"/>
-                  </mods:place>
                   <mods:place>
                      <mods:placeTerm type="text"/>
                   </mods:place>
@@ -3774,13 +3634,6 @@
                   <mods:place>
                      <mods:placeTerm type="text"/>
                   </mods:place>
-                  <mods:place>
-                     <mods:placeTerm authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/"/>
-                     <mods:placeTerm type="text"/>
-                  </mods:place>
-                  <mods:place>
-                     <mods:placeTerm type="text"/>
-                  </mods:place>
                </mods:originInfo>
                <mods:physicalDescription>
                   <mods:extent>203 Bl. ; Papier ; 15 × 12</mods:extent>
@@ -3834,13 +3687,6 @@
                   <mods:dateIssued encoding="w3cdtf" point="end">1511</mods:dateIssued>
                   <mods:dateIssued encoding="w3cdtf" point="start" keyDate="yes">1511</mods:dateIssued>
                   <mods:issuance>monographic</mods:issuance>
-                  <mods:place>
-                     <mods:placeTerm type="text"/>
-                  </mods:place>
-                  <mods:place>
-                     <mods:placeTerm authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/"/>
-                     <mods:placeTerm type="text"/>
-                  </mods:place>
                   <mods:place>
                      <mods:placeTerm type="text"/>
                   </mods:place>
@@ -3900,13 +3746,6 @@
                   <mods:dateIssued encoding="w3cdtf" point="start" keyDate="yes">1201</mods:dateIssued>
                   <mods:dateIssued encoding="w3cdtf" point="start" keyDate="yes">1378</mods:dateIssued>
                   <mods:issuance>monographic</mods:issuance>
-                  <mods:place>
-                     <mods:placeTerm type="text"/>
-                  </mods:place>
-                  <mods:place>
-                     <mods:placeTerm authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/"/>
-                     <mods:placeTerm type="text"/>
-                  </mods:place>
                   <mods:place>
                      <mods:placeTerm type="text"/>
                   </mods:place>
@@ -4037,13 +3876,6 @@
                   <mods:place>
                      <mods:placeTerm type="text"/>
                   </mods:place>
-                  <mods:place>
-                     <mods:placeTerm authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/"/>
-                     <mods:placeTerm type="text"/>
-                  </mods:place>
-                  <mods:place>
-                     <mods:placeTerm type="text"/>
-                  </mods:place>
                </mods:originInfo>
                <mods:physicalDescription>
                   <mods:extent>363 Bl. ; Papier ; 14 × 10</mods:extent>
@@ -4158,13 +3990,6 @@
                   <mods:place>
                      <mods:placeTerm type="text"/>
                   </mods:place>
-                  <mods:place>
-                     <mods:placeTerm authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/"/>
-                     <mods:placeTerm type="text"/>
-                  </mods:place>
-                  <mods:place>
-                     <mods:placeTerm type="text"/>
-                  </mods:place>
                </mods:originInfo>
                <mods:physicalDescription>
                   <mods:extent>267 Bl. ; Pergament ; 11,5 × 8</mods:extent>
@@ -4218,13 +4043,6 @@
                   <mods:dateIssued encoding="w3cdtf" point="end">1500</mods:dateIssued>
                   <mods:dateIssued encoding="w3cdtf" point="start" keyDate="yes">1401</mods:dateIssued>
                   <mods:issuance>monographic</mods:issuance>
-                  <mods:place>
-                     <mods:placeTerm type="text"/>
-                  </mods:place>
-                  <mods:place>
-                     <mods:placeTerm authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/"/>
-                     <mods:placeTerm type="text"/>
-                  </mods:place>
                   <mods:place>
                      <mods:placeTerm type="text"/>
                   </mods:place>
@@ -4284,13 +4102,6 @@
                   <mods:place>
                      <mods:placeTerm type="text"/>
                   </mods:place>
-                  <mods:place>
-                     <mods:placeTerm authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/"/>
-                     <mods:placeTerm type="text"/>
-                  </mods:place>
-                  <mods:place>
-                     <mods:placeTerm type="text"/>
-                  </mods:place>
                </mods:originInfo>
                <mods:physicalDescription>
                   <mods:extent>I + 99 Bl. + I ; Pergament ; 11,5 × 8</mods:extent>
@@ -4347,13 +4158,6 @@
                   <mods:place>
                      <mods:placeTerm type="text"/>
                   </mods:place>
-                  <mods:place>
-                     <mods:placeTerm authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/"/>
-                     <mods:placeTerm type="text"/>
-                  </mods:place>
-                  <mods:place>
-                     <mods:placeTerm type="text"/>
-                  </mods:place>
                </mods:originInfo>
                <mods:physicalDescription>
                   <mods:extent>I + 155 Bl. ; Pergament ; 11 × 8</mods:extent>
@@ -4407,13 +4211,6 @@
                   <mods:dateIssued encoding="w3cdtf" point="end">1400</mods:dateIssued>
                   <mods:dateIssued encoding="w3cdtf" point="start" keyDate="yes">1301</mods:dateIssued>
                   <mods:issuance>monographic</mods:issuance>
-                  <mods:place>
-                     <mods:placeTerm type="text"/>
-                  </mods:place>
-                  <mods:place>
-                     <mods:placeTerm authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/"/>
-                     <mods:placeTerm type="text"/>
-                  </mods:place>
                   <mods:place>
                      <mods:placeTerm type="text"/>
                   </mods:place>
@@ -4607,13 +4404,6 @@
                   <mods:dateIssued encoding="w3cdtf" point="start" keyDate="yes">1201</mods:dateIssued>
                   <mods:dateIssued encoding="w3cdtf" point="start" keyDate="yes">1301</mods:dateIssued>
                   <mods:issuance>monographic</mods:issuance>
-                  <mods:place>
-                     <mods:placeTerm type="text"/>
-                  </mods:place>
-                  <mods:place>
-                     <mods:placeTerm authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/"/>
-                     <mods:placeTerm type="text"/>
-                  </mods:place>
                   <mods:place>
                      <mods:placeTerm type="text"/>
                   </mods:place>
@@ -5073,13 +4863,6 @@
                   <mods:place>
                      <mods:placeTerm type="text"/>
                   </mods:place>
-                  <mods:place>
-                     <mods:placeTerm authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/"/>
-                     <mods:placeTerm type="text"/>
-                  </mods:place>
-                  <mods:place>
-                     <mods:placeTerm type="text"/>
-                  </mods:place>
                </mods:originInfo>
                <mods:physicalDescription>
                   <mods:extent>279 Bl. ; Papier ; 41 × 29</mods:extent>
@@ -5148,13 +4931,6 @@
                   <mods:place>
                      <mods:placeTerm type="text"/>
                   </mods:place>
-                  <mods:place>
-                     <mods:placeTerm authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/"/>
-                     <mods:placeTerm type="text"/>
-                  </mods:place>
-                  <mods:place>
-                     <mods:placeTerm type="text"/>
-                  </mods:place>
                </mods:originInfo>
                <mods:physicalDescription>
                   <mods:extent>184 Bl. ; Papier ; 42 × 29</mods:extent>
@@ -5220,13 +4996,6 @@
                   <mods:dateIssued encoding="w3cdtf" point="end">1457</mods:dateIssued>
                   <mods:dateIssued encoding="w3cdtf" point="start" keyDate="yes">1457</mods:dateIssued>
                   <mods:issuance>monographic</mods:issuance>
-                  <mods:place>
-                     <mods:placeTerm type="text"/>
-                  </mods:place>
-                  <mods:place>
-                     <mods:placeTerm authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/"/>
-                     <mods:placeTerm type="text"/>
-                  </mods:place>
                   <mods:place>
                      <mods:placeTerm type="text"/>
                   </mods:place>
@@ -5301,13 +5070,6 @@
                   <mods:place>
                      <mods:placeTerm type="text"/>
                   </mods:place>
-                  <mods:place>
-                     <mods:placeTerm authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/"/>
-                     <mods:placeTerm type="text"/>
-                  </mods:place>
-                  <mods:place>
-                     <mods:placeTerm type="text"/>
-                  </mods:place>
                </mods:originInfo>
                <mods:physicalDescription>
                   <mods:extent>349 Bl. ; Papier ; 41 × 29</mods:extent>
@@ -5373,13 +5135,6 @@
                   <mods:dateIssued encoding="w3cdtf" point="end">1450</mods:dateIssued>
                   <mods:dateIssued encoding="w3cdtf" point="start" keyDate="yes">1401</mods:dateIssued>
                   <mods:issuance>monographic</mods:issuance>
-                  <mods:place>
-                     <mods:placeTerm type="text"/>
-                  </mods:place>
-                  <mods:place>
-                     <mods:placeTerm authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/"/>
-                     <mods:placeTerm type="text"/>
-                  </mods:place>
                   <mods:place>
                      <mods:placeTerm type="text"/>
                   </mods:place>
@@ -5450,13 +5205,6 @@
                   <mods:place>
                      <mods:placeTerm type="text"/>
                   </mods:place>
-                  <mods:place>
-                     <mods:placeTerm authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/"/>
-                     <mods:placeTerm type="text"/>
-                  </mods:place>
-                  <mods:place>
-                     <mods:placeTerm type="text"/>
-                  </mods:place>
                </mods:originInfo>
                <mods:physicalDescription>
                   <mods:extent>208 Bl. ; Papier ; 41 × 31</mods:extent>
@@ -5519,13 +5267,6 @@
                   <mods:dateIssued encoding="w3cdtf" point="end">1500</mods:dateIssued>
                   <mods:dateIssued encoding="w3cdtf" point="start" keyDate="yes">1451</mods:dateIssued>
                   <mods:issuance>monographic</mods:issuance>
-                  <mods:place>
-                     <mods:placeTerm type="text"/>
-                  </mods:place>
-                  <mods:place>
-                     <mods:placeTerm authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/"/>
-                     <mods:placeTerm type="text"/>
-                  </mods:place>
                   <mods:place>
                      <mods:placeTerm type="text"/>
                   </mods:place>
@@ -5936,13 +5677,6 @@
                   <mods:dateIssued encoding="w3cdtf" point="end">1400</mods:dateIssued>
                   <mods:dateIssued encoding="w3cdtf" point="start" keyDate="yes">1376</mods:dateIssued>
                   <mods:issuance>monographic</mods:issuance>
-                  <mods:place>
-                     <mods:placeTerm type="text"/>
-                  </mods:place>
-                  <mods:place>
-                     <mods:placeTerm authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/"/>
-                     <mods:placeTerm type="text"/>
-                  </mods:place>
                   <mods:place>
                      <mods:placeTerm type="text"/>
                   </mods:place>
@@ -6771,13 +6505,6 @@
                   <mods:dateIssued encoding="w3cdtf" point="end"/>
                   <mods:dateIssued encoding="w3cdtf" point="start" keyDate="yes"/>
                   <mods:issuance>monographic</mods:issuance>
-                  <mods:place>
-                     <mods:placeTerm type="text"/>
-                  </mods:place>
-                  <mods:place>
-                     <mods:placeTerm authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/"/>
-                     <mods:placeTerm type="text"/>
-                  </mods:place>
                   <mods:place>
                      <mods:placeTerm type="text"/>
                   </mods:place>
@@ -9367,10 +9094,6 @@
                   <mods:dateIssued encoding="w3cdtf" point="start" keyDate="yes">1451</mods:dateIssued>
                   <mods:issuance>monographic</mods:issuance>
                   <mods:place>
-                     <mods:placeTerm authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/"/>
-                     <mods:placeTerm type="text"/>
-                  </mods:place>
-                  <mods:place>
                      <mods:placeTerm type="text">Katharinendael (?)</mods:placeTerm>
                   </mods:place>
                </mods:originInfo>
@@ -9653,13 +9376,6 @@
                   <mods:dateIssued encoding="w3cdtf" point="end">1500</mods:dateIssued>
                   <mods:dateIssued encoding="w3cdtf" point="start" keyDate="yes">1451</mods:dateIssued>
                   <mods:issuance>monographic</mods:issuance>
-                  <mods:place>
-                     <mods:placeTerm type="text"/>
-                  </mods:place>
-                  <mods:place>
-                     <mods:placeTerm authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/"/>
-                     <mods:placeTerm type="text"/>
-                  </mods:place>
                   <mods:place>
                      <mods:placeTerm type="text"/>
                   </mods:place>
@@ -11904,13 +11620,6 @@
                   <mods:dateIssued encoding="w3cdtf" point="end">1100</mods:dateIssued>
                   <mods:dateIssued encoding="w3cdtf" point="start" keyDate="yes">1051</mods:dateIssued>
                   <mods:issuance>monographic</mods:issuance>
-                  <mods:place>
-                     <mods:placeTerm type="text"/>
-                  </mods:place>
-                  <mods:place>
-                     <mods:placeTerm authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/"/>
-                     <mods:placeTerm type="text"/>
-                  </mods:place>
                   <mods:place>
                      <mods:placeTerm type="text"/>
                   </mods:place>
@@ -17422,10 +17131,6 @@
                   <mods:dateIssued encoding="w3cdtf" point="start" keyDate="yes">1417</mods:dateIssued>
                   <mods:issuance>monographic</mods:issuance>
                   <mods:place>
-                     <mods:placeTerm authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/"/>
-                     <mods:placeTerm type="text"/>
-                  </mods:place>
-                  <mods:place>
                      <mods:placeTerm type="text">unbekanntes Dominikanerkloster</mods:placeTerm>
                   </mods:place>
                </mods:originInfo>
@@ -19207,13 +18912,6 @@
                   <mods:place>
                      <mods:placeTerm type="text"/>
                   </mods:place>
-                  <mods:place>
-                     <mods:placeTerm authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/"/>
-                     <mods:placeTerm type="text"/>
-                  </mods:place>
-                  <mods:place>
-                     <mods:placeTerm type="text"/>
-                  </mods:place>
                </mods:originInfo>
                <mods:physicalDescription>
                   <mods:extent>166 Bl. ; Papier ; 20,7 × 16,1</mods:extent>
@@ -19964,10 +19662,6 @@
                   <mods:dateIssued encoding="w3cdtf" point="start" keyDate="yes">1401</mods:dateIssued>
                   <mods:issuance>monographic</mods:issuance>
                   <mods:place>
-                     <mods:placeTerm authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/"/>
-                     <mods:placeTerm type="text"/>
-                  </mods:place>
-                  <mods:place>
                      <mods:placeTerm type="text">südl. Mittelrhein (?)</mods:placeTerm>
                   </mods:place>
                </mods:originInfo>
@@ -20413,13 +20107,6 @@
                   <mods:place>
                      <mods:placeTerm type="text"/>
                   </mods:place>
-                  <mods:place>
-                     <mods:placeTerm authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/"/>
-                     <mods:placeTerm type="text"/>
-                  </mods:place>
-                  <mods:place>
-                     <mods:placeTerm type="text"/>
-                  </mods:place>
                </mods:originInfo>
                <mods:physicalDescription>
                   <mods:extent>I + 358 Bl. ; Pergament ; 16,1 × 12,5</mods:extent>
@@ -20472,13 +20159,6 @@
                   <mods:place>
                      <mods:placeTerm type="text"/>
                   </mods:place>
-                  <mods:place>
-                     <mods:placeTerm authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/"/>
-                     <mods:placeTerm type="text"/>
-                  </mods:place>
-                  <mods:place>
-                     <mods:placeTerm type="text"/>
-                  </mods:place>
                </mods:originInfo>
                <mods:physicalDescription>
                   <mods:extent>III + 110 Bl. ; 20,2 × 14,2</mods:extent>
@@ -20525,10 +20205,6 @@
                   <mods:dateIssued encoding="w3cdtf" point="end">1433</mods:dateIssued>
                   <mods:dateIssued encoding="w3cdtf" point="start" keyDate="yes">1401</mods:dateIssued>
                   <mods:issuance>monographic</mods:issuance>
-                  <mods:place>
-                     <mods:placeTerm authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/"/>
-                     <mods:placeTerm type="text"/>
-                  </mods:place>
                   <mods:place>
                      <mods:placeTerm type="text">südl. Mittelrhein (?)</mods:placeTerm>
                   </mods:place>
@@ -21632,10 +21308,6 @@
                   <mods:dateIssued encoding="w3cdtf" point="start" keyDate="yes">1453</mods:dateIssued>
                   <mods:issuance>monographic</mods:issuance>
                   <mods:place>
-                     <mods:placeTerm authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/"/>
-                     <mods:placeTerm type="text"/>
-                  </mods:place>
-                  <mods:place>
                      <mods:placeTerm type="text">Kurpfalz (?)</mods:placeTerm>
                   </mods:place>
                </mods:originInfo>
@@ -22129,13 +21801,6 @@
                   <mods:place>
                      <mods:placeTerm type="text"/>
                   </mods:place>
-                  <mods:place>
-                     <mods:placeTerm authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/"/>
-                     <mods:placeTerm type="text"/>
-                  </mods:place>
-                  <mods:place>
-                     <mods:placeTerm type="text"/>
-                  </mods:place>
                </mods:originInfo>
                <mods:physicalDescription>
                   <mods:extent>150 Bl. ; Papier ; 20,1 × 14,1</mods:extent>
@@ -22241,13 +21906,6 @@
                   <mods:place>
                      <mods:placeTerm type="text"/>
                   </mods:place>
-                  <mods:place>
-                     <mods:placeTerm authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/"/>
-                     <mods:placeTerm type="text"/>
-                  </mods:place>
-                  <mods:place>
-                     <mods:placeTerm type="text"/>
-                  </mods:place>
                </mods:originInfo>
                <mods:physicalDescription>
                   <mods:extent>195 Bl. ; Papier ; 15,2 × 10,3</mods:extent>
@@ -22291,13 +21949,6 @@
                   <mods:dateIssued encoding="w3cdtf" point="end"/>
                   <mods:dateIssued encoding="w3cdtf" point="start" keyDate="yes"/>
                   <mods:issuance>monographic</mods:issuance>
-                  <mods:place>
-                     <mods:placeTerm type="text"/>
-                  </mods:place>
-                  <mods:place>
-                     <mods:placeTerm authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/"/>
-                     <mods:placeTerm type="text"/>
-                  </mods:place>
                   <mods:place>
                      <mods:placeTerm type="text"/>
                   </mods:place>
@@ -23098,13 +22749,6 @@
                   <mods:dateIssued encoding="w3cdtf" point="start" keyDate="yes">1527</mods:dateIssued>
                   <mods:dateIssued encoding="w3cdtf" point="start" keyDate="yes">1529</mods:dateIssued>
                   <mods:issuance>monographic</mods:issuance>
-                  <mods:place>
-                     <mods:placeTerm type="text"/>
-                  </mods:place>
-                  <mods:place>
-                     <mods:placeTerm authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/"/>
-                     <mods:placeTerm type="text"/>
-                  </mods:place>
                   <mods:place>
                      <mods:placeTerm type="text"/>
                   </mods:place>
@@ -24825,13 +24469,6 @@
                   <mods:dateIssued encoding="w3cdtf" point="end">1500</mods:dateIssued>
                   <mods:dateIssued encoding="w3cdtf" point="start" keyDate="yes">1451</mods:dateIssued>
                   <mods:issuance>monographic</mods:issuance>
-                  <mods:place>
-                     <mods:placeTerm type="text"/>
-                  </mods:place>
-                  <mods:place>
-                     <mods:placeTerm authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/"/>
-                     <mods:placeTerm type="text"/>
-                  </mods:place>
                   <mods:place>
                      <mods:placeTerm type="text"/>
                   </mods:place>

@@ -207,7 +207,7 @@
                 </mods:placeTerm>
             </mods:place>    
          </xsl:for-each>
-         <xsl:for-each select="TEI:term[@type='origPlace_norm'][starts-with(@ref,'http://d-nb.info/gnd/')]">
+         <xsl:for-each select="TEI:term[@type='origPlace_norm'][substring-after(@ref,'http://d-nb.info/gnd/')!='']">
              <mods:place> 
                 <mods:placeTerm authorityURI="http://d-nb.info/gnd/" valueURI="{@ref}"/>
                 <mods:placeTerm type="text">
