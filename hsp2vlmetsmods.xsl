@@ -45,9 +45,38 @@
                                 <xsl:value-of select="$id"/>
                             </mods:recordIdentifier>
                         </mods:recordInfo>
-                        <xsl:perform-sort select="$recorddata/*">
-                            <xsl:sort select="name()"/>
-                        </xsl:perform-sort>
+                        <xsl:variable name="recorddatagroup">
+                            <xsl:sequence select="$recorddata/*[not(name()='mods:originInfo')]"/>
+                            <mods:originInfo>
+                                <xsl:variable name="originInfodata">
+                                    <xsl:sequence select="$recorddata/mods:originInfo/*"/>
+                                </xsl:variable>
+                                <xsl:variable name="originInfodatasort">
+                                    <xsl:perform-sort select="$originInfodata/*">
+                                        <xsl:sort select="name()"/>
+                                        <xsl:sort select="@point"/>
+                                        <xsl:sort select="text()|*/text()"/>
+                                    </xsl:perform-sort>
+                                </xsl:variable>
+                                <xsl:for-each select="$originInfodatasort/*">
+                                    <xsl:if test="not(deep-equal((.),(preceding-sibling::*[1])))">
+                                        <xsl:sequence select="."/>
+                                    </xsl:if>
+                                </xsl:for-each>
+                            </mods:originInfo>
+                        </xsl:variable>
+                        <xsl:variable name="recorddatasort">
+                            <xsl:perform-sort select="$recorddatagroup/*">
+                                <xsl:sort select="name()"/>
+                                <xsl:sort select="@authority"/>
+                                <xsl:sort select="text()"></xsl:sort>
+                            </xsl:perform-sort>
+                        </xsl:variable>
+                        <xsl:for-each select="$recorddatasort/*">
+                            <xsl:if test="not(deep-equal((.),(preceding-sibling::*[1])))">
+                                <xsl:sequence select="."/>
+                            </xsl:if>
+                        </xsl:for-each>
                     </mods:mods>
                 </mets:xmlData>
             </mets:mdWrap>
@@ -109,9 +138,31 @@
   
     <xsl:template match="TEI:idno" mode="mods">
         <mods:location>
-            <mods:physicalLocation authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/{../TEI:repository/@ref}">
-                <xsl:value-of select="../TEI:repository"/>
-            </mods:physicalLocation>
+            <xsl:choose>
+                <xsl:when test="../TEI:repository/@ref">
+                    <xsl:variable name="valueuri">
+                        <xsl:choose>
+                            <xsl:when test="contains(../TEI:repository/@ref,'https://d-nb.info/gnd/')">
+                                <xsl:value-of select="concat('http://d-nb.info/gnd/',substring-after(../TEI:repository/@ref,'https://d-nb.info/gnd/'))"/>
+                            </xsl:when>
+                            <xsl:when test="contains(../TEI:repository/@ref,'http://d-nb.info/gnd/')">
+                                <xsl:value-of select="../TEI:repository/@ref"/>
+                            </xsl:when>
+                            <xsl:otherwise>
+                                <xsl:value-of select="concat('http://d-nb.info/gnd/',../TEI:repository/@ref)"/>
+                            </xsl:otherwise>
+                        </xsl:choose>
+                    </xsl:variable>
+                    <mods:physicalLocation authorityURI="http://d-nb.info/gnd/" valueURI="{$valueuri}">
+                        <xsl:value-of select="../TEI:repository"/>
+                    </mods:physicalLocation>
+                </xsl:when>
+                <xsl:otherwise>
+                    <mods:physicalLocation>
+                        <xsl:value-of select="../TEI:repository"/>
+                    </mods:physicalLocation> 
+                </xsl:otherwise>
+            </xsl:choose>
             <mods:shelfLocator>
                 <xsl:value-of select="string-join((../TEI:repository,.),' : ')"/>
             </mods:shelfLocator>
