@@ -217,10 +217,10 @@
          </xsl:for-each>
     </xsl:template>
  
-    <xsl:template match="TEI:index[@indexName='norm_textLang']/TEI:term[@type='textLang-ID']" mode="mods">
-        <xsl:variable name="iso639_1" select="('de','la','it','fr','ca')"/>
+    <xsl:template match="TEI:index[@indexName='norm_textLang']/TEI:term[@ref]" mode="mods">
         <xsl:variable name="iso639_2b" select="('ger','lat','ita','fre','cat')"/>
-        <xsl:variable name="i" select="index-of($iso639_1,.)"/>
+        <xsl:variable name="gnd" select="('http://d-nb.info/gnd/4113292-0','http://d-nb.info/gnd/4114364-4','http://d-nb.info/gnd/4114056-4','http://d-nb.info/gnd/4113615-9','http://d-nb.info/gnd/4120218-1')"/>
+        <xsl:variable name="i" select="index-of($gnd,./@ref)"/>
             <xsl:if test="$i>0">
                 <mods:language>
                     <mods:languageTerm type="code" authority="iso639-2b">

@@ -24,6 +24,9 @@
                                      xlink:href="https://creativecommons.org/publicdomain/mark/1.0/"
                                      displayLabel="Public Domain Mark 1.0">pdm</mods:accessCondition>
                <mods:identifier type="HSP">HSP-adc76a1a-9152-3181-9775-b72dfd542d41</mods:identifier>
+               <mods:language>
+                  <mods:languageTerm type="code" authority="iso639-2b">lat</mods:languageTerm>
+               </mods:language>
                <mods:location>
                   <mods:physicalLocation authorityURI="http://d-nb.info/gnd/"
                                          valueURI="http://d-nb.info/gnd/37777-6">Pfälzische Landesbibliothek</mods:physicalLocation>
@@ -79,6 +82,9 @@
                                      xlink:href="https://creativecommons.org/publicdomain/mark/1.0/"
                                      displayLabel="Public Domain Mark 1.0">pdm</mods:accessCondition>
                <mods:identifier type="HSP">HSP-cce36db5-2a2e-337e-921f-aa85a87edf05</mods:identifier>
+               <mods:language>
+                  <mods:languageTerm type="code" authority="iso639-2b">lat</mods:languageTerm>
+               </mods:language>
                <mods:location>
                   <mods:physicalLocation authorityURI="http://d-nb.info/gnd/"
                                          valueURI="http://d-nb.info/gnd/37777-6">Pfälzische Landesbibliothek</mods:physicalLocation>
@@ -139,6 +145,9 @@
                                      xlink:href="https://creativecommons.org/publicdomain/mark/1.0/"
                                      displayLabel="Public Domain Mark 1.0">pdm</mods:accessCondition>
                <mods:identifier type="HSP">HSP-976cbde0-3ea1-3e07-bf67-acc2a3f70541</mods:identifier>
+               <mods:language>
+                  <mods:languageTerm type="code" authority="iso639-2b">lat</mods:languageTerm>
+               </mods:language>
                <mods:location>
                   <mods:physicalLocation authorityURI="http://d-nb.info/gnd/"
                                          valueURI="http://d-nb.info/gnd/37777-6">Pfälzische Landesbibliothek</mods:physicalLocation>
@@ -194,6 +203,9 @@
                                      xlink:href="https://creativecommons.org/publicdomain/mark/1.0/"
                                      displayLabel="Public Domain Mark 1.0">pdm</mods:accessCondition>
                <mods:identifier type="HSP">HSP-835f90fc-1ed2-31d3-9795-68e1604cf9e9</mods:identifier>
+               <mods:language>
+                  <mods:languageTerm type="code" authority="iso639-2b">ita</mods:languageTerm>
+               </mods:language>
                <mods:location>
                   <mods:physicalLocation authorityURI="http://d-nb.info/gnd/"
                                          valueURI="http://d-nb.info/gnd/37777-6">Pfälzische Landesbibliothek</mods:physicalLocation>
@@ -249,6 +261,9 @@
                                      xlink:href="https://creativecommons.org/publicdomain/mark/1.0/"
                                      displayLabel="Public Domain Mark 1.0">pdm</mods:accessCondition>
                <mods:identifier type="HSP">HSP-9f9cae23-7815-3203-9b6d-7e4313f2c5bb</mods:identifier>
+               <mods:language>
+                  <mods:languageTerm type="code" authority="iso639-2b">lat</mods:languageTerm>
+               </mods:language>
                <mods:location>
                   <mods:physicalLocation authorityURI="http://d-nb.info/gnd/"
                                          valueURI="http://d-nb.info/gnd/37777-6">Pfälzische Landesbibliothek</mods:physicalLocation>
@@ -304,6 +319,9 @@
                                      xlink:href="https://creativecommons.org/publicdomain/mark/1.0/"
                                      displayLabel="Public Domain Mark 1.0">pdm</mods:accessCondition>
                <mods:identifier type="HSP">HSP-d24bbfe2-7d81-3c72-ac9a-30cdcb701aff</mods:identifier>
+               <mods:language>
+                  <mods:languageTerm type="code" authority="iso639-2b">lat</mods:languageTerm>
+               </mods:language>
                <mods:location>
                   <mods:physicalLocation authorityURI="http://d-nb.info/gnd/"
                                          valueURI="http://d-nb.info/gnd/37777-6">Pfälzische Landesbibliothek</mods:physicalLocation>
@@ -386,6 +404,9 @@
                                      xlink:href="https://creativecommons.org/publicdomain/mark/1.0/"
                                      displayLabel="Public Domain Mark 1.0">pdm</mods:accessCondition>
                <mods:identifier type="HSP">HSP-d8432443-748a-3d91-93a8-e26bc3388e7b</mods:identifier>
+               <mods:language>
+                  <mods:languageTerm type="code" authority="iso639-2b">lat</mods:languageTerm>
+               </mods:language>
                <mods:location>
                   <mods:physicalLocation authorityURI="http://d-nb.info/gnd/"
                                          valueURI="http://d-nb.info/gnd/37777-6">Pfälzische Landesbibliothek</mods:physicalLocation>
@@ -447,6 +468,18 @@
                                      xlink:href="https://creativecommons.org/publicdomain/mark/1.0/"
                                      displayLabel="Public Domain Mark 1.0">pdm</mods:accessCondition>
                <mods:identifier type="HSP">HSP-f8e17fba-17cf-3b29-9db9-5f48edda72a8</mods:identifier>
+               <mods:language>
+                  <mods:languageTerm type="code" authority="iso639-2b">ger</mods:languageTerm>
+               </mods:language>
+               <mods:language>
+                  <mods:languageTerm type="code" authority="iso639-2b">lat</mods:languageTerm>
+               </mods:language>
+               <mods:language>
+                  <mods:languageTerm type="code" authority="iso639-2b">ger</mods:languageTerm>
+               </mods:language>
+               <mods:language>
+                  <mods:languageTerm type="code" authority="iso639-2b">lat</mods:languageTerm>
+               </mods:language>
                <mods:location>
                   <mods:physicalLocation authorityURI="http://d-nb.info/gnd/"
                                          valueURI="http://d-nb.info/gnd/37777-6">Pfälzische Landesbibliothek</mods:physicalLocation>
@@ -511,6 +544,9 @@
                                      xlink:href="https://creativecommons.org/publicdomain/mark/1.0/"
                                      displayLabel="Public Domain Mark 1.0">pdm</mods:accessCondition>
                <mods:identifier type="HSP">HSP-ae844cac-4ff7-3c1f-9199-b5e4fd2aab06</mods:identifier>
+               <mods:language>
+                  <mods:languageTerm type="code" authority="iso639-2b">lat</mods:languageTerm>
+               </mods:language>
                <mods:location>
                   <mods:physicalLocation authorityURI="http://d-nb.info/gnd/"
                                          valueURI="http://d-nb.info/gnd/37777-6">Pfälzische Landesbibliothek</mods:physicalLocation>
@@ -562,6 +598,9 @@
                                      xlink:href="https://creativecommons.org/publicdomain/mark/1.0/"
                                      displayLabel="Public Domain Mark 1.0">pdm</mods:accessCondition>
                <mods:identifier type="HSP">HSP-6afeae45-ebd7-3436-9c97-e094797d6eb1</mods:identifier>
+               <mods:language>
+                  <mods:languageTerm type="code" authority="iso639-2b">lat</mods:languageTerm>
+               </mods:language>
                <mods:location>
                   <mods:physicalLocation authorityURI="http://d-nb.info/gnd/"
                                          valueURI="http://d-nb.info/gnd/37777-6">Pfälzische Landesbibliothek</mods:physicalLocation>
@@ -613,6 +652,9 @@
                                      xlink:href="https://creativecommons.org/publicdomain/mark/1.0/"
                                      displayLabel="Public Domain Mark 1.0">pdm</mods:accessCondition>
                <mods:identifier type="HSP">HSP-a48afb91-26c7-342c-a3d8-77eb2e6ee6c4</mods:identifier>
+               <mods:language>
+                  <mods:languageTerm type="code" authority="iso639-2b">lat</mods:languageTerm>
+               </mods:language>
                <mods:location>
                   <mods:physicalLocation authorityURI="http://d-nb.info/gnd/"
                                          valueURI="http://d-nb.info/gnd/37777-6">Pfälzische Landesbibliothek</mods:physicalLocation>
@@ -672,6 +714,18 @@
                                      xlink:href="https://creativecommons.org/publicdomain/mark/1.0/"
                                      displayLabel="Public Domain Mark 1.0">pdm</mods:accessCondition>
                <mods:identifier type="HSP">HSP-fcd3bf64-d7d1-3d3f-9034-87ee8d3089db</mods:identifier>
+               <mods:language>
+                  <mods:languageTerm type="code" authority="iso639-2b">lat</mods:languageTerm>
+               </mods:language>
+               <mods:language>
+                  <mods:languageTerm type="code" authority="iso639-2b">ita</mods:languageTerm>
+               </mods:language>
+               <mods:language>
+                  <mods:languageTerm type="code" authority="iso639-2b">lat</mods:languageTerm>
+               </mods:language>
+               <mods:language>
+                  <mods:languageTerm type="code" authority="iso639-2b">ita</mods:languageTerm>
+               </mods:language>
                <mods:location>
                   <mods:physicalLocation authorityURI="http://d-nb.info/gnd/"
                                          valueURI="http://d-nb.info/gnd/37777-6">Pfälzische Landesbibliothek</mods:physicalLocation>
@@ -758,6 +812,9 @@
                                      xlink:href="https://creativecommons.org/publicdomain/mark/1.0/"
                                      displayLabel="Public Domain Mark 1.0">pdm</mods:accessCondition>
                <mods:identifier type="HSP">HSP-4198de63-7ad2-3c77-92dd-320015106276</mods:identifier>
+               <mods:language>
+                  <mods:languageTerm type="code" authority="iso639-2b">lat</mods:languageTerm>
+               </mods:language>
                <mods:location>
                   <mods:physicalLocation authorityURI="http://d-nb.info/gnd/"
                                          valueURI="http://d-nb.info/gnd/2047886-0">Bistumsarchiv Speyer</mods:physicalLocation>
@@ -819,6 +876,9 @@
                                      xlink:href="https://creativecommons.org/publicdomain/mark/1.0/"
                                      displayLabel="Public Domain Mark 1.0">pdm</mods:accessCondition>
                <mods:identifier type="HSP">HSP-112f2a56-b82e-34ee-9eb5-d73c0eba3e90</mods:identifier>
+               <mods:language>
+                  <mods:languageTerm type="code" authority="iso639-2b">lat</mods:languageTerm>
+               </mods:language>
                <mods:location>
                   <mods:physicalLocation authorityURI="http://d-nb.info/gnd/"
                                          valueURI="http://d-nb.info/gnd/2047886-0">Bistumsarchiv Speyer</mods:physicalLocation>
@@ -865,6 +925,9 @@
                                      xlink:href="https://creativecommons.org/publicdomain/mark/1.0/"
                                      displayLabel="Public Domain Mark 1.0">pdm</mods:accessCondition>
                <mods:identifier type="HSP">HSP-2680af20-d019-3c60-8be9-2b13a680bd32</mods:identifier>
+               <mods:language>
+                  <mods:languageTerm type="code" authority="iso639-2b">lat</mods:languageTerm>
+               </mods:language>
                <mods:location>
                   <mods:physicalLocation authorityURI="http://d-nb.info/gnd/"
                                          valueURI="http://d-nb.info/gnd/2047886-0">Bistumsarchiv Speyer</mods:physicalLocation>
@@ -916,6 +979,9 @@
                                      xlink:href="https://creativecommons.org/publicdomain/mark/1.0/"
                                      displayLabel="Public Domain Mark 1.0">pdm</mods:accessCondition>
                <mods:identifier type="HSP">HSP-047e8a43-ac1f-3e18-851b-322dfd559e7c</mods:identifier>
+               <mods:language>
+                  <mods:languageTerm type="code" authority="iso639-2b">ger</mods:languageTerm>
+               </mods:language>
                <mods:location>
                   <mods:physicalLocation authorityURI="http://d-nb.info/gnd/"
                                          valueURI="http://d-nb.info/gnd/2022729-2">Stadtarchiv Speyer</mods:physicalLocation>
@@ -1110,6 +1176,9 @@
                                      xlink:href="https://creativecommons.org/publicdomain/mark/1.0/"
                                      displayLabel="Public Domain Mark 1.0">pdm</mods:accessCondition>
                <mods:identifier type="HSP">HSP-c61028d5-b165-326f-8d88-25dd8992f055</mods:identifier>
+               <mods:language>
+                  <mods:languageTerm type="code" authority="iso639-2b">lat</mods:languageTerm>
+               </mods:language>
                <mods:location>
                   <mods:physicalLocation authorityURI="http://d-nb.info/gnd/"
                                          valueURI="http://d-nb.info/gnd/2022729-2">Stadtarchiv Speyer</mods:physicalLocation>
@@ -1161,6 +1230,9 @@
                                      xlink:href="https://creativecommons.org/publicdomain/mark/1.0/"
                                      displayLabel="Public Domain Mark 1.0">pdm</mods:accessCondition>
                <mods:identifier type="HSP">HSP-2b5799bf-37ae-3d04-916b-0942baf21a67</mods:identifier>
+               <mods:language>
+                  <mods:languageTerm type="code" authority="iso639-2b">lat</mods:languageTerm>
+               </mods:language>
                <mods:location>
                   <mods:physicalLocation authorityURI="http://d-nb.info/gnd/"
                                          valueURI="http://d-nb.info/gnd/2022729-2">Stadtarchiv Speyer</mods:physicalLocation>
@@ -1212,6 +1284,9 @@
                                      xlink:href="https://creativecommons.org/publicdomain/mark/1.0/"
                                      displayLabel="Public Domain Mark 1.0">pdm</mods:accessCondition>
                <mods:identifier type="HSP">HSP-e0e9cc0e-20cd-3cc1-b4c1-2a4d9c469e71</mods:identifier>
+               <mods:language>
+                  <mods:languageTerm type="code" authority="iso639-2b">lat</mods:languageTerm>
+               </mods:language>
                <mods:location>
                   <mods:physicalLocation authorityURI="http://d-nb.info/gnd/"
                                          valueURI="http://d-nb.info/gnd/2022634-2">Stadtarchiv Worms</mods:physicalLocation>
@@ -1263,6 +1338,9 @@
                                      xlink:href="https://creativecommons.org/publicdomain/mark/1.0/"
                                      displayLabel="Public Domain Mark 1.0">pdm</mods:accessCondition>
                <mods:identifier type="HSP">HSP-473c553e-6f52-3a34-9633-a5d7840c6d5e</mods:identifier>
+               <mods:language>
+                  <mods:languageTerm type="code" authority="iso639-2b">lat</mods:languageTerm>
+               </mods:language>
                <mods:location>
                   <mods:physicalLocation authorityURI="http://d-nb.info/gnd/"
                                          valueURI="http://d-nb.info/gnd/2022634-2">Stadtarchiv Worms</mods:physicalLocation>
@@ -1314,6 +1392,9 @@
                                      xlink:href="https://creativecommons.org/publicdomain/mark/1.0/"
                                      displayLabel="Public Domain Mark 1.0">pdm</mods:accessCondition>
                <mods:identifier type="HSP">HSP-fbc18cb7-2411-37b8-8a23-5de47266156f</mods:identifier>
+               <mods:language>
+                  <mods:languageTerm type="code" authority="iso639-2b">lat</mods:languageTerm>
+               </mods:language>
                <mods:location>
                   <mods:physicalLocation authorityURI="http://d-nb.info/gnd/"
                                          valueURI="http://d-nb.info/gnd/2022634-2">Stadtarchiv Worms</mods:physicalLocation>
@@ -1365,6 +1446,9 @@
                                      xlink:href="https://creativecommons.org/publicdomain/mark/1.0/"
                                      displayLabel="Public Domain Mark 1.0">pdm</mods:accessCondition>
                <mods:identifier type="HSP">HSP-fb099430-ea4e-3c71-bd0a-af6c38803217</mods:identifier>
+               <mods:language>
+                  <mods:languageTerm type="code" authority="iso639-2b">lat</mods:languageTerm>
+               </mods:language>
                <mods:location>
                   <mods:physicalLocation authorityURI="http://d-nb.info/gnd/"
                                          valueURI="http://d-nb.info/gnd/2022634-2">Stadtarchiv Worms</mods:physicalLocation>
@@ -1424,6 +1508,9 @@
                                      xlink:href="https://creativecommons.org/publicdomain/mark/1.0/"
                                      displayLabel="Public Domain Mark 1.0">pdm</mods:accessCondition>
                <mods:identifier type="HSP">HSP-a2caad20-0e95-31c9-894a-db3bbe3f26a6</mods:identifier>
+               <mods:language>
+                  <mods:languageTerm type="code" authority="iso639-2b">lat</mods:languageTerm>
+               </mods:language>
                <mods:location>
                   <mods:physicalLocation authorityURI="http://d-nb.info/gnd/"
                                          valueURI="http://d-nb.info/gnd/2022634-2">Stadtarchiv Worms</mods:physicalLocation>
@@ -1478,6 +1565,9 @@
                                      xlink:href="https://creativecommons.org/publicdomain/mark/1.0/"
                                      displayLabel="Public Domain Mark 1.0">pdm</mods:accessCondition>
                <mods:identifier type="HSP">HSP-11a8c4d0-8290-3e2e-8b0a-6c43ecebd544</mods:identifier>
+               <mods:language>
+                  <mods:languageTerm type="code" authority="iso639-2b">lat</mods:languageTerm>
+               </mods:language>
                <mods:location>
                   <mods:physicalLocation authorityURI="http://d-nb.info/gnd/"
                                          valueURI="http://d-nb.info/gnd/2022634-2">Stadtarchiv Worms</mods:physicalLocation>
@@ -1534,6 +1624,9 @@
                                      xlink:href="https://creativecommons.org/publicdomain/mark/1.0/"
                                      displayLabel="Public Domain Mark 1.0">pdm</mods:accessCondition>
                <mods:identifier type="HSP">HSP-8bb50bbb-0829-3da8-8a01-0065cd378d22</mods:identifier>
+               <mods:language>
+                  <mods:languageTerm type="code" authority="iso639-2b">lat</mods:languageTerm>
+               </mods:language>
                <mods:location>
                   <mods:physicalLocation authorityURI="http://d-nb.info/gnd/"
                                          valueURI="http://d-nb.info/gnd/2022634-2">Stadtarchiv Worms</mods:physicalLocation>
@@ -1614,6 +1707,9 @@
                                      xlink:href="https://creativecommons.org/publicdomain/mark/1.0/"
                                      displayLabel="Public Domain Mark 1.0">pdm</mods:accessCondition>
                <mods:identifier type="HSP">HSP-34969dd1-74ca-3541-8b35-8894904e3f09</mods:identifier>
+               <mods:language>
+                  <mods:languageTerm type="code" authority="iso639-2b">lat</mods:languageTerm>
+               </mods:language>
                <mods:location>
                   <mods:physicalLocation authorityURI="http://d-nb.info/gnd/"
                                          valueURI="http://d-nb.info/gnd/2022634-2">Stadtarchiv Worms</mods:physicalLocation>
@@ -1665,6 +1761,9 @@
                                      xlink:href="https://creativecommons.org/publicdomain/mark/1.0/"
                                      displayLabel="Public Domain Mark 1.0">pdm</mods:accessCondition>
                <mods:identifier type="HSP">HSP-626948f7-99d2-3a2b-aa1e-7717d4ad4829</mods:identifier>
+               <mods:language>
+                  <mods:languageTerm type="code" authority="iso639-2b">lat</mods:languageTerm>
+               </mods:language>
                <mods:location>
                   <mods:physicalLocation authorityURI="http://d-nb.info/gnd/"
                                          valueURI="http://d-nb.info/gnd/2022634-2">Stadtarchiv Worms</mods:physicalLocation>
@@ -1716,6 +1815,9 @@
                                      xlink:href="https://creativecommons.org/publicdomain/mark/1.0/"
                                      displayLabel="Public Domain Mark 1.0">pdm</mods:accessCondition>
                <mods:identifier type="HSP">HSP-526fbe90-5dd3-36b5-88bc-c55aafc0593b</mods:identifier>
+               <mods:language>
+                  <mods:languageTerm type="code" authority="iso639-2b">lat</mods:languageTerm>
+               </mods:language>
                <mods:location>
                   <mods:physicalLocation authorityURI="http://d-nb.info/gnd/"
                                          valueURI="http://d-nb.info/gnd/2022634-2">Stadtarchiv Worms</mods:physicalLocation>
@@ -1767,6 +1869,9 @@
                                      xlink:href="https://creativecommons.org/publicdomain/mark/1.0/"
                                      displayLabel="Public Domain Mark 1.0">pdm</mods:accessCondition>
                <mods:identifier type="HSP">HSP-e096142f-5fca-3cc4-887e-8a0289428857</mods:identifier>
+               <mods:language>
+                  <mods:languageTerm type="code" authority="iso639-2b">lat</mods:languageTerm>
+               </mods:language>
                <mods:location>
                   <mods:physicalLocation authorityURI="http://d-nb.info/gnd/"
                                          valueURI="http://d-nb.info/gnd/2022634-2">Stadtarchiv Worms</mods:physicalLocation>
@@ -1818,6 +1923,9 @@
                                      xlink:href="https://creativecommons.org/publicdomain/mark/1.0/"
                                      displayLabel="Public Domain Mark 1.0">pdm</mods:accessCondition>
                <mods:identifier type="HSP">HSP-3ef1f41c-d5fe-30f4-9115-51f9b9ed1a24</mods:identifier>
+               <mods:language>
+                  <mods:languageTerm type="code" authority="iso639-2b">lat</mods:languageTerm>
+               </mods:language>
                <mods:location>
                   <mods:physicalLocation authorityURI="http://d-nb.info/gnd/"
                                          valueURI="http://d-nb.info/gnd/2022634-2">Stadtarchiv Worms</mods:physicalLocation>
@@ -1861,6 +1969,9 @@
                                      xlink:href="https://creativecommons.org/publicdomain/mark/1.0/"
                                      displayLabel="Public Domain Mark 1.0">pdm</mods:accessCondition>
                <mods:identifier type="HSP">HSP-c6a18baa-2821-3687-ac66-04bdfae502e7</mods:identifier>
+               <mods:language>
+                  <mods:languageTerm type="code" authority="iso639-2b">lat</mods:languageTerm>
+               </mods:language>
                <mods:location>
                   <mods:physicalLocation authorityURI="http://d-nb.info/gnd/"
                                          valueURI="http://d-nb.info/gnd/2022634-2">Stadtarchiv Worms</mods:physicalLocation>
@@ -1912,6 +2023,9 @@
                                      xlink:href="https://creativecommons.org/publicdomain/mark/1.0/"
                                      displayLabel="Public Domain Mark 1.0">pdm</mods:accessCondition>
                <mods:identifier type="HSP">HSP-997ea33d-fbed-3bbf-859d-0547bb8bc1d2</mods:identifier>
+               <mods:language>
+                  <mods:languageTerm type="code" authority="iso639-2b">ger</mods:languageTerm>
+               </mods:language>
                <mods:location>
                   <mods:physicalLocation authorityURI="http://d-nb.info/gnd/"
                                          valueURI="http://d-nb.info/gnd/2022643-3">Stadtbibliothek Worms</mods:physicalLocation>
@@ -1971,6 +2085,9 @@
                                      xlink:href="https://creativecommons.org/publicdomain/mark/1.0/"
                                      displayLabel="Public Domain Mark 1.0">pdm</mods:accessCondition>
                <mods:identifier type="HSP">HSP-f84b8694-11b9-3a5e-8824-336c46d0a0de</mods:identifier>
+               <mods:language>
+                  <mods:languageTerm type="code" authority="iso639-2b">lat</mods:languageTerm>
+               </mods:language>
                <mods:location>
                   <mods:physicalLocation authorityURI="http://d-nb.info/gnd/"
                                          valueURI="http://d-nb.info/gnd/2022643-3">Stadtbibliothek Worms</mods:physicalLocation>
@@ -2025,6 +2142,18 @@
                                      xlink:href="https://creativecommons.org/publicdomain/mark/1.0/"
                                      displayLabel="Public Domain Mark 1.0">pdm</mods:accessCondition>
                <mods:identifier type="HSP">HSP-f7064125-be89-349e-abe0-9d058bdf515b</mods:identifier>
+               <mods:language>
+                  <mods:languageTerm type="code" authority="iso639-2b">ger</mods:languageTerm>
+               </mods:language>
+               <mods:language>
+                  <mods:languageTerm type="code" authority="iso639-2b">lat</mods:languageTerm>
+               </mods:language>
+               <mods:language>
+                  <mods:languageTerm type="code" authority="iso639-2b">ger</mods:languageTerm>
+               </mods:language>
+               <mods:language>
+                  <mods:languageTerm type="code" authority="iso639-2b">lat</mods:languageTerm>
+               </mods:language>
                <mods:location>
                   <mods:physicalLocation authorityURI="http://d-nb.info/gnd/"
                                          valueURI="http://d-nb.info/gnd/10132049-8">Wissenschaftliche Stadtbibliothek Mainz</mods:physicalLocation>
@@ -2090,6 +2219,9 @@
                                      xlink:href="https://creativecommons.org/publicdomain/mark/1.0/"
                                      displayLabel="Public Domain Mark 1.0">pdm</mods:accessCondition>
                <mods:identifier type="HSP">HSP-d070b430-640b-35a9-bd33-437a38f327d0</mods:identifier>
+               <mods:language>
+                  <mods:languageTerm type="code" authority="iso639-2b">lat</mods:languageTerm>
+               </mods:language>
                <mods:location>
                   <mods:physicalLocation authorityURI="http://d-nb.info/gnd/"
                                          valueURI="http://d-nb.info/gnd/10132049-8">Wissenschaftliche Stadtbibliothek Mainz</mods:physicalLocation>
@@ -2143,6 +2275,9 @@
                                      xlink:href="https://creativecommons.org/publicdomain/mark/1.0/"
                                      displayLabel="Public Domain Mark 1.0">pdm</mods:accessCondition>
                <mods:identifier type="HSP">HSP-3ba19f7e-8e4e-3b66-95f8-3dd1d5edf2f0</mods:identifier>
+               <mods:language>
+                  <mods:languageTerm type="code" authority="iso639-2b">lat</mods:languageTerm>
+               </mods:language>
                <mods:location>
                   <mods:physicalLocation authorityURI="http://d-nb.info/gnd/"
                                          valueURI="http://d-nb.info/gnd/10132049-8">Wissenschaftliche Stadtbibliothek Mainz</mods:physicalLocation>
@@ -2213,6 +2348,9 @@
                                      xlink:href="https://creativecommons.org/publicdomain/mark/1.0/"
                                      displayLabel="Public Domain Mark 1.0">pdm</mods:accessCondition>
                <mods:identifier type="HSP">HSP-b67e3b12-058e-3f4d-8554-f21e6cbb3ee4</mods:identifier>
+               <mods:language>
+                  <mods:languageTerm type="code" authority="iso639-2b">lat</mods:languageTerm>
+               </mods:language>
                <mods:location>
                   <mods:physicalLocation authorityURI="http://d-nb.info/gnd/"
                                          valueURI="http://d-nb.info/gnd/10132049-8">Wissenschaftliche Stadtbibliothek Mainz</mods:physicalLocation>
@@ -2280,6 +2418,9 @@
                                      xlink:href="https://creativecommons.org/publicdomain/mark/1.0/"
                                      displayLabel="Public Domain Mark 1.0">pdm</mods:accessCondition>
                <mods:identifier type="HSP">HSP-1f30924a-6874-3aa5-9d84-9e9532844fe4</mods:identifier>
+               <mods:language>
+                  <mods:languageTerm type="code" authority="iso639-2b">ger</mods:languageTerm>
+               </mods:language>
                <mods:location>
                   <mods:physicalLocation authorityURI="http://d-nb.info/gnd/"
                                          valueURI="http://d-nb.info/gnd/10132049-8">Wissenschaftliche Stadtbibliothek Mainz</mods:physicalLocation>
@@ -2353,6 +2494,9 @@
                                      xlink:href="https://creativecommons.org/publicdomain/mark/1.0/"
                                      displayLabel="Public Domain Mark 1.0">pdm</mods:accessCondition>
                <mods:identifier type="HSP">HSP-e50a013c-f499-380b-9d1f-8a6c7a0fa80e</mods:identifier>
+               <mods:language>
+                  <mods:languageTerm type="code" authority="iso639-2b">lat</mods:languageTerm>
+               </mods:language>
                <mods:location>
                   <mods:physicalLocation authorityURI="http://d-nb.info/gnd/"
                                          valueURI="http://d-nb.info/gnd/10132049-8">Wissenschaftliche Stadtbibliothek Mainz</mods:physicalLocation>
@@ -2409,6 +2553,9 @@
                                      xlink:href="https://creativecommons.org/publicdomain/mark/1.0/"
                                      displayLabel="Public Domain Mark 1.0">pdm</mods:accessCondition>
                <mods:identifier type="HSP">HSP-54a1b02a-c7ce-345b-be4b-d0c2c1d0ba3b</mods:identifier>
+               <mods:language>
+                  <mods:languageTerm type="code" authority="iso639-2b">lat</mods:languageTerm>
+               </mods:language>
                <mods:location>
                   <mods:physicalLocation authorityURI="http://d-nb.info/gnd/"
                                          valueURI="http://d-nb.info/gnd/10132049-8">Wissenschaftliche Stadtbibliothek Mainz</mods:physicalLocation>
@@ -2459,6 +2606,9 @@
                                      xlink:href="https://creativecommons.org/publicdomain/mark/1.0/"
                                      displayLabel="Public Domain Mark 1.0">pdm</mods:accessCondition>
                <mods:identifier type="HSP">HSP-e41d26af-2011-3b45-879c-c12bd3598947</mods:identifier>
+               <mods:language>
+                  <mods:languageTerm type="code" authority="iso639-2b">lat</mods:languageTerm>
+               </mods:language>
                <mods:location>
                   <mods:physicalLocation authorityURI="http://d-nb.info/gnd/"
                                          valueURI="http://d-nb.info/gnd/10132049-8">Wissenschaftliche Stadtbibliothek Mainz</mods:physicalLocation>
@@ -2517,6 +2667,9 @@
                                      xlink:href="https://creativecommons.org/publicdomain/mark/1.0/"
                                      displayLabel="Public Domain Mark 1.0">pdm</mods:accessCondition>
                <mods:identifier type="HSP">HSP-44c12a3b-2f49-37dd-a90b-ad90f95c60ba</mods:identifier>
+               <mods:language>
+                  <mods:languageTerm type="code" authority="iso639-2b">lat</mods:languageTerm>
+               </mods:language>
                <mods:location>
                   <mods:physicalLocation authorityURI="http://d-nb.info/gnd/"
                                          valueURI="http://d-nb.info/gnd/10132049-8">Wissenschaftliche Stadtbibliothek Mainz</mods:physicalLocation>
@@ -2567,6 +2720,9 @@
                                      xlink:href="https://creativecommons.org/publicdomain/mark/1.0/"
                                      displayLabel="Public Domain Mark 1.0">pdm</mods:accessCondition>
                <mods:identifier type="HSP">HSP-fb6c50fd-727b-34b7-a3d1-562fe7e8be3a</mods:identifier>
+               <mods:language>
+                  <mods:languageTerm type="code" authority="iso639-2b">lat</mods:languageTerm>
+               </mods:language>
                <mods:location>
                   <mods:physicalLocation authorityURI="http://d-nb.info/gnd/"
                                          valueURI="http://d-nb.info/gnd/10132049-8">Wissenschaftliche Stadtbibliothek Mainz</mods:physicalLocation>
@@ -2620,6 +2776,9 @@
                                      xlink:href="https://creativecommons.org/publicdomain/mark/1.0/"
                                      displayLabel="Public Domain Mark 1.0">pdm</mods:accessCondition>
                <mods:identifier type="HSP">HSP-cc522f73-142f-3593-aedd-276d4c57bee1</mods:identifier>
+               <mods:language>
+                  <mods:languageTerm type="code" authority="iso639-2b">lat</mods:languageTerm>
+               </mods:language>
                <mods:location>
                   <mods:physicalLocation authorityURI="http://d-nb.info/gnd/"
                                          valueURI="http://d-nb.info/gnd/10132049-8">Wissenschaftliche Stadtbibliothek Mainz</mods:physicalLocation>
@@ -2670,6 +2829,9 @@
                                      xlink:href="https://creativecommons.org/publicdomain/mark/1.0/"
                                      displayLabel="Public Domain Mark 1.0">pdm</mods:accessCondition>
                <mods:identifier type="HSP">HSP-8e09db93-8716-3243-9981-96232d6be0d9</mods:identifier>
+               <mods:language>
+                  <mods:languageTerm type="code" authority="iso639-2b">lat</mods:languageTerm>
+               </mods:language>
                <mods:location>
                   <mods:physicalLocation authorityURI="http://d-nb.info/gnd/"
                                          valueURI="http://d-nb.info/gnd/10132049-8">Wissenschaftliche Stadtbibliothek Mainz</mods:physicalLocation>
@@ -2736,6 +2898,9 @@
                                      xlink:href="https://creativecommons.org/publicdomain/mark/1.0/"
                                      displayLabel="Public Domain Mark 1.0">pdm</mods:accessCondition>
                <mods:identifier type="HSP">HSP-89ae4b65-b7e7-3de9-be12-d7f3afa1797e</mods:identifier>
+               <mods:language>
+                  <mods:languageTerm type="code" authority="iso639-2b">lat</mods:languageTerm>
+               </mods:language>
                <mods:location>
                   <mods:physicalLocation authorityURI="http://d-nb.info/gnd/"
                                          valueURI="http://d-nb.info/gnd/10132049-8">Wissenschaftliche Stadtbibliothek Mainz</mods:physicalLocation>
@@ -2789,6 +2954,9 @@
                                      xlink:href="https://creativecommons.org/publicdomain/mark/1.0/"
                                      displayLabel="Public Domain Mark 1.0">pdm</mods:accessCondition>
                <mods:identifier type="HSP">HSP-7dcd4d72-2830-367b-abcf-f8a1b20be3d3</mods:identifier>
+               <mods:language>
+                  <mods:languageTerm type="code" authority="iso639-2b">lat</mods:languageTerm>
+               </mods:language>
                <mods:location>
                   <mods:physicalLocation authorityURI="http://d-nb.info/gnd/"
                                          valueURI="http://d-nb.info/gnd/10132049-8">Wissenschaftliche Stadtbibliothek Mainz</mods:physicalLocation>
@@ -2842,6 +3010,9 @@
                                      xlink:href="https://creativecommons.org/publicdomain/mark/1.0/"
                                      displayLabel="Public Domain Mark 1.0">pdm</mods:accessCondition>
                <mods:identifier type="HSP">HSP-70156caa-f329-37cc-a496-4a7b35d3cc45</mods:identifier>
+               <mods:language>
+                  <mods:languageTerm type="code" authority="iso639-2b">lat</mods:languageTerm>
+               </mods:language>
                <mods:location>
                   <mods:physicalLocation authorityURI="http://d-nb.info/gnd/"
                                          valueURI="http://d-nb.info/gnd/10132049-8">Wissenschaftliche Stadtbibliothek Mainz</mods:physicalLocation>
@@ -2892,6 +3063,9 @@
                                      xlink:href="https://creativecommons.org/publicdomain/mark/1.0/"
                                      displayLabel="Public Domain Mark 1.0">pdm</mods:accessCondition>
                <mods:identifier type="HSP">HSP-578ff313-1c9d-3268-b0f0-029bc6cbdafb</mods:identifier>
+               <mods:language>
+                  <mods:languageTerm type="code" authority="iso639-2b">lat</mods:languageTerm>
+               </mods:language>
                <mods:location>
                   <mods:physicalLocation authorityURI="http://d-nb.info/gnd/"
                                          valueURI="http://d-nb.info/gnd/10132049-8">Wissenschaftliche Stadtbibliothek Mainz</mods:physicalLocation>
@@ -2945,6 +3119,9 @@
                                      xlink:href="https://creativecommons.org/publicdomain/mark/1.0/"
                                      displayLabel="Public Domain Mark 1.0">pdm</mods:accessCondition>
                <mods:identifier type="HSP">HSP-2dc1ddc6-b052-3b65-8a76-939172543cad</mods:identifier>
+               <mods:language>
+                  <mods:languageTerm type="code" authority="iso639-2b">lat</mods:languageTerm>
+               </mods:language>
                <mods:location>
                   <mods:physicalLocation authorityURI="http://d-nb.info/gnd/"
                                          valueURI="http://d-nb.info/gnd/10132049-8">Wissenschaftliche Stadtbibliothek Mainz</mods:physicalLocation>
@@ -2995,6 +3172,9 @@
                                      xlink:href="https://creativecommons.org/publicdomain/mark/1.0/"
                                      displayLabel="Public Domain Mark 1.0">pdm</mods:accessCondition>
                <mods:identifier type="HSP">HSP-8c278bc2-3902-3b04-a93d-b2cfbfc6fa3f</mods:identifier>
+               <mods:language>
+                  <mods:languageTerm type="code" authority="iso639-2b">lat</mods:languageTerm>
+               </mods:language>
                <mods:location>
                   <mods:physicalLocation authorityURI="http://d-nb.info/gnd/"
                                          valueURI="http://d-nb.info/gnd/10132049-8">Wissenschaftliche Stadtbibliothek Mainz</mods:physicalLocation>
@@ -3045,6 +3225,9 @@
                                      xlink:href="https://creativecommons.org/publicdomain/mark/1.0/"
                                      displayLabel="Public Domain Mark 1.0">pdm</mods:accessCondition>
                <mods:identifier type="HSP">HSP-21d2b5af-7080-3d52-855f-40bb3f94536a</mods:identifier>
+               <mods:language>
+                  <mods:languageTerm type="code" authority="iso639-2b">lat</mods:languageTerm>
+               </mods:language>
                <mods:location>
                   <mods:physicalLocation authorityURI="http://d-nb.info/gnd/"
                                          valueURI="http://d-nb.info/gnd/10132049-8">Wissenschaftliche Stadtbibliothek Mainz</mods:physicalLocation>
@@ -3095,6 +3278,9 @@
                                      xlink:href="https://creativecommons.org/publicdomain/mark/1.0/"
                                      displayLabel="Public Domain Mark 1.0">pdm</mods:accessCondition>
                <mods:identifier type="HSP">HSP-1cd7259a-1b49-323d-acfc-e7fd8c02b026</mods:identifier>
+               <mods:language>
+                  <mods:languageTerm type="code" authority="iso639-2b">lat</mods:languageTerm>
+               </mods:language>
                <mods:location>
                   <mods:physicalLocation authorityURI="http://d-nb.info/gnd/"
                                          valueURI="http://d-nb.info/gnd/10132049-8">Wissenschaftliche Stadtbibliothek Mainz</mods:physicalLocation>
@@ -3151,6 +3337,9 @@
                                      xlink:href="https://creativecommons.org/publicdomain/mark/1.0/"
                                      displayLabel="Public Domain Mark 1.0">pdm</mods:accessCondition>
                <mods:identifier type="HSP">HSP-a0896994-6ec2-3fe1-9210-3991acc09e74</mods:identifier>
+               <mods:language>
+                  <mods:languageTerm type="code" authority="iso639-2b">ger</mods:languageTerm>
+               </mods:language>
                <mods:location>
                   <mods:physicalLocation authorityURI="http://d-nb.info/gnd/"
                                          valueURI="http://d-nb.info/gnd/10132049-8">Wissenschaftliche Stadtbibliothek Mainz</mods:physicalLocation>
@@ -3220,6 +3409,9 @@
                                      xlink:href="https://creativecommons.org/publicdomain/mark/1.0/"
                                      displayLabel="Public Domain Mark 1.0">pdm</mods:accessCondition>
                <mods:identifier type="HSP">HSP-7103eaf7-87a8-301a-b136-90301679debc</mods:identifier>
+               <mods:language>
+                  <mods:languageTerm type="code" authority="iso639-2b">ger</mods:languageTerm>
+               </mods:language>
                <mods:location>
                   <mods:physicalLocation authorityURI="http://d-nb.info/gnd/"
                                          valueURI="http://d-nb.info/gnd/10132049-8">Wissenschaftliche Stadtbibliothek Mainz</mods:physicalLocation>
@@ -3275,6 +3467,9 @@
                                      xlink:href="https://creativecommons.org/publicdomain/mark/1.0/"
                                      displayLabel="Public Domain Mark 1.0">pdm</mods:accessCondition>
                <mods:identifier type="HSP">HSP-dea31f01-9ff5-39a9-baf4-f6cf5e17ac3c</mods:identifier>
+               <mods:language>
+                  <mods:languageTerm type="code" authority="iso639-2b">ger</mods:languageTerm>
+               </mods:language>
                <mods:location>
                   <mods:physicalLocation authorityURI="http://d-nb.info/gnd/"
                                          valueURI="http://d-nb.info/gnd/10132049-8">Wissenschaftliche Stadtbibliothek Mainz</mods:physicalLocation>
@@ -3345,6 +3540,9 @@
                                      xlink:href="https://creativecommons.org/publicdomain/mark/1.0/"
                                      displayLabel="Public Domain Mark 1.0">pdm</mods:accessCondition>
                <mods:identifier type="HSP">HSP-3bb18f0e-cc20-3874-963b-cbdfe0681bef</mods:identifier>
+               <mods:language>
+                  <mods:languageTerm type="code" authority="iso639-2b">lat</mods:languageTerm>
+               </mods:language>
                <mods:location>
                   <mods:physicalLocation authorityURI="http://d-nb.info/gnd/"
                                          valueURI="http://d-nb.info/gnd/10132049-8">Wissenschaftliche Stadtbibliothek Mainz</mods:physicalLocation>
@@ -3398,6 +3596,9 @@
                                      xlink:href="https://creativecommons.org/publicdomain/mark/1.0/"
                                      displayLabel="Public Domain Mark 1.0">pdm</mods:accessCondition>
                <mods:identifier type="HSP">HSP-b2109702-71ae-34e8-91a4-0c7a5b2e5caa</mods:identifier>
+               <mods:language>
+                  <mods:languageTerm type="code" authority="iso639-2b">ger</mods:languageTerm>
+               </mods:language>
                <mods:location>
                   <mods:physicalLocation authorityURI="http://d-nb.info/gnd/"
                                          valueURI="http://d-nb.info/gnd/10132049-8">Wissenschaftliche Stadtbibliothek Mainz</mods:physicalLocation>
@@ -3451,6 +3652,9 @@
                                      xlink:href="https://creativecommons.org/publicdomain/mark/1.0/"
                                      displayLabel="Public Domain Mark 1.0">pdm</mods:accessCondition>
                <mods:identifier type="HSP">HSP-c4e708a8-09be-3b7e-8973-2ab2df375a1d</mods:identifier>
+               <mods:language>
+                  <mods:languageTerm type="code" authority="iso639-2b">lat</mods:languageTerm>
+               </mods:language>
                <mods:location>
                   <mods:physicalLocation authorityURI="http://d-nb.info/gnd/"
                                          valueURI="http://d-nb.info/gnd/10132049-8">Wissenschaftliche Stadtbibliothek Mainz</mods:physicalLocation>
@@ -3507,6 +3711,9 @@
                                      xlink:href="https://creativecommons.org/publicdomain/mark/1.0/"
                                      displayLabel="Public Domain Mark 1.0">pdm</mods:accessCondition>
                <mods:identifier type="HSP">HSP-d30e60ac-fc72-347a-9826-bcc4115e6d50</mods:identifier>
+               <mods:language>
+                  <mods:languageTerm type="code" authority="iso639-2b">lat</mods:languageTerm>
+               </mods:language>
                <mods:location>
                   <mods:physicalLocation authorityURI="http://d-nb.info/gnd/"
                                          valueURI="http://d-nb.info/gnd/10132049-8">Wissenschaftliche Stadtbibliothek Mainz</mods:physicalLocation>
@@ -3571,6 +3778,9 @@
                                      xlink:href="https://creativecommons.org/publicdomain/mark/1.0/"
                                      displayLabel="Public Domain Mark 1.0">pdm</mods:accessCondition>
                <mods:identifier type="HSP">HSP-730307a0-0fbe-3049-90b1-68f18c6a5aaf</mods:identifier>
+               <mods:language>
+                  <mods:languageTerm type="code" authority="iso639-2b">ger</mods:languageTerm>
+               </mods:language>
                <mods:location>
                   <mods:physicalLocation authorityURI="http://d-nb.info/gnd/"
                                          valueURI="http://d-nb.info/gnd/10132049-8">Wissenschaftliche Stadtbibliothek Mainz</mods:physicalLocation>
@@ -3631,6 +3841,9 @@
                                      xlink:href="https://creativecommons.org/publicdomain/mark/1.0/"
                                      displayLabel="Public Domain Mark 1.0">pdm</mods:accessCondition>
                <mods:identifier type="HSP">HSP-8a84bf2b-9a77-3800-9a4f-0bf7b958d4a7</mods:identifier>
+               <mods:language>
+                  <mods:languageTerm type="code" authority="iso639-2b">ger</mods:languageTerm>
+               </mods:language>
                <mods:location>
                   <mods:physicalLocation authorityURI="http://d-nb.info/gnd/"
                                          valueURI="http://d-nb.info/gnd/10132049-8">Wissenschaftliche Stadtbibliothek Mainz</mods:physicalLocation>
@@ -3692,6 +3905,9 @@
                                      xlink:href="https://creativecommons.org/publicdomain/mark/1.0/"
                                      displayLabel="Public Domain Mark 1.0">pdm</mods:accessCondition>
                <mods:identifier type="HSP">HSP-68feaaa4-d145-3714-94ba-f70e4316ad5a</mods:identifier>
+               <mods:language>
+                  <mods:languageTerm type="code" authority="iso639-2b">ger</mods:languageTerm>
+               </mods:language>
                <mods:location>
                   <mods:physicalLocation authorityURI="http://d-nb.info/gnd/"
                                          valueURI="http://d-nb.info/gnd/10132049-8">Wissenschaftliche Stadtbibliothek Mainz</mods:physicalLocation>
@@ -3742,6 +3958,9 @@
                                      xlink:href="https://creativecommons.org/publicdomain/mark/1.0/"
                                      displayLabel="Public Domain Mark 1.0">pdm</mods:accessCondition>
                <mods:identifier type="HSP">HSP-176d9d31-f7f5-3569-a56b-12c9684c3ba3</mods:identifier>
+               <mods:language>
+                  <mods:languageTerm type="code" authority="iso639-2b">lat</mods:languageTerm>
+               </mods:language>
                <mods:location>
                   <mods:physicalLocation authorityURI="http://d-nb.info/gnd/"
                                          valueURI="http://d-nb.info/gnd/10132049-8">Wissenschaftliche Stadtbibliothek Mainz</mods:physicalLocation>
@@ -3795,6 +4014,9 @@
                                      xlink:href="https://creativecommons.org/publicdomain/mark/1.0/"
                                      displayLabel="Public Domain Mark 1.0">pdm</mods:accessCondition>
                <mods:identifier type="HSP">HSP-833682ed-692b-3d9f-9b4a-1f1653bf6d1f</mods:identifier>
+               <mods:language>
+                  <mods:languageTerm type="code" authority="iso639-2b">lat</mods:languageTerm>
+               </mods:language>
                <mods:location>
                   <mods:physicalLocation authorityURI="http://d-nb.info/gnd/"
                                          valueURI="http://d-nb.info/gnd/10132049-8">Wissenschaftliche Stadtbibliothek Mainz</mods:physicalLocation>
@@ -3848,6 +4070,9 @@
                                      xlink:href="https://creativecommons.org/publicdomain/mark/1.0/"
                                      displayLabel="Public Domain Mark 1.0">pdm</mods:accessCondition>
                <mods:identifier type="HSP">HSP-97f07780-e23c-3bc1-b021-2cecc4f68aad</mods:identifier>
+               <mods:language>
+                  <mods:languageTerm type="code" authority="iso639-2b">lat</mods:languageTerm>
+               </mods:language>
                <mods:location>
                   <mods:physicalLocation authorityURI="http://d-nb.info/gnd/"
                                          valueURI="http://d-nb.info/gnd/10132049-8">Wissenschaftliche Stadtbibliothek Mainz</mods:physicalLocation>
@@ -3901,6 +4126,9 @@
                                      xlink:href="https://creativecommons.org/publicdomain/mark/1.0/"
                                      displayLabel="Public Domain Mark 1.0">pdm</mods:accessCondition>
                <mods:identifier type="HSP">HSP-4d312939-cc21-3f2b-9361-361bc246e5cd</mods:identifier>
+               <mods:language>
+                  <mods:languageTerm type="code" authority="iso639-2b">lat</mods:languageTerm>
+               </mods:language>
                <mods:location>
                   <mods:physicalLocation authorityURI="http://d-nb.info/gnd/"
                                          valueURI="http://d-nb.info/gnd/10132049-8">Wissenschaftliche Stadtbibliothek Mainz</mods:physicalLocation>
@@ -3954,6 +4182,9 @@
                                      xlink:href="https://creativecommons.org/publicdomain/mark/1.0/"
                                      displayLabel="Public Domain Mark 1.0">pdm</mods:accessCondition>
                <mods:identifier type="HSP">HSP-57f71b21-2b98-39bc-8d8f-84b11b2ff771</mods:identifier>
+               <mods:language>
+                  <mods:languageTerm type="code" authority="iso639-2b">lat</mods:languageTerm>
+               </mods:language>
                <mods:location>
                   <mods:physicalLocation authorityURI="http://d-nb.info/gnd/"
                                          valueURI="http://d-nb.info/gnd/10132049-8">Wissenschaftliche Stadtbibliothek Mainz</mods:physicalLocation>
@@ -4012,6 +4243,9 @@
                                      xlink:href="https://creativecommons.org/publicdomain/mark/1.0/"
                                      displayLabel="Public Domain Mark 1.0">pdm</mods:accessCondition>
                <mods:identifier type="HSP">HSP-a42d395c-3446-3053-96d1-6823239f80fc</mods:identifier>
+               <mods:language>
+                  <mods:languageTerm type="code" authority="iso639-2b">lat</mods:languageTerm>
+               </mods:language>
                <mods:location>
                   <mods:physicalLocation authorityURI="http://d-nb.info/gnd/"
                                          valueURI="http://d-nb.info/gnd/10132049-8">Wissenschaftliche Stadtbibliothek Mainz</mods:physicalLocation>
@@ -4085,6 +4319,9 @@
                                      xlink:href="https://creativecommons.org/publicdomain/mark/1.0/"
                                      displayLabel="Public Domain Mark 1.0">pdm</mods:accessCondition>
                <mods:identifier type="HSP">HSP-8ef2c129-7c92-348b-9f7a-ec34db1f4b1a</mods:identifier>
+               <mods:language>
+                  <mods:languageTerm type="code" authority="iso639-2b">lat</mods:languageTerm>
+               </mods:language>
                <mods:location>
                   <mods:physicalLocation authorityURI="http://d-nb.info/gnd/"
                                          valueURI="http://d-nb.info/gnd/10132049-8">Wissenschaftliche Stadtbibliothek Mainz</mods:physicalLocation>
@@ -4144,6 +4381,9 @@
                                      xlink:href="https://creativecommons.org/publicdomain/mark/1.0/"
                                      displayLabel="Public Domain Mark 1.0">pdm</mods:accessCondition>
                <mods:identifier type="HSP">HSP-a0ef5e1f-b02e-3517-a2b6-1adeffb347c1</mods:identifier>
+               <mods:language>
+                  <mods:languageTerm type="code" authority="iso639-2b">lat</mods:languageTerm>
+               </mods:language>
                <mods:location>
                   <mods:physicalLocation authorityURI="http://d-nb.info/gnd/"
                                          valueURI="http://d-nb.info/gnd/10132049-8">Wissenschaftliche Stadtbibliothek Mainz</mods:physicalLocation>
@@ -4211,6 +4451,9 @@
                                      xlink:href="https://creativecommons.org/publicdomain/mark/1.0/"
                                      displayLabel="Public Domain Mark 1.0">pdm</mods:accessCondition>
                <mods:identifier type="HSP">HSP-3568e96f-fb94-33a6-b843-b59c2ce4d757</mods:identifier>
+               <mods:language>
+                  <mods:languageTerm type="code" authority="iso639-2b">lat</mods:languageTerm>
+               </mods:language>
                <mods:location>
                   <mods:physicalLocation authorityURI="http://d-nb.info/gnd/"
                                          valueURI="http://d-nb.info/gnd/10132049-8">Wissenschaftliche Stadtbibliothek Mainz</mods:physicalLocation>
@@ -4275,6 +4518,9 @@
                                      xlink:href="https://creativecommons.org/publicdomain/mark/1.0/"
                                      displayLabel="Public Domain Mark 1.0">pdm</mods:accessCondition>
                <mods:identifier type="HSP">HSP-524d927e-c28b-3777-a632-b04d4f153108</mods:identifier>
+               <mods:language>
+                  <mods:languageTerm type="code" authority="iso639-2b">lat</mods:languageTerm>
+               </mods:language>
                <mods:location>
                   <mods:physicalLocation authorityURI="http://d-nb.info/gnd/"
                                          valueURI="http://d-nb.info/gnd/10132049-8">Wissenschaftliche Stadtbibliothek Mainz</mods:physicalLocation>
@@ -4336,6 +4582,9 @@
                                      xlink:href="https://creativecommons.org/publicdomain/mark/1.0/"
                                      displayLabel="Public Domain Mark 1.0">pdm</mods:accessCondition>
                <mods:identifier type="HSP">HSP-f5264652-e96b-3f14-8fb8-848c9fa91315</mods:identifier>
+               <mods:language>
+                  <mods:languageTerm type="code" authority="iso639-2b">lat</mods:languageTerm>
+               </mods:language>
                <mods:location>
                   <mods:physicalLocation authorityURI="http://d-nb.info/gnd/"
                                          valueURI="http://d-nb.info/gnd/10132049-8">Wissenschaftliche Stadtbibliothek Mainz</mods:physicalLocation>
@@ -4400,6 +4649,9 @@
                                      xlink:href="https://creativecommons.org/publicdomain/mark/1.0/"
                                      displayLabel="Public Domain Mark 1.0">pdm</mods:accessCondition>
                <mods:identifier type="HSP">HSP-2c829692-0c8d-38dc-8a15-fad7510118f2</mods:identifier>
+               <mods:language>
+                  <mods:languageTerm type="code" authority="iso639-2b">lat</mods:languageTerm>
+               </mods:language>
                <mods:location>
                   <mods:physicalLocation authorityURI="http://d-nb.info/gnd/"
                                          valueURI="http://d-nb.info/gnd/10132049-8">Wissenschaftliche Stadtbibliothek Mainz</mods:physicalLocation>
@@ -4458,6 +4710,9 @@
                                      xlink:href="https://creativecommons.org/publicdomain/mark/1.0/"
                                      displayLabel="Public Domain Mark 1.0">pdm</mods:accessCondition>
                <mods:identifier type="HSP">HSP-34f477bf-e51e-3b9a-97e5-45bcc35f0ff3</mods:identifier>
+               <mods:language>
+                  <mods:languageTerm type="code" authority="iso639-2b">lat</mods:languageTerm>
+               </mods:language>
                <mods:location>
                   <mods:physicalLocation authorityURI="http://d-nb.info/gnd/"
                                          valueURI="http://d-nb.info/gnd/10132049-8">Wissenschaftliche Stadtbibliothek Mainz</mods:physicalLocation>
@@ -4522,6 +4777,9 @@
                                      xlink:href="https://creativecommons.org/publicdomain/mark/1.0/"
                                      displayLabel="Public Domain Mark 1.0">pdm</mods:accessCondition>
                <mods:identifier type="HSP">HSP-cb26f6d1-6470-3c4c-b42f-9c7eb4486da1</mods:identifier>
+               <mods:language>
+                  <mods:languageTerm type="code" authority="iso639-2b">lat</mods:languageTerm>
+               </mods:language>
                <mods:location>
                   <mods:physicalLocation authorityURI="http://d-nb.info/gnd/"
                                          valueURI="http://d-nb.info/gnd/10132049-8">Wissenschaftliche Stadtbibliothek Mainz</mods:physicalLocation>
@@ -4581,6 +4839,9 @@
                                      xlink:href="https://creativecommons.org/publicdomain/mark/1.0/"
                                      displayLabel="Public Domain Mark 1.0">pdm</mods:accessCondition>
                <mods:identifier type="HSP">HSP-4b93581d-e4af-318e-a8a2-d35e41b0e531</mods:identifier>
+               <mods:language>
+                  <mods:languageTerm type="code" authority="iso639-2b">lat</mods:languageTerm>
+               </mods:language>
                <mods:location>
                   <mods:physicalLocation authorityURI="http://d-nb.info/gnd/"
                                          valueURI="http://d-nb.info/gnd/10132049-8">Wissenschaftliche Stadtbibliothek Mainz</mods:physicalLocation>
@@ -4646,6 +4907,9 @@
                                      xlink:href="https://creativecommons.org/publicdomain/mark/1.0/"
                                      displayLabel="Public Domain Mark 1.0">pdm</mods:accessCondition>
                <mods:identifier type="HSP">HSP-786b3e9a-1cf8-3ad5-badb-2bd719d63e6c</mods:identifier>
+               <mods:language>
+                  <mods:languageTerm type="code" authority="iso639-2b">lat</mods:languageTerm>
+               </mods:language>
                <mods:location>
                   <mods:physicalLocation authorityURI="http://d-nb.info/gnd/"
                                          valueURI="http://d-nb.info/gnd/10132049-8">Wissenschaftliche Stadtbibliothek Mainz</mods:physicalLocation>
@@ -4711,6 +4975,9 @@
                                      xlink:href="https://creativecommons.org/publicdomain/mark/1.0/"
                                      displayLabel="Public Domain Mark 1.0">pdm</mods:accessCondition>
                <mods:identifier type="HSP">HSP-423db686-5e2f-3161-b0ed-e8b80aa9e023</mods:identifier>
+               <mods:language>
+                  <mods:languageTerm type="code" authority="iso639-2b">lat</mods:languageTerm>
+               </mods:language>
                <mods:location>
                   <mods:physicalLocation authorityURI="http://d-nb.info/gnd/"
                                          valueURI="http://d-nb.info/gnd/10132049-8">Wissenschaftliche Stadtbibliothek Mainz</mods:physicalLocation>
@@ -4779,6 +5046,9 @@
                                      xlink:href="https://creativecommons.org/publicdomain/mark/1.0/"
                                      displayLabel="Public Domain Mark 1.0">pdm</mods:accessCondition>
                <mods:identifier type="HSP">HSP-1eb5e74f-32a4-33a1-8f71-b868ecc05457</mods:identifier>
+               <mods:language>
+                  <mods:languageTerm type="code" authority="iso639-2b">lat</mods:languageTerm>
+               </mods:language>
                <mods:location>
                   <mods:physicalLocation authorityURI="http://d-nb.info/gnd/"
                                          valueURI="http://d-nb.info/gnd/10132049-8">Wissenschaftliche Stadtbibliothek Mainz</mods:physicalLocation>
@@ -4844,6 +5114,9 @@
                                      xlink:href="https://creativecommons.org/publicdomain/mark/1.0/"
                                      displayLabel="Public Domain Mark 1.0">pdm</mods:accessCondition>
                <mods:identifier type="HSP">HSP-fb8cefe6-0e13-3b43-a3f9-1aefe389c68a</mods:identifier>
+               <mods:language>
+                  <mods:languageTerm type="code" authority="iso639-2b">lat</mods:languageTerm>
+               </mods:language>
                <mods:location>
                   <mods:physicalLocation authorityURI="http://d-nb.info/gnd/"
                                          valueURI="http://d-nb.info/gnd/10132049-8">Wissenschaftliche Stadtbibliothek Mainz</mods:physicalLocation>
@@ -4908,6 +5181,9 @@
                                      xlink:href="https://creativecommons.org/publicdomain/mark/1.0/"
                                      displayLabel="Public Domain Mark 1.0">pdm</mods:accessCondition>
                <mods:identifier type="HSP">HSP-6f1721df-4520-3a2f-9835-a54a8597439e</mods:identifier>
+               <mods:language>
+                  <mods:languageTerm type="code" authority="iso639-2b">lat</mods:languageTerm>
+               </mods:language>
                <mods:location>
                   <mods:physicalLocation authorityURI="http://d-nb.info/gnd/"
                                          valueURI="http://d-nb.info/gnd/10132049-8">Wissenschaftliche Stadtbibliothek Mainz</mods:physicalLocation>
@@ -4970,6 +5246,9 @@
                                      xlink:href="https://creativecommons.org/publicdomain/mark/1.0/"
                                      displayLabel="Public Domain Mark 1.0">pdm</mods:accessCondition>
                <mods:identifier type="HSP">HSP-7ea3a8d7-79f4-32b2-ad05-0e2765eb9059</mods:identifier>
+               <mods:language>
+                  <mods:languageTerm type="code" authority="iso639-2b">lat</mods:languageTerm>
+               </mods:language>
                <mods:location>
                   <mods:physicalLocation authorityURI="http://d-nb.info/gnd/"
                                          valueURI="http://d-nb.info/gnd/10132049-8">Wissenschaftliche Stadtbibliothek Mainz</mods:physicalLocation>
@@ -5040,6 +5319,9 @@
                                      xlink:href="https://creativecommons.org/publicdomain/mark/1.0/"
                                      displayLabel="Public Domain Mark 1.0">pdm</mods:accessCondition>
                <mods:identifier type="HSP">HSP-d2e8e271-09c1-3d60-ae3e-57a4e29cac46</mods:identifier>
+               <mods:language>
+                  <mods:languageTerm type="code" authority="iso639-2b">lat</mods:languageTerm>
+               </mods:language>
                <mods:location>
                   <mods:physicalLocation authorityURI="http://d-nb.info/gnd/"
                                          valueURI="http://d-nb.info/gnd/10132049-8">Wissenschaftliche Stadtbibliothek Mainz</mods:physicalLocation>
@@ -5107,6 +5389,9 @@
                                      xlink:href="https://creativecommons.org/publicdomain/mark/1.0/"
                                      displayLabel="Public Domain Mark 1.0">pdm</mods:accessCondition>
                <mods:identifier type="HSP">HSP-94c62db7-e3db-31ec-bfde-fa3705209c7d</mods:identifier>
+               <mods:language>
+                  <mods:languageTerm type="code" authority="iso639-2b">lat</mods:languageTerm>
+               </mods:language>
                <mods:location>
                   <mods:physicalLocation authorityURI="http://d-nb.info/gnd/"
                                          valueURI="http://d-nb.info/gnd/10132049-8">Wissenschaftliche Stadtbibliothek Mainz</mods:physicalLocation>
@@ -5165,6 +5450,9 @@
                                      xlink:href="https://creativecommons.org/publicdomain/mark/1.0/"
                                      displayLabel="Public Domain Mark 1.0">pdm</mods:accessCondition>
                <mods:identifier type="HSP">HSP-91d59c7e-5096-3cd9-a298-129ebb630ed3</mods:identifier>
+               <mods:language>
+                  <mods:languageTerm type="code" authority="iso639-2b">lat</mods:languageTerm>
+               </mods:language>
                <mods:location>
                   <mods:physicalLocation authorityURI="http://d-nb.info/gnd/"
                                          valueURI="http://d-nb.info/gnd/10132049-8">Wissenschaftliche Stadtbibliothek Mainz</mods:physicalLocation>
@@ -5223,6 +5511,9 @@
                                      xlink:href="https://creativecommons.org/publicdomain/mark/1.0/"
                                      displayLabel="Public Domain Mark 1.0">pdm</mods:accessCondition>
                <mods:identifier type="HSP">HSP-d877d7ee-c547-369f-a7bd-3fffa7e480b2</mods:identifier>
+               <mods:language>
+                  <mods:languageTerm type="code" authority="iso639-2b">lat</mods:languageTerm>
+               </mods:language>
                <mods:location>
                   <mods:physicalLocation authorityURI="http://d-nb.info/gnd/"
                                          valueURI="http://d-nb.info/gnd/10132049-8">Wissenschaftliche Stadtbibliothek Mainz</mods:physicalLocation>
@@ -6548,6 +6839,9 @@
                                      xlink:href="https://creativecommons.org/publicdomain/mark/1.0/"
                                      displayLabel="Public Domain Mark 1.0">pdm</mods:accessCondition>
                <mods:identifier type="HSP">HSP-5c0b8011-66be-3dc2-bb6b-4bc052562ca4</mods:identifier>
+               <mods:language>
+                  <mods:languageTerm type="code" authority="iso639-2b">ger</mods:languageTerm>
+               </mods:language>
                <mods:location>
                   <mods:physicalLocation authorityURI="http://d-nb.info/gnd/"
                                          valueURI="http://d-nb.info/gnd/10132049-8">Wissenschaftliche Stadtbibliothek Mainz</mods:physicalLocation>
@@ -6673,6 +6967,18 @@
                                      xlink:href="https://creativecommons.org/publicdomain/mark/1.0/"
                                      displayLabel="Public Domain Mark 1.0">pdm</mods:accessCondition>
                <mods:identifier type="HSP">HSP-b0c8fa19-d42e-35df-ab3d-43b0c9c5a350</mods:identifier>
+               <mods:language>
+                  <mods:languageTerm type="code" authority="iso639-2b">ger</mods:languageTerm>
+               </mods:language>
+               <mods:language>
+                  <mods:languageTerm type="code" authority="iso639-2b">lat</mods:languageTerm>
+               </mods:language>
+               <mods:language>
+                  <mods:languageTerm type="code" authority="iso639-2b">ger</mods:languageTerm>
+               </mods:language>
+               <mods:language>
+                  <mods:languageTerm type="code" authority="iso639-2b">lat</mods:languageTerm>
+               </mods:language>
                <mods:location>
                   <mods:physicalLocation authorityURI="http://d-nb.info/gnd/"
                                          valueURI="http://d-nb.info/gnd/10132049-8">Wissenschaftliche Stadtbibliothek Mainz</mods:physicalLocation>
@@ -7437,6 +7743,18 @@
                                      xlink:href="https://creativecommons.org/publicdomain/mark/1.0/"
                                      displayLabel="Public Domain Mark 1.0">pdm</mods:accessCondition>
                <mods:identifier type="HSP">HSP-e7ab3e11-8e0d-30e5-80a3-d075e45e2325</mods:identifier>
+               <mods:language>
+                  <mods:languageTerm type="code" authority="iso639-2b">ger</mods:languageTerm>
+               </mods:language>
+               <mods:language>
+                  <mods:languageTerm type="code" authority="iso639-2b">lat</mods:languageTerm>
+               </mods:language>
+               <mods:language>
+                  <mods:languageTerm type="code" authority="iso639-2b">ger</mods:languageTerm>
+               </mods:language>
+               <mods:language>
+                  <mods:languageTerm type="code" authority="iso639-2b">lat</mods:languageTerm>
+               </mods:language>
                <mods:location>
                   <mods:physicalLocation authorityURI="http://d-nb.info/gnd/"
                                          valueURI="http://d-nb.info/gnd/10132049-8">Wissenschaftliche Stadtbibliothek Mainz</mods:physicalLocation>
@@ -7491,6 +7809,9 @@
                                      xlink:href="https://creativecommons.org/publicdomain/mark/1.0/"
                                      displayLabel="Public Domain Mark 1.0">pdm</mods:accessCondition>
                <mods:identifier type="HSP">HSP-16cd00f6-301d-3c46-b353-366ecee8ce99</mods:identifier>
+               <mods:language>
+                  <mods:languageTerm type="code" authority="iso639-2b">ger</mods:languageTerm>
+               </mods:language>
                <mods:location>
                   <mods:physicalLocation authorityURI="http://d-nb.info/gnd/"
                                          valueURI="http://d-nb.info/gnd/10132049-8">Wissenschaftliche Stadtbibliothek Mainz</mods:physicalLocation>
@@ -8907,6 +9228,9 @@
                                      xlink:href="https://creativecommons.org/publicdomain/mark/1.0/"
                                      displayLabel="Public Domain Mark 1.0">pdm</mods:accessCondition>
                <mods:identifier type="HSP">HSP-d5648a61-634e-3ebf-91c7-491000a5c75d</mods:identifier>
+               <mods:language>
+                  <mods:languageTerm type="code" authority="iso639-2b">lat</mods:languageTerm>
+               </mods:language>
                <mods:location>
                   <mods:physicalLocation authorityURI="http://d-nb.info/gnd/"
                                          valueURI="http://d-nb.info/gnd/10132049-8">Wissenschaftliche Stadtbibliothek Mainz</mods:physicalLocation>
@@ -9266,6 +9590,9 @@
                                      xlink:href="https://creativecommons.org/publicdomain/mark/1.0/"
                                      displayLabel="Public Domain Mark 1.0">pdm</mods:accessCondition>
                <mods:identifier type="HSP">HSP-8eacad2b-f958-38e7-b056-aa7d8787a011</mods:identifier>
+               <mods:language>
+                  <mods:languageTerm type="code" authority="iso639-2b">lat</mods:languageTerm>
+               </mods:language>
                <mods:location>
                   <mods:physicalLocation authorityURI="http://d-nb.info/gnd/"
                                          valueURI="http://d-nb.info/gnd/10132049-8">Wissenschaftliche Stadtbibliothek Mainz</mods:physicalLocation>
@@ -9530,6 +9857,9 @@
                                      xlink:href="https://creativecommons.org/publicdomain/mark/1.0/"
                                      displayLabel="Public Domain Mark 1.0">pdm</mods:accessCondition>
                <mods:identifier type="HSP">HSP-bd620a2c-eb33-318a-83bd-4b6fd44d2991</mods:identifier>
+               <mods:language>
+                  <mods:languageTerm type="code" authority="iso639-2b">lat</mods:languageTerm>
+               </mods:language>
                <mods:location>
                   <mods:physicalLocation authorityURI="http://d-nb.info/gnd/"
                                          valueURI="http://d-nb.info/gnd/10132049-8">Wissenschaftliche Stadtbibliothek Mainz</mods:physicalLocation>
@@ -9584,6 +9914,18 @@
                                      xlink:href="https://creativecommons.org/publicdomain/mark/1.0/"
                                      displayLabel="Public Domain Mark 1.0">pdm</mods:accessCondition>
                <mods:identifier type="HSP">HSP-1124ef25-0067-33a1-ae10-656370bc1528</mods:identifier>
+               <mods:language>
+                  <mods:languageTerm type="code" authority="iso639-2b">lat</mods:languageTerm>
+               </mods:language>
+               <mods:language>
+                  <mods:languageTerm type="code" authority="iso639-2b">fre</mods:languageTerm>
+               </mods:language>
+               <mods:language>
+                  <mods:languageTerm type="code" authority="iso639-2b">lat</mods:languageTerm>
+               </mods:language>
+               <mods:language>
+                  <mods:languageTerm type="code" authority="iso639-2b">fre</mods:languageTerm>
+               </mods:language>
                <mods:location>
                   <mods:physicalLocation authorityURI="http://d-nb.info/gnd/"
                                          valueURI="http://d-nb.info/gnd/10132049-8">Wissenschaftliche Stadtbibliothek Mainz</mods:physicalLocation>
@@ -9692,6 +10034,9 @@
                                      xlink:href="https://creativecommons.org/publicdomain/mark/1.0/"
                                      displayLabel="Public Domain Mark 1.0">pdm</mods:accessCondition>
                <mods:identifier type="HSP">HSP-d7c20f99-db0d-30d3-bdcc-949de6fb5102</mods:identifier>
+               <mods:language>
+                  <mods:languageTerm type="code" authority="iso639-2b">lat</mods:languageTerm>
+               </mods:language>
                <mods:location>
                   <mods:physicalLocation authorityURI="http://d-nb.info/gnd/"
                                          valueURI="http://d-nb.info/gnd/10132049-8">Wissenschaftliche Stadtbibliothek Mainz</mods:physicalLocation>
@@ -10297,6 +10642,9 @@
                                      xlink:href="https://creativecommons.org/publicdomain/mark/1.0/"
                                      displayLabel="Public Domain Mark 1.0">pdm</mods:accessCondition>
                <mods:identifier type="HSP">HSP-a4afb899-a575-3f57-9203-dc1f8c0182dc</mods:identifier>
+               <mods:language>
+                  <mods:languageTerm type="code" authority="iso639-2b">ger</mods:languageTerm>
+               </mods:language>
                <mods:location>
                   <mods:physicalLocation authorityURI="http://d-nb.info/gnd/"
                                          valueURI="http://d-nb.info/gnd/10132049-8">Wissenschaftliche Stadtbibliothek Mainz</mods:physicalLocation>
@@ -15323,6 +15671,9 @@
                                      xlink:href="https://creativecommons.org/publicdomain/mark/1.0/"
                                      displayLabel="Public Domain Mark 1.0">pdm</mods:accessCondition>
                <mods:identifier type="HSP">HSP-ec4ba248-dfbd-3dba-8706-20db03d494b1</mods:identifier>
+               <mods:language>
+                  <mods:languageTerm type="code" authority="iso639-2b">ger</mods:languageTerm>
+               </mods:language>
                <mods:location>
                   <mods:physicalLocation authorityURI="http://d-nb.info/gnd/"
                                          valueURI="http://d-nb.info/gnd/40324-6">Stadtarchiv Mainz</mods:physicalLocation>
@@ -15436,6 +15787,9 @@
                                      xlink:href="https://creativecommons.org/publicdomain/mark/1.0/"
                                      displayLabel="Public Domain Mark 1.0">pdm</mods:accessCondition>
                <mods:identifier type="HSP">HSP-b7607299-3747-38e7-87bb-704977dde2fe</mods:identifier>
+               <mods:language>
+                  <mods:languageTerm type="code" authority="iso639-2b">ger</mods:languageTerm>
+               </mods:language>
                <mods:location>
                   <mods:physicalLocation authorityURI="http://d-nb.info/gnd/"
                                          valueURI="http://d-nb.info/gnd/40324-6">Stadtarchiv Mainz</mods:physicalLocation>
@@ -15490,6 +15844,9 @@
                                      xlink:href="https://creativecommons.org/publicdomain/mark/1.0/"
                                      displayLabel="Public Domain Mark 1.0">pdm</mods:accessCondition>
                <mods:identifier type="HSP">HSP-09652247-0579-3c98-a8d6-034864d23135</mods:identifier>
+               <mods:language>
+                  <mods:languageTerm type="code" authority="iso639-2b">ger</mods:languageTerm>
+               </mods:language>
                <mods:location>
                   <mods:physicalLocation authorityURI="http://d-nb.info/gnd/"
                                          valueURI="http://d-nb.info/gnd/40324-6">Stadtarchiv Mainz</mods:physicalLocation>
@@ -16721,6 +17078,18 @@
                                      xlink:href="https://creativecommons.org/publicdomain/mark/1.0/"
                                      displayLabel="Public Domain Mark 1.0">pdm</mods:accessCondition>
                <mods:identifier type="HSP">HSP-a6383052-5f2b-305f-9e1f-7298b2cdd7cf</mods:identifier>
+               <mods:language>
+                  <mods:languageTerm type="code" authority="iso639-2b">lat</mods:languageTerm>
+               </mods:language>
+               <mods:language>
+                  <mods:languageTerm type="code" authority="iso639-2b">ger</mods:languageTerm>
+               </mods:language>
+               <mods:language>
+                  <mods:languageTerm type="code" authority="iso639-2b">lat</mods:languageTerm>
+               </mods:language>
+               <mods:language>
+                  <mods:languageTerm type="code" authority="iso639-2b">ger</mods:languageTerm>
+               </mods:language>
                <mods:location>
                   <mods:physicalLocation authorityURI="http://d-nb.info/gnd/"
                                          valueURI="http://d-nb.info/gnd/40324-6">Stadtarchiv Mainz</mods:physicalLocation>
@@ -17115,6 +17484,9 @@
                                      xlink:href="https://creativecommons.org/publicdomain/mark/1.0/"
                                      displayLabel="Public Domain Mark 1.0">pdm</mods:accessCondition>
                <mods:identifier type="HSP">HSP-e83e247b-1c2b-3782-b8b3-13f9ba2daa24</mods:identifier>
+               <mods:language>
+                  <mods:languageTerm type="code" authority="iso639-2b">ger</mods:languageTerm>
+               </mods:language>
                <mods:location>
                   <mods:physicalLocation authorityURI="http://d-nb.info/gnd/"
                                          valueURI="http://d-nb.info/gnd/40324-6">Stadtarchiv Mainz</mods:physicalLocation>
@@ -17169,6 +17541,9 @@
                                      xlink:href="https://creativecommons.org/publicdomain/mark/1.0/"
                                      displayLabel="Public Domain Mark 1.0">pdm</mods:accessCondition>
                <mods:identifier type="HSP">HSP-9cd3bb9d-53fc-310a-8135-7099e6af513c</mods:identifier>
+               <mods:language>
+                  <mods:languageTerm type="code" authority="iso639-2b">ger</mods:languageTerm>
+               </mods:language>
                <mods:location>
                   <mods:physicalLocation authorityURI="http://d-nb.info/gnd/"
                                          valueURI="http://d-nb.info/gnd/40324-6">Stadtarchiv Mainz</mods:physicalLocation>
@@ -17385,6 +17760,9 @@
                                      xlink:href="https://creativecommons.org/publicdomain/mark/1.0/"
                                      displayLabel="Public Domain Mark 1.0">pdm</mods:accessCondition>
                <mods:identifier type="HSP">HSP-5d09645b-fa24-35cc-bf46-47d65acbcb60</mods:identifier>
+               <mods:language>
+                  <mods:languageTerm type="code" authority="iso639-2b">ger</mods:languageTerm>
+               </mods:language>
                <mods:location>
                   <mods:physicalLocation authorityURI="http://d-nb.info/gnd/"
                                          valueURI="http://d-nb.info/gnd/40324-6">Stadtarchiv Mainz</mods:physicalLocation>
@@ -17485,6 +17863,9 @@
                                      xlink:href="https://creativecommons.org/publicdomain/mark/1.0/"
                                      displayLabel="Public Domain Mark 1.0">pdm</mods:accessCondition>
                <mods:identifier type="HSP">HSP-1efe3c76-df94-3afd-b4b8-ebeebd971667</mods:identifier>
+               <mods:language>
+                  <mods:languageTerm type="code" authority="iso639-2b">ger</mods:languageTerm>
+               </mods:language>
                <mods:location>
                   <mods:physicalLocation authorityURI="http://d-nb.info/gnd/"
                                          valueURI="http://d-nb.info/gnd/40324-6">Stadtarchiv Mainz</mods:physicalLocation>
@@ -17539,6 +17920,9 @@
                                      xlink:href="https://creativecommons.org/publicdomain/mark/1.0/"
                                      displayLabel="Public Domain Mark 1.0">pdm</mods:accessCondition>
                <mods:identifier type="HSP">HSP-9cc16af4-51c0-3059-a49d-21582832516a</mods:identifier>
+               <mods:language>
+                  <mods:languageTerm type="code" authority="iso639-2b">lat</mods:languageTerm>
+               </mods:language>
                <mods:location>
                   <mods:physicalLocation authorityURI="http://d-nb.info/gnd/"
                                          valueURI="http://d-nb.info/gnd/3045116-4">Martinus-Bibliothek (Mainz)</mods:physicalLocation>
@@ -17590,6 +17974,18 @@
                                      xlink:href="https://creativecommons.org/publicdomain/mark/1.0/"
                                      displayLabel="Public Domain Mark 1.0">pdm</mods:accessCondition>
                <mods:identifier type="HSP">HSP-dc48d786-9e2a-36ff-b2ed-c1e3a7052171</mods:identifier>
+               <mods:language>
+                  <mods:languageTerm type="code" authority="iso639-2b">lat</mods:languageTerm>
+               </mods:language>
+               <mods:language>
+                  <mods:languageTerm type="code" authority="iso639-2b">ger</mods:languageTerm>
+               </mods:language>
+               <mods:language>
+                  <mods:languageTerm type="code" authority="iso639-2b">lat</mods:languageTerm>
+               </mods:language>
+               <mods:language>
+                  <mods:languageTerm type="code" authority="iso639-2b">ger</mods:languageTerm>
+               </mods:language>
                <mods:location>
                   <mods:physicalLocation authorityURI="http://d-nb.info/gnd/"
                                          valueURI="http://d-nb.info/gnd/3045116-4">Martinus-Bibliothek (Mainz)</mods:physicalLocation>
@@ -17641,6 +18037,9 @@
                                      xlink:href="https://creativecommons.org/publicdomain/mark/1.0/"
                                      displayLabel="Public Domain Mark 1.0">pdm</mods:accessCondition>
                <mods:identifier type="HSP">HSP-2167ce80-9e0e-3fa6-81ff-b1500739d6d2</mods:identifier>
+               <mods:language>
+                  <mods:languageTerm type="code" authority="iso639-2b">lat</mods:languageTerm>
+               </mods:language>
                <mods:location>
                   <mods:physicalLocation authorityURI="http://d-nb.info/gnd/"
                                          valueURI="http://d-nb.info/gnd/3045116-4">Martinus-Bibliothek (Mainz)</mods:physicalLocation>
@@ -17692,6 +18091,9 @@
                                      xlink:href="https://creativecommons.org/publicdomain/mark/1.0/"
                                      displayLabel="Public Domain Mark 1.0">pdm</mods:accessCondition>
                <mods:identifier type="HSP">HSP-57b2d687-7939-3a9c-9127-58a306474a31</mods:identifier>
+               <mods:language>
+                  <mods:languageTerm type="code" authority="iso639-2b">lat</mods:languageTerm>
+               </mods:language>
                <mods:location>
                   <mods:physicalLocation authorityURI="http://d-nb.info/gnd/"
                                          valueURI="http://d-nb.info/gnd/3045116-4">Martinus-Bibliothek (Mainz)</mods:physicalLocation>
@@ -17743,6 +18145,9 @@
                                      xlink:href="https://creativecommons.org/publicdomain/mark/1.0/"
                                      displayLabel="Public Domain Mark 1.0">pdm</mods:accessCondition>
                <mods:identifier type="HSP">HSP-4a69c4e1-ab6a-3ad6-b955-6c3f094a1f4e</mods:identifier>
+               <mods:language>
+                  <mods:languageTerm type="code" authority="iso639-2b">lat</mods:languageTerm>
+               </mods:language>
                <mods:location>
                   <mods:physicalLocation authorityURI="http://d-nb.info/gnd/"
                                          valueURI="http://d-nb.info/gnd/3045116-4">Martinus-Bibliothek (Mainz)</mods:physicalLocation>
@@ -17794,6 +18199,9 @@
                                      xlink:href="https://creativecommons.org/publicdomain/mark/1.0/"
                                      displayLabel="Public Domain Mark 1.0">pdm</mods:accessCondition>
                <mods:identifier type="HSP">HSP-b507e965-f4fe-3f17-9a69-bebf0f63eba8</mods:identifier>
+               <mods:language>
+                  <mods:languageTerm type="code" authority="iso639-2b">lat</mods:languageTerm>
+               </mods:language>
                <mods:location>
                   <mods:physicalLocation authorityURI="http://d-nb.info/gnd/"
                                          valueURI="http://d-nb.info/gnd/3045116-4">Martinus-Bibliothek (Mainz)</mods:physicalLocation>
@@ -17845,6 +18253,18 @@
                                      xlink:href="https://creativecommons.org/publicdomain/mark/1.0/"
                                      displayLabel="Public Domain Mark 1.0">pdm</mods:accessCondition>
                <mods:identifier type="HSP">HSP-4aa72d0c-592f-30dd-ac5d-994c073cb908</mods:identifier>
+               <mods:language>
+                  <mods:languageTerm type="code" authority="iso639-2b">ger</mods:languageTerm>
+               </mods:language>
+               <mods:language>
+                  <mods:languageTerm type="code" authority="iso639-2b">lat</mods:languageTerm>
+               </mods:language>
+               <mods:language>
+                  <mods:languageTerm type="code" authority="iso639-2b">ger</mods:languageTerm>
+               </mods:language>
+               <mods:language>
+                  <mods:languageTerm type="code" authority="iso639-2b">lat</mods:languageTerm>
+               </mods:language>
                <mods:location>
                   <mods:physicalLocation authorityURI="http://d-nb.info/gnd/"
                                          valueURI="http://d-nb.info/gnd/3045116-4">Martinus-Bibliothek (Mainz)</mods:physicalLocation>
@@ -17896,6 +18316,9 @@
                                      xlink:href="https://creativecommons.org/publicdomain/mark/1.0/"
                                      displayLabel="Public Domain Mark 1.0">pdm</mods:accessCondition>
                <mods:identifier type="HSP">HSP-df80b88c-d95e-3ff6-90be-65ee08893fe1</mods:identifier>
+               <mods:language>
+                  <mods:languageTerm type="code" authority="iso639-2b">lat</mods:languageTerm>
+               </mods:language>
                <mods:location>
                   <mods:physicalLocation authorityURI="http://d-nb.info/gnd/"
                                          valueURI="http://d-nb.info/gnd/3045116-4">Martinus-Bibliothek (Mainz)</mods:physicalLocation>
@@ -17947,6 +18370,9 @@
                                      xlink:href="https://creativecommons.org/publicdomain/mark/1.0/"
                                      displayLabel="Public Domain Mark 1.0">pdm</mods:accessCondition>
                <mods:identifier type="HSP">HSP-9f1cb9b5-eca3-37b5-9fd8-d8a034f57e7f</mods:identifier>
+               <mods:language>
+                  <mods:languageTerm type="code" authority="iso639-2b">lat</mods:languageTerm>
+               </mods:language>
                <mods:location>
                   <mods:physicalLocation authorityURI="http://d-nb.info/gnd/"
                                          valueURI="http://d-nb.info/gnd/3045116-4">Martinus-Bibliothek (Mainz)</mods:physicalLocation>
@@ -17998,6 +18424,9 @@
                                      xlink:href="https://creativecommons.org/publicdomain/mark/1.0/"
                                      displayLabel="Public Domain Mark 1.0">pdm</mods:accessCondition>
                <mods:identifier type="HSP">HSP-704ec1ec-8aa7-3336-a086-cb97856681e7</mods:identifier>
+               <mods:language>
+                  <mods:languageTerm type="code" authority="iso639-2b">lat</mods:languageTerm>
+               </mods:language>
                <mods:location>
                   <mods:physicalLocation authorityURI="http://d-nb.info/gnd/"
                                          valueURI="http://d-nb.info/gnd/3045116-4">Martinus-Bibliothek (Mainz)</mods:physicalLocation>
@@ -18049,6 +18478,9 @@
                                      xlink:href="https://creativecommons.org/publicdomain/mark/1.0/"
                                      displayLabel="Public Domain Mark 1.0">pdm</mods:accessCondition>
                <mods:identifier type="HSP">HSP-ab05c2b4-b911-3a0a-9ba6-9c21aebce0ab</mods:identifier>
+               <mods:language>
+                  <mods:languageTerm type="code" authority="iso639-2b">ger</mods:languageTerm>
+               </mods:language>
                <mods:location>
                   <mods:physicalLocation authorityURI="http://d-nb.info/gnd/"
                                          valueURI="http://d-nb.info/gnd/3045116-4">Martinus-Bibliothek (Mainz)</mods:physicalLocation>
@@ -18100,6 +18532,9 @@
                                      xlink:href="https://creativecommons.org/publicdomain/mark/1.0/"
                                      displayLabel="Public Domain Mark 1.0">pdm</mods:accessCondition>
                <mods:identifier type="HSP">HSP-3ff2a2a8-3c0f-32ae-89c8-0c6cac5c5393</mods:identifier>
+               <mods:language>
+                  <mods:languageTerm type="code" authority="iso639-2b">ger</mods:languageTerm>
+               </mods:language>
                <mods:location>
                   <mods:physicalLocation authorityURI="http://d-nb.info/gnd/"
                                          valueURI="http://d-nb.info/gnd/3045116-4">Martinus-Bibliothek (Mainz)</mods:physicalLocation>
@@ -18146,6 +18581,9 @@
                                      xlink:href="https://creativecommons.org/publicdomain/mark/1.0/"
                                      displayLabel="Public Domain Mark 1.0">pdm</mods:accessCondition>
                <mods:identifier type="HSP">HSP-8d3c84c9-da3f-352e-9fc7-cf7c1d71bac7</mods:identifier>
+               <mods:language>
+                  <mods:languageTerm type="code" authority="iso639-2b">lat</mods:languageTerm>
+               </mods:language>
                <mods:location>
                   <mods:physicalLocation authorityURI="http://d-nb.info/gnd/"
                                          valueURI="http://d-nb.info/gnd/3045116-4">Martinus-Bibliothek (Mainz)</mods:physicalLocation>
@@ -18197,6 +18635,9 @@
                                      xlink:href="https://creativecommons.org/publicdomain/mark/1.0/"
                                      displayLabel="Public Domain Mark 1.0">pdm</mods:accessCondition>
                <mods:identifier type="HSP">HSP-6d7e6c23-35b5-3604-aaef-96c89ef0fe3b</mods:identifier>
+               <mods:language>
+                  <mods:languageTerm type="code" authority="iso639-2b">ger</mods:languageTerm>
+               </mods:language>
                <mods:location>
                   <mods:physicalLocation authorityURI="http://d-nb.info/gnd/"
                                          valueURI="http://d-nb.info/gnd/3045116-4">Martinus-Bibliothek (Mainz)</mods:physicalLocation>
@@ -18248,6 +18689,9 @@
                                      xlink:href="https://creativecommons.org/publicdomain/mark/1.0/"
                                      displayLabel="Public Domain Mark 1.0">pdm</mods:accessCondition>
                <mods:identifier type="HSP">HSP-2a34c6fd-8930-315f-bdd0-4a3475caa284</mods:identifier>
+               <mods:language>
+                  <mods:languageTerm type="code" authority="iso639-2b">lat</mods:languageTerm>
+               </mods:language>
                <mods:location>
                   <mods:physicalLocation authorityURI="http://d-nb.info/gnd/"
                                          valueURI="http://d-nb.info/gnd/3045116-4">Martinus-Bibliothek (Mainz)</mods:physicalLocation>
@@ -18299,6 +18743,9 @@
                                      xlink:href="https://creativecommons.org/publicdomain/mark/1.0/"
                                      displayLabel="Public Domain Mark 1.0">pdm</mods:accessCondition>
                <mods:identifier type="HSP">HSP-3777cf8b-a242-3bee-8353-e88a433ca35f</mods:identifier>
+               <mods:language>
+                  <mods:languageTerm type="code" authority="iso639-2b">lat</mods:languageTerm>
+               </mods:language>
                <mods:location>
                   <mods:physicalLocation authorityURI="http://d-nb.info/gnd/"
                                          valueURI="http://d-nb.info/gnd/3045116-4">Martinus-Bibliothek (Mainz)</mods:physicalLocation>
@@ -18350,6 +18797,18 @@
                                      xlink:href="https://creativecommons.org/publicdomain/mark/1.0/"
                                      displayLabel="Public Domain Mark 1.0">pdm</mods:accessCondition>
                <mods:identifier type="HSP">HSP-2174839c-6356-3ac6-b7cb-92c3e6687d1e</mods:identifier>
+               <mods:language>
+                  <mods:languageTerm type="code" authority="iso639-2b">lat</mods:languageTerm>
+               </mods:language>
+               <mods:language>
+                  <mods:languageTerm type="code" authority="iso639-2b">ger</mods:languageTerm>
+               </mods:language>
+               <mods:language>
+                  <mods:languageTerm type="code" authority="iso639-2b">lat</mods:languageTerm>
+               </mods:language>
+               <mods:language>
+                  <mods:languageTerm type="code" authority="iso639-2b">ger</mods:languageTerm>
+               </mods:language>
                <mods:location>
                   <mods:physicalLocation authorityURI="http://d-nb.info/gnd/"
                                          valueURI="http://d-nb.info/gnd/3045116-4">Martinus-Bibliothek (Mainz)</mods:physicalLocation>
@@ -18401,6 +18860,9 @@
                                      xlink:href="https://creativecommons.org/publicdomain/mark/1.0/"
                                      displayLabel="Public Domain Mark 1.0">pdm</mods:accessCondition>
                <mods:identifier type="HSP">HSP-9e105af3-928d-3684-b229-6e48532af90c</mods:identifier>
+               <mods:language>
+                  <mods:languageTerm type="code" authority="iso639-2b">lat</mods:languageTerm>
+               </mods:language>
                <mods:location>
                   <mods:physicalLocation authorityURI="http://d-nb.info/gnd/"
                                          valueURI="http://d-nb.info/gnd/3045116-4">Martinus-Bibliothek (Mainz)</mods:physicalLocation>
@@ -18452,6 +18914,9 @@
                                      xlink:href="https://creativecommons.org/publicdomain/mark/1.0/"
                                      displayLabel="Public Domain Mark 1.0">pdm</mods:accessCondition>
                <mods:identifier type="HSP">HSP-e9313c33-91e2-3ec9-a0cc-9a70c26985ec</mods:identifier>
+               <mods:language>
+                  <mods:languageTerm type="code" authority="iso639-2b">ger</mods:languageTerm>
+               </mods:language>
                <mods:location>
                   <mods:physicalLocation authorityURI="http://d-nb.info/gnd/"
                                          valueURI="http://d-nb.info/gnd/3045116-4">Martinus-Bibliothek (Mainz)</mods:physicalLocation>
@@ -18503,6 +18968,9 @@
                                      xlink:href="https://creativecommons.org/publicdomain/mark/1.0/"
                                      displayLabel="Public Domain Mark 1.0">pdm</mods:accessCondition>
                <mods:identifier type="HSP">HSP-c5b3f1ff-7610-304f-8a57-32c6f94dadfa</mods:identifier>
+               <mods:language>
+                  <mods:languageTerm type="code" authority="iso639-2b">lat</mods:languageTerm>
+               </mods:language>
                <mods:location>
                   <mods:physicalLocation authorityURI="http://d-nb.info/gnd/"
                                          valueURI="http://d-nb.info/gnd/3045116-4">Martinus-Bibliothek (Mainz)</mods:physicalLocation>
@@ -18546,6 +19014,9 @@
                                      xlink:href="https://creativecommons.org/publicdomain/mark/1.0/"
                                      displayLabel="Public Domain Mark 1.0">pdm</mods:accessCondition>
                <mods:identifier type="HSP">HSP-9b92fb3f-604d-3a1c-8654-e2db78fb2a17</mods:identifier>
+               <mods:language>
+                  <mods:languageTerm type="code" authority="iso639-2b">ger</mods:languageTerm>
+               </mods:language>
                <mods:location>
                   <mods:physicalLocation authorityURI="http://d-nb.info/gnd/"
                                          valueURI="http://d-nb.info/gnd/3045116-4">Martinus-Bibliothek (Mainz)</mods:physicalLocation>
@@ -18595,6 +19066,9 @@
                                      xlink:href="https://creativecommons.org/publicdomain/mark/1.0/"
                                      displayLabel="Public Domain Mark 1.0">pdm</mods:accessCondition>
                <mods:identifier type="HSP">HSP-0beb46fb-77d7-31a4-a750-4c2d80067590</mods:identifier>
+               <mods:language>
+                  <mods:languageTerm type="code" authority="iso639-2b">ger</mods:languageTerm>
+               </mods:language>
                <mods:location>
                   <mods:physicalLocation authorityURI="http://d-nb.info/gnd/"
                                          valueURI="http://d-nb.info/gnd/3045116-4">Martinus-Bibliothek (Mainz)</mods:physicalLocation>
@@ -18644,6 +19118,9 @@
                                      xlink:href="https://creativecommons.org/publicdomain/mark/1.0/"
                                      displayLabel="Public Domain Mark 1.0">pdm</mods:accessCondition>
                <mods:identifier type="HSP">HSP-ba8c219f-1723-35ec-8e54-c2ce9989f1b3</mods:identifier>
+               <mods:language>
+                  <mods:languageTerm type="code" authority="iso639-2b">ger</mods:languageTerm>
+               </mods:language>
                <mods:location>
                   <mods:physicalLocation authorityURI="http://d-nb.info/gnd/"
                                          valueURI="http://d-nb.info/gnd/3045116-4">Martinus-Bibliothek (Mainz)</mods:physicalLocation>
@@ -18712,6 +19189,9 @@
                                      xlink:href="https://creativecommons.org/publicdomain/mark/1.0/"
                                      displayLabel="Public Domain Mark 1.0">pdm</mods:accessCondition>
                <mods:identifier type="HSP">HSP-0a2eb17c-57b3-3dc5-b276-c0482977872f</mods:identifier>
+               <mods:language>
+                  <mods:languageTerm type="code" authority="iso639-2b">lat</mods:languageTerm>
+               </mods:language>
                <mods:location>
                   <mods:physicalLocation authorityURI="http://d-nb.info/gnd/"
                                          valueURI="http://d-nb.info/gnd/3045116-4">Martinus-Bibliothek (Mainz)</mods:physicalLocation>
@@ -18763,6 +19243,18 @@
                                      xlink:href="https://creativecommons.org/publicdomain/mark/1.0/"
                                      displayLabel="Public Domain Mark 1.0">pdm</mods:accessCondition>
                <mods:identifier type="HSP">HSP-d1eb86e6-95bc-3793-8821-7549835befed</mods:identifier>
+               <mods:language>
+                  <mods:languageTerm type="code" authority="iso639-2b">ger</mods:languageTerm>
+               </mods:language>
+               <mods:language>
+                  <mods:languageTerm type="code" authority="iso639-2b">lat</mods:languageTerm>
+               </mods:language>
+               <mods:language>
+                  <mods:languageTerm type="code" authority="iso639-2b">ger</mods:languageTerm>
+               </mods:language>
+               <mods:language>
+                  <mods:languageTerm type="code" authority="iso639-2b">lat</mods:languageTerm>
+               </mods:language>
                <mods:location>
                   <mods:physicalLocation authorityURI="http://d-nb.info/gnd/"
                                          valueURI="http://d-nb.info/gnd/3045116-4">Martinus-Bibliothek (Mainz)</mods:physicalLocation>
@@ -18814,6 +19306,9 @@
                                      xlink:href="https://creativecommons.org/publicdomain/mark/1.0/"
                                      displayLabel="Public Domain Mark 1.0">pdm</mods:accessCondition>
                <mods:identifier type="HSP">HSP-96c444a7-0f63-333b-a783-032e196b1400</mods:identifier>
+               <mods:language>
+                  <mods:languageTerm type="code" authority="iso639-2b">lat</mods:languageTerm>
+               </mods:language>
                <mods:location>
                   <mods:physicalLocation authorityURI="http://d-nb.info/gnd/"
                                          valueURI="http://d-nb.info/gnd/3045116-4">Martinus-Bibliothek (Mainz)</mods:physicalLocation>
@@ -18865,6 +19360,9 @@
                                      xlink:href="https://creativecommons.org/publicdomain/mark/1.0/"
                                      displayLabel="Public Domain Mark 1.0">pdm</mods:accessCondition>
                <mods:identifier type="HSP">HSP-9b031a8f-0476-3497-bf0d-417a10019d64</mods:identifier>
+               <mods:language>
+                  <mods:languageTerm type="code" authority="iso639-2b">lat</mods:languageTerm>
+               </mods:language>
                <mods:location>
                   <mods:physicalLocation authorityURI="http://d-nb.info/gnd/"
                                          valueURI="http://d-nb.info/gnd/3045116-4">Martinus-Bibliothek (Mainz)</mods:physicalLocation>
@@ -18916,6 +19414,9 @@
                                      xlink:href="https://creativecommons.org/publicdomain/mark/1.0/"
                                      displayLabel="Public Domain Mark 1.0">pdm</mods:accessCondition>
                <mods:identifier type="HSP">HSP-542d1509-f0b6-3d54-b1c8-ce9721938c7e</mods:identifier>
+               <mods:language>
+                  <mods:languageTerm type="code" authority="iso639-2b">lat</mods:languageTerm>
+               </mods:language>
                <mods:location>
                   <mods:physicalLocation authorityURI="http://d-nb.info/gnd/"
                                          valueURI="http://d-nb.info/gnd/3045116-4">Martinus-Bibliothek (Mainz)</mods:physicalLocation>
@@ -18975,6 +19476,9 @@
                                      xlink:href="https://creativecommons.org/publicdomain/mark/1.0/"
                                      displayLabel="Public Domain Mark 1.0">pdm</mods:accessCondition>
                <mods:identifier type="HSP">HSP-5a794eb4-8ceb-39d6-a7db-d40ee2407e01</mods:identifier>
+               <mods:language>
+                  <mods:languageTerm type="code" authority="iso639-2b">lat</mods:languageTerm>
+               </mods:language>
                <mods:location>
                   <mods:physicalLocation authorityURI="http://d-nb.info/gnd/"
                                          valueURI="http://d-nb.info/gnd/3045116-4">Martinus-Bibliothek (Mainz)</mods:physicalLocation>
@@ -19026,6 +19530,9 @@
                                      xlink:href="https://creativecommons.org/publicdomain/mark/1.0/"
                                      displayLabel="Public Domain Mark 1.0">pdm</mods:accessCondition>
                <mods:identifier type="HSP">HSP-7382d3c1-385e-3a5e-b466-3a63fb4e35b2</mods:identifier>
+               <mods:language>
+                  <mods:languageTerm type="code" authority="iso639-2b">lat</mods:languageTerm>
+               </mods:language>
                <mods:location>
                   <mods:physicalLocation authorityURI="http://d-nb.info/gnd/"
                                          valueURI="http://d-nb.info/gnd/3045116-4">Martinus-Bibliothek (Mainz)</mods:physicalLocation>
@@ -19077,6 +19584,9 @@
                                      xlink:href="https://creativecommons.org/publicdomain/mark/1.0/"
                                      displayLabel="Public Domain Mark 1.0">pdm</mods:accessCondition>
                <mods:identifier type="HSP">HSP-f65332eb-3901-396e-bc25-148871d22905</mods:identifier>
+               <mods:language>
+                  <mods:languageTerm type="code" authority="iso639-2b">lat</mods:languageTerm>
+               </mods:language>
                <mods:location>
                   <mods:physicalLocation authorityURI="http://d-nb.info/gnd/"
                                          valueURI="http://d-nb.info/gnd/3045116-4">Martinus-Bibliothek (Mainz)</mods:physicalLocation>
@@ -19128,6 +19638,9 @@
                                      xlink:href="https://creativecommons.org/publicdomain/mark/1.0/"
                                      displayLabel="Public Domain Mark 1.0">pdm</mods:accessCondition>
                <mods:identifier type="HSP">HSP-2484ed10-65fb-38a7-8a35-f1220c5d9a8d</mods:identifier>
+               <mods:language>
+                  <mods:languageTerm type="code" authority="iso639-2b">ger</mods:languageTerm>
+               </mods:language>
                <mods:location>
                   <mods:physicalLocation authorityURI="http://d-nb.info/gnd/"
                                          valueURI="http://d-nb.info/gnd/3045116-4">Martinus-Bibliothek (Mainz)</mods:physicalLocation>
@@ -19184,6 +19697,9 @@
                                      xlink:href="https://creativecommons.org/publicdomain/mark/1.0/"
                                      displayLabel="Public Domain Mark 1.0">pdm</mods:accessCondition>
                <mods:identifier type="HSP">HSP-a261f724-0621-34af-a681-f3c48b1fdc8b</mods:identifier>
+               <mods:language>
+                  <mods:languageTerm type="code" authority="iso639-2b">lat</mods:languageTerm>
+               </mods:language>
                <mods:location>
                   <mods:physicalLocation authorityURI="http://d-nb.info/gnd/"
                                          valueURI="http://d-nb.info/gnd/3045116-4">Martinus-Bibliothek (Mainz)</mods:physicalLocation>
@@ -19235,6 +19751,9 @@
                                      xlink:href="https://creativecommons.org/publicdomain/mark/1.0/"
                                      displayLabel="Public Domain Mark 1.0">pdm</mods:accessCondition>
                <mods:identifier type="HSP">HSP-64206c79-01d1-3aee-b03c-54080e8f7fcc</mods:identifier>
+               <mods:language>
+                  <mods:languageTerm type="code" authority="iso639-2b">lat</mods:languageTerm>
+               </mods:language>
                <mods:location>
                   <mods:physicalLocation authorityURI="http://d-nb.info/gnd/"
                                          valueURI="http://d-nb.info/gnd/3045116-4">Martinus-Bibliothek (Mainz)</mods:physicalLocation>
@@ -19286,6 +19805,9 @@
                                      xlink:href="https://creativecommons.org/publicdomain/mark/1.0/"
                                      displayLabel="Public Domain Mark 1.0">pdm</mods:accessCondition>
                <mods:identifier type="HSP">HSP-9d72f7bd-043f-3d35-bab5-a8d63e006d35</mods:identifier>
+               <mods:language>
+                  <mods:languageTerm type="code" authority="iso639-2b">lat</mods:languageTerm>
+               </mods:language>
                <mods:location>
                   <mods:physicalLocation authorityURI="http://d-nb.info/gnd/"
                                          valueURI="http://d-nb.info/gnd/3045116-4">Martinus-Bibliothek (Mainz)</mods:physicalLocation>
@@ -19337,6 +19859,9 @@
                                      xlink:href="https://creativecommons.org/publicdomain/mark/1.0/"
                                      displayLabel="Public Domain Mark 1.0">pdm</mods:accessCondition>
                <mods:identifier type="HSP">HSP-57ef010f-ed4e-3117-b03a-e5e522d92ad8</mods:identifier>
+               <mods:language>
+                  <mods:languageTerm type="code" authority="iso639-2b">lat</mods:languageTerm>
+               </mods:language>
                <mods:location>
                   <mods:physicalLocation authorityURI="http://d-nb.info/gnd/"
                                          valueURI="http://d-nb.info/gnd/3045116-4">Martinus-Bibliothek (Mainz)</mods:physicalLocation>
@@ -19388,6 +19913,9 @@
                                      xlink:href="https://creativecommons.org/publicdomain/mark/1.0/"
                                      displayLabel="Public Domain Mark 1.0">pdm</mods:accessCondition>
                <mods:identifier type="HSP">HSP-27f33783-f0db-3472-8cd1-d9e41cda3d0a</mods:identifier>
+               <mods:language>
+                  <mods:languageTerm type="code" authority="iso639-2b">lat</mods:languageTerm>
+               </mods:language>
                <mods:location>
                   <mods:physicalLocation authorityURI="http://d-nb.info/gnd/"
                                          valueURI="http://d-nb.info/gnd/3045116-4">Martinus-Bibliothek (Mainz)</mods:physicalLocation>
@@ -19439,6 +19967,9 @@
                                      xlink:href="https://creativecommons.org/publicdomain/mark/1.0/"
                                      displayLabel="Public Domain Mark 1.0">pdm</mods:accessCondition>
                <mods:identifier type="HSP">HSP-d59fa6d9-d6fe-3b76-9439-34601980913c</mods:identifier>
+               <mods:language>
+                  <mods:languageTerm type="code" authority="iso639-2b">lat</mods:languageTerm>
+               </mods:language>
                <mods:location>
                   <mods:physicalLocation authorityURI="http://d-nb.info/gnd/"
                                          valueURI="http://d-nb.info/gnd/3045116-4">Martinus-Bibliothek (Mainz)</mods:physicalLocation>
@@ -19495,6 +20026,9 @@
                                      xlink:href="https://creativecommons.org/publicdomain/mark/1.0/"
                                      displayLabel="Public Domain Mark 1.0">pdm</mods:accessCondition>
                <mods:identifier type="HSP">HSP-f57f2ccb-2fa7-3b8e-a840-748e1aefe575</mods:identifier>
+               <mods:language>
+                  <mods:languageTerm type="code" authority="iso639-2b">lat</mods:languageTerm>
+               </mods:language>
                <mods:location>
                   <mods:physicalLocation authorityURI="http://d-nb.info/gnd/"
                                          valueURI="http://d-nb.info/gnd/3045116-4">Martinus-Bibliothek (Mainz)</mods:physicalLocation>
@@ -19558,6 +20092,9 @@
                                      xlink:href="https://creativecommons.org/publicdomain/mark/1.0/"
                                      displayLabel="Public Domain Mark 1.0">pdm</mods:accessCondition>
                <mods:identifier type="HSP">HSP-4ef5e24f-bb94-36cc-800c-5bda807186d2</mods:identifier>
+               <mods:language>
+                  <mods:languageTerm type="code" authority="iso639-2b">lat</mods:languageTerm>
+               </mods:language>
                <mods:location>
                   <mods:physicalLocation authorityURI="http://d-nb.info/gnd/"
                                          valueURI="http://d-nb.info/gnd/3045116-4">Martinus-Bibliothek (Mainz)</mods:physicalLocation>
@@ -19612,6 +20149,9 @@
                                      xlink:href="https://creativecommons.org/publicdomain/mark/1.0/"
                                      displayLabel="Public Domain Mark 1.0">pdm</mods:accessCondition>
                <mods:identifier type="HSP">HSP-d5a2347f-b944-35d9-b11e-c909e8041576</mods:identifier>
+               <mods:language>
+                  <mods:languageTerm type="code" authority="iso639-2b">lat</mods:languageTerm>
+               </mods:language>
                <mods:location>
                   <mods:physicalLocation authorityURI="http://d-nb.info/gnd/"
                                          valueURI="http://d-nb.info/gnd/3045116-4">Martinus-Bibliothek (Mainz)</mods:physicalLocation>
@@ -19658,6 +20198,9 @@
                                      xlink:href="https://creativecommons.org/publicdomain/mark/1.0/"
                                      displayLabel="Public Domain Mark 1.0">pdm</mods:accessCondition>
                <mods:identifier type="HSP">HSP-839c3b1c-0ed3-3966-92f6-584162df21b5</mods:identifier>
+               <mods:language>
+                  <mods:languageTerm type="code" authority="iso639-2b">lat</mods:languageTerm>
+               </mods:language>
                <mods:location>
                   <mods:physicalLocation authorityURI="http://d-nb.info/gnd/"
                                          valueURI="http://d-nb.info/gnd/3045116-4">Martinus-Bibliothek (Mainz)</mods:physicalLocation>
@@ -19709,6 +20252,24 @@
                                      xlink:href="https://creativecommons.org/publicdomain/mark/1.0/"
                                      displayLabel="Public Domain Mark 1.0">pdm</mods:accessCondition>
                <mods:identifier type="HSP">HSP-fa80c8df-fca5-3fbf-afaf-d590eb641182</mods:identifier>
+               <mods:language>
+                  <mods:languageTerm type="code" authority="iso639-2b">cat</mods:languageTerm>
+               </mods:language>
+               <mods:language>
+                  <mods:languageTerm type="code" authority="iso639-2b">lat</mods:languageTerm>
+               </mods:language>
+               <mods:language>
+                  <mods:languageTerm type="code" authority="iso639-2b">fre</mods:languageTerm>
+               </mods:language>
+               <mods:language>
+                  <mods:languageTerm type="code" authority="iso639-2b">cat</mods:languageTerm>
+               </mods:language>
+               <mods:language>
+                  <mods:languageTerm type="code" authority="iso639-2b">lat</mods:languageTerm>
+               </mods:language>
+               <mods:language>
+                  <mods:languageTerm type="code" authority="iso639-2b">fre</mods:languageTerm>
+               </mods:language>
                <mods:location>
                   <mods:physicalLocation authorityURI="http://d-nb.info/gnd/"
                                          valueURI="http://d-nb.info/gnd/3045116-4">Martinus-Bibliothek (Mainz)</mods:physicalLocation>
@@ -19768,6 +20329,9 @@
                                      xlink:href="https://creativecommons.org/publicdomain/mark/1.0/"
                                      displayLabel="Public Domain Mark 1.0">pdm</mods:accessCondition>
                <mods:identifier type="HSP">HSP-1d4475bb-b4f7-392a-b9e9-9e6ad84e3633</mods:identifier>
+               <mods:language>
+                  <mods:languageTerm type="code" authority="iso639-2b">cat</mods:languageTerm>
+               </mods:language>
                <mods:location>
                   <mods:physicalLocation authorityURI="http://d-nb.info/gnd/"
                                          valueURI="http://d-nb.info/gnd/3045116-4">Martinus-Bibliothek (Mainz)</mods:physicalLocation>
@@ -19819,6 +20383,9 @@
                                      xlink:href="https://creativecommons.org/publicdomain/mark/1.0/"
                                      displayLabel="Public Domain Mark 1.0">pdm</mods:accessCondition>
                <mods:identifier type="HSP">HSP-13ca5f94-afaf-3d88-b1e1-5f0c16619bfd</mods:identifier>
+               <mods:language>
+                  <mods:languageTerm type="code" authority="iso639-2b">cat</mods:languageTerm>
+               </mods:language>
                <mods:location>
                   <mods:physicalLocation authorityURI="http://d-nb.info/gnd/"
                                          valueURI="http://d-nb.info/gnd/3045116-4">Martinus-Bibliothek (Mainz)</mods:physicalLocation>
@@ -19875,6 +20442,9 @@
                                      xlink:href="https://creativecommons.org/publicdomain/mark/1.0/"
                                      displayLabel="Public Domain Mark 1.0">pdm</mods:accessCondition>
                <mods:identifier type="HSP">HSP-332ef30c-f920-3f84-b4be-0d24e0c86135</mods:identifier>
+               <mods:language>
+                  <mods:languageTerm type="code" authority="iso639-2b">lat</mods:languageTerm>
+               </mods:language>
                <mods:location>
                   <mods:physicalLocation authorityURI="http://d-nb.info/gnd/"
                                          valueURI="http://d-nb.info/gnd/3045116-4">Martinus-Bibliothek (Mainz)</mods:physicalLocation>
@@ -19926,6 +20496,9 @@
                                      xlink:href="https://creativecommons.org/publicdomain/mark/1.0/"
                                      displayLabel="Public Domain Mark 1.0">pdm</mods:accessCondition>
                <mods:identifier type="HSP">HSP-843fcba6-bb56-34af-8862-6612593673b8</mods:identifier>
+               <mods:language>
+                  <mods:languageTerm type="code" authority="iso639-2b">lat</mods:languageTerm>
+               </mods:language>
                <mods:location>
                   <mods:physicalLocation authorityURI="http://d-nb.info/gnd/"
                                          valueURI="http://d-nb.info/gnd/3045116-4">Martinus-Bibliothek (Mainz)</mods:physicalLocation>
@@ -19977,6 +20550,9 @@
                                      xlink:href="https://creativecommons.org/publicdomain/mark/1.0/"
                                      displayLabel="Public Domain Mark 1.0">pdm</mods:accessCondition>
                <mods:identifier type="HSP">HSP-2055d207-b011-35ba-80ba-c5dac80f6886</mods:identifier>
+               <mods:language>
+                  <mods:languageTerm type="code" authority="iso639-2b">lat</mods:languageTerm>
+               </mods:language>
                <mods:location>
                   <mods:physicalLocation authorityURI="http://d-nb.info/gnd/"
                                          valueURI="http://d-nb.info/gnd/3045116-4">Martinus-Bibliothek (Mainz)</mods:physicalLocation>
@@ -20068,6 +20644,9 @@
                                      xlink:href="https://creativecommons.org/publicdomain/mark/1.0/"
                                      displayLabel="Public Domain Mark 1.0">pdm</mods:accessCondition>
                <mods:identifier type="HSP">HSP-035e1a3e-22e2-3ab7-a57d-e22a77585657</mods:identifier>
+               <mods:language>
+                  <mods:languageTerm type="code" authority="iso639-2b">lat</mods:languageTerm>
+               </mods:language>
                <mods:location>
                   <mods:physicalLocation authorityURI="http://d-nb.info/gnd/"
                                          valueURI="http://d-nb.info/gnd/3045116-4">Martinus-Bibliothek (Mainz)</mods:physicalLocation>
@@ -20111,6 +20690,9 @@
                                      xlink:href="https://creativecommons.org/publicdomain/mark/1.0/"
                                      displayLabel="Public Domain Mark 1.0">pdm</mods:accessCondition>
                <mods:identifier type="HSP">HSP-e8556e12-a8fc-3965-ac88-0ac74a369b8a</mods:identifier>
+               <mods:language>
+                  <mods:languageTerm type="code" authority="iso639-2b">lat</mods:languageTerm>
+               </mods:language>
                <mods:location>
                   <mods:physicalLocation authorityURI="http://d-nb.info/gnd/"
                                          valueURI="http://d-nb.info/gnd/3045116-4">Martinus-Bibliothek (Mainz)</mods:physicalLocation>
@@ -20162,6 +20744,9 @@
                                      xlink:href="https://creativecommons.org/publicdomain/mark/1.0/"
                                      displayLabel="Public Domain Mark 1.0">pdm</mods:accessCondition>
                <mods:identifier type="HSP">HSP-ad270871-7365-30ce-ae4b-30ad26de8c87</mods:identifier>
+               <mods:language>
+                  <mods:languageTerm type="code" authority="iso639-2b">lat</mods:languageTerm>
+               </mods:language>
                <mods:location>
                   <mods:physicalLocation authorityURI="http://d-nb.info/gnd/"
                                          valueURI="http://d-nb.info/gnd/3045116-4">Martinus-Bibliothek (Mainz)</mods:physicalLocation>
@@ -20205,6 +20790,9 @@
                                      xlink:href="https://creativecommons.org/publicdomain/mark/1.0/"
                                      displayLabel="Public Domain Mark 1.0">pdm</mods:accessCondition>
                <mods:identifier type="HSP">HSP-2ae4c4e5-5de2-3d78-aece-46b81f212460</mods:identifier>
+               <mods:language>
+                  <mods:languageTerm type="code" authority="iso639-2b">lat</mods:languageTerm>
+               </mods:language>
                <mods:location>
                   <mods:physicalLocation authorityURI="http://d-nb.info/gnd/"
                                          valueURI="http://d-nb.info/gnd/3045116-4">Martinus-Bibliothek (Mainz)</mods:physicalLocation>
@@ -20283,6 +20871,9 @@
                                      xlink:href="https://creativecommons.org/publicdomain/mark/1.0/"
                                      displayLabel="Public Domain Mark 1.0">pdm</mods:accessCondition>
                <mods:identifier type="HSP">HSP-efb9ef28-721c-3755-8303-ad4175a2dbdf</mods:identifier>
+               <mods:language>
+                  <mods:languageTerm type="code" authority="iso639-2b">lat</mods:languageTerm>
+               </mods:language>
                <mods:location>
                   <mods:physicalLocation authorityURI="http://d-nb.info/gnd/"
                                          valueURI="http://d-nb.info/gnd/3045116-4">Martinus-Bibliothek (Mainz)</mods:physicalLocation>
@@ -20334,6 +20925,9 @@
                                      xlink:href="https://creativecommons.org/publicdomain/mark/1.0/"
                                      displayLabel="Public Domain Mark 1.0">pdm</mods:accessCondition>
                <mods:identifier type="HSP">HSP-32b8072e-8b39-3d02-8357-ffe541b67ec2</mods:identifier>
+               <mods:language>
+                  <mods:languageTerm type="code" authority="iso639-2b">lat</mods:languageTerm>
+               </mods:language>
                <mods:location>
                   <mods:physicalLocation authorityURI="http://d-nb.info/gnd/"
                                          valueURI="http://d-nb.info/gnd/3045116-4">Martinus-Bibliothek (Mainz)</mods:physicalLocation>
@@ -20385,6 +20979,9 @@
                                      xlink:href="https://creativecommons.org/publicdomain/mark/1.0/"
                                      displayLabel="Public Domain Mark 1.0">pdm</mods:accessCondition>
                <mods:identifier type="HSP">HSP-83ca1dee-6d3b-3de9-880e-af99e286972e</mods:identifier>
+               <mods:language>
+                  <mods:languageTerm type="code" authority="iso639-2b">ger</mods:languageTerm>
+               </mods:language>
                <mods:location>
                   <mods:physicalLocation authorityURI="http://d-nb.info/gnd/"
                                          valueURI="http://d-nb.info/gnd/2012704-2">Gutenberg-Museum Mainz</mods:physicalLocation>
@@ -20833,6 +21430,9 @@
                                      xlink:href="https://creativecommons.org/publicdomain/mark/1.0/"
                                      displayLabel="Public Domain Mark 1.0">pdm</mods:accessCondition>
                <mods:identifier type="HSP">HSP-3d14a006-6150-37f9-8e8f-9ef8134fc290</mods:identifier>
+               <mods:language>
+                  <mods:languageTerm type="code" authority="iso639-2b">ger</mods:languageTerm>
+               </mods:language>
                <mods:location>
                   <mods:physicalLocation authorityURI="http://d-nb.info/gnd/"
                                          valueURI="http://d-nb.info/gnd/2012704-2">Gutenberg-Museum Mainz</mods:physicalLocation>
@@ -21224,6 +21824,18 @@
                                      xlink:href="https://creativecommons.org/publicdomain/mark/1.0/"
                                      displayLabel="Public Domain Mark 1.0">pdm</mods:accessCondition>
                <mods:identifier type="HSP">HSP-1ee9acd8-1071-366c-84ce-17d3b76aecf6</mods:identifier>
+               <mods:language>
+                  <mods:languageTerm type="code" authority="iso639-2b">lat</mods:languageTerm>
+               </mods:language>
+               <mods:language>
+                  <mods:languageTerm type="code" authority="iso639-2b">ger</mods:languageTerm>
+               </mods:language>
+               <mods:language>
+                  <mods:languageTerm type="code" authority="iso639-2b">lat</mods:languageTerm>
+               </mods:language>
+               <mods:language>
+                  <mods:languageTerm type="code" authority="iso639-2b">ger</mods:languageTerm>
+               </mods:language>
                <mods:location>
                   <mods:physicalLocation authorityURI="http://d-nb.info/gnd/"
                                          valueURI="http://d-nb.info/gnd/2012704-2">Gutenberg-Museum Mainz</mods:physicalLocation>
@@ -21284,6 +21896,9 @@
                                      xlink:href="https://creativecommons.org/publicdomain/mark/1.0/"
                                      displayLabel="Public Domain Mark 1.0">pdm</mods:accessCondition>
                <mods:identifier type="HSP">HSP-569d1190-af90-3aa3-94a6-6801dec81859</mods:identifier>
+               <mods:language>
+                  <mods:languageTerm type="code" authority="iso639-2b">lat</mods:languageTerm>
+               </mods:language>
                <mods:location>
                   <mods:physicalLocation authorityURI="http://d-nb.info/gnd/"
                                          valueURI="http://d-nb.info/gnd/2039019-1">Bischöfliches Dom- und Diözesanmuseum Mainz</mods:physicalLocation>
@@ -21396,6 +22011,9 @@
                                      xlink:href="https://creativecommons.org/publicdomain/mark/1.0/"
                                      displayLabel="Public Domain Mark 1.0">pdm</mods:accessCondition>
                <mods:identifier type="HSP">HSP-993f43fb-447a-3656-a3a2-a3d02820897b</mods:identifier>
+               <mods:language>
+                  <mods:languageTerm type="code" authority="iso639-2b">lat</mods:languageTerm>
+               </mods:language>
                <mods:location>
                   <mods:physicalLocation authorityURI="http://d-nb.info/gnd/"
                                          valueURI="http://d-nb.info/gnd/2039019-1">Bischöfliches Dom- und Diözesanmuseum Mainz</mods:physicalLocation>
@@ -21447,6 +22065,9 @@
                                      xlink:href="https://creativecommons.org/publicdomain/mark/1.0/"
                                      displayLabel="Public Domain Mark 1.0">pdm</mods:accessCondition>
                <mods:identifier type="HSP">HSP-712a57cc-a941-34a8-abc6-60394275aa88</mods:identifier>
+               <mods:language>
+                  <mods:languageTerm type="code" authority="iso639-2b">lat</mods:languageTerm>
+               </mods:language>
                <mods:location>
                   <mods:physicalLocation authorityURI="http://d-nb.info/gnd/"
                                          valueURI="http://d-nb.info/gnd/2039019-1">Bischöfliches Dom- und Diözesanmuseum Mainz</mods:physicalLocation>
@@ -21501,6 +22122,9 @@
                                      xlink:href="https://creativecommons.org/publicdomain/mark/1.0/"
                                      displayLabel="Public Domain Mark 1.0">pdm</mods:accessCondition>
                <mods:identifier type="HSP">HSP-a43cf29f-d047-30ad-a213-05ae61f54b97</mods:identifier>
+               <mods:language>
+                  <mods:languageTerm type="code" authority="iso639-2b">lat</mods:languageTerm>
+               </mods:language>
                <mods:location>
                   <mods:physicalLocation authorityURI="http://d-nb.info/gnd/"
                                          valueURI="http://d-nb.info/gnd/2039019-1">Bischöfliches Dom- und Diözesanmuseum Mainz</mods:physicalLocation>
@@ -21552,6 +22176,9 @@
                                      xlink:href="https://creativecommons.org/publicdomain/mark/1.0/"
                                      displayLabel="Public Domain Mark 1.0">pdm</mods:accessCondition>
                <mods:identifier type="HSP">HSP-521ee5fe-0315-3662-aa4c-4364ec48e835</mods:identifier>
+               <mods:language>
+                  <mods:languageTerm type="code" authority="iso639-2b">lat</mods:languageTerm>
+               </mods:language>
                <mods:location>
                   <mods:physicalLocation authorityURI="http://d-nb.info/gnd/"
                                          valueURI="http://d-nb.info/gnd/2039019-1">Bischöfliches Dom- und Diözesanmuseum Mainz</mods:physicalLocation>
@@ -21603,6 +22230,9 @@
                                      xlink:href="https://creativecommons.org/publicdomain/mark/1.0/"
                                      displayLabel="Public Domain Mark 1.0">pdm</mods:accessCondition>
                <mods:identifier type="HSP">HSP-1a3be811-078e-3dfd-8f80-f8bbef27c317</mods:identifier>
+               <mods:language>
+                  <mods:languageTerm type="code" authority="iso639-2b">lat</mods:languageTerm>
+               </mods:language>
                <mods:location>
                   <mods:physicalLocation authorityURI="http://d-nb.info/gnd/"
                                          valueURI="http://d-nb.info/gnd/2039019-1">Bischöfliches Dom- und Diözesanmuseum Mainz</mods:physicalLocation>
@@ -21659,6 +22289,9 @@
                                      xlink:href="https://creativecommons.org/publicdomain/mark/1.0/"
                                      displayLabel="Public Domain Mark 1.0">pdm</mods:accessCondition>
                <mods:identifier type="HSP">HSP-3d8effca-9838-3e82-9bc3-db022e4bfb5e</mods:identifier>
+               <mods:language>
+                  <mods:languageTerm type="code" authority="iso639-2b">lat</mods:languageTerm>
+               </mods:language>
                <mods:location>
                   <mods:physicalLocation authorityURI="http://d-nb.info/gnd/"
                                          valueURI="http://d-nb.info/gnd/2039019-1">Bischöfliches Dom- und Diözesanmuseum Mainz</mods:physicalLocation>
@@ -22034,6 +22667,18 @@
                                      xlink:href="https://creativecommons.org/publicdomain/mark/1.0/"
                                      displayLabel="Public Domain Mark 1.0">pdm</mods:accessCondition>
                <mods:identifier type="HSP">HSP-649e1ba8-d0d0-3ad4-ac83-f6c60fd77b87</mods:identifier>
+               <mods:language>
+                  <mods:languageTerm type="code" authority="iso639-2b">ger</mods:languageTerm>
+               </mods:language>
+               <mods:language>
+                  <mods:languageTerm type="code" authority="iso639-2b">lat</mods:languageTerm>
+               </mods:language>
+               <mods:language>
+                  <mods:languageTerm type="code" authority="iso639-2b">ger</mods:languageTerm>
+               </mods:language>
+               <mods:language>
+                  <mods:languageTerm type="code" authority="iso639-2b">lat</mods:languageTerm>
+               </mods:language>
                <mods:location>
                   <mods:physicalLocation authorityURI="http://d-nb.info/gnd/"
                                          valueURI="http://d-nb.info/gnd/7595711-5">Dom- und Diözesanarchiv (Mainz)</mods:physicalLocation>
@@ -22094,6 +22739,18 @@
                                      xlink:href="https://creativecommons.org/publicdomain/mark/1.0/"
                                      displayLabel="Public Domain Mark 1.0">pdm</mods:accessCondition>
                <mods:identifier type="HSP">HSP-8592cd0b-2776-39fa-8b5f-611da49f323b</mods:identifier>
+               <mods:language>
+                  <mods:languageTerm type="code" authority="iso639-2b">ger</mods:languageTerm>
+               </mods:language>
+               <mods:language>
+                  <mods:languageTerm type="code" authority="iso639-2b">lat</mods:languageTerm>
+               </mods:language>
+               <mods:language>
+                  <mods:languageTerm type="code" authority="iso639-2b">ger</mods:languageTerm>
+               </mods:language>
+               <mods:language>
+                  <mods:languageTerm type="code" authority="iso639-2b">lat</mods:languageTerm>
+               </mods:language>
                <mods:location>
                   <mods:physicalLocation authorityURI="http://d-nb.info/gnd/"
                                          valueURI="http://d-nb.info/gnd/7595711-5">Dom- und Diözesanarchiv (Mainz)</mods:physicalLocation>
@@ -22153,6 +22810,9 @@
                                      xlink:href="https://creativecommons.org/publicdomain/mark/1.0/"
                                      displayLabel="Public Domain Mark 1.0">pdm</mods:accessCondition>
                <mods:identifier type="HSP">HSP-db9ffa91-4965-3f0c-b493-1550c859fd7d</mods:identifier>
+               <mods:language>
+                  <mods:languageTerm type="code" authority="iso639-2b">ger</mods:languageTerm>
+               </mods:language>
                <mods:location>
                   <mods:physicalLocation authorityURI="http://d-nb.info/gnd/"
                                          valueURI="http://d-nb.info/gnd/7595711-5">Dom- und Diözesanarchiv (Mainz)</mods:physicalLocation>
@@ -22207,6 +22867,9 @@
                                      xlink:href="https://creativecommons.org/publicdomain/mark/1.0/"
                                      displayLabel="Public Domain Mark 1.0">pdm</mods:accessCondition>
                <mods:identifier type="HSP">HSP-f999378d-0926-3f9d-a7d6-d3339970bd36</mods:identifier>
+               <mods:language>
+                  <mods:languageTerm type="code" authority="iso639-2b">ger</mods:languageTerm>
+               </mods:language>
                <mods:location>
                   <mods:physicalLocation authorityURI="http://d-nb.info/gnd/"
                                          valueURI="http://d-nb.info/gnd/7595711-5">Dom- und Diözesanarchiv (Mainz)</mods:physicalLocation>
@@ -22315,6 +22978,18 @@
                                      xlink:href="https://creativecommons.org/publicdomain/mark/1.0/"
                                      displayLabel="Public Domain Mark 1.0">pdm</mods:accessCondition>
                <mods:identifier type="HSP">HSP-e09daecc-c6a5-3746-b2b5-9b555552b16e</mods:identifier>
+               <mods:language>
+                  <mods:languageTerm type="code" authority="iso639-2b">ger</mods:languageTerm>
+               </mods:language>
+               <mods:language>
+                  <mods:languageTerm type="code" authority="iso639-2b">lat</mods:languageTerm>
+               </mods:language>
+               <mods:language>
+                  <mods:languageTerm type="code" authority="iso639-2b">ger</mods:languageTerm>
+               </mods:language>
+               <mods:language>
+                  <mods:languageTerm type="code" authority="iso639-2b">lat</mods:languageTerm>
+               </mods:language>
                <mods:location>
                   <mods:physicalLocation authorityURI="http://d-nb.info/gnd/"
                                          valueURI="http://d-nb.info/gnd/7595711-5">Dom- und Diözesanarchiv (Mainz)</mods:physicalLocation>
@@ -22474,6 +23149,9 @@
                                      xlink:href="https://creativecommons.org/publicdomain/mark/1.0/"
                                      displayLabel="Public Domain Mark 1.0">pdm</mods:accessCondition>
                <mods:identifier type="HSP">HSP-5a030639-1fcf-3e39-8f3e-e7db4137f665</mods:identifier>
+               <mods:language>
+                  <mods:languageTerm type="code" authority="iso639-2b">lat</mods:languageTerm>
+               </mods:language>
                <mods:location>
                   <mods:physicalLocation authorityURI="http://d-nb.info/gnd/"
                                          valueURI="http://d-nb.info/gnd/36198-7">Universitätsbibliothek Mainz</mods:physicalLocation>
@@ -22521,6 +23199,9 @@
                                      xlink:href="https://creativecommons.org/publicdomain/mark/1.0/"
                                      displayLabel="Public Domain Mark 1.0">pdm</mods:accessCondition>
                <mods:identifier type="HSP">HSP-b7a4d3af-18e3-3ab8-964a-759ac46bed6f</mods:identifier>
+               <mods:language>
+                  <mods:languageTerm type="code" authority="iso639-2b">lat</mods:languageTerm>
+               </mods:language>
                <mods:location>
                   <mods:physicalLocation authorityURI="http://d-nb.info/gnd/"
                                          valueURI="http://d-nb.info/gnd/36198-7">Universitätsbibliothek Mainz</mods:physicalLocation>
