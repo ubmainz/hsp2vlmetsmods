@@ -1568,26 +1568,22 @@
                <mods:titleInfo>
                   <mods:title>Abt. 1B Nr. 18 1 - Bericht über die Verhandlungen zu Speyer 1428</mods:title>
                </mods:titleInfo>
-               <name type="personal"
-                     authorityURI="http://d-nb.info/gnd/"
-                     valueURI="https://d-nb.info/gnd/118574965">
-                  <displayForm>Ludwig &lt;Pfalz, Kurfürst, III.&gt;</displayForm>
-                  <namePart>Ludwig &lt;Pfalz, Kurfürst, III.&gt;</namePart>
-                  <role>
-                     <roleTerm type="code" authority="marcrelator">asn</roleTerm>
-                     <roleTerm>associated name</roleTerm>
-                  </role>
-               </name>
-               <name type="personal"
-                     authorityURI="http://d-nb.info/gnd/"
-                     valueURI="https://d-nb.info/gnd/13779150x">
-                  <displayForm>Karl &lt;Lothringen, Herzog, II.&gt;</displayForm>
-                  <namePart>Karl &lt;Lothringen, Herzog, II.&gt;</namePart>
-                  <role>
-                     <roleTerm type="code" authority="marcrelator">asn</roleTerm>
-                     <roleTerm>associated name</roleTerm>
-                  </role>
-               </name>
+               <subject>
+                  <name type="personal"
+                        authorityURI="http://d-nb.info/gnd/"
+                        valueURI="https://d-nb.info/gnd/118574965">
+                     <displayForm>Ludwig &lt;Pfalz, Kurfürst, III.&gt;</displayForm>
+                     <namePart>Ludwig &lt;Pfalz, Kurfürst, III.&gt;</namePart>
+                  </name>
+               </subject>
+               <subject>
+                  <name type="personal"
+                        authorityURI="http://d-nb.info/gnd/"
+                        valueURI="https://d-nb.info/gnd/13779150x">
+                     <displayForm>Karl &lt;Lothringen, Herzog, II.&gt;</displayForm>
+                     <namePart>Karl &lt;Lothringen, Herzog, II.&gt;</namePart>
+                  </name>
+               </subject>
             </mods:mods>
          </mets:xmlData>
       </mets:mdWrap>
@@ -5021,14 +5017,12 @@
                <mods:titleInfo>
                   <mods:title>Hs I 437 - Psalterium non feriatum · Brevierteile</mods:title>
                </mods:titleInfo>
-               <name type="personal" authorityURI="http://d-nb.info/gnd/" valueURI="">
-                  <displayForm>Appolonia abbatissa Wormaciensis</displayForm>
-                  <namePart>Appolonia abbatissa Wormaciensis</namePart>
-                  <role>
-                     <roleTerm type="code" authority="marcrelator">asn</roleTerm>
-                     <roleTerm>associated name</roleTerm>
-                  </role>
-               </name>
+               <subject>
+                  <name type="personal" authorityURI="http://d-nb.info/gnd/" valueURI="">
+                     <displayForm>Appolonia abbatissa Wormaciensis</displayForm>
+                     <namePart>Appolonia abbatissa Wormaciensis</namePart>
+                  </name>
+               </subject>
             </mods:mods>
          </mets:xmlData>
       </mets:mdWrap>
@@ -6305,14 +6299,6 @@
                      <roleTerm>author</roleTerm>
                   </role>
                </name>
-               <name type="personal" authorityURI="http://d-nb.info/gnd/" valueURI="">
-                  <displayForm>Pandulfus comes Anguillarie</displayForm>
-                  <namePart>Pandulfus comes Anguillarie</namePart>
-                  <role>
-                     <roleTerm type="code" authority="marcrelator">asn</roleTerm>
-                     <roleTerm>associated name</roleTerm>
-                  </role>
-               </name>
                <name type="personal"
                      authorityURI="http://d-nb.info/gnd/"
                      valueURI="https://d-nb.info/gnd/118652885">
@@ -6341,6 +6327,12 @@
                      <roleTerm>author</roleTerm>
                   </role>
                </name>
+               <subject>
+                  <name type="personal" authorityURI="http://d-nb.info/gnd/" valueURI="">
+                     <displayForm>Pandulfus comes Anguillarie</displayForm>
+                     <namePart>Pandulfus comes Anguillarie</namePart>
+                  </name>
+               </subject>
             </mods:mods>
          </mets:xmlData>
       </mets:mdWrap>
@@ -7818,16 +7810,6 @@
                </name>
                <name type="personal"
                      authorityURI="http://d-nb.info/gnd/"
-                     valueURI="https://d-nb.info/gnd/1013814347">
-                  <displayForm>Bertrandus &lt;de Monte Faventino&gt;</displayForm>
-                  <namePart>Bertrandus &lt;de Monte Faventino&gt;</namePart>
-                  <role>
-                     <roleTerm type="code" authority="marcrelator">asn</roleTerm>
-                     <roleTerm>associated name</roleTerm>
-                  </role>
-               </name>
-               <name type="personal"
-                     authorityURI="http://d-nb.info/gnd/"
                      valueURI="https://d-nb.info/gnd/118803085">
                   <displayForm>Baldus &lt;de Ubaldis&gt;</displayForm>
                   <namePart>Baldus &lt;de Ubaldis&gt;</namePart>
@@ -7864,6 +7846,14 @@
                      <roleTerm>author</roleTerm>
                   </role>
                </name>
+               <subject>
+                  <name type="personal"
+                        authorityURI="http://d-nb.info/gnd/"
+                        valueURI="https://d-nb.info/gnd/1013814347">
+                     <displayForm>Bertrandus &lt;de Monte Faventino&gt;</displayForm>
+                     <namePart>Bertrandus &lt;de Monte Faventino&gt;</namePart>
+                  </name>
+               </subject>
             </mods:mods>
          </mets:xmlData>
       </mets:mdWrap>
@@ -8452,14 +8442,12 @@
                <mods:titleInfo>
                   <mods:title>Hs I 533 - Deutsches Kalendar · Koblenzer Hausbuch</mods:title>
                </mods:titleInfo>
-               <name type="personal" authorityURI="http://d-nb.info/gnd/" valueURI="">
-                  <displayForm>Wolter, Matern? &amp; Fenbach, Johanna? &amp; Prieders, Maria &amp; Beier, Petrus &amp; Neierm, Elizabetha &amp; Flade, Michael &amp; Keller, Mathias &amp; Beier, Johannes &amp; Botzheim, Johannes &amp; Beier, Anna &amp; Freth, Gabriel &amp; Nohll, Stephanus &amp; Burcher, Johannes? &amp; Lang, Margareta</displayForm>
-                  <namePart>Wolter, Matern? &amp; Fenbach, Johanna? &amp; Prieders, Maria &amp; Beier, Petrus &amp; Neierm, Elizabetha &amp; Flade, Michael &amp; Keller, Mathias &amp; Beier, Johannes &amp; Botzheim, Johannes &amp; Beier, Anna &amp; Freth, Gabriel &amp; Nohll, Stephanus &amp; Burcher, Johannes? &amp; Lang, Margareta</namePart>
-                  <role>
-                     <roleTerm type="code" authority="marcrelator">asn</roleTerm>
-                     <roleTerm>associated name</roleTerm>
-                  </role>
-               </name>
+               <subject>
+                  <name type="personal" authorityURI="http://d-nb.info/gnd/" valueURI="">
+                     <displayForm>Wolter, Matern? &amp; Fenbach, Johanna? &amp; Prieders, Maria &amp; Beier, Petrus &amp; Neierm, Elizabetha &amp; Flade, Michael &amp; Keller, Mathias &amp; Beier, Johannes &amp; Botzheim, Johannes &amp; Beier, Anna &amp; Freth, Gabriel &amp; Nohll, Stephanus &amp; Burcher, Johannes? &amp; Lang, Margareta</displayForm>
+                     <namePart>Wolter, Matern? &amp; Fenbach, Johanna? &amp; Prieders, Maria &amp; Beier, Petrus &amp; Neierm, Elizabetha &amp; Flade, Michael &amp; Keller, Mathias &amp; Beier, Johannes &amp; Botzheim, Johannes &amp; Beier, Anna &amp; Freth, Gabriel &amp; Nohll, Stephanus &amp; Burcher, Johannes? &amp; Lang, Margareta</namePart>
+                  </name>
+               </subject>
             </mods:mods>
          </mets:xmlData>
       </mets:mdWrap>
@@ -9914,18 +9902,6 @@
                </mods:titleInfo>
                <name type="personal"
                      authorityURI="http://d-nb.info/gnd/"
-                     valueURI="https://d-nb.info/gnd/100967396">
-                  <displayForm>Dinus &lt;Mugellanus&gt;</displayForm>
-                  <namePart>Dinus &lt;Mugellanus&gt;</namePart>
-               </name>
-               <name type="personal"
-                     authorityURI="http://d-nb.info/gnd/"
-                     valueURI="https://d-nb.info/gnd/101508913">
-                  <displayForm>Christianus &lt;Moguntinensis, II.&gt;?</displayForm>
-                  <namePart>Christianus &lt;Moguntinensis, II.&gt;?</namePart>
-               </name>
-               <name type="personal"
-                     authorityURI="http://d-nb.info/gnd/"
                      valueURI="https://d-nb.info/gnd/129032182">
                   <displayForm>Horborch, Guilelmus</displayForm>
                   <namePart>Horborch, Guilelmus</namePart>
@@ -10478,12 +10454,6 @@
                      <roleTerm type="code" authority="marcrelator">aut</roleTerm>
                      <roleTerm>author</roleTerm>
                   </role>
-               </name>
-               <name type="personal"
-                     authorityURI="http://d-nb.info/gnd/"
-                     valueURI="https://d-nb.info/gnd/118681273">
-                  <displayForm>Durantis, Guilelmus</displayForm>
-                  <namePart>Durantis, Guilelmus</namePart>
                </name>
                <name type="personal"
                      authorityURI="http://d-nb.info/gnd/"
@@ -11113,22 +11083,6 @@
                <mods:titleInfo>
                   <mods:title>Hs II 39 - Juristische Sammelhandschrift</mods:title>
                </mods:titleInfo>
-               <name type="personal" authorityURI="http://d-nb.info/gnd/" valueURI="">
-                  <displayForm>Ekkstein, Petrus</displayForm>
-                  <namePart>Ekkstein, Petrus</namePart>
-                  <role>
-                     <roleTerm type="code" authority="marcrelator">asn</roleTerm>
-                     <roleTerm>associated name</roleTerm>
-                  </role>
-               </name>
-               <name type="personal" authorityURI="http://d-nb.info/gnd/" valueURI="">
-                  <displayForm>Choesel, Henricus</displayForm>
-                  <namePart>Choesel, Henricus</namePart>
-                  <role>
-                     <roleTerm type="code" authority="marcrelator">asn</roleTerm>
-                     <roleTerm>associated name</roleTerm>
-                  </role>
-               </name>
                <name type="personal"
                      authorityURI="http://d-nb.info/gnd/"
                      valueURI="https://d-nb.info/gnd/103115137">
@@ -11237,6 +11191,18 @@
                      <roleTerm>author</roleTerm>
                   </role>
                </name>
+               <subject>
+                  <name type="personal" authorityURI="http://d-nb.info/gnd/" valueURI="">
+                     <displayForm>Ekkstein, Petrus</displayForm>
+                     <namePart>Ekkstein, Petrus</namePart>
+                  </name>
+               </subject>
+               <subject>
+                  <name type="personal" authorityURI="http://d-nb.info/gnd/" valueURI="">
+                     <displayForm>Choesel, Henricus</displayForm>
+                     <namePart>Choesel, Henricus</namePart>
+                  </name>
+               </subject>
             </mods:mods>
          </mets:xmlData>
       </mets:mdWrap>
@@ -14235,12 +14201,6 @@
                      <roleTerm type="code" authority="marcrelator">aut</roleTerm>
                      <roleTerm>author</roleTerm>
                   </role>
-               </name>
-               <name type="personal"
-                     authorityURI="http://d-nb.info/gnd/"
-                     valueURI="https://d-nb.info/gnd/118828851">
-                  <displayForm>Petrus &lt;Comestor&gt;</displayForm>
-                  <namePart>Petrus &lt;Comestor&gt;</namePart>
                </name>
             </mods:mods>
          </mets:xmlData>
@@ -18905,22 +18865,18 @@
                <mods:titleInfo>
                   <mods:title>Best. 13-35 - Güterverzeichnis des Helffrich Wesebedir aus Eltville und seiner Ehefrau Gudele</mods:title>
                </mods:titleInfo>
-               <name type="personal" authorityURI="http://d-nb.info/gnd/" valueURI="">
-                  <displayForm>Wesebedir, Helffrich</displayForm>
-                  <namePart>Wesebedir, Helffrich</namePart>
-                  <role>
-                     <roleTerm type="code" authority="marcrelator">asn</roleTerm>
-                     <roleTerm>associated name</roleTerm>
-                  </role>
-               </name>
-               <name type="personal" authorityURI="http://d-nb.info/gnd/" valueURI="">
-                  <displayForm>Wesebedir, Gudele</displayForm>
-                  <namePart>Wesebedir, Gudele</namePart>
-                  <role>
-                     <roleTerm type="code" authority="marcrelator">asn</roleTerm>
-                     <roleTerm>associated name</roleTerm>
-                  </role>
-               </name>
+               <subject>
+                  <name type="personal" authorityURI="http://d-nb.info/gnd/" valueURI="">
+                     <displayForm>Wesebedir, Helffrich</displayForm>
+                     <namePart>Wesebedir, Helffrich</namePart>
+                  </name>
+               </subject>
+               <subject>
+                  <name type="personal" authorityURI="http://d-nb.info/gnd/" valueURI="">
+                     <displayForm>Wesebedir, Gudele</displayForm>
+                     <namePart>Wesebedir, Gudele</namePart>
+                  </name>
+               </subject>
             </mods:mods>
          </mets:xmlData>
       </mets:mdWrap>
@@ -20550,66 +20506,54 @@
                <mods:titleInfo>
                   <mods:title>Best. 13-293 - Ordo für die Matutin der Osternacht in Liebfrauen in Mainz</mods:title>
                </mods:titleInfo>
-               <name type="personal"
-                     authorityURI="http://d-nb.info/gnd/"
-                     valueURI="https://d-nb.info/gnd/100213138">
-                  <displayForm>Miletus, Vitus</displayForm>
-                  <namePart>Miletus, Vitus</namePart>
-                  <role>
-                     <roleTerm type="code" authority="marcrelator">asn</roleTerm>
-                     <roleTerm>associated name</roleTerm>
-                  </role>
-               </name>
-               <name type="personal"
-                     authorityURI="http://d-nb.info/gnd/"
-                     valueURI="https://d-nb.info/gnd/128793074">
-                  <displayForm>Weber, Stephan</displayForm>
-                  <namePart>Weber, Stephan</namePart>
-                  <role>
-                     <roleTerm type="code" authority="marcrelator">asn</roleTerm>
-                     <roleTerm>associated name</roleTerm>
-                  </role>
-               </name>
-               <name type="personal"
-                     authorityURI="http://d-nb.info/gnd/"
-                     valueURI="https://d-nb.info/gnd/140142738">
-                  <displayForm>Freyspach, Johann Adam</displayForm>
-                  <namePart>Freyspach, Johann Adam</namePart>
-                  <role>
-                     <roleTerm type="code" authority="marcrelator">asn</roleTerm>
-                     <roleTerm>associated name</roleTerm>
-                  </role>
-               </name>
-               <name type="personal"
-                     authorityURI="http://d-nb.info/gnd/"
-                     valueURI="https://d-nb.info/gnd/138629447">
-                  <displayForm>Vagtz, Johannes</displayForm>
-                  <namePart>Vagtz, Johannes</namePart>
-                  <role>
-                     <roleTerm type="code" authority="marcrelator">asn</roleTerm>
-                     <roleTerm>associated name</roleTerm>
-                  </role>
-               </name>
-               <name type="personal"
-                     authorityURI="http://d-nb.info/gnd/"
-                     valueURI="https://d-nb.info/gnd/177858389">
-                  <displayForm>Volusius, Adolphus G.</displayForm>
-                  <namePart>Volusius, Adolphus G.</namePart>
-                  <role>
-                     <roleTerm type="code" authority="marcrelator">asn</roleTerm>
-                     <roleTerm>associated name</roleTerm>
-                  </role>
-               </name>
-               <name type="personal"
-                     authorityURI="http://d-nb.info/gnd/"
-                     valueURI="https://d-nb.info/gnd/133388794">
-                  <displayForm>Mörtzer, Johann Reinhard</displayForm>
-                  <namePart>Mörtzer, Johann Reinhard</namePart>
-                  <role>
-                     <roleTerm type="code" authority="marcrelator">asn</roleTerm>
-                     <roleTerm>associated name</roleTerm>
-                  </role>
-               </name>
+               <subject>
+                  <name type="personal"
+                        authorityURI="http://d-nb.info/gnd/"
+                        valueURI="https://d-nb.info/gnd/100213138">
+                     <displayForm>Miletus, Vitus</displayForm>
+                     <namePart>Miletus, Vitus</namePart>
+                  </name>
+               </subject>
+               <subject>
+                  <name type="personal"
+                        authorityURI="http://d-nb.info/gnd/"
+                        valueURI="https://d-nb.info/gnd/128793074">
+                     <displayForm>Weber, Stephan</displayForm>
+                     <namePart>Weber, Stephan</namePart>
+                  </name>
+               </subject>
+               <subject>
+                  <name type="personal"
+                        authorityURI="http://d-nb.info/gnd/"
+                        valueURI="https://d-nb.info/gnd/140142738">
+                     <displayForm>Freyspach, Johann Adam</displayForm>
+                     <namePart>Freyspach, Johann Adam</namePart>
+                  </name>
+               </subject>
+               <subject>
+                  <name type="personal"
+                        authorityURI="http://d-nb.info/gnd/"
+                        valueURI="https://d-nb.info/gnd/138629447">
+                     <displayForm>Vagtz, Johannes</displayForm>
+                     <namePart>Vagtz, Johannes</namePart>
+                  </name>
+               </subject>
+               <subject>
+                  <name type="personal"
+                        authorityURI="http://d-nb.info/gnd/"
+                        valueURI="https://d-nb.info/gnd/177858389">
+                     <displayForm>Volusius, Adolphus G.</displayForm>
+                     <namePart>Volusius, Adolphus G.</namePart>
+                  </name>
+               </subject>
+               <subject>
+                  <name type="personal"
+                        authorityURI="http://d-nb.info/gnd/"
+                        valueURI="https://d-nb.info/gnd/133388794">
+                     <displayForm>Mörtzer, Johann Reinhard</displayForm>
+                     <namePart>Mörtzer, Johann Reinhard</namePart>
+                  </name>
+               </subject>
             </mods:mods>
          </mets:xmlData>
       </mets:mdWrap>
@@ -21335,56 +21279,44 @@
                <mods:titleInfo>
                   <mods:title>Hs 3 - Liber fundationum et consuetudinum ecclesiae cathedralis Moguntinae</mods:title>
                </mods:titleInfo>
-               <name type="personal"
-                     authorityURI="http://d-nb.info/gnd/"
-                     valueURI="https://d-nb.info/gnd/102501297">
-                  <displayForm>Losse, Rudolf</displayForm>
-                  <namePart>Losse, Rudolf</namePart>
-                  <role>
-                     <roleTerm type="code" authority="marcrelator">asn</roleTerm>
-                     <roleTerm>associated name</roleTerm>
-                  </role>
-               </name>
-               <name type="personal" authorityURI="http://d-nb.info/gnd/" valueURI="">
-                  <displayForm>Breithardt, Emicho von</displayForm>
-                  <namePart>Breithardt, Emicho von</namePart>
-                  <role>
-                     <roleTerm type="code" authority="marcrelator">asn</roleTerm>
-                     <roleTerm>associated name</roleTerm>
-                  </role>
-               </name>
-               <name type="personal" authorityURI="http://d-nb.info/gnd/" valueURI="">
-                  <displayForm>Berthold &lt;Mainz, Erzbischof&gt;</displayForm>
-                  <namePart>Berthold &lt;Mainz, Erzbischof&gt;</namePart>
-                  <role>
-                     <roleTerm type="code" authority="marcrelator">asn</roleTerm>
-                     <roleTerm>associated name</roleTerm>
-                  </role>
-               </name>
-               <name type="personal" authorityURI="http://d-nb.info/gnd/" valueURI="">
-                  <displayForm>Bicken, Wolff von</displayForm>
-                  <namePart>Bicken, Wolff von</namePart>
-                  <role>
-                     <roleTerm type="code" authority="marcrelator">asn</roleTerm>
-                     <roleTerm>associated name</roleTerm>
-                  </role>
-               </name>
-               <name type="personal" authorityURI="http://d-nb.info/gnd/" valueURI="">
-                  <displayForm>Stockheim, Adolf von</displayForm>
-                  <namePart>Stockheim, Adolf von</namePart>
-                  <role>
-                     <roleTerm type="code" authority="marcrelator">asn</roleTerm>
-                     <roleTerm>associated name</roleTerm>
-                  </role>
-               </name>
-               <name type="personal" authorityURI="http://d-nb.info/gnd/" valueURI="">
-                  <displayForm>Uriel &lt;Mainz, Erzbischof&gt;</displayForm>
-                  <namePart>Uriel &lt;Mainz, Erzbischof&gt;</namePart>
-                  <role>
-                     <roleTerm type="code" authority="marcrelator">asn</roleTerm>
-                     <roleTerm>associated name</roleTerm>
-                  </role>
-               </name>
+               <subject>
+                  <name type="personal"
+                        authorityURI="http://d-nb.info/gnd/"
+                        valueURI="https://d-nb.info/gnd/102501297">
+                     <displayForm>Losse, Rudolf</displayForm>
+                     <namePart>Losse, Rudolf</namePart>
+                  </name>
+               </subject>
+               <subject>
+                  <name type="personal" authorityURI="http://d-nb.info/gnd/" valueURI="">
+                     <displayForm>Breithardt, Emicho von</displayForm>
+                     <namePart>Breithardt, Emicho von</namePart>
+                  </name>
+               </subject>
+               <subject>
+                  <name type="personal" authorityURI="http://d-nb.info/gnd/" valueURI="">
+                     <displayForm>Berthold &lt;Mainz, Erzbischof&gt;</displayForm>
+                     <namePart>Berthold &lt;Mainz, Erzbischof&gt;</namePart>
+                  </name>
+               </subject>
+               <subject>
+                  <name type="personal" authorityURI="http://d-nb.info/gnd/" valueURI="">
+                     <displayForm>Bicken, Wolff von</displayForm>
+                     <namePart>Bicken, Wolff von</namePart>
+                  </name>
+               </subject>
+               <subject>
+                  <name type="personal" authorityURI="http://d-nb.info/gnd/" valueURI="">
+                     <displayForm>Stockheim, Adolf von</displayForm>
+                     <namePart>Stockheim, Adolf von</namePart>
+                  </name>
+               </subject>
+               <subject>
+                  <name type="personal" authorityURI="http://d-nb.info/gnd/" valueURI="">
+                     <displayForm>Uriel &lt;Mainz, Erzbischof&gt;</displayForm>
+                     <namePart>Uriel &lt;Mainz, Erzbischof&gt;</namePart>
+                  </name>
+               </subject>
             </mods:mods>
          </mets:xmlData>
       </mets:mdWrap>
@@ -21664,14 +21596,12 @@
                <mods:titleInfo>
                   <mods:title>Hs 9 - Statutenbuch von St. Emmeran in Mainz</mods:title>
                </mods:titleInfo>
-               <name type="personal" authorityURI="http://d-nb.info/gnd/" valueURI="">
-                  <displayForm>Heydelberg, Eberhart</displayForm>
-                  <namePart>Heydelberg, Eberhart</namePart>
-                  <role>
-                     <roleTerm type="code" authority="marcrelator">asn</roleTerm>
-                     <roleTerm>associated name</roleTerm>
-                  </role>
-               </name>
+               <subject>
+                  <name type="personal" authorityURI="http://d-nb.info/gnd/" valueURI="">
+                     <displayForm>Heydelberg, Eberhart</displayForm>
+                     <namePart>Heydelberg, Eberhart</namePart>
+                  </name>
+               </subject>
             </mods:mods>
          </mets:xmlData>
       </mets:mdWrap>
@@ -21726,14 +21656,12 @@
                <mods:titleInfo>
                   <mods:title>Hs 11 - Psalterium·Hymnar aus St. Peter vor Mainz</mods:title>
                </mods:titleInfo>
-               <name type="personal" authorityURI="http://d-nb.info/gnd/" valueURI="">
-                  <displayForm>Martin &lt;Bischof von Tours&gt;</displayForm>
-                  <namePart>Martin &lt;Bischof von Tours&gt;</namePart>
-                  <role>
-                     <roleTerm type="code" authority="marcrelator">asn</roleTerm>
-                     <roleTerm>associated name</roleTerm>
-                  </role>
-               </name>
+               <subject>
+                  <name type="personal" authorityURI="http://d-nb.info/gnd/" valueURI="">
+                     <displayForm>Martin &lt;Bischof von Tours&gt;</displayForm>
+                     <namePart>Martin &lt;Bischof von Tours&gt;</namePart>
+                  </name>
+               </subject>
             </mods:mods>
          </mets:xmlData>
       </mets:mdWrap>
@@ -21965,16 +21893,6 @@
                </name>
                <name type="personal"
                      authorityURI="http://d-nb.info/gnd/"
-                     valueURI="https://d-nb.info/gnd/100937802">
-                  <displayForm>Bernardus &lt;Claraevallensis&gt;</displayForm>
-                  <namePart>Bernardus &lt;Claraevallensis&gt;</namePart>
-                  <role>
-                     <roleTerm type="code" authority="marcrelator">asn</roleTerm>
-                     <roleTerm>associated name</roleTerm>
-                  </role>
-               </name>
-               <name type="personal"
-                     authorityURI="http://d-nb.info/gnd/"
                      valueURI="https://d-nb.info/gnd/100953654">
                   <displayForm>Mechthild &lt;von Hackeborn&gt;</displayForm>
                   <namePart>Mechthild &lt;von Hackeborn&gt;</namePart>
@@ -22003,46 +21921,30 @@
                      <roleTerm>author</roleTerm>
                   </role>
                </name>
-               <name type="personal"
-                     authorityURI="http://d-nb.info/gnd/"
-                     valueURI="https://d-nb.info/gnd/118505114">
-                  <displayForm>Augustinus, Aurelius</displayForm>
-                  <namePart>Augustinus, Aurelius</namePart>
-                  <role>
-                     <roleTerm type="code" authority="marcrelator">asn</roleTerm>
-                     <roleTerm>associated name</roleTerm>
-                  </role>
-               </name>
-               <name type="personal"
-                     authorityURI="http://d-nb.info/gnd/"
-                     valueURI="https://d-nb.info/gnd/100040527">
-                  <displayForm>Paulus &lt;Apostolus&gt;</displayForm>
-                  <namePart>Paulus &lt;Apostolus&gt;</namePart>
-                  <role>
-                     <roleTerm type="code" authority="marcrelator">asn</roleTerm>
-                     <roleTerm>associated name</roleTerm>
-                  </role>
-               </name>
-               <name type="personal"
-                     authorityURI="http://d-nb.info/gnd/"
-                     valueURI="https://d-nb.info/gnd/118505114">
-                  <displayForm>Augustinus, Aurelius</displayForm>
-                  <namePart>Augustinus, Aurelius</namePart>
-                  <role>
-                     <roleTerm type="code" authority="marcrelator">aut</roleTerm>
-                     <roleTerm>author</roleTerm>
-                  </role>
-               </name>
-               <name type="personal"
-                     authorityURI="http://d-nb.info/gnd/"
-                     valueURI="https://d-nb.info/gnd/100040527">
-                  <displayForm>Paulus &lt;Apostolus&gt;</displayForm>
-                  <namePart>Paulus &lt;Apostolus&gt;</namePart>
-                  <role>
-                     <roleTerm type="code" authority="marcrelator">asn</roleTerm>
-                     <roleTerm>associated name</roleTerm>
-                  </role>
-               </name>
+               <subject>
+                  <name type="personal"
+                        authorityURI="http://d-nb.info/gnd/"
+                        valueURI="https://d-nb.info/gnd/100937802">
+                     <displayForm>Bernardus &lt;Claraevallensis&gt;</displayForm>
+                     <namePart>Bernardus &lt;Claraevallensis&gt;</namePart>
+                  </name>
+               </subject>
+               <subject>
+                  <name type="personal"
+                        authorityURI="http://d-nb.info/gnd/"
+                        valueURI="https://d-nb.info/gnd/118505114">
+                     <displayForm>Augustinus, Aurelius</displayForm>
+                     <namePart>Augustinus, Aurelius</namePart>
+                  </name>
+               </subject>
+               <subject>
+                  <name type="personal"
+                        authorityURI="http://d-nb.info/gnd/"
+                        valueURI="https://d-nb.info/gnd/100040527">
+                     <displayForm>Paulus &lt;Apostolus&gt;</displayForm>
+                     <namePart>Paulus &lt;Apostolus&gt;</namePart>
+                  </name>
+               </subject>
             </mods:mods>
          </mets:xmlData>
       </mets:mdWrap>
@@ -22550,46 +22452,38 @@
                <mods:titleInfo>
                   <mods:title>Hs 40 - Passion Christi, dt.</mods:title>
                </mods:titleInfo>
-               <name type="personal"
-                     authorityURI="http://d-nb.info/gnd/"
-                     valueURI="https://d-nb.info/gnd/118554611">
-                  <displayForm>Hugo &lt;de Sancto Victore&gt;</displayForm>
-                  <namePart>Hugo &lt;de Sancto Victore&gt;</namePart>
-                  <role>
-                     <roleTerm type="code" authority="marcrelator">asn</roleTerm>
-                     <roleTerm>associated name</roleTerm>
-                  </role>
-               </name>
-               <name type="personal"
-                     authorityURI="http://d-nb.info/gnd/"
-                     valueURI="https://d-nb.info/gnd/118505114">
-                  <displayForm>Augustinus, Aurelius</displayForm>
-                  <namePart>Augustinus, Aurelius</namePart>
-                  <role>
-                     <roleTerm type="code" authority="marcrelator">asn</roleTerm>
-                     <roleTerm>associated name</roleTerm>
-                  </role>
-               </name>
-               <name type="personal"
-                     authorityURI="http://d-nb.info/gnd/"
-                     valueURI="https://d-nb.info/gnd/100937527">
-                  <displayForm>Beda &lt;Venerabilis&gt;</displayForm>
-                  <namePart>Beda &lt;Venerabilis&gt;</namePart>
-                  <role>
-                     <roleTerm type="code" authority="marcrelator">asn</roleTerm>
-                     <roleTerm>associated name</roleTerm>
-                  </role>
-               </name>
-               <name type="personal"
-                     authorityURI="http://d-nb.info/gnd/"
-                     valueURI="https://d-nb.info/gnd/100937802">
-                  <displayForm>Bernardus &lt;Claraevallensis&gt;</displayForm>
-                  <namePart>Bernardus &lt;Claraevallensis&gt;</namePart>
-                  <role>
-                     <roleTerm type="code" authority="marcrelator">asn</roleTerm>
-                     <roleTerm>associated name</roleTerm>
-                  </role>
-               </name>
+               <subject>
+                  <name type="personal"
+                        authorityURI="http://d-nb.info/gnd/"
+                        valueURI="https://d-nb.info/gnd/118554611">
+                     <displayForm>Hugo &lt;de Sancto Victore&gt;</displayForm>
+                     <namePart>Hugo &lt;de Sancto Victore&gt;</namePart>
+                  </name>
+               </subject>
+               <subject>
+                  <name type="personal"
+                        authorityURI="http://d-nb.info/gnd/"
+                        valueURI="https://d-nb.info/gnd/118505114">
+                     <displayForm>Augustinus, Aurelius</displayForm>
+                     <namePart>Augustinus, Aurelius</namePart>
+                  </name>
+               </subject>
+               <subject>
+                  <name type="personal"
+                        authorityURI="http://d-nb.info/gnd/"
+                        valueURI="https://d-nb.info/gnd/100937527">
+                     <displayForm>Beda &lt;Venerabilis&gt;</displayForm>
+                     <namePart>Beda &lt;Venerabilis&gt;</namePart>
+                  </name>
+               </subject>
+               <subject>
+                  <name type="personal"
+                        authorityURI="http://d-nb.info/gnd/"
+                        valueURI="https://d-nb.info/gnd/100937802">
+                     <displayForm>Bernardus &lt;Claraevallensis&gt;</displayForm>
+                     <namePart>Bernardus &lt;Claraevallensis&gt;</namePart>
+                  </name>
+               </subject>
             </mods:mods>
          </mets:xmlData>
       </mets:mdWrap>
@@ -22948,78 +22842,46 @@
                <mods:titleInfo>
                   <mods:title>Hs 92 - Registrum praesentiarum secundum chorum ecclesiae Moguntinae</mods:title>
                </mods:titleInfo>
-               <name type="personal"
-                     authorityURI="http://d-nb.info/gnd/"
-                     valueURI="https://d-nb.info/gnd/11863299x">
-                  <displayForm>Wilhelm &lt;III., Straßburg, Bischof&gt; &amp; Wilhelm &lt;von Honstein&gt;</displayForm>
-                  <namePart>Wilhelm &lt;III., Straßburg, Bischof&gt; &amp; Wilhelm &lt;von Honstein&gt;</namePart>
-                  <role>
-                     <roleTerm type="code" authority="marcrelator">asn</roleTerm>
-                     <roleTerm>associated name</roleTerm>
-                  </role>
-               </name>
-               <name type="personal"
-                     authorityURI="http://d-nb.info/gnd/"
-                     valueURI="https://d-nb.info/gnd/119512165">
-                  <displayForm>Truchsess von Pommersfelden, Lorenz</displayForm>
-                  <namePart>Truchsess von Pommersfelden, Lorenz</namePart>
-                  <role>
-                     <roleTerm type="code" authority="marcrelator">asn</roleTerm>
-                     <roleTerm>associated name</roleTerm>
-                  </role>
-               </name>
-               <name type="personal"
-                     authorityURI="http://d-nb.info/gnd/"
-                     valueURI="https://d-nb.info/gnd/118647733">
-                  <displayForm>Brandenburg, Albrecht von</displayForm>
-                  <namePart>Brandenburg, Albrecht von</namePart>
-                  <role>
-                     <roleTerm type="code" authority="marcrelator">asn</roleTerm>
-                     <roleTerm>associated name</roleTerm>
-                  </role>
-               </name>
-               <name type="personal" authorityURI="http://d-nb.info/gnd/" valueURI="">
-                  <displayForm>Albrecht &lt;von Brandenburg&gt;</displayForm>
-                  <namePart>Albrecht &lt;von Brandenburg&gt;</namePart>
-               </name>
-               <name type="personal"
-                     authorityURI="http://d-nb.info/gnd/"
-                     valueURI="https://d-nb.info/gnd/118647733">
-                  <displayForm>Brandenburg, Albrecht von</displayForm>
-                  <namePart>Brandenburg, Albrecht von</namePart>
-                  <role>
-                     <roleTerm type="code" authority="marcrelator">asn</roleTerm>
-                     <roleTerm>associated name</roleTerm>
-                  </role>
-               </name>
-               <name type="personal" authorityURI="http://d-nb.info/gnd/" valueURI="">
-                  <displayForm>Albrecht &lt;von Brandenburg&gt;</displayForm>
-                  <namePart>Albrecht &lt;von Brandenburg&gt;</namePart>
-               </name>
-               <name type="personal"
-                     authorityURI="http://d-nb.info/gnd/"
-                     valueURI="https://d-nb.info/gnd/153733829">
-                  <displayForm>Heusenstamm, Sebastian von</displayForm>
-                  <namePart>Heusenstamm, Sebastian von</namePart>
-                  <role>
-                     <roleTerm type="code" authority="marcrelator">asn</roleTerm>
-                     <roleTerm>associated name</roleTerm>
-                  </role>
-               </name>
-               <name type="personal" authorityURI="http://d-nb.info/gnd/" valueURI="">
-                  <displayForm>Heusenstamm, Sebastian von &amp; Sebastian &lt;von Heusenstamm&gt;</displayForm>
-                  <namePart>Heusenstamm, Sebastian von &amp; Sebastian &lt;von Heusenstamm&gt;</namePart>
-               </name>
-               <name type="personal"
-                     authorityURI="http://d-nb.info/gnd/"
-                     valueURI="https://d-nb.info/gnd/153733829">
-                  <displayForm>Heusenstamm, Sebastian von &amp; Sebastian &lt;von Heusenstamm&gt;</displayForm>
-                  <namePart>Heusenstamm, Sebastian von &amp; Sebastian &lt;von Heusenstamm&gt;</namePart>
-                  <role>
-                     <roleTerm type="code" authority="marcrelator">asn</roleTerm>
-                     <roleTerm>associated name</roleTerm>
-                  </role>
-               </name>
+               <subject>
+                  <name type="personal"
+                        authorityURI="http://d-nb.info/gnd/"
+                        valueURI="https://d-nb.info/gnd/11863299x">
+                     <displayForm>Wilhelm &lt;III., Straßburg, Bischof&gt; &amp; Wilhelm &lt;von Honstein&gt;</displayForm>
+                     <namePart>Wilhelm &lt;III., Straßburg, Bischof&gt; &amp; Wilhelm &lt;von Honstein&gt;</namePart>
+                  </name>
+               </subject>
+               <subject>
+                  <name type="personal"
+                        authorityURI="http://d-nb.info/gnd/"
+                        valueURI="https://d-nb.info/gnd/119512165">
+                     <displayForm>Truchsess von Pommersfelden, Lorenz</displayForm>
+                     <namePart>Truchsess von Pommersfelden, Lorenz</namePart>
+                  </name>
+               </subject>
+               <subject>
+                  <name type="personal"
+                        authorityURI="http://d-nb.info/gnd/"
+                        valueURI="https://d-nb.info/gnd/118647733">
+                     <displayForm>Brandenburg, Albrecht von</displayForm>
+                     <namePart>Brandenburg, Albrecht von</namePart>
+                  </name>
+               </subject>
+               <subject>
+                  <name type="personal"
+                        authorityURI="http://d-nb.info/gnd/"
+                        valueURI="https://d-nb.info/gnd/153733829">
+                     <displayForm>Heusenstamm, Sebastian von</displayForm>
+                     <namePart>Heusenstamm, Sebastian von</namePart>
+                  </name>
+               </subject>
+               <subject>
+                  <name type="personal"
+                        authorityURI="http://d-nb.info/gnd/"
+                        valueURI="https://d-nb.info/gnd/153733829">
+                     <displayForm>Heusenstamm, Sebastian von &amp; Sebastian &lt;von Heusenstamm&gt;</displayForm>
+                     <namePart>Heusenstamm, Sebastian von &amp; Sebastian &lt;von Heusenstamm&gt;</namePart>
+                  </name>
+               </subject>
             </mods:mods>
          </mets:xmlData>
       </mets:mdWrap>
@@ -23372,16 +23234,14 @@
                <mods:titleInfo>
                   <mods:title>Hs 130 - Breviarium Trevirense aus St. Florin in Koblenz</mods:title>
                </mods:titleInfo>
-               <name type="personal"
-                     authorityURI="http://d-nb.info/gnd/"
-                     valueURI="https://d-nb.info/gnd/11850617x">
-                  <displayForm>Balduin &lt;Treverensis&gt;</displayForm>
-                  <namePart>Balduin &lt;Treverensis&gt;</namePart>
-                  <role>
-                     <roleTerm type="code" authority="marcrelator">asn</roleTerm>
-                     <roleTerm>associated name</roleTerm>
-                  </role>
-               </name>
+               <subject>
+                  <name type="personal"
+                        authorityURI="http://d-nb.info/gnd/"
+                        valueURI="https://d-nb.info/gnd/11850617x">
+                     <displayForm>Balduin &lt;Treverensis&gt;</displayForm>
+                     <namePart>Balduin &lt;Treverensis&gt;</namePart>
+                  </name>
+               </subject>
             </mods:mods>
          </mets:xmlData>
       </mets:mdWrap>
@@ -23858,16 +23718,14 @@
                      <roleTerm>author</roleTerm>
                   </role>
                </name>
-               <name type="personal"
-                     authorityURI="http://d-nb.info/gnd/"
-                     valueURI="https://d-nb.info/gnd/118505114">
-                  <displayForm>Augustinus, Aurelius</displayForm>
-                  <namePart>Augustinus, Aurelius</namePart>
-                  <role>
-                     <roleTerm type="code" authority="marcrelator">asn</roleTerm>
-                     <roleTerm>associated name</roleTerm>
-                  </role>
-               </name>
+               <subject>
+                  <name type="personal"
+                        authorityURI="http://d-nb.info/gnd/"
+                        valueURI="https://d-nb.info/gnd/118505114">
+                     <displayForm>Augustinus, Aurelius</displayForm>
+                     <namePart>Augustinus, Aurelius</namePart>
+                  </name>
+               </subject>
             </mods:mods>
          </mets:xmlData>
       </mets:mdWrap>
@@ -25965,14 +25823,12 @@
                <mods:titleInfo>
                   <mods:title>Inv. Nr. B 00261 - Festtagsevangelistar aus St. Viktor</mods:title>
                </mods:titleInfo>
-               <name type="personal" authorityURI="http://d-nb.info/gnd/" valueURI="">
-                  <displayForm>Wolf, Christian Andreas</displayForm>
-                  <namePart>Wolf, Christian Andreas</namePart>
-                  <role>
-                     <roleTerm type="code" authority="marcrelator">asn</roleTerm>
-                     <roleTerm>associated name</roleTerm>
-                  </role>
-               </name>
+               <subject>
+                  <name type="personal" authorityURI="http://d-nb.info/gnd/" valueURI="">
+                     <displayForm>Wolf, Christian Andreas</displayForm>
+                     <namePart>Wolf, Christian Andreas</namePart>
+                  </name>
+               </subject>
             </mods:mods>
          </mets:xmlData>
       </mets:mdWrap>

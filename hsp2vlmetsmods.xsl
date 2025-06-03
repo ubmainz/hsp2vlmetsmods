@@ -231,33 +231,39 @@
     </xsl:template>
  
     <xsl:template match="TEI:index[@indexName]/TEI:term/TEI:persName" mode="mods">
-        <name type="personal" authorityURI="http://d-nb.info/gnd/" valueURI="{@ref}">
-            <displayForm><xsl:value-of select="."/></displayForm>
-            <namePart><xsl:value-of select="."/></namePart>
             <xsl:choose>
                 <xsl:when test="../../@indexName='Autorschaft'">
-                    <role>
-                        <roleTerm type="code" authority="marcrelator">aut</roleTerm>
-                        <roleTerm>author</roleTerm>
-                    </role>
+                    <name type="personal" authorityURI="http://d-nb.info/gnd/" valueURI="{@ref}">
+                        <displayForm><xsl:value-of select="."/></displayForm>
+                        <namePart><xsl:value-of select="."/></namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                            <roleTerm>author</roleTerm>
+                        </role>
+                    </name>
                 </xsl:when>
                 <xsl:when test="../../@indexName=('Herstellung') or (../../@indexName='Kommentar')">
-                    <role>
-                        <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
-                        <roleTerm>contributor</roleTerm>
-                    </role>
+                    <name type="personal" authorityURI="http://d-nb.info/gnd/" valueURI="{@ref}">
+                        <displayForm><xsl:value-of select="."/></displayForm>
+                        <namePart><xsl:value-of select="."/></namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                            <roleTerm>contributor</roleTerm>
+                        </role>
+                    </name>
                 </xsl:when>
                 <xsl:when test="../../@indexName='Erwähnung'">
-                    <role>
-                        <roleTerm type="code" authority="marcrelator">asn</roleTerm>
-                        <roleTerm>associated name</roleTerm>
-                    </role>
+                    <subject>
+                        <name type="personal" authorityURI="http://d-nb.info/gnd/" valueURI="{@ref}">
+                            <displayForm><xsl:value-of select="."/></displayForm>
+                            <namePart><xsl:value-of select="."/></namePart>
+                        </name>
+                    </subject>
                 </xsl:when>
                 <xsl:otherwise>
                     <xsl:message>Person: unbekannte Rolle <xsl:value-of select="../../@indexName"/></xsl:message>
                 </xsl:otherwise>
             </xsl:choose>
-        </name>
     </xsl:template>
  
     <xsl:template match="record" mode="map">
