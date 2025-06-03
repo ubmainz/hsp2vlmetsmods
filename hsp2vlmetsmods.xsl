@@ -265,7 +265,11 @@
                 </xsl:otherwise>
             </xsl:choose>
     </xsl:template>
- 
+
+    <xsl:template match="TEI:index[@indexName]/TEI:term[@type='6920']" mode="mods">
+        <genre><xsl:value-of select="."/></genre>
+    </xsl:template>
+
     <xsl:template match="record" mode="map">
         <xsl:variable name="id" select="TEI:TEI/TEI:teiHeader/TEI:fileDesc/TEI:sourceDesc/TEI:msDesc/@xml:id"/>
         <xsl:message>
