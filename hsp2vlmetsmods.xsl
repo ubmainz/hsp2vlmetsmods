@@ -99,9 +99,9 @@
                     <xsl:value-of select="@xml:id"/>
                 </mods:identifier>
             </xsl:when>
-            <xsl:when test="@type='hsp:description'">
+            <xsl:when test="@type='hsp:description'"> <!-- Einsprungpunkt zur HS? -->
                 <mods:location>
-                    <mods:url displayLabel="Ausführliche Beschreibung">
+                    <mods:url displayLabel="Beschreibung im Handschriftenportal">
                         <xsl:value-of select="concat('https://handschriftenportal.de/search?hspobjectid=',@xml:id)"/>
                     </mods:url>
                 </mods:location>
@@ -181,7 +181,7 @@
     
     <xsl:template match="TEI:listBibl/TEI:bibl/TEI:ref" mode="mods">
         <mods:location>
-            <mods:url displayLabel="Ausführliche Beschreibung">
+            <mods:url displayLabel="Beschreibung im Handschriftenportal">
                 <xsl:value-of select="concat('https://handschriftenportal.de/search?hspobjectid=',@target)"/>
             </mods:url>
         </mods:location>
