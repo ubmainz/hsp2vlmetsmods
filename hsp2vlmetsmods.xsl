@@ -73,7 +73,7 @@
                         <xsl:variable name="recorddatasort">
                             <xsl:perform-sort select="$recorddatagroup/*">
                                 <xsl:sort select="name()"/>
-                                <xsl:sort select="text()"/>
+                                <xsl:sort select="string-join(text()|*/text(),'+')"/>
                                 <xsl:sort select="mods:url"/>
                             </xsl:perform-sort>
                         </xsl:variable>
