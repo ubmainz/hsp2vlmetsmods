@@ -188,6 +188,12 @@
         </mods:location>
     </xsl:template>
     
+    <xsl:template match="TEI:history" mode="mods">
+        <abstract>
+                <xsl:value-of select="normalize-space(.)"/>
+        </abstract>
+    </xsl:template>
+    
     <xsl:template match="TEI:index[@indexName='norm_origDate']" mode="mods-origininfo">
         <mods:dateIssued>
             <xsl:value-of select="TEI:term[@type='origDate']"/>
