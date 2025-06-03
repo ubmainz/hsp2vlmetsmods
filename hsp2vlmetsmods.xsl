@@ -269,6 +269,10 @@
     <xsl:template match="TEI:index[@indexName]/TEI:term[@type='6920']" mode="mods">
         <genre><xsl:value-of select="."/></genre>
     </xsl:template>
+    
+    <xsl:template match="TEI:index[@indexName]/TEI:term[(@type='6930') or (@type='6930gi') or (@type='6922')]" mode="mods">
+        <subject><topic><xsl:value-of select="."/></topic></subject>
+    </xsl:template>
 
     <xsl:template match="record" mode="map">
         <xsl:variable name="id" select="TEI:TEI/TEI:teiHeader/TEI:fileDesc/TEI:sourceDesc/TEI:msDesc/@xml:id"/>
