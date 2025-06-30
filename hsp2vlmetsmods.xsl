@@ -189,7 +189,7 @@
     </xsl:template>
     
     <xsl:template match="TEI:history" mode="mods">
-        <abstract>
+        <abstract displayLabel="Beschreibung">
                 <xsl:value-of select="normalize-space(.)"/>
         </abstract>
     </xsl:template>
