@@ -189,9 +189,9 @@
     </xsl:template>
     
     <xsl:template match="TEI:history" mode="mods">
-        <abstract displayLabel="Beschreibung">
+        <mods:abstract displayLabel="Beschreibung">
                 <xsl:value-of select="normalize-space(.)"/>
-        </abstract>
+        </mods:abstract>
     </xsl:template>
     
     <xsl:template match="TEI:index[@indexName='norm_origDate']" mode="mods-origininfo">
@@ -240,32 +240,32 @@
     <xsl:template match="TEI:index[@indexName]/TEI:term/TEI:persName" mode="mods">
             <xsl:choose>
                 <xsl:when test="../../@indexName='Autorschaft'">
-                    <name type="personal" authorityURI="http://d-nb.info/gnd/" valueURI="{@ref}">
-                        <displayForm><xsl:value-of select="."/></displayForm>
-                        <namePart><xsl:value-of select="."/></namePart>
-                        <role>
-                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
-                            <roleTerm>author</roleTerm>
-                        </role>
-                    </name>
+                    <mods:name type="personal" authorityURI="http://d-nb.info/gnd/" valueURI="{@ref}">
+                        <mods:displayForm><xsl:value-of select="."/></mods:displayForm>
+                        <mods:namePart><xsl:value-of select="."/></mods:namePart>
+                        <mods:role>
+                            <mods:roleTerm type="code" authority="marcrelator">aut</mods:roleTerm>
+                            <mods:roleTerm>author</mods:roleTerm>
+                        </mods:role>
+                    </mods:name>
                 </xsl:when>
                 <xsl:when test="../../@indexName=('Herstellung') or (../../@indexName='Kommentar')">
-                    <name type="personal" authorityURI="http://d-nb.info/gnd/" valueURI="{@ref}">
-                        <displayForm><xsl:value-of select="."/></displayForm>
-                        <namePart><xsl:value-of select="."/></namePart>
-                        <role>
-                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
-                            <roleTerm>contributor</roleTerm>
-                        </role>
-                    </name>
+                    <mods:name type="personal" authorityURI="http://d-nb.info/gnd/" valueURI="{@ref}">
+                        <mods:displayForm><xsl:value-of select="."/></mods:displayForm>
+                        <mods:namePart><xsl:value-of select="."/></mods:namePart>
+                        <mods:role>
+                            <mods:roleTerm type="code" authority="marcrelator">ctb</mods:roleTerm>
+                            <mods:roleTerm>contributor</mods:roleTerm>
+                        </mods:role>
+                    </mods:name>
                 </xsl:when>
                 <xsl:when test="../../@indexName='Erwähnung'">
-                    <subject>
-                        <name type="personal" authorityURI="http://d-nb.info/gnd/" valueURI="{@ref}">
-                            <displayForm><xsl:value-of select="."/></displayForm>
-                            <namePart><xsl:value-of select="."/></namePart>
-                        </name>
-                    </subject>
+                    <mods:subject>
+                        <mods:name type="personal" authorityURI="http://d-nb.info/gnd/" valueURI="{@ref}">
+                            <mods:displayForm><xsl:value-of select="."/></mods:displayForm>
+                            <mods:namePart><xsl:value-of select="."/></mods:namePart>
+                        </mods:name>
+                    </mods:subject>
                 </xsl:when>
                 <xsl:otherwise>
                     <xsl:message>Person: unbekannte Rolle <xsl:value-of select="../../@indexName"/></xsl:message>
@@ -274,11 +274,11 @@
     </xsl:template>
 
     <xsl:template match="TEI:index[@indexName]/TEI:term[@type='6920']" mode="mods">
-        <genre><xsl:value-of select="."/></genre>
+        <mods:genre><xsl:value-of select="."/></mods:genre>
     </xsl:template>
     
     <xsl:template match="TEI:index[@indexName]/TEI:term[(@type='6930') or (@type='6930gi') or (@type='6922')]" mode="mods">
-        <subject><topic><xsl:value-of select="."/></topic></subject>
+        <mods:subject><mods:topic><xsl:value-of select="."/></mods:topic></mods:subject>
     </xsl:template>
 
     <xsl:template match="record" mode="map">
