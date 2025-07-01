@@ -33,9 +33,15 @@
  
     <xsl:template match="record" mode="mods">
         <xsl:variable name="id" select="TEI:TEI/TEI:teiHeader/TEI:fileDesc/TEI:sourceDesc/TEI:msDesc/@xml:id"/>
+        <xsl:variable name="title" select="TEI:TEI/TEI:teiHeader/TEI:fileDesc/TEI:sourceDesc/TEI:msDesc/TEI:head/TEI:index[@indexName='norm_title']/TEI:term[@type='title']"/>
+        <xsl:variable name="shelfmark" select="TEI:TEI/TEI:teiHeader/TEI:fileDesc/TEI:sourceDesc/TEI:msDesc/TEI:msIdentifier/TEI:idno"/>
         <xsl:message>
             <xsl:text>MODS: </xsl:text>
             <xsl:value-of select="$id"/>
+            <xsl:text> : </xsl:text>
+            <xsl:value-of select="$shelfmark"/>
+            <xsl:text> - </xsl:text>
+            <xsl:value-of select="$title"/>
         </xsl:message>
         <xsl:variable name="recorddata">
             <xsl:apply-templates mode="mods"/>
@@ -53,6 +59,11 @@
                         <mods:genre authority="lcgft">script</mods:genre>
                         <mods:typeOfResource>text</mods:typeOfResource>
                         <mods:accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/publicdomain/mark/1.0/" displayLabel="Public Domain Mark 1.0">pdm</mods:accessCondition>
+                        <mods:titleInfo>
+                            <mods:title>
+                                <xsl:value-of select="string-join(($shelfmark,$title),' - ')"/>
+                            </mods:title>
+                        </mods:titleInfo>
                         <xsl:variable name="recorddatagroup">
                             <xsl:sequence select="$recorddata/*[not(name()='mods:originInfo')]"/>
                             <mods:originInfo>
@@ -175,14 +186,6 @@
     </xsl:template>
     
     <xsl:template match="TEI:msPart" mode="#all"/>
-    
-    <xsl:template match="TEI:index[@indexName='norm_title']" mode="mods">
-        <mods:titleInfo>
-            <mods:title>
-                <xsl:value-of select="string-join((../../TEI:msIdentifier/TEI:idno,TEI:term[@type='title']),' - ')"/>
-            </mods:title>
-        </mods:titleInfo> 
-    </xsl:template>
     
     <xsl:template match="TEI:listBibl/TEI:bibl/TEI:ref" mode="mods">
         <mods:location>
