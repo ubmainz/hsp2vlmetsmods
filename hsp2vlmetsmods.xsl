@@ -214,17 +214,18 @@
     </xsl:template>
     
     <xsl:template match="TEI:index[@indexName='norm_origPlace']" mode="mods-origininfo">
-         <xsl:for-each select="TEI:term[@type='origPlace']/text()">
-            <mods:place>
-                <mods:placeTerm type="text">
-                    <xsl:value-of select="."/>
-                </mods:placeTerm>
-            </mods:place>    
-         </xsl:for-each>
+        <xsl:if test="not(TEI:term[@type='origPlace_norm']/text())"> 
+            <xsl:for-each select="TEI:term[@type='origPlace']/text()">
+                <mods:place>
+                    <mods:placeTerm type="text">
+                        <xsl:value-of select="."/>
+                    </mods:placeTerm>
+                </mods:place>    
+             </xsl:for-each>
+         </xsl:if>
          <xsl:for-each select="TEI:term[@type='origPlace_norm'][substring-after(@ref,'http://d-nb.info/gnd/')!='']">
              <mods:place> 
-                <mods:placeTerm authorityURI="http://d-nb.info/gnd/" valueURI="{@ref}"/>
-                <mods:placeTerm type="text">
+                 <mods:placeTerm authorityURI="http://d-nb.info/gnd/" valueURI="{@ref}" type="text">
                     <xsl:value-of select="."/>
                 </mods:placeTerm>
              </mods:place>
@@ -249,7 +250,6 @@
                 <xsl:when test="../../@indexName='Autorschaft'">
                     <mods:name type="personal" authorityURI="http://d-nb.info/gnd/" valueURI="{@ref}">
                         <mods:displayForm><xsl:value-of select="."/></mods:displayForm>
-                        <mods:namePart><xsl:value-of select="."/></mods:namePart>
                         <mods:role>
                             <mods:roleTerm type="code" authority="marcrelator">aut</mods:roleTerm>
                             <mods:roleTerm>author</mods:roleTerm>
