@@ -4,10 +4,12 @@
            xmlns:dcterms="http://purl.org/dc/terms/"
            xmlns:mets="http://www.loc.gov/METS/"
            xmlns:mods="http://www.loc.gov/mods/v3"
-           xmlns:xlink="http://www.w3.org/1999/xlink">
+           xmlns:xlink="http://www.w3.org/1999/xlink"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xsi:schemaLocation="http://www.loc.gov/METS/ https://www.loc.gov/standards/mets/mets.xsd     http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-8.xsd">
    <mets:metsHdr>
       <mets:agent ROLE="CREATOR">
-         <mets:name>hsp2vlmetsmods-Skript Knepper 05/2025</mets:name>
+         <mets:name>hsp2vlmetsmods-Skript Knepper 07/2025</mets:name>
       </mets:agent>
    </mets:metsHdr>
    <mets:dmdSec ID="md-HSP-adc76a1a-9152-3181-9775-b72dfd542d41">

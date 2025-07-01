@@ -5,15 +5,19 @@
     xmlns:dcterms="http://purl.org/dc/terms/" xmlns:mets="http://www.loc.gov/METS/"
     xmlns:xlink="http://www.w3.org/1999/xlink"
     xmlns:xs="http://www.w3.org/2001/XMLSchema"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.loc.gov/METS/ https://www.loc.gov/standards/mets/mets.xsd
+    http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-8.xsd"
     exclude-result-prefixes="xs"
     version="2.0">
     <xsl:output encoding="UTF-8" method="xml" indent="yes" omit-xml-declaration="no"/>
     
     <xsl:template match="/">
         <mets:mets>
+            <xsl:copy-of select="document('')/*/@xsi:schemaLocation"/>
             <mets:metsHdr>
                 <mets:agent ROLE="CREATOR">
-                    <mets:name>hsp2vlmetsmods-Skript Knepper 05/2025</mets:name>
+                    <mets:name>hsp2vlmetsmods-Skript Knepper 07/2025</mets:name>
                 </mets:agent>
             </mets:metsHdr>
             <xsl:message>
