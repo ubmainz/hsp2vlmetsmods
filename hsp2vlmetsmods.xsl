@@ -187,7 +187,7 @@
     
     <xsl:template match="TEI:msPart" mode="#all"/>
     
-    <xsl:template match="TEI:listBibl/TEI:bibl/TEI:ref" mode="mods">
+    <xsl:template match="TEI:listBibl/TEI:bibl/TEI:ref[starts-with(@target,'HSP-')]" mode="mods">
         <mods:location>
             <mods:url displayLabel="Beschreibung im Handschriftenportal">
                 <xsl:value-of select="concat('https://handschriftenportal.de/search?hspobjectid=',@target)"/>

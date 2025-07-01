@@ -1004,9 +1004,6 @@
                <mods:location>
                   <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=HSP-52b3eefc-cea3-375c-a665-152b74c272ad</mods:url>
                </mods:location>
-               <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=https://www.stadtarchiv-speyer.findbuch.net/php/view.php?link=3030312041x10</mods:url>
-               </mods:location>
                <mods:originInfo>
                   <mods:dateIssued>1328</mods:dateIssued>
                   <mods:dateIssued encoding="w3cdtf" point="end">1328</mods:dateIssued>
@@ -1606,9 +1603,6 @@
                <mods:location>
                   <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=HSP-37b52e57-5c7c-3547-9d62-70bf4ec7c58d</mods:url>
                </mods:location>
-               <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=http://www.ub.uni-heidelberg.de/archiv/30861</mods:url>
-               </mods:location>
                <mods:originInfo>
                   <mods:dateIssued>1392</mods:dateIssued>
                   <mods:dateIssued>1392 bis 16. Jh., Anfang</mods:dateIssued>
@@ -2052,9 +2046,6 @@
                <mods:location>
                   <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=HSP-982817ba-fd51-3587-ba3b-54cd758a8dd0</mods:url>
                </mods:location>
-               <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=http://www.handschriftencensus.de/8126</mods:url>
-               </mods:location>
                <mods:originInfo>
                   <mods:dateIssued>14. Jh., Ende</mods:dateIssued>
                   <mods:dateIssued encoding="w3cdtf" point="end">1400</mods:dateIssued>
@@ -2128,9 +2119,6 @@
                <mods:location>
                   <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=HSP-0183de34-e377-3bfc-80c2-ba54c572b475</mods:url>
                </mods:location>
-               <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=http://www.hss-census-rlp.ub.uni-mainz.de/worms-stadtbibliothek-o-s</mods:url>
-               </mods:location>
                <mods:originInfo>
                   <mods:dateIssued>1460er oder 1470er Jahre</mods:dateIssued>
                   <mods:dateIssued encoding="w3cdtf" point="end">1479</mods:dateIssued>
@@ -2184,21 +2172,6 @@
                   <mods:physicalLocation authorityURI="http://d-nb.info/gnd/"
                                          valueURI="http://d-nb.info/gnd/10132049-8">Wissenschaftliche Stadtbibliothek Mainz</mods:physicalLocation>
                   <mods:shelfLocator>Wissenschaftliche Stadtbibliothek Mainz : Hs I 378</mods:shelfLocator>
-               </mods:location>
-               <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=#bezlit[0].8330</mods:url>
-               </mods:location>
-               <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=#bezlit[1].8330</mods:url>
-               </mods:location>
-               <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=#bezlit[2].8330</mods:url>
-               </mods:location>
-               <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=#bezlit[3].8330</mods:url>
-               </mods:location>
-               <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=#bezlit[4].8330</mods:url>
                </mods:location>
                <mods:location>
                   <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=HSP-102ef382-c72f-33a8-9ff3-8de3593f8f8f</mods:url>
@@ -2269,9 +2242,6 @@
                   <mods:shelfLocator>Wissenschaftliche Stadtbibliothek Mainz : Hs I 380</mods:shelfLocator>
                </mods:location>
                <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=#bezlit[0].8330</mods:url>
-               </mods:location>
-               <mods:location>
                   <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=HSP-45892fee-aad2-3324-9321-450d7ee4bb57</mods:url>
                </mods:location>
                <mods:originInfo>
@@ -2319,18 +2289,6 @@
                   <mods:physicalLocation authorityURI="http://d-nb.info/gnd/"
                                          valueURI="http://d-nb.info/gnd/10132049-8">Wissenschaftliche Stadtbibliothek Mainz</mods:physicalLocation>
                   <mods:shelfLocator>Wissenschaftliche Stadtbibliothek Mainz : Hs I 381</mods:shelfLocator>
-               </mods:location>
-               <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=#bezlit[0].8330</mods:url>
-               </mods:location>
-               <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=#bezlit[1].8330</mods:url>
-               </mods:location>
-               <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=#bezlit[2].8330</mods:url>
-               </mods:location>
-               <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=#bezlit[3].8330</mods:url>
                </mods:location>
                <mods:location>
                   <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=HSP-94877a21-6161-3087-844e-74a1ee230606</mods:url>
@@ -2403,15 +2361,6 @@
                   <mods:shelfLocator>Wissenschaftliche Stadtbibliothek Mainz : Hs I 383a</mods:shelfLocator>
                </mods:location>
                <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=#bezlit[2].8330</mods:url>
-               </mods:location>
-               <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=#bezlit[3].8330</mods:url>
-               </mods:location>
-               <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=#bezlit[4].8330</mods:url>
-               </mods:location>
-               <mods:location>
                   <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=HSP-0853e4e6-8233-382c-bc89-119b36b6efd6</mods:url>
                </mods:location>
                <mods:originInfo>
@@ -2467,21 +2416,6 @@
                   <mods:shelfLocator>Wissenschaftliche Stadtbibliothek Mainz : Hs I 383b</mods:shelfLocator>
                </mods:location>
                <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=#bezlit[0].8330</mods:url>
-               </mods:location>
-               <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=#bezlit[1].8330</mods:url>
-               </mods:location>
-               <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=#bezlit[2].8330</mods:url>
-               </mods:location>
-               <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=#bezlit[3].8330</mods:url>
-               </mods:location>
-               <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=#bezlit[4].8330</mods:url>
-               </mods:location>
-               <mods:location>
                   <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=HSP-5c274079-1d7e-3114-9613-2d34f0fac0e9</mods:url>
                </mods:location>
                <mods:originInfo>
@@ -2534,12 +2468,6 @@
                   <mods:physicalLocation authorityURI="http://d-nb.info/gnd/"
                                          valueURI="http://d-nb.info/gnd/10132049-8">Wissenschaftliche Stadtbibliothek Mainz</mods:physicalLocation>
                   <mods:shelfLocator>Wissenschaftliche Stadtbibliothek Mainz : Hs I 384</mods:shelfLocator>
-               </mods:location>
-               <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=#bezlit[0].8330</mods:url>
-               </mods:location>
-               <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=#bezlit[1].8330</mods:url>
                </mods:location>
                <mods:location>
                   <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=HSP-a4cf47fa-eccc-322d-b41e-770261b5d00e</mods:url>
@@ -2783,9 +2711,6 @@
                   <mods:shelfLocator>Wissenschaftliche Stadtbibliothek Mainz : Hs I 391</mods:shelfLocator>
                </mods:location>
                <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=#bezlit[0].8330</mods:url>
-               </mods:location>
-               <mods:location>
                   <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=HSP-047ece8c-d47b-3c57-b480-c05c62d012dd</mods:url>
                </mods:location>
                <mods:name type="personal"
@@ -2910,18 +2835,6 @@
                   <mods:shelfLocator>Wissenschaftliche Stadtbibliothek Mainz : Hs I 393</mods:shelfLocator>
                </mods:location>
                <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=#8450[0].8540</mods:url>
-               </mods:location>
-               <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=#bezlit[0].8330</mods:url>
-               </mods:location>
-               <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=#bezlit[1].8330</mods:url>
-               </mods:location>
-               <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=#bezlit[2].8330</mods:url>
-               </mods:location>
-               <mods:location>
                   <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=HSP-bdf049de-4a4e-3c26-b9b1-eddb8deee40a</mods:url>
                </mods:location>
                <mods:name type="personal"
@@ -3042,9 +2955,6 @@
                   <mods:physicalLocation authorityURI="http://d-nb.info/gnd/"
                                          valueURI="http://d-nb.info/gnd/10132049-8">Wissenschaftliche Stadtbibliothek Mainz</mods:physicalLocation>
                   <mods:shelfLocator>Wissenschaftliche Stadtbibliothek Mainz : Hs I 396</mods:shelfLocator>
-               </mods:location>
-               <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=#bezlit[0].8330</mods:url>
                </mods:location>
                <mods:location>
                   <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=HSP-cb9fbdc9-1b14-3095-bc46-a628b6bb2c6f</mods:url>
@@ -3170,9 +3080,6 @@
                   <mods:physicalLocation authorityURI="http://d-nb.info/gnd/"
                                          valueURI="http://d-nb.info/gnd/10132049-8">Wissenschaftliche Stadtbibliothek Mainz</mods:physicalLocation>
                   <mods:shelfLocator>Wissenschaftliche Stadtbibliothek Mainz : Hs I 401</mods:shelfLocator>
-               </mods:location>
-               <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=#bezlit[0].8330</mods:url>
                </mods:location>
                <mods:location>
                   <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=HSP-e6c21dd4-0773-38f4-a9e7-e1252ae3e49e</mods:url>
@@ -3474,9 +3381,6 @@
                   <mods:physicalLocation authorityURI="http://d-nb.info/gnd/"
                                          valueURI="http://d-nb.info/gnd/10132049-8">Wissenschaftliche Stadtbibliothek Mainz</mods:physicalLocation>
                   <mods:shelfLocator>Wissenschaftliche Stadtbibliothek Mainz : Hs I 406</mods:shelfLocator>
-               </mods:location>
-               <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=#bezlit[1].8330</mods:url>
                </mods:location>
                <mods:location>
                   <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=HSP-7bfd9b86-9760-3b86-9485-0aa44e24755d</mods:url>
@@ -3850,19 +3754,7 @@
                   <mods:shelfLocator>Wissenschaftliche Stadtbibliothek Mainz : Hs I 410</mods:shelfLocator>
                </mods:location>
                <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=#8450[0].8540</mods:url>
-               </mods:location>
-               <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=#bezlit[0].8330</mods:url>
-               </mods:location>
-               <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=#bezlit[1].8330</mods:url>
-               </mods:location>
-               <mods:location>
                   <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=HSP-c43b195e-56a7-3042-a849-6503d46ae47e</mods:url>
-               </mods:location>
-               <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=http://www.handschriftencensus.de/4166</mods:url>
                </mods:location>
                <mods:name type="personal"
                           authorityURI="http://d-nb.info/gnd/"
@@ -3959,9 +3851,6 @@
                   <mods:shelfLocator>Wissenschaftliche Stadtbibliothek Mainz : Hs I 414</mods:shelfLocator>
                </mods:location>
                <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=#bezlit[0].8330</mods:url>
-               </mods:location>
-               <mods:location>
                   <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=HSP-a7e899c5-f6e0-3c80-8480-04a856faa5f2</mods:url>
                </mods:location>
                <mods:name type="personal"
@@ -4039,19 +3928,7 @@
                   <mods:shelfLocator>Wissenschaftliche Stadtbibliothek Mainz : Hs I 418</mods:shelfLocator>
                </mods:location>
                <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=#bezlit[0].8330</mods:url>
-               </mods:location>
-               <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=#bezlit[1].8330</mods:url>
-               </mods:location>
-               <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=#bezlit[2].8330</mods:url>
-               </mods:location>
-               <mods:location>
                   <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=HSP-0a1a0e28-9c2d-3f88-9de4-cd1dc04d1bee</mods:url>
-               </mods:location>
-               <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=http://www.handschriftencensus.de/16695</mods:url>
                </mods:location>
                <mods:originInfo>
                   <mods:dateIssued>15./16. Jh.</mods:dateIssued>
@@ -4117,9 +3994,6 @@
                   <mods:shelfLocator>Wissenschaftliche Stadtbibliothek Mainz : Hs I 420</mods:shelfLocator>
                </mods:location>
                <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=#bezlit[0].8330</mods:url>
-               </mods:location>
-               <mods:location>
                   <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=HSP-520f7afc-a309-3688-bdbb-f849e93bc608</mods:url>
                </mods:location>
                <mods:originInfo>
@@ -4170,9 +4044,6 @@
                   <mods:physicalLocation authorityURI="http://d-nb.info/gnd/"
                                          valueURI="http://d-nb.info/gnd/10132049-8">Wissenschaftliche Stadtbibliothek Mainz</mods:physicalLocation>
                   <mods:shelfLocator>Wissenschaftliche Stadtbibliothek Mainz : Hs I 422</mods:shelfLocator>
-               </mods:location>
-               <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=#bezlit[0].8330</mods:url>
                </mods:location>
                <mods:location>
                   <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=HSP-28a7500c-1406-357a-b9f8-76d8922310e0</mods:url>
@@ -4229,9 +4100,6 @@
                   <mods:physicalLocation authorityURI="http://d-nb.info/gnd/"
                                          valueURI="http://d-nb.info/gnd/10132049-8">Wissenschaftliche Stadtbibliothek Mainz</mods:physicalLocation>
                   <mods:shelfLocator>Wissenschaftliche Stadtbibliothek Mainz : Hs I 423</mods:shelfLocator>
-               </mods:location>
-               <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=#bezlit[0].8330</mods:url>
                </mods:location>
                <mods:location>
                   <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=HSP-f56ecdb9-fa21-39e5-9e8b-9300e71c34c3</mods:url>
@@ -4302,12 +4170,6 @@
                   <mods:physicalLocation authorityURI="http://d-nb.info/gnd/"
                                          valueURI="http://d-nb.info/gnd/10132049-8">Wissenschaftliche Stadtbibliothek Mainz</mods:physicalLocation>
                   <mods:shelfLocator>Wissenschaftliche Stadtbibliothek Mainz : Hs I 426</mods:shelfLocator>
-               </mods:location>
-               <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=#bezlit[1].8330</mods:url>
-               </mods:location>
-               <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=#bezlit[2].8330</mods:url>
                </mods:location>
                <mods:location>
                   <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=HSP-fbb7d529-fa0c-361a-b11c-cd8277174845</mods:url>
@@ -4383,13 +4245,7 @@
                   <mods:shelfLocator>Wissenschaftliche Stadtbibliothek Mainz : Hs I 427</mods:shelfLocator>
                </mods:location>
                <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=#bezlit[0].8330</mods:url>
-               </mods:location>
-               <mods:location>
                   <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=HSP-6095df1e-a3fb-3f84-945e-bd934d42af78</mods:url>
-               </mods:location>
-               <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=http://www.handschriftencensus.de/25657</mods:url>
                </mods:location>
                <mods:originInfo>
                   <mods:dateIssued>um 1510</mods:dateIssued>
@@ -4460,9 +4316,6 @@
                   <mods:physicalLocation authorityURI="http://d-nb.info/gnd/"
                                          valueURI="http://d-nb.info/gnd/10132049-8">Wissenschaftliche Stadtbibliothek Mainz</mods:physicalLocation>
                   <mods:shelfLocator>Wissenschaftliche Stadtbibliothek Mainz : Hs I 428</mods:shelfLocator>
-               </mods:location>
-               <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=#bezlit[1].8330</mods:url>
                </mods:location>
                <mods:location>
                   <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=HSP-9d8d9d56-5e25-3510-ab5a-26eb92b31241</mods:url>
@@ -4574,9 +4427,6 @@
                   <mods:shelfLocator>Wissenschaftliche Stadtbibliothek Mainz : Hs I 430</mods:shelfLocator>
                </mods:location>
                <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=#bezlit[0].8330</mods:url>
-               </mods:location>
-               <mods:location>
                   <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=HSP-b1d335f0-9cb2-3167-b5c1-61c0493d258c</mods:url>
                </mods:location>
                <mods:originInfo>
@@ -4624,9 +4474,6 @@
                   <mods:physicalLocation authorityURI="http://d-nb.info/gnd/"
                                          valueURI="http://d-nb.info/gnd/10132049-8">Wissenschaftliche Stadtbibliothek Mainz</mods:physicalLocation>
                   <mods:shelfLocator>Wissenschaftliche Stadtbibliothek Mainz : Hs I 431</mods:shelfLocator>
-               </mods:location>
-               <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=#bezlit[0].8330</mods:url>
                </mods:location>
                <mods:location>
                   <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=HSP-10522eda-2e71-3df7-b5d6-4e0d4d0f537a</mods:url>
@@ -4681,9 +4528,6 @@
                   <mods:physicalLocation authorityURI="http://d-nb.info/gnd/"
                                          valueURI="http://d-nb.info/gnd/10132049-8">Wissenschaftliche Stadtbibliothek Mainz</mods:physicalLocation>
                   <mods:shelfLocator>Wissenschaftliche Stadtbibliothek Mainz : Hs I 432</mods:shelfLocator>
-               </mods:location>
-               <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=#bezlit[0].8330</mods:url>
                </mods:location>
                <mods:location>
                   <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=HSP-e2f05ddd-38ad-3aa2-802d-c235b27da954</mods:url>
@@ -4766,9 +4610,6 @@
                   <mods:physicalLocation authorityURI="http://d-nb.info/gnd/"
                                          valueURI="http://d-nb.info/gnd/10132049-8">Wissenschaftliche Stadtbibliothek Mainz</mods:physicalLocation>
                   <mods:shelfLocator>Wissenschaftliche Stadtbibliothek Mainz : Hs I 433</mods:shelfLocator>
-               </mods:location>
-               <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=#bezlit[0].8330</mods:url>
                </mods:location>
                <mods:location>
                   <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=HSP-8080fff2-0536-3be1-98bc-1b14eba2c14f</mods:url>
@@ -4998,15 +4839,6 @@
                   <mods:shelfLocator>Wissenschaftliche Stadtbibliothek Mainz : Hs I 436</mods:shelfLocator>
                </mods:location>
                <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=#bezlit[0].8330</mods:url>
-               </mods:location>
-               <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=#bezlit[1].8330</mods:url>
-               </mods:location>
-               <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=#bezlit[2].8330</mods:url>
-               </mods:location>
-               <mods:location>
                   <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=HSP-9d1b800a-fc12-3be6-981d-299d52bf1b57</mods:url>
                </mods:location>
                <mods:originInfo>
@@ -5106,12 +4938,6 @@
                   <mods:shelfLocator>Wissenschaftliche Stadtbibliothek Mainz : Hs I 437</mods:shelfLocator>
                </mods:location>
                <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=#bezlit[1].8330</mods:url>
-               </mods:location>
-               <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=#bezlit[2].8330</mods:url>
-               </mods:location>
-               <mods:location>
                   <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=HSP-1abc514f-2ba6-320e-ba20-22431350add5</mods:url>
                </mods:location>
                <mods:originInfo>
@@ -5185,12 +5011,6 @@
                   <mods:physicalLocation authorityURI="http://d-nb.info/gnd/"
                                          valueURI="http://d-nb.info/gnd/10132049-8">Wissenschaftliche Stadtbibliothek Mainz</mods:physicalLocation>
                   <mods:shelfLocator>Wissenschaftliche Stadtbibliothek Mainz : Hs I 445</mods:shelfLocator>
-               </mods:location>
-               <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=#bezlit[5].8330</mods:url>
-               </mods:location>
-               <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=#bezlit[6].8330</mods:url>
                </mods:location>
                <mods:location>
                   <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=HSP-9a132182-0652-3874-8da9-365b4d6a7f6c</mods:url>
@@ -5273,12 +5093,6 @@
                   <mods:physicalLocation authorityURI="http://d-nb.info/gnd/"
                                          valueURI="http://d-nb.info/gnd/10132049-8">Wissenschaftliche Stadtbibliothek Mainz</mods:physicalLocation>
                   <mods:shelfLocator>Wissenschaftliche Stadtbibliothek Mainz : Hs I 474</mods:shelfLocator>
-               </mods:location>
-               <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=#bezlit[0].8330</mods:url>
-               </mods:location>
-               <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=#bezlit[1].8330</mods:url>
                </mods:location>
                <mods:location>
                   <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=HSP-4366bf87-9447-3bdd-a6ae-91ce87aea367</mods:url>
@@ -5379,9 +5193,6 @@
                   <mods:physicalLocation authorityURI="http://d-nb.info/gnd/"
                                          valueURI="http://d-nb.info/gnd/10132049-8">Wissenschaftliche Stadtbibliothek Mainz</mods:physicalLocation>
                   <mods:shelfLocator>Wissenschaftliche Stadtbibliothek Mainz : Hs I 475</mods:shelfLocator>
-               </mods:location>
-               <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=#bezlit[0].8330</mods:url>
                </mods:location>
                <mods:location>
                   <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=HSP-e059e9f2-cc48-3bd7-9db6-ac45bdf97027</mods:url>
@@ -5506,12 +5317,6 @@
                   <mods:physicalLocation authorityURI="http://d-nb.info/gnd/"
                                          valueURI="http://d-nb.info/gnd/10132049-8">Wissenschaftliche Stadtbibliothek Mainz</mods:physicalLocation>
                   <mods:shelfLocator>Wissenschaftliche Stadtbibliothek Mainz : Hs I 476</mods:shelfLocator>
-               </mods:location>
-               <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=#bezlit[0].8330</mods:url>
-               </mods:location>
-               <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=#bezlit[1].8330</mods:url>
                </mods:location>
                <mods:location>
                   <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=HSP-6aac790a-7c27-3b5c-a3de-3ec338151dfc</mods:url>
@@ -5669,12 +5474,6 @@
                   <mods:shelfLocator>Wissenschaftliche Stadtbibliothek Mainz : Hs I 479</mods:shelfLocator>
                </mods:location>
                <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=#bezlit[0].8330</mods:url>
-               </mods:location>
-               <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=#bezlit[1].8330</mods:url>
-               </mods:location>
-               <mods:location>
                   <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=HSP-239d18e4-0457-3b46-97fa-d4270098d9b6</mods:url>
                </mods:location>
                <mods:name type="personal"
@@ -5756,15 +5555,6 @@
                   <mods:physicalLocation authorityURI="http://d-nb.info/gnd/"
                                          valueURI="http://d-nb.info/gnd/10132049-8">Wissenschaftliche Stadtbibliothek Mainz</mods:physicalLocation>
                   <mods:shelfLocator>Wissenschaftliche Stadtbibliothek Mainz : Hs I 480</mods:shelfLocator>
-               </mods:location>
-               <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=#bezlit[0].8330</mods:url>
-               </mods:location>
-               <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=#bezlit[1].8330</mods:url>
-               </mods:location>
-               <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=#bezlit[2].8330</mods:url>
                </mods:location>
                <mods:location>
                   <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=HSP-7dbbd8b0-50a9-3cbf-88b0-3c966d835483</mods:url>
@@ -5854,18 +5644,6 @@
                   <mods:shelfLocator>Wissenschaftliche Stadtbibliothek Mainz : Hs I 481</mods:shelfLocator>
                </mods:location>
                <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=#bezlit[0].8330</mods:url>
-               </mods:location>
-               <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=#bezlit[2].8330</mods:url>
-               </mods:location>
-               <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=#bezlit[3].8330</mods:url>
-               </mods:location>
-               <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=#bezlit[4].8330</mods:url>
-               </mods:location>
-               <mods:location>
                   <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=HSP-914ce773-e5d4-31a6-bdae-b0ac49591dcf</mods:url>
                </mods:location>
                <mods:name type="personal"
@@ -5952,21 +5730,6 @@
                   <mods:shelfLocator>Wissenschaftliche Stadtbibliothek Mainz : Hs I 482</mods:shelfLocator>
                </mods:location>
                <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=#bezlit[0].8330</mods:url>
-               </mods:location>
-               <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=#bezlit[2].8330</mods:url>
-               </mods:location>
-               <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=#bezlit[3].8330</mods:url>
-               </mods:location>
-               <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=#bezlit[4].8330</mods:url>
-               </mods:location>
-               <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=#bezlit[5].8330</mods:url>
-               </mods:location>
-               <mods:location>
                   <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=HSP-c1a5c1a3-ece8-3ebf-aecc-e308a230302a</mods:url>
                </mods:location>
                <mods:name type="personal"
@@ -6039,21 +5802,6 @@
                   <mods:physicalLocation authorityURI="http://d-nb.info/gnd/"
                                          valueURI="http://d-nb.info/gnd/10132049-8">Wissenschaftliche Stadtbibliothek Mainz</mods:physicalLocation>
                   <mods:shelfLocator>Wissenschaftliche Stadtbibliothek Mainz : Hs I 483</mods:shelfLocator>
-               </mods:location>
-               <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=#bezlit[0].8330</mods:url>
-               </mods:location>
-               <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=#bezlit[2].8330</mods:url>
-               </mods:location>
-               <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=#bezlit[3].8330</mods:url>
-               </mods:location>
-               <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=#bezlit[4].8330</mods:url>
-               </mods:location>
-               <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=#bezlit[5].8330</mods:url>
                </mods:location>
                <mods:location>
                   <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=HSP-dab05e11-6bdb-30ef-9ad5-d659227cd8a9</mods:url>
@@ -6130,21 +5878,6 @@
                   <mods:shelfLocator>Wissenschaftliche Stadtbibliothek Mainz : Hs I 484</mods:shelfLocator>
                </mods:location>
                <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=#bezlit[0].8330</mods:url>
-               </mods:location>
-               <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=#bezlit[1].8330</mods:url>
-               </mods:location>
-               <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=#bezlit[2].8330</mods:url>
-               </mods:location>
-               <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=#bezlit[3].8330</mods:url>
-               </mods:location>
-               <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=#bezlit[4].8330</mods:url>
-               </mods:location>
-               <mods:location>
                   <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=HSP-df416a1f-c046-3779-88e4-5c97e07b21fd</mods:url>
                </mods:location>
                <mods:name type="personal"
@@ -6218,18 +5951,6 @@
                   <mods:shelfLocator>Wissenschaftliche Stadtbibliothek Mainz : Hs I 485a</mods:shelfLocator>
                </mods:location>
                <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=#bezlit[0].8330</mods:url>
-               </mods:location>
-               <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=#bezlit[1].8330</mods:url>
-               </mods:location>
-               <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=#bezlit[2].8330</mods:url>
-               </mods:location>
-               <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=#bezlit[3].8330</mods:url>
-               </mods:location>
-               <mods:location>
                   <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=HSP-48acbd90-0a0b-3b3f-88ef-88ce21d2a70e</mods:url>
                </mods:location>
                <mods:name type="personal"
@@ -6292,18 +6013,6 @@
                   <mods:physicalLocation authorityURI="http://d-nb.info/gnd/"
                                          valueURI="http://d-nb.info/gnd/10132049-8">Wissenschaftliche Stadtbibliothek Mainz</mods:physicalLocation>
                   <mods:shelfLocator>Wissenschaftliche Stadtbibliothek Mainz : Hs I 485b</mods:shelfLocator>
-               </mods:location>
-               <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=#bezlit[0].8330</mods:url>
-               </mods:location>
-               <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=#bezlit[1].8330</mods:url>
-               </mods:location>
-               <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=#bezlit[2].8330</mods:url>
-               </mods:location>
-               <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=#bezlit[5].8330</mods:url>
                </mods:location>
                <mods:location>
                   <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=HSP-7e904d5a-ee28-301f-abf7-b9a8238fb35b</mods:url>
@@ -6378,15 +6087,6 @@
                   <mods:physicalLocation authorityURI="http://d-nb.info/gnd/"
                                          valueURI="http://d-nb.info/gnd/10132049-8">Wissenschaftliche Stadtbibliothek Mainz</mods:physicalLocation>
                   <mods:shelfLocator>Wissenschaftliche Stadtbibliothek Mainz : Hs I 486</mods:shelfLocator>
-               </mods:location>
-               <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=#bezlit[0].8330</mods:url>
-               </mods:location>
-               <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=#bezlit[1].8330</mods:url>
-               </mods:location>
-               <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=#bezlit[2].8330</mods:url>
                </mods:location>
                <mods:location>
                   <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=HSP-edef30b6-e9f6-34ed-b9ea-9b0f19e797de</mods:url>
@@ -6547,15 +6247,6 @@
                   <mods:physicalLocation authorityURI="http://d-nb.info/gnd/"
                                          valueURI="http://d-nb.info/gnd/10132049-8">Wissenschaftliche Stadtbibliothek Mainz</mods:physicalLocation>
                   <mods:shelfLocator>Wissenschaftliche Stadtbibliothek Mainz : Hs I 487</mods:shelfLocator>
-               </mods:location>
-               <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=#bezlit[0].8330</mods:url>
-               </mods:location>
-               <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=#bezlit[1].8330</mods:url>
-               </mods:location>
-               <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=#bezlit[3].8330</mods:url>
                </mods:location>
                <mods:location>
                   <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=HSP-a8d41176-4c9e-357b-a659-ccd32490417b</mods:url>
@@ -6831,9 +6522,6 @@
                   <mods:shelfLocator>Wissenschaftliche Stadtbibliothek Mainz : Hs I 490</mods:shelfLocator>
                </mods:location>
                <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=#bezlit[0].8330</mods:url>
-               </mods:location>
-               <mods:location>
                   <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=HSP-c474ab85-6bc2-3670-83b0-48f3e3cf6fc8</mods:url>
                </mods:location>
                <mods:name type="personal"
@@ -6970,9 +6658,6 @@
                   <mods:shelfLocator>Wissenschaftliche Stadtbibliothek Mainz : Hs I 491</mods:shelfLocator>
                </mods:location>
                <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=#bezlit[0].8330</mods:url>
-               </mods:location>
-               <mods:location>
                   <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=HSP-3eac7a63-136b-3a83-87e5-098df4b13408</mods:url>
                </mods:location>
                <mods:name type="personal"
@@ -7032,12 +6717,6 @@
                   <mods:physicalLocation authorityURI="http://d-nb.info/gnd/"
                                          valueURI="http://d-nb.info/gnd/10132049-8">Wissenschaftliche Stadtbibliothek Mainz</mods:physicalLocation>
                   <mods:shelfLocator>Wissenschaftliche Stadtbibliothek Mainz : Hs I 492</mods:shelfLocator>
-               </mods:location>
-               <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=#bezlit[1].8330</mods:url>
-               </mods:location>
-               <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=#bezlit[1].8334</mods:url>
                </mods:location>
                <mods:location>
                   <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=HSP-c9e85d4f-f973-37cc-9b9f-4eeb28729e84</mods:url>
@@ -7114,15 +6793,6 @@
                   <mods:shelfLocator>Wissenschaftliche Stadtbibliothek Mainz : Hs I 493a</mods:shelfLocator>
                </mods:location>
                <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=#bezlit[0].8330</mods:url>
-               </mods:location>
-               <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=#bezlit[1].8330</mods:url>
-               </mods:location>
-               <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=#bezlit[2].8330</mods:url>
-               </mods:location>
-               <mods:location>
                   <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=HSP-9c5d3eb4-d7c2-3f60-a6ca-22cd2af11766</mods:url>
                </mods:location>
                <mods:name type="personal" authorityURI="http://d-nb.info/gnd/" valueURI="">
@@ -7190,15 +6860,6 @@
                   <mods:physicalLocation authorityURI="http://d-nb.info/gnd/"
                                          valueURI="http://d-nb.info/gnd/10132049-8">Wissenschaftliche Stadtbibliothek Mainz</mods:physicalLocation>
                   <mods:shelfLocator>Wissenschaftliche Stadtbibliothek Mainz : Hs I 493b</mods:shelfLocator>
-               </mods:location>
-               <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=#bezlit[0].8330</mods:url>
-               </mods:location>
-               <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=#bezlit[1].8330</mods:url>
-               </mods:location>
-               <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=#bezlit[2].8330</mods:url>
                </mods:location>
                <mods:location>
                   <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=HSP-012e2e4b-1c36-3629-b23c-b85418ba6757</mods:url>
@@ -7270,12 +6931,6 @@
                   <mods:shelfLocator>Wissenschaftliche Stadtbibliothek Mainz : Hs I 494</mods:shelfLocator>
                </mods:location>
                <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=#bezlit[1].8330</mods:url>
-               </mods:location>
-               <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=#bezlit[1].8334</mods:url>
-               </mods:location>
-               <mods:location>
                   <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=HSP-b89379e8-5485-3a14-a416-032c61e8bdae</mods:url>
                </mods:location>
                <mods:name type="personal" authorityURI="http://d-nb.info/gnd/" valueURI="">
@@ -7338,12 +6993,6 @@
                   <mods:physicalLocation authorityURI="http://d-nb.info/gnd/"
                                          valueURI="http://d-nb.info/gnd/10132049-8">Wissenschaftliche Stadtbibliothek Mainz</mods:physicalLocation>
                   <mods:shelfLocator>Wissenschaftliche Stadtbibliothek Mainz : Hs I 495</mods:shelfLocator>
-               </mods:location>
-               <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=#bezlit[1].8330</mods:url>
-               </mods:location>
-               <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=#bezlit[1].8334</mods:url>
                </mods:location>
                <mods:location>
                   <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=HSP-f66013fc-af21-3c12-b792-2a126f5a76fc</mods:url>
@@ -7409,9 +7058,6 @@
                   <mods:physicalLocation authorityURI="http://d-nb.info/gnd/"
                                          valueURI="http://d-nb.info/gnd/10132049-8">Wissenschaftliche Stadtbibliothek Mainz</mods:physicalLocation>
                   <mods:shelfLocator>Wissenschaftliche Stadtbibliothek Mainz : Hs I 496</mods:shelfLocator>
-               </mods:location>
-               <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=#bezlit[1].8330</mods:url>
                </mods:location>
                <mods:location>
                   <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=HSP-da83fa24-5edd-37d4-a98a-fe9e74705fe9</mods:url>
@@ -7490,18 +7136,6 @@
                   <mods:physicalLocation authorityURI="http://d-nb.info/gnd/"
                                          valueURI="http://d-nb.info/gnd/10132049-8">Wissenschaftliche Stadtbibliothek Mainz</mods:physicalLocation>
                   <mods:shelfLocator>Wissenschaftliche Stadtbibliothek Mainz : Hs I 497</mods:shelfLocator>
-               </mods:location>
-               <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=#bezlit[1].8330</mods:url>
-               </mods:location>
-               <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=#bezlit[1].8334</mods:url>
-               </mods:location>
-               <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=#bezlit[2].8330</mods:url>
-               </mods:location>
-               <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=#bezlit[3].8330</mods:url>
                </mods:location>
                <mods:location>
                   <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=HSP-3bcc41e2-64c6-35d0-8ab2-67d9834572ab</mods:url>
@@ -7695,9 +7329,6 @@
                   <mods:shelfLocator>Wissenschaftliche Stadtbibliothek Mainz : Hs I 500</mods:shelfLocator>
                </mods:location>
                <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=#bezlit[0].8330</mods:url>
-               </mods:location>
-               <mods:location>
                   <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=HSP-ac548db6-3a83-3d99-8336-355f6f63a911</mods:url>
                </mods:location>
                <mods:name type="personal"
@@ -7767,9 +7398,6 @@
                   <mods:shelfLocator>Wissenschaftliche Stadtbibliothek Mainz : Hs I 501</mods:shelfLocator>
                </mods:location>
                <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=#bezlit[0].8330</mods:url>
-               </mods:location>
-               <mods:location>
                   <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=HSP-f74c8be7-ab51-3394-b07d-e54050ff0a66</mods:url>
                </mods:location>
                <mods:originInfo>
@@ -7820,9 +7448,6 @@
                <mods:location>
                   <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=HSP-ea314f34-9a8a-3fda-be79-646e7af4cb4a</mods:url>
                </mods:location>
-               <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=http://manuscripts.rg.mpg.de/manuscript/5001/</mods:url>
-               </mods:location>
                <mods:originInfo>
                   <mods:dateIssued/>
                   <mods:dateIssued encoding="w3cdtf" point="end"/>
@@ -7863,12 +7488,6 @@
                   <mods:physicalLocation authorityURI="http://d-nb.info/gnd/"
                                          valueURI="http://d-nb.info/gnd/10132049-8">Wissenschaftliche Stadtbibliothek Mainz</mods:physicalLocation>
                   <mods:shelfLocator>Wissenschaftliche Stadtbibliothek Mainz : Hs I 503</mods:shelfLocator>
-               </mods:location>
-               <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=#bezlit[0].8330</mods:url>
-               </mods:location>
-               <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=#bezlit[1].8330</mods:url>
                </mods:location>
                <mods:location>
                   <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=HSP-33d0875b-1097-3d8a-844d-d0c4550ad8a4</mods:url>
@@ -7932,16 +7551,7 @@
                   <mods:shelfLocator>Wissenschaftliche Stadtbibliothek Mainz : Hs I 504</mods:shelfLocator>
                </mods:location>
                <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=#bezlit[0].8330</mods:url>
-               </mods:location>
-               <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=#bezlit[1].8330</mods:url>
-               </mods:location>
-               <mods:location>
                   <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=HSP-686dfbf6-5ce7-3e52-99a6-040401107e9b</mods:url>
-               </mods:location>
-               <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=http://manuscripts.rg.mpg.de/manuscript/5002/</mods:url>
                </mods:location>
                <mods:name type="personal"
                           authorityURI="http://d-nb.info/gnd/"
@@ -8089,12 +7699,6 @@
                   <mods:shelfLocator>Wissenschaftliche Stadtbibliothek Mainz : Hs I 505</mods:shelfLocator>
                </mods:location>
                <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=#bezlit[1].8330</mods:url>
-               </mods:location>
-               <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=#bezlit[2].8330</mods:url>
-               </mods:location>
-               <mods:location>
                   <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=HSP-6e79ea85-ee68-37b8-a831-ae8a8587a135</mods:url>
                </mods:location>
                <mods:name type="personal"
@@ -8209,12 +7813,6 @@
                   <mods:physicalLocation authorityURI="http://d-nb.info/gnd/"
                                          valueURI="http://d-nb.info/gnd/10132049-8">Wissenschaftliche Stadtbibliothek Mainz</mods:physicalLocation>
                   <mods:shelfLocator>Wissenschaftliche Stadtbibliothek Mainz : Hs I 507</mods:shelfLocator>
-               </mods:location>
-               <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=#bezlit[1].8330</mods:url>
-               </mods:location>
-               <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=#bezlit[1].8334</mods:url>
                </mods:location>
                <mods:location>
                   <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=HSP-bb37b96b-27a5-3c54-9b1f-89bc699203ac</mods:url>
@@ -8347,15 +7945,6 @@
                   <mods:shelfLocator>Wissenschaftliche Stadtbibliothek Mainz : Hs I 509</mods:shelfLocator>
                </mods:location>
                <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=#bezlit[1].8330</mods:url>
-               </mods:location>
-               <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=#bezlit[2].8330</mods:url>
-               </mods:location>
-               <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=#bezlit[3].8330</mods:url>
-               </mods:location>
-               <mods:location>
                   <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=HSP-de185155-fb6b-335a-a9bb-935f6e6fb049</mods:url>
                </mods:location>
                <mods:name type="personal"
@@ -8460,9 +8049,6 @@
                <mods:location>
                   <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=HSP-1544b594-0d10-3730-a001-4bbd93bab807</mods:url>
                </mods:location>
-               <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=http://www.handschriftencensus.de/25560</mods:url>
-               </mods:location>
                <mods:originInfo>
                   <mods:dateIssued>1445</mods:dateIssued>
                   <mods:dateIssued encoding="w3cdtf" point="end">1445</mods:dateIssued>
@@ -8518,13 +8104,7 @@
                   <mods:shelfLocator>Wissenschaftliche Stadtbibliothek Mainz : Hs I 514</mods:shelfLocator>
                </mods:location>
                <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=#bezlit[2].8330</mods:url>
-               </mods:location>
-               <mods:location>
                   <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=HSP-5470d35b-0214-35d0-9a63-83e12bb84ee6</mods:url>
-               </mods:location>
-               <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=http://www.handschriftencensus.de/24627</mods:url>
                </mods:location>
                <mods:originInfo>
                   <mods:dateIssued>15. Jh.</mods:dateIssued>
@@ -8602,13 +8182,7 @@
                   <mods:shelfLocator>Wissenschaftliche Stadtbibliothek Mainz : Hs I 533</mods:shelfLocator>
                </mods:location>
                <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=#bezlit[0].8330</mods:url>
-               </mods:location>
-               <mods:location>
                   <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=HSP-29922557-5f6e-3b85-86bb-7dacda8ffa13</mods:url>
-               </mods:location>
-               <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=http://archiv.ub.uni-heidelberg.de/artdok/volltexte/2021/7478</mods:url>
                </mods:location>
                <mods:originInfo>
                   <mods:dateIssued>1514</mods:dateIssued>
@@ -8693,9 +8267,6 @@
                   <mods:shelfLocator>Wissenschaftliche Stadtbibliothek Mainz : Hs I 583</mods:shelfLocator>
                </mods:location>
                <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=#bezlit[1].8330</mods:url>
-               </mods:location>
-               <mods:location>
                   <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=HSP-44238d9b-60c7-3972-9d03-d43e6b94b46e</mods:url>
                </mods:location>
                <mods:originInfo>
@@ -8751,9 +8322,6 @@
                   <mods:physicalLocation authorityURI="http://d-nb.info/gnd/"
                                          valueURI="http://d-nb.info/gnd/10132049-8">Wissenschaftliche Stadtbibliothek Mainz</mods:physicalLocation>
                   <mods:shelfLocator>Wissenschaftliche Stadtbibliothek Mainz : Hs I 584</mods:shelfLocator>
-               </mods:location>
-               <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=#bezlit[0].8330</mods:url>
                </mods:location>
                <mods:location>
                   <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=HSP-16fe6927-423f-37bd-8f30-852b6d3c8b19</mods:url>
@@ -8820,9 +8388,6 @@
                   <mods:physicalLocation authorityURI="http://d-nb.info/gnd/"
                                          valueURI="http://d-nb.info/gnd/10132049-8">Wissenschaftliche Stadtbibliothek Mainz</mods:physicalLocation>
                   <mods:shelfLocator>Wissenschaftliche Stadtbibliothek Mainz : Hs I 635</mods:shelfLocator>
-               </mods:location>
-               <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=#bezlit[0].8330</mods:url>
                </mods:location>
                <mods:location>
                   <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=HSP-d2852042-c3dc-3fe2-8d2b-ce2eb62d615e</mods:url>
@@ -8924,15 +8489,6 @@
                   <mods:shelfLocator>Wissenschaftliche Stadtbibliothek Mainz : Hs II 1</mods:shelfLocator>
                </mods:location>
                <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=#bezlit[0].8330</mods:url>
-               </mods:location>
-               <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=#bezlit[1].8330</mods:url>
-               </mods:location>
-               <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=#bezlit[2].8330</mods:url>
-               </mods:location>
-               <mods:location>
                   <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=HSP-c4685778-3319-3444-ab47-ad0a02e2fee5</mods:url>
                </mods:location>
                <mods:originInfo>
@@ -8999,9 +8555,6 @@
                   <mods:physicalLocation authorityURI="http://d-nb.info/gnd/"
                                          valueURI="http://d-nb.info/gnd/10132049-8">Wissenschaftliche Stadtbibliothek Mainz</mods:physicalLocation>
                   <mods:shelfLocator>Wissenschaftliche Stadtbibliothek Mainz : Hs II 2</mods:shelfLocator>
-               </mods:location>
-               <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=#bezlit[5].8330</mods:url>
                </mods:location>
                <mods:location>
                   <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=HSP-a733fb0e-74ed-3226-b52c-73f2cb2dbd2f</mods:url>
@@ -9087,25 +8640,7 @@
                   <mods:shelfLocator>Wissenschaftliche Stadtbibliothek Mainz : Hs II 3</mods:shelfLocator>
                </mods:location>
                <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=#bezlit[0].8330</mods:url>
-               </mods:location>
-               <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=#bezlit[3].8330</mods:url>
-               </mods:location>
-               <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=#bezlit[4].8330</mods:url>
-               </mods:location>
-               <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=#bezlit[5].8330</mods:url>
-               </mods:location>
-               <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=#bezlit[6].8330</mods:url>
-               </mods:location>
-               <mods:location>
                   <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=HSP-b1c590d7-2755-3172-8a64-b816ad2db223</mods:url>
-               </mods:location>
-               <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=http://www.handschriftencensus.de/3372</mods:url>
                </mods:location>
                <mods:name type="personal"
                           authorityURI="http://d-nb.info/gnd/"
@@ -9320,9 +8855,6 @@
                   <mods:physicalLocation authorityURI="http://d-nb.info/gnd/"
                                          valueURI="http://d-nb.info/gnd/10132049-8">Wissenschaftliche Stadtbibliothek Mainz</mods:physicalLocation>
                   <mods:shelfLocator>Wissenschaftliche Stadtbibliothek Mainz : Hs II 7</mods:shelfLocator>
-               </mods:location>
-               <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=#bezlit[0].8330</mods:url>
                </mods:location>
                <mods:location>
                   <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=HSP-5e186e0c-a45b-313c-bf51-0c4b6b77d190</mods:url>
@@ -9646,15 +9178,6 @@
                   <mods:shelfLocator>Wissenschaftliche Stadtbibliothek Mainz : Hs II 12</mods:shelfLocator>
                </mods:location>
                <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=#bezlit[0].8330</mods:url>
-               </mods:location>
-               <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=#bezlit[1].8330</mods:url>
-               </mods:location>
-               <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=#bezlit[2].8330</mods:url>
-               </mods:location>
-               <mods:location>
                   <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=HSP-c0b4cf54-8163-389e-b359-46305ca20441</mods:url>
                </mods:location>
                <mods:name type="personal"
@@ -9814,9 +9337,6 @@
                <mods:location>
                   <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=HSP-195768c5-e4a0-3831-a80d-17fc973663d1</mods:url>
                </mods:location>
-               <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=http://www.handschriftencensus.de/werke/654</mods:url>
-               </mods:location>
                <mods:name type="personal"
                           authorityURI="http://d-nb.info/gnd/"
                           valueURI="https://d-nb.info/gnd/10257474x">
@@ -9880,16 +9400,7 @@
                   <mods:shelfLocator>Wissenschaftliche Stadtbibliothek Mainz : Hs II 16</mods:shelfLocator>
                </mods:location>
                <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=#bezlit[0].8330</mods:url>
-               </mods:location>
-               <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=#bezlit[1].8330</mods:url>
-               </mods:location>
-               <mods:location>
                   <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=HSP-fbcd1282-5bca-36aa-bb0e-86bf9ec05d4e</mods:url>
-               </mods:location>
-               <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=http://www.handschriftencensus.de/4167</mods:url>
                </mods:location>
                <mods:name type="personal"
                           authorityURI="http://d-nb.info/gnd/"
@@ -9977,9 +9488,6 @@
                <mods:location>
                   <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=HSP-e2fa96ae-fa76-3256-90d8-462c13bc78d4</mods:url>
                </mods:location>
-               <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=https://handschriftencensus.de/26099</mods:url>
-               </mods:location>
                <mods:originInfo>
                   <mods:dateIssued>15. Jh., 1. Hälfte</mods:dateIssued>
                   <mods:dateIssued encoding="w3cdtf" point="end">1450</mods:dateIssued>
@@ -10031,12 +9539,6 @@
                   <mods:physicalLocation authorityURI="http://d-nb.info/gnd/"
                                          valueURI="http://d-nb.info/gnd/10132049-8">Wissenschaftliche Stadtbibliothek Mainz</mods:physicalLocation>
                   <mods:shelfLocator>Wissenschaftliche Stadtbibliothek Mainz : Hs II 18</mods:shelfLocator>
-               </mods:location>
-               <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=#bezlit[0].8330</mods:url>
-               </mods:location>
-               <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=#bezlit[1].8330</mods:url>
                </mods:location>
                <mods:location>
                   <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=HSP-ab99f690-0c6e-3bcd-8460-a1dbe2456368</mods:url>
@@ -10191,9 +9693,6 @@
                   <mods:shelfLocator>Wissenschaftliche Stadtbibliothek Mainz : Hs II 20</mods:shelfLocator>
                </mods:location>
                <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=#bezlit[0].8330</mods:url>
-               </mods:location>
-               <mods:location>
                   <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=HSP-e67414c2-409d-30d9-bcf7-fdb09c72d66d</mods:url>
                </mods:location>
                <mods:name type="personal"
@@ -10268,9 +9767,6 @@
                <mods:location>
                   <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=HSP-893f0b18-d647-33d6-97d4-14dbf13a6b39</mods:url>
                </mods:location>
-               <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=http://manuscripts.rg.mpg.de/manuscript/5003/</mods:url>
-               </mods:location>
                <mods:originInfo>
                   <mods:dateIssued>15. Jh., 2. Hälfte</mods:dateIssued>
                   <mods:dateIssued encoding="w3cdtf" point="end">1500</mods:dateIssued>
@@ -10327,9 +9823,6 @@
                </mods:location>
                <mods:location>
                   <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=HSP-d46aa099-e110-3a4a-bc25-37d382426449</mods:url>
-               </mods:location>
-               <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=http://manuscripts.rg.mpg.de/manuscript/5004/</mods:url>
                </mods:location>
                <mods:name type="personal"
                           authorityURI="http://d-nb.info/gnd/"
@@ -10411,9 +9904,6 @@
                   <mods:shelfLocator>Wissenschaftliche Stadtbibliothek Mainz : Hs II 23</mods:shelfLocator>
                </mods:location>
                <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=#bezlit[0].8330</mods:url>
-               </mods:location>
-               <mods:location>
                   <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=HSP-d9038c05-7f23-36b7-8211-cd675d7aec5d</mods:url>
                </mods:location>
                <mods:name type="personal"
@@ -10489,9 +9979,6 @@
                   <mods:shelfLocator>Wissenschaftliche Stadtbibliothek Mainz : Hs II 24</mods:shelfLocator>
                </mods:location>
                <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=#bezlit[0].8330</mods:url>
-               </mods:location>
-               <mods:location>
                   <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=HSP-92e79f05-ffb3-3aaa-b178-7bdcc89257b2</mods:url>
                </mods:location>
                <mods:name type="personal"
@@ -10557,9 +10044,6 @@
                   <mods:physicalLocation authorityURI="http://d-nb.info/gnd/"
                                          valueURI="http://d-nb.info/gnd/10132049-8">Wissenschaftliche Stadtbibliothek Mainz</mods:physicalLocation>
                   <mods:shelfLocator>Wissenschaftliche Stadtbibliothek Mainz : Hs II 25</mods:shelfLocator>
-               </mods:location>
-               <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=#bezlit[0].8330</mods:url>
                </mods:location>
                <mods:location>
                   <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=HSP-15a242e0-20f5-314f-9ae9-4c472feac16d</mods:url>
@@ -10744,9 +10228,6 @@
                   <mods:physicalLocation authorityURI="http://d-nb.info/gnd/"
                                          valueURI="http://d-nb.info/gnd/10132049-8">Wissenschaftliche Stadtbibliothek Mainz</mods:physicalLocation>
                   <mods:shelfLocator>Wissenschaftliche Stadtbibliothek Mainz : Hs II 26</mods:shelfLocator>
-               </mods:location>
-               <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=#bezlit[0].8330</mods:url>
                </mods:location>
                <mods:location>
                   <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=HSP-cfb83aaf-9068-3b1c-8a61-62b58a1fc01f</mods:url>
@@ -11016,9 +10497,6 @@
                   <mods:shelfLocator>Wissenschaftliche Stadtbibliothek Mainz : Hs II 27</mods:shelfLocator>
                </mods:location>
                <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=#bezlit[0].8330</mods:url>
-               </mods:location>
-               <mods:location>
                   <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=HSP-bbf48f69-c2aa-35ad-befe-7d615809fbc5</mods:url>
                </mods:location>
                <mods:name type="personal"
@@ -11177,12 +10655,6 @@
                   <mods:shelfLocator>Wissenschaftliche Stadtbibliothek Mainz : Hs II 28</mods:shelfLocator>
                </mods:location>
                <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=#bezlit[0].8330</mods:url>
-               </mods:location>
-               <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=#bezlit[1].8330</mods:url>
-               </mods:location>
-               <mods:location>
                   <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=HSP-637d4959-57b3-37f9-a8d6-40ce3088cb9e</mods:url>
                </mods:location>
                <mods:name type="personal"
@@ -11240,9 +10712,6 @@
                   <mods:physicalLocation authorityURI="http://d-nb.info/gnd/"
                                          valueURI="http://d-nb.info/gnd/10132049-8">Wissenschaftliche Stadtbibliothek Mainz</mods:physicalLocation>
                   <mods:shelfLocator>Wissenschaftliche Stadtbibliothek Mainz : Hs II 30</mods:shelfLocator>
-               </mods:location>
-               <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=#bezlit[0].8330</mods:url>
                </mods:location>
                <mods:location>
                   <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=HSP-c8d5b833-158b-39b7-a31e-2df30707d15a</mods:url>
@@ -11304,9 +10773,6 @@
                   <mods:shelfLocator>Wissenschaftliche Stadtbibliothek Mainz : Hs II 33</mods:shelfLocator>
                </mods:location>
                <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=#bezlit[0].8330</mods:url>
-               </mods:location>
-               <mods:location>
                   <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=HSP-d3e62a62-af2e-3517-9628-e878372885e4</mods:url>
                </mods:location>
                <mods:name type="personal"
@@ -11361,9 +10827,6 @@
                   <mods:physicalLocation authorityURI="http://d-nb.info/gnd/"
                                          valueURI="http://d-nb.info/gnd/10132049-8">Wissenschaftliche Stadtbibliothek Mainz</mods:physicalLocation>
                   <mods:shelfLocator>Wissenschaftliche Stadtbibliothek Mainz : Hs II 34</mods:shelfLocator>
-               </mods:location>
-               <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=#bezlit[0].8330</mods:url>
                </mods:location>
                <mods:location>
                   <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=HSP-2811269a-c9d1-3356-a897-3f2a21ea045a</mods:url>
@@ -11421,9 +10884,6 @@
                   <mods:physicalLocation authorityURI="http://d-nb.info/gnd/"
                                          valueURI="http://d-nb.info/gnd/10132049-8">Wissenschaftliche Stadtbibliothek Mainz</mods:physicalLocation>
                   <mods:shelfLocator>Wissenschaftliche Stadtbibliothek Mainz : Hs II 35</mods:shelfLocator>
-               </mods:location>
-               <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=#bezlit[0].8330</mods:url>
                </mods:location>
                <mods:location>
                   <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=HSP-ee8b4a89-5917-39bf-a75a-22c5bc2da6a1</mods:url>
@@ -11498,9 +10958,6 @@
                   <mods:physicalLocation authorityURI="http://d-nb.info/gnd/"
                                          valueURI="http://d-nb.info/gnd/10132049-8">Wissenschaftliche Stadtbibliothek Mainz</mods:physicalLocation>
                   <mods:shelfLocator>Wissenschaftliche Stadtbibliothek Mainz : Hs II 37</mods:shelfLocator>
-               </mods:location>
-               <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=#bezlit[0].8330</mods:url>
                </mods:location>
                <mods:location>
                   <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=HSP-d0832b50-58fc-3f83-b9a4-77b9bf9cce23</mods:url>
@@ -11682,9 +11139,6 @@
                <mods:location>
                   <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=HSP-df05cb2f-bf44-337f-862d-3b4903d41488</mods:url>
                </mods:location>
-               <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=http://manuscripts.rg.mpg.de/manuscript/5005/.-</mods:url>
-               </mods:location>
                <mods:name type="personal"
                           authorityURI="http://d-nb.info/gnd/"
                           valueURI="https://d-nb.info/gnd/118513257">
@@ -11771,16 +11225,7 @@
                   <mods:shelfLocator>Wissenschaftliche Stadtbibliothek Mainz : Hs II 39</mods:shelfLocator>
                </mods:location>
                <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=#bezlit[0].8330</mods:url>
-               </mods:location>
-               <mods:location>
                   <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=HSP-4605c28d-0b20-3bfa-b83f-fda43572589b</mods:url>
-               </mods:location>
-               <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=https://www.uni-marburg.de/de/fb06/forschung/web-publikationen/mittelalterliche-geschichte/kanzleiregeln</mods:url>
-               </mods:location>
-               <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=https://www.uni-marburg.de/de/fb06/mag/institut/prof-dr-andreas-meyer/kanzleiregeldateien</mods:url>
                </mods:location>
                <mods:name type="personal"
                           authorityURI="http://d-nb.info/gnd/"
@@ -12028,9 +11473,6 @@
                   <mods:shelfLocator>Wissenschaftliche Stadtbibliothek Mainz : Hs II 41</mods:shelfLocator>
                </mods:location>
                <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=#bezlit[0].8330</mods:url>
-               </mods:location>
-               <mods:location>
                   <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=HSP-6a8b69b5-68e3-3be2-889d-a2abd9581e14</mods:url>
                </mods:location>
                <mods:name type="personal"
@@ -12201,9 +11643,6 @@
                   <mods:shelfLocator>Wissenschaftliche Stadtbibliothek Mainz : Hs II 60</mods:shelfLocator>
                </mods:location>
                <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=#bezlit[0].8330</mods:url>
-               </mods:location>
-               <mods:location>
                   <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=HSP-42ded1e1-23a8-3c2a-9ad4-d2492db00cca</mods:url>
                </mods:location>
                <mods:name type="personal"
@@ -12260,13 +11699,7 @@
                   <mods:shelfLocator>Wissenschaftliche Stadtbibliothek Mainz : Hs II 61</mods:shelfLocator>
                </mods:location>
                <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=#bezlit[1].8330</mods:url>
-               </mods:location>
-               <mods:location>
                   <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=HSP-32828bcc-6e59-37e1-ad61-84b83bcd3d60</mods:url>
-               </mods:location>
-               <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=http://ubm.opus.hbz-nrw.de/volltexte/2011/2828/</mods:url>
                </mods:location>
                <mods:originInfo>
                   <mods:dateIssued>15. Jh., Mitte</mods:dateIssued>
@@ -12325,22 +11758,7 @@
                   <mods:shelfLocator>Wissenschaftliche Stadtbibliothek Mainz : Hs II 64</mods:shelfLocator>
                </mods:location>
                <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=#bezlit[0].8330</mods:url>
-               </mods:location>
-               <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=#bezlit[1].8330</mods:url>
-               </mods:location>
-               <mods:location>
                   <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=HSP-97de9858-29ce-3b42-ae38-a4260a7e3088</mods:url>
-               </mods:location>
-               <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=http://wirote.informatik.uni-leipzig.de/mediavistik/handschrift/75</mods:url>
-               </mods:location>
-               <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=http://wirote.informatik.uni-leipzig.de/mediavistik/schreiber/</mods:url>
-               </mods:location>
-               <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=https://handschriftencensus.de/3380</mods:url>
                </mods:location>
                <mods:name type="personal"
                           authorityURI="http://d-nb.info/gnd/"
@@ -12412,9 +11830,6 @@
                   <mods:physicalLocation authorityURI="http://d-nb.info/gnd/"
                                          valueURI="http://d-nb.info/gnd/10132049-8">Wissenschaftliche Stadtbibliothek Mainz</mods:physicalLocation>
                   <mods:shelfLocator>Wissenschaftliche Stadtbibliothek Mainz : Hs II 65</mods:shelfLocator>
-               </mods:location>
-               <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=#bezlit[0].8330</mods:url>
                </mods:location>
                <mods:location>
                   <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=HSP-cd51f672-0979-3b4a-918f-3a0f8a584238</mods:url>
@@ -12498,12 +11913,6 @@
                   <mods:shelfLocator>Wissenschaftliche Stadtbibliothek Mainz : Hs II 67</mods:shelfLocator>
                </mods:location>
                <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=#bezlit[1].8330</mods:url>
-               </mods:location>
-               <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=#bezlit[2].8330</mods:url>
-               </mods:location>
-               <mods:location>
                   <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=HSP-9a152e7b-0e52-3ddf-a6fe-84693dc60873</mods:url>
                </mods:location>
                <mods:originInfo>
@@ -12557,9 +11966,6 @@
                   <mods:shelfLocator>Wissenschaftliche Stadtbibliothek Mainz : Hs II 69</mods:shelfLocator>
                </mods:location>
                <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=#bezlit[1].8330</mods:url>
-               </mods:location>
-               <mods:location>
                   <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=HSP-89456d6e-0c21-3da4-adce-7533d13d62b6</mods:url>
                </mods:location>
                <mods:originInfo>
@@ -12610,9 +12016,6 @@
                   <mods:shelfLocator>Wissenschaftliche Stadtbibliothek Mainz : Hs II 69 a</mods:shelfLocator>
                </mods:location>
                <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=#bezlit[1].8330</mods:url>
-               </mods:location>
-               <mods:location>
                   <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=HSP-4109f82e-7334-3548-b7ac-bc33b2632d84</mods:url>
                </mods:location>
                <mods:originInfo>
@@ -12661,9 +12064,6 @@
                   <mods:physicalLocation authorityURI="http://d-nb.info/gnd/"
                                          valueURI="http://d-nb.info/gnd/10132049-8">Wissenschaftliche Stadtbibliothek Mainz</mods:physicalLocation>
                   <mods:shelfLocator>Wissenschaftliche Stadtbibliothek Mainz : Hs II 70</mods:shelfLocator>
-               </mods:location>
-               <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=#bezlit[0].8330</mods:url>
                </mods:location>
                <mods:location>
                   <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=HSP-d2492f9b-fdd2-3ecf-9ec1-d7d1d67e66f2</mods:url>
@@ -12838,9 +12238,6 @@
                   <mods:physicalLocation authorityURI="http://d-nb.info/gnd/"
                                          valueURI="http://d-nb.info/gnd/10132049-8">Wissenschaftliche Stadtbibliothek Mainz</mods:physicalLocation>
                   <mods:shelfLocator>Wissenschaftliche Stadtbibliothek Mainz : Hs II 74</mods:shelfLocator>
-               </mods:location>
-               <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=#bezlit[0].8330</mods:url>
                </mods:location>
                <mods:location>
                   <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=HSP-7b40cb9c-8593-3c5b-b6d7-27fff2708051</mods:url>
@@ -13075,9 +12472,6 @@
                   <mods:shelfLocator>Wissenschaftliche Stadtbibliothek Mainz : Hs II 83</mods:shelfLocator>
                </mods:location>
                <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=#bezlit[0].8330</mods:url>
-               </mods:location>
-               <mods:location>
                   <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=HSP-e6834faf-f58e-38ca-a6cb-bd1c9cb53819</mods:url>
                </mods:location>
                <mods:name type="personal"
@@ -13194,9 +12588,6 @@
                   <mods:shelfLocator>Wissenschaftliche Stadtbibliothek Mainz : Hs II 85</mods:shelfLocator>
                </mods:location>
                <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=#bezlit[0].8330</mods:url>
-               </mods:location>
-               <mods:location>
                   <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=HSP-fe16aa2d-9455-349e-ac71-cfd134cbc351</mods:url>
                </mods:location>
                <mods:name type="personal"
@@ -13251,9 +12642,6 @@
                   <mods:physicalLocation authorityURI="http://d-nb.info/gnd/"
                                          valueURI="http://d-nb.info/gnd/10132049-8">Wissenschaftliche Stadtbibliothek Mainz</mods:physicalLocation>
                   <mods:shelfLocator>Wissenschaftliche Stadtbibliothek Mainz : Hs II 86</mods:shelfLocator>
-               </mods:location>
-               <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=#bezlit[0].8330</mods:url>
                </mods:location>
                <mods:location>
                   <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=HSP-fd374870-e124-390a-a256-97fcdad56e55</mods:url>
@@ -13317,9 +12705,6 @@
                   <mods:physicalLocation authorityURI="http://d-nb.info/gnd/"
                                          valueURI="http://d-nb.info/gnd/10132049-8">Wissenschaftliche Stadtbibliothek Mainz</mods:physicalLocation>
                   <mods:shelfLocator>Wissenschaftliche Stadtbibliothek Mainz : Hs II 87</mods:shelfLocator>
-               </mods:location>
-               <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=#bezlit[0].8330</mods:url>
                </mods:location>
                <mods:location>
                   <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=HSP-54c0fb55-3195-3344-b104-d7af7a990e63</mods:url>
@@ -13457,13 +12842,7 @@
                   <mods:shelfLocator>Wissenschaftliche Stadtbibliothek Mainz : Hs II 88</mods:shelfLocator>
                </mods:location>
                <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=#bezlit[0].8330</mods:url>
-               </mods:location>
-               <mods:location>
                   <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=HSP-1323e458-fd76-3cbc-a5cd-f918292a4961</mods:url>
-               </mods:location>
-               <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=http://www.ub.edu/llulldb/ms.asp?962</mods:url>
                </mods:location>
                <mods:name type="personal"
                           authorityURI="http://d-nb.info/gnd/"
@@ -13581,9 +12960,6 @@
                   <mods:physicalLocation authorityURI="http://d-nb.info/gnd/"
                                          valueURI="http://d-nb.info/gnd/10132049-8">Wissenschaftliche Stadtbibliothek Mainz</mods:physicalLocation>
                   <mods:shelfLocator>Wissenschaftliche Stadtbibliothek Mainz : Hs II 91</mods:shelfLocator>
-               </mods:location>
-               <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=#bezlit[0].8330</mods:url>
                </mods:location>
                <mods:location>
                   <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=HSP-b1ae74bf-9203-34d8-8740-5303c4d6f10a</mods:url>
@@ -13940,9 +13316,6 @@
                   <mods:shelfLocator>Wissenschaftliche Stadtbibliothek Mainz : Hs II 94</mods:shelfLocator>
                </mods:location>
                <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=#bezlit[0].8330</mods:url>
-               </mods:location>
-               <mods:location>
                   <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=HSP-846fa386-350b-381a-a992-8267d6f4ab3f</mods:url>
                </mods:location>
                <mods:name type="personal"
@@ -14062,9 +13435,6 @@
                   <mods:physicalLocation authorityURI="http://d-nb.info/gnd/"
                                          valueURI="http://d-nb.info/gnd/10132049-8">Wissenschaftliche Stadtbibliothek Mainz</mods:physicalLocation>
                   <mods:shelfLocator>Wissenschaftliche Stadtbibliothek Mainz : Hs II 99</mods:shelfLocator>
-               </mods:location>
-               <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=#bezlit[0].8330</mods:url>
                </mods:location>
                <mods:location>
                   <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=HSP-a47c7dae-c8ca-32b2-8954-60f2a9756c73</mods:url>
@@ -14274,9 +13644,6 @@
                   <mods:shelfLocator>Wissenschaftliche Stadtbibliothek Mainz : Hs II 100</mods:shelfLocator>
                </mods:location>
                <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=#bezlit[0].8330</mods:url>
-               </mods:location>
-               <mods:location>
                   <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=HSP-0612344e-452b-3e05-9411-d95121877cbe</mods:url>
                </mods:location>
                <mods:name type="personal"
@@ -14474,9 +13841,6 @@
                   <mods:shelfLocator>Wissenschaftliche Stadtbibliothek Mainz : Hs II 102</mods:shelfLocator>
                </mods:location>
                <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=#bezlit[0].8330</mods:url>
-               </mods:location>
-               <mods:location>
                   <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=HSP-b313200a-4bab-30c7-bf26-cc509dbf7e3c</mods:url>
                </mods:location>
                <mods:name type="personal"
@@ -14635,9 +13999,6 @@
                   <mods:shelfLocator>Wissenschaftliche Stadtbibliothek Mainz : Hs II 105</mods:shelfLocator>
                </mods:location>
                <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=#bezlit[0].8330</mods:url>
-               </mods:location>
-               <mods:location>
                   <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=HSP-61d9b76e-2463-3051-8141-24faf681ebb6</mods:url>
                </mods:location>
                <mods:originInfo>
@@ -14692,9 +14053,6 @@
                   <mods:physicalLocation authorityURI="http://d-nb.info/gnd/"
                                          valueURI="http://d-nb.info/gnd/10132049-8">Wissenschaftliche Stadtbibliothek Mainz</mods:physicalLocation>
                   <mods:shelfLocator>Wissenschaftliche Stadtbibliothek Mainz : Hs II 106</mods:shelfLocator>
-               </mods:location>
-               <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=#bezlit[0].8330</mods:url>
                </mods:location>
                <mods:location>
                   <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=HSP-5649e69d-2b1a-3b3a-b839-7f81b373667d</mods:url>
@@ -14780,9 +14138,6 @@
                   <mods:physicalLocation authorityURI="http://d-nb.info/gnd/"
                                          valueURI="http://d-nb.info/gnd/10132049-8">Wissenschaftliche Stadtbibliothek Mainz</mods:physicalLocation>
                   <mods:shelfLocator>Wissenschaftliche Stadtbibliothek Mainz : Hs II 107</mods:shelfLocator>
-               </mods:location>
-               <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=#bezlit[0].8330</mods:url>
                </mods:location>
                <mods:location>
                   <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=HSP-f673c56f-9ec4-35e6-aa5a-d74bdbef76f7</mods:url>
@@ -14925,13 +14280,7 @@
                   <mods:shelfLocator>Wissenschaftliche Stadtbibliothek Mainz : Hs II 109</mods:shelfLocator>
                </mods:location>
                <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=#bezlit[0].8330</mods:url>
-               </mods:location>
-               <mods:location>
                   <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=HSP-3e867396-5541-32f1-8a65-bcba2559f5e0</mods:url>
-               </mods:location>
-               <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=http://archiv.ub.uni-heidelberg.de/artdok/volltexte/2021/7478</mods:url>
                </mods:location>
                <mods:name type="personal"
                           authorityURI="http://d-nb.info/gnd/"
@@ -14992,9 +14341,6 @@
                   <mods:physicalLocation authorityURI="http://d-nb.info/gnd/"
                                          valueURI="http://d-nb.info/gnd/10132049-8">Wissenschaftliche Stadtbibliothek Mainz</mods:physicalLocation>
                   <mods:shelfLocator>Wissenschaftliche Stadtbibliothek Mainz : Hs II 110</mods:shelfLocator>
-               </mods:location>
-               <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=#bezlit[0].8330</mods:url>
                </mods:location>
                <mods:location>
                   <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=HSP-31218552-50af-3e99-b375-9ccf1491daba</mods:url>
@@ -15066,9 +14412,6 @@
                   <mods:shelfLocator>Wissenschaftliche Stadtbibliothek Mainz : Hs II 111</mods:shelfLocator>
                </mods:location>
                <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=#bezlit[0].8330</mods:url>
-               </mods:location>
-               <mods:location>
                   <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=HSP-bbdbd218-0d45-39b3-8f9d-03ba40bcdd56</mods:url>
                </mods:location>
                <mods:name type="personal"
@@ -15128,12 +14471,6 @@
                   <mods:physicalLocation authorityURI="http://d-nb.info/gnd/"
                                          valueURI="http://d-nb.info/gnd/10132049-8">Wissenschaftliche Stadtbibliothek Mainz</mods:physicalLocation>
                   <mods:shelfLocator>Wissenschaftliche Stadtbibliothek Mainz : Hs II 112</mods:shelfLocator>
-               </mods:location>
-               <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=#bezlit[0].8330</mods:url>
-               </mods:location>
-               <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=#bezlit[1].8330</mods:url>
                </mods:location>
                <mods:location>
                   <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=HSP-76b4e180-7b6f-30f0-bea2-0e290d91020a</mods:url>
@@ -15222,12 +14559,6 @@
                   <mods:physicalLocation authorityURI="http://d-nb.info/gnd/"
                                          valueURI="http://d-nb.info/gnd/10132049-8">Wissenschaftliche Stadtbibliothek Mainz</mods:physicalLocation>
                   <mods:shelfLocator>Wissenschaftliche Stadtbibliothek Mainz : Hs II 113</mods:shelfLocator>
-               </mods:location>
-               <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=#bezlit[0].8330</mods:url>
-               </mods:location>
-               <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=#bezlit[1].8330</mods:url>
                </mods:location>
                <mods:location>
                   <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=HSP-777e4a73-7870-3d72-ad68-9f88d564f2ac</mods:url>
@@ -15491,12 +14822,6 @@
                   <mods:shelfLocator>Wissenschaftliche Stadtbibliothek Mainz : Hs II 122</mods:shelfLocator>
                </mods:location>
                <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=#bezlit[0].8330</mods:url>
-               </mods:location>
-               <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=#bezlit[1].8330</mods:url>
-               </mods:location>
-               <mods:location>
                   <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=HSP-9e93b228-afed-3929-a3c3-a27c4582b149</mods:url>
                </mods:location>
                <mods:name type="personal"
@@ -15710,9 +15035,6 @@
                   <mods:shelfLocator>Wissenschaftliche Stadtbibliothek Mainz : Hs II 123</mods:shelfLocator>
                </mods:location>
                <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=#bezlit[0].8330</mods:url>
-               </mods:location>
-               <mods:location>
                   <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=HSP-53ed8888-2a82-3a06-8134-dd803e60461a</mods:url>
                </mods:location>
                <mods:originInfo>
@@ -15765,9 +15087,6 @@
                   <mods:physicalLocation authorityURI="http://d-nb.info/gnd/"
                                          valueURI="http://d-nb.info/gnd/10132049-8">Wissenschaftliche Stadtbibliothek Mainz</mods:physicalLocation>
                   <mods:shelfLocator>Wissenschaftliche Stadtbibliothek Mainz : Hs II 129</mods:shelfLocator>
-               </mods:location>
-               <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=#bezlit[0].8330</mods:url>
                </mods:location>
                <mods:location>
                   <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=HSP-ebb83a96-14ab-3b22-9316-c5d9a7825b5c</mods:url>
@@ -15824,13 +15143,7 @@
                   <mods:shelfLocator>Wissenschaftliche Stadtbibliothek Mainz : Hs II 136</mods:shelfLocator>
                </mods:location>
                <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=#bezlit[0].8330</mods:url>
-               </mods:location>
-               <mods:location>
                   <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=HSP-5bae3748-d8ca-3cb3-8701-a8ba8d13b41f</mods:url>
-               </mods:location>
-               <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=http://ubm.opus.hbz-nrw.de/volltexte/2011/2828/</mods:url>
                </mods:location>
                <mods:originInfo>
                   <mods:dateIssued>1453–1459</mods:dateIssued>
@@ -15884,16 +15197,7 @@
                   <mods:shelfLocator>Wissenschaftliche Stadtbibliothek Mainz : Hs II 149</mods:shelfLocator>
                </mods:location>
                <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=#bezlit[0].8330</mods:url>
-               </mods:location>
-               <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=#bezlit[1].8330</mods:url>
-               </mods:location>
-               <mods:location>
                   <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=HSP-8ecb7ad3-4c02-30b5-8015-82b37a3d92cc</mods:url>
-               </mods:location>
-               <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=http://manuscripts.rg.mpg.de/manuscript/5006/</mods:url>
                </mods:location>
                <mods:name type="personal"
                           authorityURI="http://d-nb.info/gnd/"
@@ -15964,9 +15268,6 @@
                </mods:location>
                <mods:location>
                   <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=HSP-921cc314-19b9-3906-8ed0-dd7ebe0913d7</mods:url>
-               </mods:location>
-               <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=http://manuscripts.rg.mpg.de/manuscript/5007/</mods:url>
                </mods:location>
                <mods:name type="personal"
                           authorityURI="http://d-nb.info/gnd/"
@@ -16214,9 +15515,6 @@
                   <mods:shelfLocator>Wissenschaftliche Stadtbibliothek Mainz : Hs II 154</mods:shelfLocator>
                </mods:location>
                <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=#bezlit[0].8330</mods:url>
-               </mods:location>
-               <mods:location>
                   <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=HSP-271b0cf9-e665-3968-9614-9a169c76f7bf</mods:url>
                </mods:location>
                <mods:name type="personal"
@@ -16306,9 +15604,6 @@
                   <mods:physicalLocation authorityURI="http://d-nb.info/gnd/"
                                          valueURI="http://d-nb.info/gnd/10132049-8">Wissenschaftliche Stadtbibliothek Mainz</mods:physicalLocation>
                   <mods:shelfLocator>Wissenschaftliche Stadtbibliothek Mainz : Hs II 156</mods:shelfLocator>
-               </mods:location>
-               <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=#bezlit[0].8330</mods:url>
                </mods:location>
                <mods:location>
                   <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=HSP-cd12b11e-d69f-3c01-82bd-d86805aa412e</mods:url>
@@ -16497,9 +15792,6 @@
                   <mods:shelfLocator>Wissenschaftliche Stadtbibliothek Mainz : Hs II 159</mods:shelfLocator>
                </mods:location>
                <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=#bezlit[0].8330</mods:url>
-               </mods:location>
-               <mods:location>
                   <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=HSP-c9d58752-623e-399f-bee5-83153e807636</mods:url>
                </mods:location>
                <mods:name type="personal" authorityURI="http://d-nb.info/gnd/" valueURI="">
@@ -16574,15 +15866,6 @@
                   <mods:physicalLocation authorityURI="http://d-nb.info/gnd/"
                                          valueURI="http://d-nb.info/gnd/10132049-8">Wissenschaftliche Stadtbibliothek Mainz</mods:physicalLocation>
                   <mods:shelfLocator>Wissenschaftliche Stadtbibliothek Mainz : Hs II 160</mods:shelfLocator>
-               </mods:location>
-               <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=#bezlit[0].8330</mods:url>
-               </mods:location>
-               <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=#bezlit[1].8330</mods:url>
-               </mods:location>
-               <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=#bezlit[2].8330</mods:url>
                </mods:location>
                <mods:location>
                   <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=HSP-f7f761f6-5eba-3e24-a6c6-8d89b106b034</mods:url>
@@ -16756,9 +16039,6 @@
                   <mods:shelfLocator>Wissenschaftliche Stadtbibliothek Mainz : Hs II 163</mods:shelfLocator>
                </mods:location>
                <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=#bezlit[0].8330</mods:url>
-               </mods:location>
-               <mods:location>
                   <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=HSP-077590a3-5ccb-32c5-b37b-a96a78a5afd1</mods:url>
                </mods:location>
                <mods:originInfo>
@@ -16808,9 +16088,6 @@
                   <mods:physicalLocation authorityURI="http://d-nb.info/gnd/"
                                          valueURI="http://d-nb.info/gnd/10132049-8">Wissenschaftliche Stadtbibliothek Mainz</mods:physicalLocation>
                   <mods:shelfLocator>Wissenschaftliche Stadtbibliothek Mainz : Hs II 165</mods:shelfLocator>
-               </mods:location>
-               <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=#bezlit[0].8330</mods:url>
                </mods:location>
                <mods:location>
                   <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=HSP-0e94d74f-4455-379c-9070-bb2d1f873509</mods:url>
@@ -17065,9 +16342,6 @@
                   <mods:shelfLocator>Wissenschaftliche Stadtbibliothek Mainz : Hs II 169</mods:shelfLocator>
                </mods:location>
                <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=#bezlit[0].8330</mods:url>
-               </mods:location>
-               <mods:location>
                   <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=HSP-fb283684-fc47-36e5-86f6-5155c6ec17b4</mods:url>
                </mods:location>
                <mods:name type="personal"
@@ -17300,9 +16574,6 @@
                   <mods:physicalLocation authorityURI="http://d-nb.info/gnd/"
                                          valueURI="http://d-nb.info/gnd/10132049-8">Wissenschaftliche Stadtbibliothek Mainz</mods:physicalLocation>
                   <mods:shelfLocator>Wissenschaftliche Stadtbibliothek Mainz : Hs II 171</mods:shelfLocator>
-               </mods:location>
-               <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=#bezlit[0].8330</mods:url>
                </mods:location>
                <mods:location>
                   <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=HSP-f862b17a-3490-37dc-9fac-3a6342ed6383</mods:url>
@@ -17539,9 +16810,6 @@
                   <mods:physicalLocation authorityURI="http://d-nb.info/gnd/"
                                          valueURI="http://d-nb.info/gnd/10132049-8">Wissenschaftliche Stadtbibliothek Mainz</mods:physicalLocation>
                   <mods:shelfLocator>Wissenschaftliche Stadtbibliothek Mainz : Hs II 172</mods:shelfLocator>
-               </mods:location>
-               <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=#bezlit[0].8330</mods:url>
                </mods:location>
                <mods:location>
                   <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=HSP-aff2b4c1-35fe-3b1b-b79f-d9cea1ae3e82</mods:url>
@@ -17784,9 +17052,6 @@
                   <mods:shelfLocator>Wissenschaftliche Stadtbibliothek Mainz : Hs II 173</mods:shelfLocator>
                </mods:location>
                <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=#bezlit[0].8330</mods:url>
-               </mods:location>
-               <mods:location>
                   <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=HSP-dff9abee-fdbf-34ee-8731-7815f2ba86fd</mods:url>
                </mods:location>
                <mods:name type="personal"
@@ -17849,9 +17114,6 @@
                   <mods:physicalLocation authorityURI="http://d-nb.info/gnd/"
                                          valueURI="http://d-nb.info/gnd/10132049-8">Wissenschaftliche Stadtbibliothek Mainz</mods:physicalLocation>
                   <mods:shelfLocator>Wissenschaftliche Stadtbibliothek Mainz : Hs II 178</mods:shelfLocator>
-               </mods:location>
-               <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=#bezlit[0].8330</mods:url>
                </mods:location>
                <mods:location>
                   <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=HSP-ba60ef79-ed0c-3d9b-a75b-6421fd2da06d</mods:url>
@@ -17944,9 +17206,6 @@
                   <mods:shelfLocator>Wissenschaftliche Stadtbibliothek Mainz : Hs II 182</mods:shelfLocator>
                </mods:location>
                <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=#bezlit[0].8330</mods:url>
-               </mods:location>
-               <mods:location>
                   <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=HSP-3a6ad66d-9654-3ad8-86d8-5191249da317</mods:url>
                </mods:location>
                <mods:originInfo>
@@ -17999,9 +17258,6 @@
                   <mods:physicalLocation authorityURI="http://d-nb.info/gnd/"
                                          valueURI="http://d-nb.info/gnd/10132049-8">Wissenschaftliche Stadtbibliothek Mainz</mods:physicalLocation>
                   <mods:shelfLocator>Wissenschaftliche Stadtbibliothek Mainz : Hs II 186</mods:shelfLocator>
-               </mods:location>
-               <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=#bezlit[0].8330</mods:url>
                </mods:location>
                <mods:location>
                   <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=HSP-9ff6f986-8165-3853-9f16-b07e9c704c6f</mods:url>
@@ -18059,9 +17315,6 @@
                   <mods:physicalLocation authorityURI="http://d-nb.info/gnd/"
                                          valueURI="http://d-nb.info/gnd/10132049-8">Wissenschaftliche Stadtbibliothek Mainz</mods:physicalLocation>
                   <mods:shelfLocator>Wissenschaftliche Stadtbibliothek Mainz : Hs II 190</mods:shelfLocator>
-               </mods:location>
-               <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=#bezlit[0].8330</mods:url>
                </mods:location>
                <mods:location>
                   <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=HSP-754ba03c-b3f5-3b7a-ad87-8edc6a09a39f</mods:url>
@@ -18127,9 +17380,6 @@
                   <mods:physicalLocation authorityURI="http://d-nb.info/gnd/"
                                          valueURI="http://d-nb.info/gnd/10132049-8">Wissenschaftliche Stadtbibliothek Mainz</mods:physicalLocation>
                   <mods:shelfLocator>Wissenschaftliche Stadtbibliothek Mainz : Hs II 194</mods:shelfLocator>
-               </mods:location>
-               <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=#bezlit[0].8330</mods:url>
                </mods:location>
                <mods:location>
                   <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=HSP-f1cef10d-c1d5-33c2-bd61-f9f61c3d6148</mods:url>
@@ -18307,9 +17557,6 @@
                   <mods:shelfLocator>Wissenschaftliche Stadtbibliothek Mainz : Hs II 195</mods:shelfLocator>
                </mods:location>
                <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=#bezlit[0].8330</mods:url>
-               </mods:location>
-               <mods:location>
                   <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=HSP-109eb908-2cf3-34d3-9bea-1d77b27a9361</mods:url>
                </mods:location>
                <mods:name type="personal"
@@ -18392,9 +17639,6 @@
                   <mods:shelfLocator>Wissenschaftliche Stadtbibliothek Mainz : Hs II 196</mods:shelfLocator>
                </mods:location>
                <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=#bezlit[0].8330</mods:url>
-               </mods:location>
-               <mods:location>
                   <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=HSP-6b06767a-ef52-39fc-9022-a70870150c68</mods:url>
                </mods:location>
                <mods:name type="personal"
@@ -18464,13 +17708,7 @@
                   <mods:shelfLocator>Wissenschaftliche Stadtbibliothek Mainz : Hs II 197</mods:shelfLocator>
                </mods:location>
                <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=#bezlit[0].8330</mods:url>
-               </mods:location>
-               <mods:location>
                   <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=HSP-1aa55699-f6fe-3cd7-8325-ae963aa85a64</mods:url>
-               </mods:location>
-               <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=http://manuscripts.rg.mpg.de/manuscript/5008/</mods:url>
                </mods:location>
                <mods:name type="personal"
                           authorityURI="http://d-nb.info/gnd/"
@@ -18592,13 +17830,7 @@
                   <mods:shelfLocator>Wissenschaftliche Stadtbibliothek Mainz : Hs II 199</mods:shelfLocator>
                </mods:location>
                <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=#bezlit[0].8330</mods:url>
-               </mods:location>
-               <mods:location>
                   <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=HSP-b8e9467e-5a26-38e9-9117-9610157ac182</mods:url>
-               </mods:location>
-               <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=http://manuscripts.rg.mpg.de/manuscript/5009/</mods:url>
                </mods:location>
                <mods:name type="personal"
                           authorityURI="http://d-nb.info/gnd/"
@@ -18764,9 +17996,6 @@
                   <mods:shelfLocator>Wissenschaftliche Stadtbibliothek Mainz : Hs II 205</mods:shelfLocator>
                </mods:location>
                <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=#bezlit[0].8330</mods:url>
-               </mods:location>
-               <mods:location>
                   <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=HSP-d92e1517-6e53-3713-9b45-73abe13f3dbe</mods:url>
                </mods:location>
                <mods:name type="personal"
@@ -18836,12 +18065,6 @@
                   <mods:shelfLocator>Wissenschaftliche Stadtbibliothek Mainz : Hs II 210</mods:shelfLocator>
                </mods:location>
                <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=#bezlit[1].8330</mods:url>
-               </mods:location>
-               <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=#bezlit[2].8330</mods:url>
-               </mods:location>
-               <mods:location>
                   <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=HSP-bb81d1f8-feb3-3e58-b670-fed9cb9a506f</mods:url>
                </mods:location>
                <mods:name type="personal"
@@ -18901,9 +18124,6 @@
                   <mods:physicalLocation authorityURI="http://d-nb.info/gnd/"
                                          valueURI="http://d-nb.info/gnd/10132049-8">Wissenschaftliche Stadtbibliothek Mainz</mods:physicalLocation>
                   <mods:shelfLocator>Wissenschaftliche Stadtbibliothek Mainz : Hs II 215</mods:shelfLocator>
-               </mods:location>
-               <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=#bezlit[1].8330</mods:url>
                </mods:location>
                <mods:location>
                   <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=HSP-c2dbbfec-3173-3a1b-8f9a-5ffd66200182</mods:url>
@@ -19024,9 +18244,6 @@
                </mods:location>
                <mods:location>
                   <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=HSP-3b5a3a9a-9cde-3af1-b9d5-bac8a176633c</mods:url>
-               </mods:location>
-               <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=https://mirabileweb.it/manuscript/mainz-wissenschaftliche-stadtbibliothek-ii-218-manuscript/170180</mods:url>
                </mods:location>
                <mods:name type="personal"
                           authorityURI="http://d-nb.info/gnd/"
@@ -19189,9 +18406,6 @@
                   <mods:physicalLocation authorityURI="http://d-nb.info/gnd/"
                                          valueURI="http://d-nb.info/gnd/10132049-8">Wissenschaftliche Stadtbibliothek Mainz</mods:physicalLocation>
                   <mods:shelfLocator>Wissenschaftliche Stadtbibliothek Mainz : Hs II 219</mods:shelfLocator>
-               </mods:location>
-               <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=#bezlit[0].8330</mods:url>
                </mods:location>
                <mods:location>
                   <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=HSP-fb7595b6-f855-3d2c-aa88-7deca891761f</mods:url>
@@ -19639,19 +18853,7 @@
                   <mods:shelfLocator>Wissenschaftliche Stadtbibliothek Mainz : Hs II 247</mods:shelfLocator>
                </mods:location>
                <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=#bezlit[0].8330</mods:url>
-               </mods:location>
-               <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=#bezlit[1].8330</mods:url>
-               </mods:location>
-               <mods:location>
                   <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=HSP-ef3af5d3-1300-35d0-9393-1cd662e3b3d8</mods:url>
-               </mods:location>
-               <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=http://ubm.opus.hbz-nrw.de/volltexte/2011/2828/</mods:url>
-               </mods:location>
-               <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=https://www.hymnologyarchive.com/salve-mundi-salutare</mods:url>
                </mods:location>
                <mods:name type="personal"
                           authorityURI="http://d-nb.info/gnd/"
@@ -19709,9 +18911,6 @@
                   <mods:physicalLocation authorityURI="http://d-nb.info/gnd/"
                                          valueURI="http://d-nb.info/gnd/10132049-8">Wissenschaftliche Stadtbibliothek Mainz</mods:physicalLocation>
                   <mods:shelfLocator>Wissenschaftliche Stadtbibliothek Mainz : Hs II 248</mods:shelfLocator>
-               </mods:location>
-               <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=#bezlit[0].8330</mods:url>
                </mods:location>
                <mods:location>
                   <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=HSP-e4710fb1-578c-3aec-80f8-de647499fd9e</mods:url>
@@ -19855,9 +19054,6 @@
                   <mods:shelfLocator>Wissenschaftliche Stadtbibliothek Mainz : Hs II 250</mods:shelfLocator>
                </mods:location>
                <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=#bezlit[0].8330</mods:url>
-               </mods:location>
-               <mods:location>
                   <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=HSP-3cde466b-e054-3ca5-8089-b9ffe3fb1b39</mods:url>
                </mods:location>
                <mods:name type="personal"
@@ -19933,12 +19129,6 @@
                   <mods:physicalLocation authorityURI="http://d-nb.info/gnd/"
                                          valueURI="http://d-nb.info/gnd/10132049-8">Wissenschaftliche Stadtbibliothek Mainz</mods:physicalLocation>
                   <mods:shelfLocator>Wissenschaftliche Stadtbibliothek Mainz : Hs II 251</mods:shelfLocator>
-               </mods:location>
-               <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=#bezlit[0].8330</mods:url>
-               </mods:location>
-               <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=#bezlit[1].8330</mods:url>
                </mods:location>
                <mods:location>
                   <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=HSP-b5dc9763-6809-3323-adb7-dfb170de45bf</mods:url>
@@ -20047,12 +19237,6 @@
                   <mods:shelfLocator>Wissenschaftliche Stadtbibliothek Mainz : Hs II 253</mods:shelfLocator>
                </mods:location>
                <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=#bezlit[0].8330</mods:url>
-               </mods:location>
-               <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=#bezlit[1].8330</mods:url>
-               </mods:location>
-               <mods:location>
                   <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=HSP-1e77f95a-342b-3d83-b81f-303536ec8751</mods:url>
                </mods:location>
                <mods:name type="personal"
@@ -20120,9 +19304,6 @@
                   <mods:physicalLocation authorityURI="http://d-nb.info/gnd/"
                                          valueURI="http://d-nb.info/gnd/10132049-8">Wissenschaftliche Stadtbibliothek Mainz</mods:physicalLocation>
                   <mods:shelfLocator>Wissenschaftliche Stadtbibliothek Mainz : Hs II 254</mods:shelfLocator>
-               </mods:location>
-               <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=#bezlit[0].8330</mods:url>
                </mods:location>
                <mods:location>
                   <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=HSP-6484f2a2-f6be-3912-9833-b57c0ad5f6ed</mods:url>
@@ -20388,13 +19569,7 @@
                   <mods:shelfLocator>Wissenschaftliche Stadtbibliothek Mainz : Hs II 261</mods:shelfLocator>
                </mods:location>
                <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=#bezlit[0].8330</mods:url>
-               </mods:location>
-               <mods:location>
                   <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=HSP-da70a85f-7be5-346a-826f-af32f9e5c564</mods:url>
-               </mods:location>
-               <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=https://handschriftencensus.de/21645</mods:url>
                </mods:location>
                <mods:name type="personal"
                           authorityURI="http://d-nb.info/gnd/"
@@ -20602,9 +19777,6 @@
                   <mods:physicalLocation authorityURI="http://d-nb.info/gnd/"
                                          valueURI="http://d-nb.info/gnd/10132049-8">Wissenschaftliche Stadtbibliothek Mainz</mods:physicalLocation>
                   <mods:shelfLocator>Wissenschaftliche Stadtbibliothek Mainz : Hs II 265</mods:shelfLocator>
-               </mods:location>
-               <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=#bezlit[0].8330</mods:url>
                </mods:location>
                <mods:location>
                   <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=HSP-93cc4496-30d3-36f0-9f51-878f061878b4</mods:url>
@@ -20870,9 +20042,6 @@
                <mods:location>
                   <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=HSP-189eea75-9a04-368f-8883-e0edccad4036</mods:url>
                </mods:location>
-               <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=https://handschriftencensus.de/20932</mods:url>
-               </mods:location>
                <mods:name type="personal"
                           authorityURI="http://d-nb.info/gnd/"
                           valueURI="https://d-nb.info/gnd/118709879">
@@ -20952,9 +20121,6 @@
                   <mods:physicalLocation authorityURI="http://d-nb.info/gnd/"
                                          valueURI="http://d-nb.info/gnd/10132049-8">Wissenschaftliche Stadtbibliothek Mainz</mods:physicalLocation>
                   <mods:shelfLocator>Wissenschaftliche Stadtbibliothek Mainz : Hs II 285</mods:shelfLocator>
-               </mods:location>
-               <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=#bezlit[0].8330</mods:url>
                </mods:location>
                <mods:location>
                   <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=HSP-3e6e8486-4dbf-3785-89da-e7510e78944b</mods:url>
@@ -21163,9 +20329,6 @@
                   <mods:shelfLocator>Wissenschaftliche Stadtbibliothek Mainz : Hs II 288</mods:shelfLocator>
                </mods:location>
                <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=#bezlit[0].8330</mods:url>
-               </mods:location>
-               <mods:location>
                   <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=HSP-671430f0-437a-37f7-bec7-5131cf20a4cf</mods:url>
                </mods:location>
                <mods:name type="personal"
@@ -21235,9 +20398,6 @@
                   <mods:physicalLocation authorityURI="http://d-nb.info/gnd/"
                                          valueURI="http://d-nb.info/gnd/10132049-8">Wissenschaftliche Stadtbibliothek Mainz</mods:physicalLocation>
                   <mods:shelfLocator>Wissenschaftliche Stadtbibliothek Mainz : Hs II 295</mods:shelfLocator>
-               </mods:location>
-               <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=#bezlit[0].8330</mods:url>
                </mods:location>
                <mods:location>
                   <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=HSP-5b8fa323-1f3b-3fd1-9eb5-120034119d58</mods:url>
@@ -21336,9 +20496,6 @@
                   <mods:physicalLocation authorityURI="http://d-nb.info/gnd/"
                                          valueURI="http://d-nb.info/gnd/10132049-8">Wissenschaftliche Stadtbibliothek Mainz</mods:physicalLocation>
                   <mods:shelfLocator>Wissenschaftliche Stadtbibliothek Mainz : Hs II 299</mods:shelfLocator>
-               </mods:location>
-               <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=#bezlit[0].8330</mods:url>
                </mods:location>
                <mods:location>
                   <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=HSP-71bbd853-b869-3160-afed-80070ba11db4</mods:url>
@@ -21516,12 +20673,6 @@
                   <mods:shelfLocator>Wissenschaftliche Stadtbibliothek Mainz : Hs II 315</mods:shelfLocator>
                </mods:location>
                <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=#bezlit[0].8330</mods:url>
-               </mods:location>
-               <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=#bezlit[1].8330</mods:url>
-               </mods:location>
-               <mods:location>
                   <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=HSP-8648ae2a-ab18-3b9f-86ca-ae5310bbefad</mods:url>
                </mods:location>
                <mods:name type="personal"
@@ -21604,9 +20755,6 @@
                   <mods:shelfLocator>Wissenschaftliche Stadtbibliothek Mainz : Hs II 316</mods:shelfLocator>
                </mods:location>
                <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=#bezlit[0].8330</mods:url>
-               </mods:location>
-               <mods:location>
                   <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=HSP-ed3c2e06-e42d-3e6e-ad39-fadcb73b228e</mods:url>
                </mods:location>
                <mods:name type="personal"
@@ -21679,9 +20827,6 @@
                   <mods:physicalLocation authorityURI="http://d-nb.info/gnd/"
                                          valueURI="http://d-nb.info/gnd/10132049-8">Wissenschaftliche Stadtbibliothek Mainz</mods:physicalLocation>
                   <mods:shelfLocator>Wissenschaftliche Stadtbibliothek Mainz : Hs II 318</mods:shelfLocator>
-               </mods:location>
-               <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=#bezlit[0].8330</mods:url>
                </mods:location>
                <mods:location>
                   <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=HSP-36417d7a-062c-3206-8cc9-282c41caf65d</mods:url>
@@ -21933,9 +21078,6 @@
                   <mods:shelfLocator>Wissenschaftliche Stadtbibliothek Mainz : Hs II 320</mods:shelfLocator>
                </mods:location>
                <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=#bezlit[0].8330</mods:url>
-               </mods:location>
-               <mods:location>
                   <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=HSP-b825dc75-3db2-39a7-ae6b-5dfbde574027</mods:url>
                </mods:location>
                <mods:name type="personal"
@@ -22135,9 +21277,6 @@
                   <mods:shelfLocator>Wissenschaftliche Stadtbibliothek Mainz : Hs II 330</mods:shelfLocator>
                </mods:location>
                <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=#bezlit[0].8330</mods:url>
-               </mods:location>
-               <mods:location>
                   <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=HSP-c5109d41-75a5-3d80-93ff-af5312b4bd25</mods:url>
                </mods:location>
                <mods:name type="personal"
@@ -22241,9 +21380,6 @@
                   <mods:physicalLocation authorityURI="http://d-nb.info/gnd/"
                                          valueURI="http://d-nb.info/gnd/10132049-8">Wissenschaftliche Stadtbibliothek Mainz</mods:physicalLocation>
                   <mods:shelfLocator>Wissenschaftliche Stadtbibliothek Mainz : Hs II 342</mods:shelfLocator>
-               </mods:location>
-               <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=#bezlit[0].8330</mods:url>
                </mods:location>
                <mods:location>
                   <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=HSP-34957cfa-a981-3d7c-ba1e-04e714ae0b3e</mods:url>
@@ -22596,9 +21732,6 @@
                <mods:location>
                   <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=HSP-4803074d-9f76-3421-b035-b29cd094e5e0</mods:url>
                </mods:location>
-               <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=https://handschriftencensus.de/23972</mods:url>
-               </mods:location>
                <mods:name type="personal"
                           authorityURI="http://d-nb.info/gnd/"
                           valueURI="https://d-nb.info/gnd/118656589">
@@ -22720,9 +21853,6 @@
                   <mods:shelfLocator>Wissenschaftliche Stadtbibliothek Mainz : Hs II 440</mods:shelfLocator>
                </mods:location>
                <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=#bezlit[0].8330</mods:url>
-               </mods:location>
-               <mods:location>
                   <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=HSP-aaf57e5a-701e-30e4-8607-4fc6a68ca44e</mods:url>
                </mods:location>
                <mods:name type="personal"
@@ -22781,9 +21911,6 @@
                   <mods:physicalLocation authorityURI="http://d-nb.info/gnd/"
                                          valueURI="http://d-nb.info/gnd/10132049-8">Wissenschaftliche Stadtbibliothek Mainz</mods:physicalLocation>
                   <mods:shelfLocator>Wissenschaftliche Stadtbibliothek Mainz : Hs II 480</mods:shelfLocator>
-               </mods:location>
-               <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=#bezlit[0].8330</mods:url>
                </mods:location>
                <mods:location>
                   <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=HSP-16388244-ddf1-3480-8878-5d07edc72f94</mods:url>
@@ -22849,13 +21976,7 @@
                   <mods:shelfLocator>Wissenschaftliche Stadtbibliothek Mainz : Hs III 1</mods:shelfLocator>
                </mods:location>
                <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=#bezlit[0].8330</mods:url>
-               </mods:location>
-               <mods:location>
                   <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=HSP-2ff835dc-02d0-30be-83a5-d506d308b809</mods:url>
-               </mods:location>
-               <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=http://manuscripts.rg.mpg.de/manuscript/5013/</mods:url>
                </mods:location>
                <mods:originInfo>
                   <mods:dateIssued>15. Jh., 2./3. Drittel</mods:dateIssued>
@@ -23624,12 +22745,6 @@
                </mods:location>
                <mods:location>
                   <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=HSP-587e2540-a2bc-346f-9a91-6c6a3d6e271c</mods:url>
-               </mods:location>
-               <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=http://www.dilibri.de/urn/urn:nbn:de:0128-3-3366</mods:url>
-               </mods:location>
-               <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=https://handschriftencensus.de/10853</mods:url>
                </mods:location>
                <mods:name type="personal"
                           authorityURI="http://d-nb.info/gnd/"
@@ -29485,12 +28600,6 @@
                <mods:location>
                   <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=HSP-83f8e4af-f331-3420-947b-5f72c5a4821c</mods:url>
                </mods:location>
-               <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=http://kups.ub.uni-koeln.de/volltexte/2005/1596/pdf/Dissjansen.pdf</mods:url>
-               </mods:location>
-               <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=http://www.handschriftencensus.de/10275</mods:url>
-               </mods:location>
                <mods:originInfo>
                   <mods:dateIssued/>
                   <mods:dateIssued encoding="w3cdtf" point="end"/>
@@ -29537,9 +28646,6 @@
                </mods:location>
                <mods:location>
                   <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=HSP-a1cdb197-bd51-333b-af9c-96ab7aafd662</mods:url>
-               </mods:location>
-               <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=http://www.handschriftencensus.de/24136</mods:url>
                </mods:location>
                <mods:name type="personal"
                           authorityURI="http://d-nb.info/gnd/"
@@ -29608,21 +28714,6 @@
                </mods:location>
                <mods:location>
                   <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=HSP-5e58f7b9-c31b-34f1-bbf0-422bb0ec8662</mods:url>
-               </mods:location>
-               <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=http://www.handschriftencensus.de</mods:url>
-               </mods:location>
-               <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=http://www.manuscripta-mediaevalia.de/dokumente/html/obj32321777</mods:url>
-               </mods:location>
-               <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=http://www.manuscripta-mediaevalia.de/hsk0620b.html</mods:url>
-               </mods:location>
-               <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=http://www.manuscripta-mediaevalia.de/hsk0620c.html</mods:url>
-               </mods:location>
-               <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=http://www.mr1314.de/10559</mods:url>
                </mods:location>
                <mods:name type="personal"
                           authorityURI="http://d-nb.info/gnd/"
@@ -32197,9 +31288,6 @@
                <mods:location>
                   <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=HSP-8820f516-4d5c-30dd-8af4-1c1ba1952d4b</mods:url>
                </mods:location>
-               <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=http://www.gutenberg-bibliothek.de/aa/</mods:url>
-               </mods:location>
                <mods:originInfo>
                   <mods:dateIssued>1472 (?)</mods:dateIssued>
                   <mods:dateIssued>15. Jh., Ende</mods:dateIssued>
@@ -32246,9 +31334,6 @@
                </mods:location>
                <mods:location>
                   <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=HSP-d8b7c2f4-39ff-3f19-9ab3-3998bfd96c84</mods:url>
-               </mods:location>
-               <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=http://www.gutenberg-bibliothek.de/aa/</mods:url>
                </mods:location>
                <mods:originInfo>
                   <mods:dateIssued>um 1487 (Fasz. I–II = Inkunabeln)</mods:dateIssued>
@@ -32302,9 +31387,6 @@
                <mods:location>
                   <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=HSP-3b83e3ee-0459-332a-8bce-2944a1614698</mods:url>
                </mods:location>
-               <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=http://www.gutenberg-bibliothek.de/aa/</mods:url>
-               </mods:location>
                <mods:originInfo>
                   <mods:dateIssued>15. Jh.</mods:dateIssued>
                   <mods:dateIssued encoding="w3cdtf" point="end">1500</mods:dateIssued>
@@ -32349,9 +31431,6 @@
                <mods:location>
                   <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=HSP-7feb296f-7ea3-3064-879d-18912f04f1e7</mods:url>
                </mods:location>
-               <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=http://www.gutenberg-bibliothek.de/aa/</mods:url>
-               </mods:location>
                <mods:originInfo>
                   <mods:dateIssued>15. Jh., Ende</mods:dateIssued>
                   <mods:dateIssued encoding="w3cdtf" point="end">1500</mods:dateIssued>
@@ -32395,9 +31474,6 @@
                </mods:location>
                <mods:location>
                   <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=HSP-a15bcece-8ccf-394e-8237-6977617abdbb</mods:url>
-               </mods:location>
-               <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=http://www.gutenberg-bibliothek.de/aa/</mods:url>
                </mods:location>
                <mods:originInfo>
                   <mods:dateIssued>um 1471 (Fasz. II = Hs.)</mods:dateIssued>
@@ -32455,9 +31531,6 @@
                </mods:location>
                <mods:location>
                   <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=HSP-b7245f2b-210b-30ce-b44a-c531797e17a9</mods:url>
-               </mods:location>
-               <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=http://www.gutenberg-bibliothek.de/aa/</mods:url>
                </mods:location>
                <mods:originInfo>
                   <mods:dateIssued>15. Jh., Ende</mods:dateIssued>
@@ -32652,9 +31725,6 @@
                <mods:location>
                   <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=HSP-39ffa808-66c3-32e0-a021-f4b8c1788b99</mods:url>
                </mods:location>
-               <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=http://www.gutenberg-bibliothek.de/aa/</mods:url>
-               </mods:location>
                <mods:originInfo>
                   <mods:dateIssued/>
                   <mods:dateIssued encoding="w3cdtf" point="end"/>
@@ -32698,9 +31768,6 @@
                </mods:location>
                <mods:location>
                   <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=HSP-a864a094-7172-340e-a298-1f5f5cd81d16</mods:url>
-               </mods:location>
-               <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=http://www.gutenberg-bibliothek.de/aa/resulta.php?indexvolltext=577</mods:url>
                </mods:location>
                <mods:originInfo>
                   <mods:dateIssued>circa 1480–1490</mods:dateIssued>
@@ -32816,9 +31883,6 @@
                <mods:location>
                   <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=HSP-c279bc33-b7ed-3146-be92-cea5526de803</mods:url>
                </mods:location>
-               <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=http://www.gutenberg-bibliothek.de/aa/</mods:url>
-               </mods:location>
                <mods:originInfo>
                   <mods:dateIssued>15. Jh., Ende (Fasz. I = Hs.)</mods:dateIssued>
                   <mods:dateIssued>1503 (Fasz. II = Dr.)</mods:dateIssued>
@@ -32874,9 +31938,6 @@
                </mods:location>
                <mods:location>
                   <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=HSP-15c5490c-ba39-3895-b502-78057f7b46b7</mods:url>
-               </mods:location>
-               <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=http://www.gutenberg-bibliothek.de/aa/</mods:url>
                </mods:location>
                <mods:originInfo>
                   <mods:dateIssued>1503 (Fasz. III = Hs.)</mods:dateIssued>
@@ -33396,9 +32457,6 @@
                <mods:location>
                   <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=HSP-8836d9dd-42ee-318f-8bc1-bdb7ded50a0d</mods:url>
                </mods:location>
-               <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=http://ubm.opus.hbz-nrw.de/volltexte/2011/2828/</mods:url>
-               </mods:location>
                <mods:originInfo>
                   <mods:dateIssued>1430</mods:dateIssued>
                   <mods:dateIssued encoding="w3cdtf" point="end">1430</mods:dateIssued>
@@ -33455,9 +32513,6 @@
                <mods:location>
                   <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=HSP-dc3d240c-257a-320e-9711-180ce4601f30</mods:url>
                </mods:location>
-               <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=http://ubm.opus.hbz-nrw.de/volltexte/2011/2828/</mods:url>
-               </mods:location>
                <mods:originInfo>
                   <mods:dateIssued>1432</mods:dateIssued>
                   <mods:dateIssued encoding="w3cdtf" point="end">1432</mods:dateIssued>
@@ -33511,9 +32566,6 @@
                <mods:location>
                   <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=HSP-af363149-dc34-32ed-978d-5140ce813cbe</mods:url>
                </mods:location>
-               <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=http://ubm.opus.hbz-nrw.de/volltexte/2011/2828/</mods:url>
-               </mods:location>
                <mods:originInfo>
                   <mods:dateIssued>circa 1433</mods:dateIssued>
                   <mods:dateIssued encoding="w3cdtf" point="end">1443</mods:dateIssued>
@@ -33566,9 +32618,6 @@
                </mods:location>
                <mods:location>
                   <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=HSP-9f461585-c5e2-3216-906e-be7a771c111d</mods:url>
-               </mods:location>
-               <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=http://ubm.opus.hbz-nrw.de/volltexte/2011/2828/</mods:url>
                </mods:location>
                <mods:originInfo>
                   <mods:dateIssued>circa 1435</mods:dateIssued>
@@ -33635,9 +32684,6 @@
                <mods:location>
                   <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=HSP-b34876a6-bba0-3673-a3a5-3823028f5b93</mods:url>
                </mods:location>
-               <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=http://ubm.opus.hbz-nrw.de/volltexte/2011/2828/</mods:url>
-               </mods:location>
                <mods:originInfo>
                   <mods:dateIssued>circa 1431</mods:dateIssued>
                   <mods:dateIssued encoding="w3cdtf" point="end">1441</mods:dateIssued>
@@ -33696,9 +32742,6 @@
                </mods:location>
                <mods:location>
                   <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=HSP-14544fda-fc3e-3298-a6bf-5e0ef12a5975</mods:url>
-               </mods:location>
-               <mods:location>
-                  <mods:url displayLabel="Beschreibung im Handschriftenportal">https://handschriftenportal.de/search?hspobjectid=http://ubm.opus.hbz-nrw.de/volltexte/2011/2828/</mods:url>
                </mods:location>
                <mods:originInfo>
                   <mods:dateIssued>15. Jh., 2. Viertel</mods:dateIssued>
